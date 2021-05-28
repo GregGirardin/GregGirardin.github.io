@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Set List Creator</title>
+<style>
+
+.css_librarySong
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  font-size: 10px;
+}
+
+.css_librarySong:hover { border: 2px solid black; }
+
+.css_setListSong
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  font-size: 10px;
+}
+
+.css_menuButton
+{
+  border: 2px solid white;
+  background-color: #ddf;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  font-size: 10px;
+}
+
+.css_menuButton:hover { border: 2px solid black; }
+
+.css_modeButton
+{
+  border: 2px solid white;
+  background-color: #bbf;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  font-size: 10px;
+}
+
+.css_modeButton:hover { border: 2px solid black; }
+
+.css_setClass
+{
+  border: 2px solid white;
+  background-color: #ccf;
+  color: #000;
+  padding: 2px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.css_Clipboard
+{
+  border: 1px solid black;
+  background-color: #fff;
+  color: #000;
+  padding: 2px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#setListName { font-size: 20px; }
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 80% 0, 100% 50%, 80% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0%, 80% 50%, 90% 100%, 0% 100% );
+}
+
+.css_s_highlight { color: #f00; }
+.css_highlight { background-color: #f00; }
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.css_setlist_pane
+{
+  align-items: left;
+  margin: 0;
+  padding: 0;
+  width: 49.5%;
+  background-color: #f1f1f1;
+  height: 50%;
+  overflow: auto;
+  border: 1px solid black;
+  float: left
+}
+
+.css_library_pane
+{
+  align-items: left;
+  margin: 0;
+  padding: 0;
+  width: 49.5%;
+  background-color: #f1f1f1;
+  border: 1px solid black;
+  float: right
+}
+
+.css_scratch_pane
+{
+  align-items: left;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+.css_library
+{
+  overflow: scroll;
+  height: 90vh;
+}
+
+.css_editSong
+{
+  padding: 10px;
+  font-size: 14px;
+  text-align: left;
+  background-color: #ddf;
+  border: 1px solid black;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+</style>
+</head>
+<body align="left">
+<section>
+<div id='setlistpane' class='css_setlist_pane'>
+<input type='file' class='css_menuButton' id='openSetAction' style='display:none'>
+<button class='css_menuButton' id='newSetButton'        onclick='newSetlist();'>New</button>
+<button class='css_menuButton' id='openSetButton'       onclick='openSetlist();'>Open</button>
+<button class='css_menuButton' id='saveSetButton'       onclick='saveSetlist();'>Save</button>
+
+<button class='css_modeButton' id='modeMedleyButton'    onclick='changeMode( MODE_MEDLEY );'>Medley</button>
+<button class='css_modeButton' id='modeHighlightButton' onclick='changeMode( MODE_HIGHLIGHT );'>Highlight</button>
+<button class='css_modeButton' id='clipboard'           onclick='changeMode( MODE_CLIPBOARD );'>Add To Clipboard</button>
+<button class='css_modeButton' id='Help'                onclick='toggleHelp();'>Help</button>
+<hr>
+<div id='setlist'> </div>
+<div id='multiuse'></div>
+</div>
+
+<div id='library_pane' class='css_library_pane'>
+<input type='file' class='css_menuButton' id='addLibraryAction' style='display:none'>
+<button class='css_menuButton' id='newLibraryButton'  onclick='newLibrary();'>New</button>
+<button class='css_menuButton' id='addLibraryButton'  onclick='addLibrary();'>Open+</button>
+<button class='css_menuButton' id='saveLibraryButton' onclick='saveLibrary();'>Save</button>
+<button class='css_menuButton' id='addLibSongButton'  onclick='changeMode( MODE_ADD_LIB );'>+</button>
+<button class='css_modeButton' id='modeEditButton'    onclick='changeMode( MODE_EDIT );'>Edit</button>
+<button class='css_modeButton' id='modeDelLibButton'  onclick='changeMode( MODE_DEL_LIB );'>Delete</button>
+<button class='css_modeButton' id='toggleLibViewMode' onclick='toggleLibViewMode( );'>Sort by</button>
+<hr>
+<div id='libraryDiv' class='css_library'> </div>
+</div>
+</section>
+
+<script>
+const lyricLibLoc = 'http://gbi.vinoski.net/lyricLibrary.json';
+var slEditedFlag = false;
+var libEditedFlag = false;
+var scratchPad = [];
+var songLibrary = {}; // object of LibrarySong
+var curSetList; // a SetList
+var editSong; // LibrarySong we're editing if MODE_EDIT
+
+// Constants.
+const MODE_NONE       = 0;
+const MODE_MEDLEY     = 1;
+const MODE_HIGHLIGHT  = 2;
+const MODE_CLIPBOARD  = 3;
+
+// Library modes.
+const MODE_EDIT       = 10;
+const MODE_DEL_LIB    = 11;
+const MODE_ADD_LIB    = 12;
+
+const VIEW_MODE_SONG_NAME   = 0;
+const VIEW_MODE_ARTIST_NAME = 1;
+const VIEW_MODE_KEY         = 2;
+
+var operationMode = MODE_NONE;
+
+//////////////////////////// //////////////////////////// ////////////////////////////
+class LibrarySong
+{
+  constructor( name="", artist="", key="", lyrics="" )
+  {
+    this.name = name;
+    this.artist = artist;
+    this.id = this.name + '.' + this.artist; // Unique key for Library. 
+    this.id = this.id.replace( / /g, "_" );  // replace with _
+    this.id = this.id.replace( /'/g, "_" ); 
+    this.lyrics = lyrics;
+    this.key = key
+  }
+}
+
+class SetListSong
+{
+  constructor( name, artist )
+  {
+    this.name = name; // name and artist are key to find in library
+    this.artist = artist;
+    this.id = this.name + '.' + this.artist;
+    this.id = this.id.replace( / /g, "_" );
+    this.id = this.id.replace( /'/g, "_" );
+    this.css_highlight = false;
+    this.medley = false;
+  }
+}
+
+class Set
+{
+  constructor( name )
+  {
+    if( !name )
+      name = "Set";
+    this.name = name;
+    this.songs = []; // SetListSong[]
+  }
+}
+
+class SetList
+{
+  constructor( name )
+  {
+    this.name = name;
+    this.sets = [];
+    this.sets.push( new Set() );
+    this.sets.push( new Set( "Clipboard") );
+  }
+}
+
+//////////////////////////// //////////////////////////// ////////////////////////////
+//////////////////////////// //////////////////////////// ////////////////////////////
+window.onload = setListInit;
+
+/////////////// /////////////// /////////////// ///////////////
+function setListInit()
+{
+  newSetlist();
+  getDefaultLibrary();
+  document.getElementById( 'openSetAction' ).addEventListener( 'change', openSetFile, false );
+  document.getElementById( 'addLibraryAction' ).addEventListener( 'change', addLibraryAction, false );
+}
+
+function sl_allowDrop( ev ) { ev.preventDefault(); }
+function dragElem( ev ) { ev.dataTransfer.setData( "dragElem", ev.target.id ); }
+
+/////////////// /////////////// /////////////// ///////////////
+// Handle a song being dropped onto a setlist file.
+// Songs can be dragged from within the setlist to move them or from the Library to add them.
+/////////////// /////////////// /////////////// ///////////////
+function dropElem( ev )
+{
+  ev.preventDefault();
+  var dragElem = ev.dataTransfer.getData( "dragElem" );
+
+  if( ( dragElem.substring( 0, 12 ) == "setListSong." ) &&
+      ( ev.target.id.substring( 0, 12 ) == "setListSong." ) ) // Moving a set list song
+  {
+    var indexes = dragElem.substring( 12, ).split( "." );
+    var fromSet = parseInt( indexes[ 0 ] );
+    var fromSongIx = parseInt( indexes[ 1 ] );
+
+    indexes = ev.target.id.substring( 12, ).split( "." );
+    var toSet = parseInt( indexes[ 0 ] );
+    var toSongIx = parseInt( indexes[ 1 ] );
+
+    if( fromSet == toSet ) // Moving within the same set
+    {
+      if( toSongIx < fromSongIx ) // Moved song up
+      {
+        curSetList.sets[ toSet ].songs.splice( toSongIx, 0, curSetList.sets[ fromSet ].songs[ fromSongIx ] );
+        curSetList.sets[ fromSet ].songs.splice( fromSongIx + 1, 1 );
+      }
+      else
+      {
+        curSetList.sets[ toSet ].songs.splice( toSongIx + 1, 0, curSetList.sets[ fromSet ].songs[ fromSongIx ] );
+        curSetList.sets[ fromSet ].songs.splice( fromSongIx, 1 );
+      }
+    }
+    else // Move between sets.
+    {
+      curSetList.sets[ toSet ].songs.splice( toSongIx, 0, curSetList.sets[ fromSet ].songs[ fromSongIx ] );
+      curSetList.sets[ fromSet ].songs.splice( fromSongIx, 1 );
+    }
+
+    slEditedFlag = true;
+  }
+  else if( ( dragElem.substring( 0, 8 ) == "libSong." ) &&
+           ( ev.target.id.substring( 0, 12 ) == "setListSong." ) ) // Dropping library song into set list.
+  {
+    var songId = dragElem.substring( 8, );
+    var libSong = songLibrary[ songId ];
+    var newSong = new SetListSong( libSong.name, libSong.artist );
+    var indexes = ev.target.id.substring( 12, ).split( "." );
+    var toSet = parseInt( indexes[ 0 ] );
+    var toSongIx = parseInt( indexes[ 1 ] );
+
+    curSetList.sets[ toSet ].songs.splice( toSongIx, 0, newSong );
+    slEditedFlag = true;
+  }
+  else if( ( dragElem.substring( 0, 11 ) == "setListSet." ) &&
+           ( ev.target.id.substring( 0, 11 ) == "setListSet." ) ) // Moving a set
+  {
+    var fromSet = parseInt( dragElem.substring( 11, ) );
+    var toSet = parseInt( ev.target.id.substring( 11, ) );
+
+    if( toSet < fromSet ) // moved set up
+    {
+      curSetList.sets.splice( toSet, 0, curSetList.sets[ fromSet ] );
+      curSetList.sets.splice( fromSet + 1, 1 );
+    }
+    else
+    {
+      curSetList.sets.splice( toSet + 1, 0, curSetList.sets[ fromSet ] );
+      curSetList.sets.splice( fromSet, 1 );
+    }
+
+    slEditedFlag = true;
+  }
+  else if( ev.target.id == "trashCan" )
+  {
+    if( dragElem.substring( 0, 12 ) == "setListSong." )
+    {
+      var indexes = dragElem.substring( 12, ).split( "." );
+      var delSet = parseInt( indexes[ 0 ] );
+      var delSong = parseInt( indexes[ 1 ] );
+
+      curSetList.sets[ delSet ].songs.splice( delSong, 1 );
+    }
+    else if( dragElem.substring( 0, 11 ) == "setListSet." )
+    {
+      var delSet = parseInt( dragElem.substring( 11, ) );
+      curSetList.sets.splice( delSet, 1 );
+    }
+
+    slEditedFlag = true;
+  }
+
+  generateSetlistHTML();
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function setSetlistName()
+{
+  var name = prompt( "Enter Setlist Name:", curSetList.name );
+  if( name )
+  {
+    curSetList.name = name;
+    slEditedFlag = true;
+    generateSetlistHTML();
+  }
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function setClick( setIndex, songIndex )
+{
+  var cs = curSetList.sets[ setIndex ].songs[ songIndex ]; // clicked song.
+  slEditedFlag = true;
+
+  if( operationMode == MODE_HIGHLIGHT )
+    cs.css_highlight = !cs.css_highlight;
+  else if( operationMode == MODE_MEDLEY )
+    cs.medley = !cs.medley;
+
+  generateSetlistHTML(); 
+}
+
+/////////////// /////////////// /////////////// ///////////////
+// Handle actions when a song in the library is clicked.
+// Library songs can be edited or deleted.
+/////////////// /////////////// /////////////// ///////////////
+function libSongClick( songId )
+{
+  if( operationMode == MODE_EDIT )
+  {
+    saveSongEdits();
+    editSong = songLibrary[ songId ];
+  }
+  else if( operationMode == MODE_DEL_LIB )
+  {
+    libEditedFlag = true;
+    delete( songLibrary[ songId ] );
+  }
+  else if( operationMode == MODE_CLIPBOARD )
+    curSetList.sets[ curSetList.sets.length - 1 ].songs.push( songLibrary[ songId ] );
+
+  generateSetlistHTML();
+  generateLibraryHTML();
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function newSetlist()
+{
+  if( slEditedFlag )
+    if( !window.confirm( "Unsaved Edits. Continue?" ) )
+      return;
+
+  slEditedFlag = false;
+  curSetList = new SetList( "Set List Name" );
+
+  generateSetlistHTML();
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function setRename( setIndex )
+{
+  var name = prompt( "Enter Set Name:", curSetList.sets[ setIndex ].name );
+  if( name )
+  {
+    curSetList.sets[ setIndex ].name = name;
+    var elem = document.getElementById( "setListSet." + setIndex );
+    elem.innerHTML = name;
+  }
+  slEditedFlag = false;
+  generateSetlistHTML();
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function setAdd()
+{
+  if( curSetList.sets.length < 10 )
+  {
+    curSetList.sets.splice( curSetList.sets.length - 1, 0, new Set() );
+    slEditedFlag = true;
+    generateSetlistHTML();
+  }
+  else
+    alert( "Max set count reached" );
+}
+
+/////////////// /////////////// /////////////// ///////////////
+var firstTimeSL = true;
+function generateSetlistHTML()
+{
+  var tempHtml = "<div id='setListName' onClick='setSetlistName()'>" + curSetList.name + "</div><br>";
+
+  for( var i = 0;i < curSetList.sets.length;i++ )
+  {
+    var s = curSetList.sets[ i ];
+    if( i == curSetList.sets.length - 1 )
+      tempHtml += "<br><button class='css_Clipboard'> Clipboard </button>\n";
+    else
+      tempHtml += "<button id='setListSet." + i + "' class='css_setClass' onclick='setRename( " + i + " )' draggable='true' " +
+                  "ondrop='dropElem( event )' ondragover='sl_allowDrop( event )' ondragstart='dragElem( event )'>" + s.name + "</button>\n";
+
+    var medleyState = false;
+
+    for( var j = 0;j < s.songs.length;j++ )
+    {
+      var classes = 'css_setListSong';
+      if( s.songs[ j ].css_highlight )
+        classes += ' css_s_highlight';
+      if( s.songs[ j ].medley && medleyState == false )
+        classes += ' css_medleyStart';
+      else if( s.songs[ j ].medley && medleyState == true ) 
+        classes += ' css_medleyCont'; 
+      else if( !s.songs[ j ].medley && medleyState == true ) 
+        classes += ' css_medleyEnd';
+      medleyState = s.songs[ j ].medley;
+
+      tempHtml += "<button id='setListSong." + i + "." + j + "' class='" + classes + "' onclick='setClick( " + i + ", " + j + " )'" +
+                  " draggable='true' ondrop='dropElem( event )' ondragover='sl_allowDrop( event )' ondragstart='dragElem( event )''>" +
+                  s.songs[ j ].name + "</button>\n";
+    }
+    if( firstTimeSL )
+      tempHtml += "<button id='setListSong." + i + "." + j + // a + for moving songs to the end of a set
+                  "' class='css_setListSong' onclick='setClick( " + i + ", " + j + " )'" +
+                  "  ondrop='dropElem( event )' ondragover='sl_allowDrop( event )' ondragstart='dragElem( event )'> Drop Songs Here </button>\n";
+    else
+      tempHtml += "<button id='setListSong." + i + "." + j + // a + for moving songs to the end of a set
+                  "' class='css_setListSong' onclick='setClick( " + i + ", " + j + " )'" +
+                  "  ondrop='dropElem( event )' ondragover='sl_allowDrop( event )' ondragstart='dragElem( event )'>&nbsp+&nbsp</button>\n";
+
+    if( s.songs.length )
+      tempHtml += "<font size='1'>" + s.songs.length + "</font>";
+    tempHtml += "<br>\n";
+  }
+
+  firstTimeSL = false;
+
+  tempHtml += "<br><button onclick='setAdd()'> Add Set </button>\n";
+  tempHtml += "<button id='trashCan' ondragover='sl_allowDrop( event )' ondrop='dropElem( event )'> Trash </button>\n"; // Trash can for deleting stuff.
+
+  document.getElementById( 'setlist' ).innerHTML = tempHtml;
+
+  if( slEditedFlag )
+    document.getElementById( 'saveSetButton' ).classList.add( 'css_highlight' );
+  else
+    document.getElementById( 'saveSetButton' ).classList.remove( 'css_highlight' );
+}
+
+function saveSongEdits()
+{
+  if( editSong )
+  {
+    delete( songLibrary[ editSong.id ] );
+
+    var name = document.getElementById( "editSongName" ).value; // strip HTML tags in the name and artist
+    name = name.replace(/(<([^>]+)>)/gi, "");
+    if( name == pruneQuote( editSong.name ) )
+      name = editSong.name; // name didn't really change. don't lose the apostrophes.
+    var artist = document.getElementById( "editSongArtist" ).value;
+    artist = artist.replace(/(<([^>]+)>)/gi, "" );
+    if( artist == pruneQuote( editSong.artist ) )
+      artist = editSong.artist; // name didn't really change. don't lose the apostrophes.
+    if( artist == "Artist" ) // We put this value in the field if it's empty
+      artist = "";           // but we don't actually want to use it.
+    var key = document.getElementById( "editSongKey" ).value;
+    key = key.replace(/(<([^>]+)>)/gi, "");
+    if( key == "Key" )
+      key = "";
+
+    // Allow html in the lyrics.
+    var editedSong = new LibrarySong( name, artist, key, document.getElementById( "editSongLyrics" ).innerHTML.replace( /<br>/, '\n' ) );
+    if( editedSong.id != "." ) // That's the default name when adding, don't add.
+    {
+      // Check for a change before setting libEditedFlag.
+      songLibrary[ editedSong.id ] = editedSong;
+      libEditedFlag = true;
+    }
+  }
+}
+
+///////////////////////// ///////////////////////// /////////////////////////
+///////////////////////// ///////////////////////// /////////////////////////
+function changeMode( mode )
+{
+  // We were editing a library file. Save the changes.
+  if( operationMode == MODE_EDIT && editSong )
+  {
+    saveSongEdits();
+    document.getElementById( 'multiuse' ).innerHTML = "";
+  }
+
+  editSong = undefined;
+  operationMode = ( mode == operationMode ) ? MODE_NONE : mode;
+
+  // Adding a song to the library. Create an empty one and change to MODE_EDIT
+  if( operationMode == MODE_ADD_LIB )
+  {
+    editSong = new LibrarySong();
+    operationMode = MODE_EDIT;
+  }
+
+  var buttons = document.getElementsByClassName( 'css_modeButton' );
+  for( i = 0;i < buttons.length;i++ )
+    buttons[ i ].classList.remove( 'css_highlight' );
+  buttons = document.getElementsByClassName( 'css_menuButton' );
+  for( i = 0;i < buttons.length;i++ )
+    buttons[ i ].classList.remove( 'css_highlight' );
+
+  if( operationMode != MODE_NONE )
+  {
+    var elem;
+    switch( operationMode )
+    {
+      case MODE_MEDLEY:     elem = document.getElementById( 'modeMedleyButton' );     break;
+      case MODE_HIGHLIGHT:  elem = document.getElementById( 'modeHighlightButton' );  break;
+      case MODE_EDIT:       elem = document.getElementById( 'modeEditButton' );       break;
+      case MODE_DEL_LIB:    elem = document.getElementById( 'modeDelLibButton' );     break;
+      case MODE_CLIPBOARD:  elem = document.getElementById( 'clipboard' );            break;
+    }
+    elem.classList.add( 'css_highlight' );
+  }
+
+  generateSetlistHTML();
+  generateLibraryHTML();
+}
+
+var libViewMode = VIEW_MODE_SONG_NAME;
+function toggleLibViewMode()
+{
+  libViewMode++;
+  if( libViewMode > VIEW_MODE_KEY )
+    libViewMode = VIEW_MODE_SONG_NAME;
+
+  var viewMode;
+  switch( libViewMode )
+  {
+    case VIEW_MODE_SONG_NAME: viewMode = "Song Name"; break;
+    case VIEW_MODE_ARTIST_NAME: viewMode = "Artist"; break;
+    case VIEW_MODE_KEY: viewMode = "Key"; break;
+  }
+
+  var elem = document.getElementById( "toggleLibViewMode" );
+  elem.innerHTML = viewMode;
+
+  generateLibraryHTML();
+}
+
+//////////////// //////////////// //////////////// ////////////////
+// Library file management
+//////////////// //////////////// //////////////// ////////////////
+function addLibrary() { document.getElementById( 'addLibraryAction' ).click(); } // This extra step is so we can css the button.
+
+/////////////// /////////////// /////////////// ///////////////
+function newLibrary()
+{
+  songLibrary = {};
+  libEditedFlag = false;
+  generateLibraryHTML();
+}
+
+/////////////// /////////////// /////////////// ///////////////
+function getDefaultLibrary()
+{
+  var rq = new XMLHttpRequest();
+  rq.open( 'GET', lyricLibLoc, true );
+  rq.send( null );
+  rq.onreadystatechange = function()
+  {
+    if( rq.readyState === 4 && rq.status === 200 )
+    {
+      var type = rq.getResponseHeader( 'Content-Type' );
+      if( type.indexOf( "text" ) !== 1 )
+      {
+        songLibrary = JSON.parse( rq.responseText );
+        generateLibraryHTML();
+      }
+    }
+  }
+  generateLibraryHTML();
+}
+
+// Open a library file (json) that will be merged into the current library.
+function addLibraryAction( e )
+{
+  var file = e.target.files[ 0 ];
+  if( !file )
+    return;
+  var reader = new FileReader();
+  reader.onload = function( e )
+  {
+    var parsed = JSON.parse( e.target.result );
+    // add to library
+    for( const[ key, v ] of Object.entries( parsed ) )
+      songLibrary[ v.id ] = v;
+
+    document.getElementById( 'addLibraryAction' ).value = null;
+    generateLibraryHTML();
+  }
+
+  reader.readAsText( file );
+}
+
+/////////////// /////////////// /////////////// ///////////////
+// Present a dialog for the user to save the current library to a local file. 
+// Library is saved as json. TBD: zip it.
+/////////////// /////////////// /////////////// ///////////////
+function saveLibrary()
+{
+  const file = new Blob( [ JSON.stringify( songLibrary, null, '  ' ) ], { type: 'text/plain' } );
+
+  const a = document.createElement( 'a' );
+  a.href = URL.createObjectURL( file );
+  a.download = "lyricLibrary.json";
+  a.click();
+  URL.revokeObjectURL( a.href );
+  libEditedFlag = false;
+  generateLibraryHTML();
+}
+
+function pruneQuote( convString )
+{
+  var newString = "";
+
+  for( var i = 0;i < convString.length;i++ )
+    if( convString[ i ] != "'" )
+      newString += convString[ i ];
+
+  return newString;
+}
+
+/////////////// /////////////// /////////////// ///////////////
+// generate the library pane.
+// 1) list of songs from the library that can be dragged into the set list 
+// or
+// 2) A library song we're editing.
+/////////////// /////////////// /////////////// ///////////////
+function generateLibraryHTML()
+{
+  if( operationMode == MODE_EDIT && editSong )
+  {
+    var tmpHtml = "<hr>";
+    var songName = pruneQuote( editSong.name );
+    if( !songName )
+      songName = "Name";
+    var artist = editSong.artist;
+    if( !artist )
+      artist = "Artist";
+    else
+      artist = pruneQuote( artist ); // for strings with apostophes
+
+    var key = editSong.key;
+    if( !key )
+      key = "Key";
+    else
+      key = pruneQuote( key );
+
+    tmpHtml += "<input contenteditable='true' id='editSongName' value='" + songName + "'>\
+                <input contenteditable='true' id='editSongArtist' value='" + artist + "'>\
+                <input contenteditable='true' id='editSongKey' value='" + key + "'>"; 
+
+    var lyrics = editSong.lyrics.replace( /\n/g, "<br>" );
+    tmpHtml += "<br><div contenteditable='true' id='editSongLyrics' class='css_editSong'>" + lyrics + "</div>";
+
+    var elem = document.getElementById( 'multiuse' ); // edit in the multiuse panel on the left
+    elem.innerHTML = tmpHtml;
+  }
+
+  // Show the library
+  var tmpHtml = "";
+  var lastValue = undefined;
+  var firstTime = true;
+  var t = []; // Array for sorting.
+
+  for( const[ key, value ] of Object.entries( songLibrary ) )
+    t.push( value );
+
+  switch( libViewMode )
+  {
+    case VIEW_MODE_SONG_NAME:   t.sort( function( a, b ){ return ( a.name > b.name )      ? 1 : -1 } ); break;
+    case VIEW_MODE_ARTIST_NAME: t.sort( function( a, b ){ return ( a.artist > b.artist )  ? 1 : -1 } ); break;
+    case VIEW_MODE_KEY:         t.sort( function( a, b ){ return ( a.key > b.key )        ? 1 : -1 } ); break;
+  }
+
+  if( !t.length )
+    tmpHtml += "<h2>Please open a song lyric library.</h2>";
+  else
+    for( var i = 0;i < t.length;i++ )
+    {
+      var currentVal; 
+      switch( libViewMode )
+      {
+        case VIEW_MODE_SONG_NAME:   currentVal = t[ i ].id[ 0 ]; break;
+        case VIEW_MODE_ARTIST_NAME: currentVal = t[ i ].artist; break;
+        case VIEW_MODE_KEY:         currentVal = t[ i ].key; break;
+      }
+
+      if( currentVal != lastValue )
+      {
+        lastValue = currentVal;
+        if( !firstTime )
+          tmpHtml += "<br><br>";
+        tmpHtml += currentVal + " ";
+
+        firstTime = false;
+      }
+      tmpHtml += "<button id='libSong." + t[ i ].id + "' class='css_librarySong' draggable='true' ondragstart='dragElem( event )'" + 
+                  "onclick='libSongClick( \"" + t[ i ].id + "\")'>" + t[ i ].name + "</button>\n";
+    }
+
+  document.getElementById( 'libraryDiv' ).innerHTML = tmpHtml;
+
+  if( libEditedFlag )
+    document.getElementById( 'saveLibraryButton' ).classList.add( 'css_highlight' );
+  else
+    document.getElementById( 'saveLibraryButton' ).classList.remove( 'css_highlight' );
+}
+
+/////////////// /////////////// /////////////// ///////////////
+// This are just a couple big string literals for the generated output setlist html.
+// Put here to make the export function more readable
+/////////////// /////////////// /////////////// ///////////////
+function htmlConstStrings( index )
+{
+  switch( index )
+  {
+    case 0:
+      return( function(){/* 
+  <style>
+  .accordion
+  {
+    border: 2px solid white;
+    background-color: #def;
+    color: #444;
+    cursor: pointer;
+    padding: 6px;
+    text-align: left;
+    outline: none;
+    font-size: 16px;
+    transition: 0.2s;
+  }
+
+  .fixedFont
+  {
+    font-family: monospace;
+  }
+
+  .panel
+  {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    font-size: 20px;
+    background-color: #fee;
+    text-align: left;
+  }
+
+  .css_medleyStart
+  {
+    position:relative;
+    overflow:hidden;
+    background: #ddf;
+    clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+  }
+
+  .css_medleyCont
+  {
+    position:relative;
+    overflow:hidden;
+    background: #ddf;
+    clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+  }
+
+  .css_medleyEnd
+  {
+    position:relative;
+    overflow:hidden;
+    background: #ddf;
+    clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+  }
+
+  .css_highlight
+  {
+    color: #d33;
+  }
+
+  .css_topButtons
+  {
+    background-color: #fdd;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  </style>
+  </head>
+
+  <body align="center">
+  <button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+  <button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+  <button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+  <button id="fontSizeButton">Size</button>
+  <button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+  <button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+*/}.toString().slice( 14, -3 ) ) ;
+break;
+
+  case 1:
+    return( function(){/* 
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+function accordionClick( elem )
+{
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley and open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+    setTimeout( function() { scrollToElem.scrollIntoView(); }, 500 );
+  }
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+displaySet( DISPLAY_LARGE );
+*/}.toString().slice( 14, -3 ) + "</" + "script> </" + "body> </html>" ); // little hack because certain tags confuse the browser.
+    break;
+
+  case 2:
+    return( function(){/* 
+    <h2> Set List Creator </h2>
+    Create a new set list with 'New'. Click on the set list name to rename it.<br>
+    Add additional sets with 'Add Set'. Click on the set names to rename them.<br>
+    <br>
+    Drag songs from the Library in the right pane to the desired location in the set. The songs (and sets) can be rearranged
+    by dragging them. Delete songs or sets by dragging them to the Trash.<br>
+    Save the set with 'Save'. Edit a saved set with 'Open'.<br>
+    <br>
+    The Clipboard is a hidden set that is not displayed in the rendered set list file. It is provided
+    to make the set list a bit easier to manage. Songs can be dragged to and from the Clipboard as with
+    any other set. In 'Add To Clipboard' Mode songs are added to the Clipboard from the Library as you click on them.<br>
+    <br>
+    Songs that are part of a medley can be indicated with 'Medley' mode.<br>
+    Songs can be highlighted in red with 'Highlight' mode.<br>
+    <br>
+    A custom lyric library can be created with 'New' in the Library pane.
+    Add songs to the library with '+', or edit existing songs with 'Edit'. Then the new library
+    can be saved and opened later. When a library is opened it is merged with the existing library.
+    Delete songs from the library with 'Delete'. <br>
+    
+*/}.toString().slice( 14, -3 ) + "</" + "script> </" + "body> </html>" ); // little hack because certain tags confuse the browser.
+  break;
+  }
+
+  return undefined;
+}
+
+//////////////////////
+// Set List file mgmt
+//////////////////////
+function openSetlist()
+{
+  if( slEditedFlag )
+    if( !window.confirm( "Unsaved Edits. Continue?" ) )
+      return;
+
+  slEditedFlag = false;
+  document.getElementById( 'openSetAction' ).click(); // this little hack is so we can css the open button
+}
+
+function openSetFile( e )
+{
+  var file = e.target.files[ 0 ];
+  if( !file )
+    return;
+  var reader = new FileReader();
+  reader.onload = function( e )
+  {
+    var lines = e.target.result.split( "\n" ); // Line 2->n is JSON of the setList
+    var jsonPortion = ""; // setlist json beings with { in column 0 and ends with } in column 0.
+    var firstLine = true;
+    var success = false;
+    for( line of lines )
+    {
+      if( firstLine )
+      {
+        firstLine = false; // first line is opening comment
+        continue;
+      }
+
+      jsonPortion += line;
+      if( line == "}" )
+      {
+        success = true; // found the end of json.
+        break;
+      }
+    }
+    if( success )
+    {
+      try
+      {
+        var parsed = JSON.parse( jsonPortion );
+        curSetList = parsed;
+      }
+      catch( error )
+      {
+        alert( error );
+      }
+    }
+    else
+      alert( "Unable to parse setlist" );
+
+    generateSetlistHTML();
+
+    document.getElementById( 'openSetAction' ).value = null;
+  }
+
+  reader.readAsText( file );
+}
+
+/////////////// /////////////// /////////////// ///////////////
+// Generate the Setlist html file and present a dialog for the user to save it.
+/////////////// /////////////// /////////////// ///////////////
+function saveSetlist()
+{
+  var setFile = "<!--\n" + JSON.stringify( curSetList, null, "  " ) + "\n-->";
+  setFile += "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>";
+  setFile += "<title>" + curSetList.name + "</title>";
+  setFile += htmlConstStrings( 0 );
+
+  var ffState = false; // Fixed Font state
+  var missingFiles = false;
+  // Songs
+  for( var setIndex = 0;setIndex < curSetList.sets.length - 1;setIndex++ ) // Note that we don't render the clipboard set
+  {
+    setFile += "<hr><div class='setname'>" + curSetList.sets[ setIndex ].name + "</div>\n";
+
+    var inMedley = false;
+    for( var songIndex = 0;songIndex < curSetList.sets[ setIndex ].songs.length;songIndex++ )
+    {
+      var sng = curSetList.sets[ setIndex ].songs[ songIndex ];
+      if( !songLibrary[ sng.id ] )
+      {
+        console.log( "'" + sng.id + "' not in lib." );
+        if( missingFiles == false )
+        {
+          missingFiles = true; // Only alert once
+          alert( "'" + sng.name + "' not in library." );
+        }
+        continue;
+      }
+      var fLines = songLibrary[ sng.id ].lyrics.split( "\n" );
+
+      var classString = "accordion";
+      if( curSetList.sets[ setIndex ].songs[ songIndex ].css_highlight == true )
+        classString += " css_highlight";
+
+      if( curSetList.sets[ setIndex ].songs[ songIndex ].medley )
+      {
+        if( !inMedley )
+        {
+          classString += " css_medleyStart";
+          inMedley = true;
+        }
+        else
+          classString += " css_medleyCont";
+      }
+      else if( inMedley )
+      {
+        classString += " css_medleyEnd";
+        inMedley = false;
+      }
+      setFile += "<button class='" + classString + "'>";
+      setFile += ( songIndex + 1 ).toString() + ". " + sng.name + "</button>\n"; // tbd, include artist if present
+      setFile += "<div class='panel'>\n";
+
+      for( line of fLines )
+      {
+        curFixedFontState = ( ( line[ 1 ] == "|" ) || ( line[ 1 ] == ":" ) ) ? true : false;
+        if( curFixedFontState != ffState )
+        {
+          if( curFixedFontState == true )
+            setFile += "<font style='font-family:courier;'>\n";
+          else
+            setFile += "</font>\n";
+          ffState = curFixedFontState;
+        }
+
+        if( line != "\n" ) // add spaces
+        {
+          var nLine = "";
+          var numSpaces = 0;
+
+          for( c of line.split( "" ) )
+          {
+            if( c == " " )
+              numSpaces += 1;
+            else
+            {
+              if( numSpaces == 1 )
+                nLine += " ";
+              else if( numSpaces > 1 )
+                for( var tmp = 0;tmp < numSpaces;tmp++ )
+                  nLine += "&nbsp"; // replace spaces in the line so the browser doesn't skip it.
+              numSpaces = 0;
+              nLine += c;
+            }
+          }
+          setFile += nLine + "<br>\n";
+        }
+      }
+      setFile += "</div>\n\n";
+    }
+  }
+
+  setFile += htmlConstStrings( 1 );
+
+  // Provide URL for abuser to download it.
+  const a = document.createElement( 'a' );
+  const file = new Blob( [ setFile ], { type: 'text/plain' } );
+  
+  a.href = URL.createObjectURL( file );
+  a.download = curSetList.name + ".html";
+  a.click();
+
+	URL.revokeObjectURL( a.href );
+
+  slEditedFlag = false;
+  generateSetlistHTML();
+  return true;
+}
+
+var helpState = false;
+function toggleHelp()
+{
+  helpState = !helpState;
+  var helpHtml = "";
+
+  if( helpState )
+    helpHtml = htmlConstStrings( 2 );
+
+  var helpElem = document.getElementById( 'multiuse' );
+  helpElem.innerHTML = helpHtml;
+}
+
+</script>
+</body>
+</html>
