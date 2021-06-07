@@ -1,14 +1,10 @@
 {
-  'foo1.mp3': SampleInfo {
-    filename: 'foo1.mp3',
-    displayName: 'foo1.mp3',
-    sampleLength: undefined,
-    sampleVolume: undefined
+  'foo1.mp3': {
+    "filenam": 'foo1.mp3',
+    "displayName": 'foo1.mp3',
   },
-  'foo2.mp3': SampleInfo {
-    filename: 'foo2.mp3',
-    displayName: 'foo2.mp3',
-    sampleLength: undefined,
-    sampleVolume: undefined
+  'foo2.mp3': {
+    "filenam": 'foo2.mp3',
+    "displayName": 'foo2.mp3',
   }
 }
