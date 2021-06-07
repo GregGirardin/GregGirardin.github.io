@@ -1,12 +1,12 @@
 {
 "foo1.mp3" : 
 {
-  "filenam" : "foo1.mp3",
+  "filename" : "foo1.mp3",
   "displayName" : "foo1.mp3",
 },
-'foo2.mp3' :
+"foo2.mp3" :
 {
-  "filenam" : "foo2.mp3",
+  "filename" : "foo2.mp3",
   "displayName" : "foo2.mp3",
 }
 }
