@@ -1,12 +1,17 @@
 {
-"foo1.mp3" :
+"sample1.mp3" :
 {
-  "filename" : "foo1.mp3",
-  "displayName" : "foo1.mp3"
+  "filename" : "sample1.mp3",
+  "displayName" : "sample1.mp3"
 },
-"foo2.mp3" :
+"sample2.mp3" :
 {
-  "filename" : "foo2.mp3",
-  "displayName" : "foo2.mp3"
+  "filename" : "sample2.mp3",
+  "displayName" : "sample2.mp3"
+},
+"sample3.mp3" :
+{
+  "filename" : "sample3.mp3",
+  "displayName" : "sample3.mp3"
 }
 }
