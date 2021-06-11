@@ -2224,6 +2224,8 @@ function expandSongNameByIndex( i )
     acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
 }
 
+var currentSong = 0;
+
 function accordionClick( elem )
 {
   var wasOpen = elem.classList.contains( "active" );
@@ -2233,6 +2235,8 @@ function accordionClick( elem )
     elem.scrollIntoView();
     return;
   }
+
+  currentSong = elem.accIndex;
 
   closeAll();
   displaySet( displayFormat ); 
@@ -2275,6 +2279,17 @@ function accordionClick( elem )
   }
 }
 
+function changeSong( delta )
+{
+  currentSong += delta;
+  if( currentSong < 0 )
+    currentSong = 0;
+  else if( currentSong >= acc.length )
+    currentSong = acc.length - 1;
+
+  accordionClick( acc[ currentSong ] );
+}
+
 var acc = document.getElementsByClassName( "accordion" );
 
 songNames = [];
@@ -2287,4 +2302,21 @@ for( var i = 0;i < acc.length;i++ )
   acc[ i ].accIndex = i;
 }
 displaySet( DISPLAY_LARGE );
+
+document.addEventListener( 'keydown', keyHandler );
+
+function keyHandler( e )
+{
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      changeSong( -1 );
+      break;
+
+    case 'ArrowDown':
+      changeSong( 1 );
+      break;
+    }
+}
+
 </script> </body> </html>

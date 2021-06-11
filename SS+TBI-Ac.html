@@ -262,8 +262,8 @@
         },
         {
           "name": "Chasing Cars",
-          "artist": "",
-          "id": "Chasing_Cars.",
+          "artist": "Snow Patrol",
+          "id": "Chasing_Cars.Snow_Patrol",
           "css_highlight": false,
           "medley": false
         },
@@ -541,7 +541,7 @@ Lay underneath the harvest moon do all the things that lovers do just me and you
 <br>
 Chorus<br>
 <br>
-!Harmonica C<br>
+Harmonica C<br>
 <br>
 No we don't have a lot of money... all we need is love<br>
 <br>
@@ -1318,20 +1318,8 @@ V: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7<br>
 B: E D (E B7sus4)<br>
 A: C G D A - E C G D A - E D C D<br>
 </font>
-<!--<br>
-I read the news today oh boy about a lucky man who made the grade<br>
-And though the news was rather sad well I just had to laugh<br>
-I saw the photograph<br>
 <br>
-He blew his mind out in a car he didn't notice that the lights had changed<br>
-A crowd of people stood and stared they'd seen his face before<br>
-Nobody was really sure if he was from the House of Lords<br>
-<br>
-I saw a film today oh boy the English army had just won the war<br>
-A crowd of people turned away but I just had to look having read the book.<br>
-I'd love to turn you on<br>
---><br>
-&nbsp&nbspWoke up, fell out of bed, dragged a comb across my head<br>
+Woke up, fell out of bed, dragged a comb across my head<br>
 &nbsp&nbspFound my way downstairs and drank a cup and looking up, I noticed I was late<br>
 &nbsp&nbspFound my coat and grabbed my hat, made the bus in seconds flat<br>
 &nbsp&nbspFound my way upstairs and had a smoke and somebody spoke and I went into a dream<br>
@@ -2073,6 +2061,8 @@ function expandSongNameByIndex( i )
     acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
 }
 
+var currentSong = 0;
+
 function accordionClick( elem )
 {
   var wasOpen = elem.classList.contains( "active" );
@@ -2082,6 +2072,8 @@ function accordionClick( elem )
     elem.scrollIntoView();
     return;
   }
+
+  currentSong = elem.accIndex;
 
   closeAll();
   displaySet( displayFormat ); 
@@ -2124,6 +2116,17 @@ function accordionClick( elem )
   }
 }
 
+function changeSong( delta )
+{
+  currentSong += delta;
+  if( currentSong < 0 )
+    currentSong = 0;
+  else if( currentSong >= acc.length )
+    currentSong = acc.length - 1;
+
+  accordionClick( acc[ currentSong ] );
+}
+
 var acc = document.getElementsByClassName( "accordion" );
 
 songNames = [];
@@ -2136,4 +2139,21 @@ for( var i = 0;i < acc.length;i++ )
   acc[ i ].accIndex = i;
 }
 displaySet( DISPLAY_LARGE );
+
+document.addEventListener( 'keydown', keyHandler );
+
+function keyHandler( e )
+{
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      changeSong( -1 );
+      break;
+
+    case 'ArrowDown':
+      changeSong( 1 );
+      break;
+    }
+}
+
 </script> </body> </html>
