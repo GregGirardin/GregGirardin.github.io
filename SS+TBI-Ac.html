@@ -803,7 +803,7 @@ I get confused, cause I don't know where I stand,<br>
 And then you smile, and hold my hand,<br>
 Love is kinda crazy..<br>
 <br>
-!Harmonica D<br>
+Harmonica D<br>
 <br>
 If you decide, someday, to stop this little game that you are playing,<br>
 I'm gonna tell you the only thing my heart is dying to be saying,<br>
@@ -901,12 +901,14 @@ Who's gonna pay attention to your dreams<br>
 And who's gonna plug your ears when you scream<br>
 <br>
 Chorus<br>
-!Harmonica A<br>
+<br>
+Harmonica A<br>
 <br>
 Who's gonna hold you down, when you shake<br>
 Who's gonna come around, when you break<br>
 <br>
 Chorus<br>
+<br>
 </div>
 
 <hr><div class='setname'>2</div>
@@ -1349,7 +1351,7 @@ And I know, I know...<br>
 Hey, I ought to leave the young thing alone<br>
 But ain't no sunshine when she's gone<br>
 <br>
-!Harmonica F<br>
+Harmonica F<br>
 <br>
 But ain't no sunshine when she's gone, only darkness everyday.<br>
 Ain't no sunshine when she's gone, and this house just ain't no home<br>
@@ -2063,8 +2065,10 @@ function expandSongNameByIndex( i )
 
 var currentSong = 0;
 
-function accordionClick( elem )
+function accordionClick( elem, keepOpen=false )
 {
+  currentSong = elem.accIndex;
+
   var wasOpen = elem.classList.contains( "active" );
 
   if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
@@ -2073,16 +2077,14 @@ function accordionClick( elem )
     return;
   }
 
-  currentSong = elem.accIndex;
-
   closeAll();
   displaySet( displayFormat ); 
 
-  if( !wasOpen )
+  if( !wasOpen || keepOpen )
   {
     scrollToElem = elem;
 
-    // Go to head of medley and open the whole thing.
+    // Go to head of medley so we can open the whole thing.
     while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
       elem = acc[ elem.accIndex - 1 ];
 
@@ -2118,13 +2120,13 @@ function accordionClick( elem )
 
 function changeSong( delta )
 {
-  currentSong += delta;
-  if( currentSong < 0 )
-    currentSong = 0;
-  else if( currentSong >= acc.length )
-    currentSong = acc.length - 1;
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
 
-  accordionClick( acc[ currentSong ] );
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
 }
 
 var acc = document.getElementsByClassName( "accordion" );
