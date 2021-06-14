@@ -1,22 +1,17 @@
 {
-"sample1.mp3" :
-{
-  "filename" : "sample1.mp3"
-},
-"sample2.mp3" :
-{
-  "filename" : "sample2.mp3"
-},
-"sample3.mp3" :
-{
-  "filename" : "sample3.mp3"
-},
-"sample4.wav" :
-{
-  "filename" : "sample4.wav"
-},
-"sample5.wav" :
-{
-  "filename" : "sample5.wav"
-}
+  "sample1.mp3": {
+    "filename": "sample1.mp3"
+  },
+  "sample2.mp3": {
+    "filename": "sample2.mp3"
+  },
+  "sample3.mp3": {
+    "filename": "sample3.mp3"
+  },
+  "sample4.wav": {
+    "filename": "sample4.wav"
+  },
+  "sample5.wav": {
+    "filename": "sample5.wav"
+  }
 }
