@@ -6,6 +6,7 @@
       "samples": [
         {
           "displayName": "sample2.mp3",
+          "filename" : "sample2.mp3",
           "highlight": false,
           "medley": false,
           "fadeInTime": 0,
@@ -15,6 +16,7 @@
         },
         {
           "displayName": "sample1.mp3",
+          "filename" : "sample1.mp3",
           "highlight": false,
           "medley": false,
           "fadeInTime": 0,
@@ -29,6 +31,7 @@
       "samples": [
         {
           "displayName": "sample3.mp3",
+          "filename" : "sample3.mp3",
           "highlight": false,
           "medley": false,
           "fadeInTime": 0,
@@ -43,6 +46,7 @@
       "samples": [
         {
           "displayName": "sample2.mp3",
+          "filename" : "sample2.mp3",
           "highlight": false,
           "medley": false,
           "fadeInTime": 0,

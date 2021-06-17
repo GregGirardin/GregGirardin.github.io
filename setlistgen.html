@@ -304,12 +304,13 @@ function dropElem( ev )
 {
   const slsong = "setListSong.";
   const slset = "setListSet.";
+  const cbStr = "clipboard";
 
   ev.preventDefault();
   var dragElem = ev.dataTransfer.getData( "dragElem" );
 
-  if( ( dragElem.substring( 0, 9 ) == "clipboard" ) &&
-      ( ev.target.id.substring( 0, 12 ) == slsong ) ) // dropping the clipboard onto a set.
+  if( ( dragElem.substring( 0, cbStr.length ) == cbStr ) &&
+      ( ev.target.id.substring( 0, slsong.length ) == slsong ) ) // dropping the clipboard onto a set.
   {
     indexes = ev.target.id.substring( 12, ).split( "." );
     var toSet = parseInt( indexes[ 0 ] );
@@ -327,10 +328,10 @@ function dropElem( ev )
       }
     }
   }
-  else if( ( dragElem.substring( 0, 12 ) == slsong ) &&
-           ( ev.target.id.substring( 0, 12 ) == slsong ) ) // Moving a set list song
+  else if( ( dragElem.substring( 0, slsong.length ) == slsong ) &&
+           ( ev.target.id.substring( 0, slsong.length ) == slsong ) ) // Moving a set list song
   {
-    var indexes = dragElem.substring( 12, ).split( "." );
+    var indexes = dragElem.substring( slsong.length, ).split( "." );
     var fromSet = parseInt( indexes[ 0 ] );
     var fromSongIx = parseInt( indexes[ 1 ] );
 
@@ -360,7 +361,7 @@ function dropElem( ev )
     slEditedFlag = true;
   }
   else if( ( dragElem.substring( 0, 8 ) == "libSong." ) &&
-           ( ev.target.id.substring( 0, 12 ) == slsong ) ) // Dropping library song into set list.
+           ( ev.target.id.substring( 0, slsong.length ) == slsong ) ) // Dropping library song into set list.
   {
     var songId = dragElem.substring( 8, );
     var libSong = songLibrary[ songId ];
