@@ -1,3 +1,14 @@
-Public files
+A javascript sample player.
 
-Chord utility, Set list generator, and various band setlists.
+
+Notes:
+
+Handle files w/ spaces
+Handle files not existing
+Load files as added.
+
+files to curSampleConfig, but don't save in json.
+
+Synthesis / MIDI
+
+Volume / Fade in/out
