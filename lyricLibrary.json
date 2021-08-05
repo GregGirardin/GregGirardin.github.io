@@ -783,13 +783,6 @@
     "lyrics": "I: D A G A  D A G\nV: ( A G )\nC: F# Bm ( A G D )\n\nWell they tell me of a pie up in the sky\nWaiting for me when I die\nBut between the day you're born and when you die\nThey never seem to hear even your cry\n\n  So as sure as the sun will shine\n  I'm gonna get my share now of what's mine\n  And then the harder they come the harder they'll fall, one and all\n  Ooh the harder they come the harder they'll fall, one and all\n\n\nWell the officers are trying to keep me down\nTrying to drive me underground\nAnd they think that they have got the battle won\nI say forgive them Lord, they know not what they've done\n\nChorus\n\nIntro\n\nAnd I keep on fighting for the things I want\nThough I know that when you're dead you can't\nBut I'd rather be a free man in my grave\nThan living as a puppet or a slave\n\nChorus",
     "artist": "Jimmy Cliff"
   },
-  "Hard_To_Handle.The_Black_Crowes": {
-    "name": "Hard To Handle",
-    "artist": "The Black Crowes",
-    "id": "Hard_To_Handle.The_Black_Crowes",
-    "lyrics": "Baby, here I am I'm the man on the scene\nI can give you what you want but you gotta come home with me\nI have got some good old lovin' and I got some more in store\nWhen I get through throwin' it on you You gotta come back for more\n\n  Boys and things that come by the dozen\n  That ain't nothin' but drugstore lovin'\n  Pretty little thing let me light your candle\n  'Cause mama I'm so hard to handle now, yes, I am\n\nAction speaks louder than words and I'm a man of great experience\nI know you've got another man but I can love you better than him\nTake my hand don't be afraid I'm gonna prove every word I say\nI'm advertising love for free So you can place your ad with me\n\n  Boys – they come along a dime by the dozen\n  That ain't nothing but ten cent lovin'...\n\n  Yeah, hard to handle now, Oh baby\n\nV1\n\n  Boys – they run along a dime by the dozen...\n\n  Hard, Hard to handle now Oh, yeah, yeah, yeah\n\nChorus\n\nYeah, You're hard to handle now Oh, yeah\n\nBaby... a good lovin...",
-    "key": "B"
-  },
   "Kid_Charlemagne.Steely_Dan": {
     "name": "Kid Charlemagne",
     "artist": "Steely Dan",
@@ -3107,13 +3100,6 @@
     "lyrics": "V: D E F#m E   C: (A D) F#m E D \n \nTell me do you think it’d be all right, If I could just crash here tonight\nYou can see I’m in no shape for driving, And anyway I've got no place to go\nAnd you know it might not be that bad, You were the best I’d ever had\nIf I hadn't blown the whole thing years ago, I might not be alone\n \n  Tomorrow we can drive around this town, And let the cops chase us around\n  The past is gone but something might be found, To take its place\n  Hey jealousy..\n  \nAnd you can trust me not to think, And not to sleep around\nIf you don’t expect too much from me, You might not be let down\nCause all I really want is to be with you, Feeling like I matter too\nIf I hadn't blown the whole thing years ago, I might be here with you\n \nChorus / Solo / Chorus\n \nTell me do you think it’d be all right, If I could just crash here tonight\nYou can see I’m in no shape for driving, And anyway I’ve got no place to go\nAnd you know it might not be that bad, You were the best I’d ever had\nIf I hadn’t blown the whole thing years ago, I might not be alone\n \nChorus\n \nHey jealousy, she took my heart\nThere's only one thing I couldn't start",
     "key": "D"
   },
-  "Hot_Blooded.Foreigner": {
-    "name": "Hot Blooded",
-    "artist": "Foreigner",
-    "id": "Hot_Blooded.Foreigner",
-    "lyrics": "C: G4 G  C C4 - D \nP: C~D [F C | E C | F C | F D Bb G]\nV: G F C\n\n  Well, I'm hot blooded, check it and see\n  I got a fever of a hundred and three\n  Come on baby, do you do more than dance?\n  I'm hot blooded, I'm hot blooded\n\nYou don't have to read my mind to know what I have in mind\nHoney you oughta know,\nNow you move so fine, let me lay it on the line\nI wanna know what you're doin' after the show\n \n  Now it's up to you, we can make a secret rendezvous\n  Just me and you, I'll show you lovin' like you never knew\n\nChorus\n \nIf it feels alright, maybe you can stay all night\nShould I leave you my key?\nBut you've got to give me a sign, come on girl, some kind of sign\nTell me, are you hot mama? You sure look that way to me\n \n  Are you old enough? will you be ready when I call your bluff?\n  Is my timing right? did you save your love for me tonight?\n\nChorus\n \nSolo\n\n  Now it's up to you, can we make a secret rendezvous?\n  Oh, before we do, you'll have to get away from you know who\n\nChorus \n \n  every night.. you're looking so tight.. now you're driving me wild\n  I'm so hot for you child..\n  I'm a little bit high.. you're a little bit shy.. you're making me sing\n  for your sweet sweet thing",
-    "key": ""
-  },
   "Two_Tickets_To_Paradise.Eddie_Money": {
     "name": "Two Tickets To Paradise",
     "artist": "Eddie Money",
@@ -3218,5 +3204,19 @@
     "id": "Careless_Whisper.George_Michael",
     "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
     "key": "Dm"
+  },
+  "Hot_Blooded.Foreigner": {
+    "name": "Hot Blooded",
+    "artist": "Foreigner",
+    "id": "Hot_Blooded.Foreigner",
+    "lyrics": "C: G4 G  C C4 - D \nP: C~D [F C | E C | F C | F D Bb G]\nV: G F C\n\n  Well, I'm hot blooded, check it and see\n  I got a fever of a hundred and three\n  Come on baby, do you do more than dance?\n  I'm hot blooded, I'm hot blooded\n\nYou don't have to read my mind to know what I have in mind\nHoney you oughta know,\nNow you move so fine, let me lay it on the line\nI wanna know what you're doin' after the show\n \n  Now it's up to you, we can make a secret rendezvous\n  Just me and you, I'll show you lovin' like you never knew\n\nChorus\n \nIf it feels alright, maybe you can stay all night\nShould I leave you my key?\nBut you've got to give me a sign, come on girl, some kind of sign\nTell me, are you hot mama? You sure look that way to me\n \n  Are you old enough? will you be ready when I call your bluff?\n  Is my timing right? did you save your love for me tonight?\n\nChorus\n \nSolo\n\n  Now it's up to you, can we make a secret rendezvous?\n  Oh, before we do, you'll have to get away from you know who\n\nChorus \n \nEvery night.. you're looking so tight.. now you're driving me wild\n  I'm so hot for you child..\n  I'm a little bit high.. you're a little bit shy.. you're making me sing\n  for your sweet sweet thing\n",
+    "key": ""
+  },
+  "Hard_To_Handle.The_Black_Crowes": {
+    "name": "Hard To Handle",
+    "artist": "The Black Crowes",
+    "id": "Hard_To_Handle.The_Black_Crowes",
+    "lyrics": "Baby, here I am I'm the man on the scene\nI can give you what you want but you gotta come home with me\nI have got some good old lovin' and I got some more in store\nWhen I get through throwin' it on you You gotta come back for more\n\n  Boys and things that come by the dozen\n  That ain't nothin' but drugstore lovin'\n  Pretty little thing let me light your candle\n  'Cause mama I'm so hard to handle now, yes, I am\n\nAction speaks louder than words and I'm a man of great experience\nI know you've got another man but I can love you better than him\nTake my hand don't be afraid I'm gonna prove every word I say\nI'm advertising love for free So you can place your ad with me\n\n  Boys they come along a dime by the dozen\n  That ain't nothing but ten cent lovin'...\n\n  Yeah, hard to handle now, Oh baby\n\nV1\n\n  Boys they run along a dime by the dozen...\n\n  Hard, Hard to handle now Oh, yeah, yeah, yeah\n\nChorus\n\nYeah, you're hard to handle now Oh, yeah\n\nBaby... a good lovin...",
+    "key": "B"
   }
 }
