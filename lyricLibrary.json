@@ -2379,13 +2379,6 @@
     "lyrics": "E D A E, (C#m E) D B7\n\nDear Mister Fantasy play us a tune\nSomething to make us all happy\nDo anything take us out of this gloom\nSing a song, play guitar, make it snappy\n\nYou are the one who can make us all laugh\nbut doing that you break out in tears\nPlease don't be sad if it was a straight mind you had\nWe wouldn't have known you all these years",
     "key": "E"
   },
-  "Never_Gonna_Stop.Rob_Zombie": {
-    "name": "Never Gonna Stop",
-    "artist": "Rob Zombie",
-    "id": "Never_Gonna_Stop.Rob_Zombie",
-    "lyrics": "Yeah my durango number 95\nTake me to the home kick boots and ultra live\nSee heaven flash a horrorshow\nKnock it nice and smooth step back and watch it flow yeah\n\n  Never gonna stop me\n\nYeah the devil ride a dinosaur\nHe paint the monster red so the blood don't stain the floor\nIn out real savage show\nSkorry as a shot came sickness watch it flow yeah\n\n  Never gonna stop me\n\n    Scream if you want it cause I want more\n\nv1\n\n  Never gonna stop me\n\n    Scream if you want it cause I want more",
-    "key": ""
-  },
   "How_Much_I_Feel.Ambrosia": {
     "name": "How Much I Feel",
     "artist": "Ambrosia",
@@ -3225,5 +3218,19 @@
     "id": "Crazy_Train.Ozzy_Osbourne",
     "lyrics": "F#m A E, F# D E\nA\n(F#m D) A\n\nCrazy, but that's how it goes\nMillions of people living as foes\nMaybe, it's not too late\nTo learn how to love, and forget how to hate\n\n  Mental wounds not healing life's a bitter shame\n  I'm goin off the rails on a crazy train\n\nI've listened to preachers, I've listened to fools\nI've watched all the dropouts who make their own rules\nOne person conditioned to rule and control\nThe media sells it and you live the role\n\n  Mental wounds still screaming driving me insane...\n\n    I know that things are going wrong for me\n    You gotta listen to my words, yeah, yeah\n\nSolo\n\nHeirs of a cold war that's what we've become\nInheriting troubles I'm mentally numb\nCrazy, I just cannot bear\nI'm living with something that just isn't fair\n\n  Mental wounds not healing, who and what's to blame...",
     "key": "F#m"
+  },
+  "Never_Gonna_Stop.Rob_Zombie": {
+    "name": "Never Gonna Stop",
+    "artist": "Rob Zombie",
+    "id": "Never_Gonna_Stop.Rob_Zombie",
+    "lyrics": "Yeah my durango number 95\nTake me to the home kick boots and ultra live\nSee heaven flash a horrorshow\nKnock it nice and smooth step back and watch it flow yeah\n\n  Never gonna stop me\n\nYeah the devil ride a dinosaur\nHe paint the monster red so the blood don't stain the floor\nIn out real savage show\nSkorry as a shot came sickness watch it flow yeah\n\n  Never gonna stop me\n\n    Scream if you want it cause I want more\n\nv1\n\n  Never gonna stop me\n\n    Scream if you want it cause I want more",
+    "key": ""
+  },
+  "Mr_Brownstone.G&R": {
+    "name": "Mr Brownstone",
+    "artist": "G&R",
+    "id": "Mr_Brownstone.G&R",
+    "lyrics": "I get up around seven get outta bed around nine\nAnd I don't worry about nothin' no 'cause worryin's a waste of my time\nThe show usually starts around seven we go on stage at nine\nGet on the bus at eleven sippin' a drink and feelin' fine\n\n  We been dancin' with Mr. Brownstone\n  He's been knockin' he won't' leave me alone no, no, no\n  He won't leave me alone\n\n    I used ta do a little but a little wouldn't do\n    So the little got more and more\n    I just keep tryin' ta get a little better\n    Said a little better than before\n\n  We been dancin' with Mr. Brownstone...\n\nNow I get up around whenever I used ta get up on time\nBut that old man he's a real muthafucker gonna kick him on down the line\n\n    I used ta do a little...\n\n  We been dancin' with Mr. Brownstone...\n\nStuck it in the middle and I shot it in the middle\nAnd it, it drove outta my mind\nI should've known better, said I wish I never met her\nSaid I leave it all behind Yowsa!\n",
+    "key": "Em"
   }
 }
