@@ -2400,13 +2400,6 @@
     "lyrics": "I: G Bm Em Em7 CM7\nV: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7\nB: E D (E B7sus4)\nA: C G D A - E C G D A - E D C D\n\nWoke up, fell out of bed, dragged a comb across my head\n  Found my way downstairs and drank a cup and looking up, I noticed I was late\n  Found my coat and grabbed my hat, made the bus in seconds flat\n  Found my way upstairs and had a smoke and somebody spoke and I went into a dream\n  Ahhh..\n\nI read the news today oh boy, four thousand holes in Blackburn, Lancashire\nAnd though the holes were rather small they had to count them all\nNow they know how many holes it takes to fill the Albert Hall\nI'd love to turn you on",
     "key": "G"
   },
-  "A_Rush_and_a_Push.The_Smiths": {
-    "name": "A Rush and a Push",
-    "artist": "The Smiths",
-    "id": "A_Rush_and_a_Push.The_Smiths",
-    "lyrics": "V: Dm Bb C    C: Eb Dm\n\nHello, I am the ghost of troubled Joe\nHung by his pretty neck some eighteen months ago\nI travelled to a mystical time zone\nAnd I missed my bed and I soon came home\n\nThey said there's too much caffiene in your bloodstream\nAnd a lack of real spice in your life\nI said leave me alone because I'm alright dad,\nSurprised to still be on my own\n\n  Ooh, but don't mention love I'd hate the pain of the strain again\n\nA rush and a push and the land that we stand on is ours\nIt has been before, so it shall be again\nAnd people who are uglier than you and I\nThey take what they need and just leave\n\n  Ooh, but don't mention love I'd hate the strain of the pain all over again\n\nA rush and a push and the land that we stand on is ours\nIt has been before, so why can't it be now?\nAnd people who are weaker than you and I\nThey take what they want from life\n\n  Ooh, but don't mention love no, no, don't mention love\n\nA rush and a push and the land that we stand on is ours\nYour youth may be gone but you're still a young man\nSo phone me, phone me\n\n  Ooh, I think I'm in love",
-    "key": "Dm"
-  },
   "Across_The_Universe.The_Beatles": {
     "name": "Across The Universe",
     "artist": "The Beatles",
@@ -3071,5 +3064,19 @@
     "id": "Sweet_Home_Alabama.Lynyrd_Skynyrd",
     "lyrics": "I: D Cadd9 G (\"Boo hoo\" F C)\n \nBig wheels keep on turningCarry me home to see my kin\nSinging songs about the south land\nI miss ole bamy once again and I think it's a sin\n \nRiff x 2\n\nWell I heard Mr. Young sing about her\nWell I heard old Neil put her down\nWell I hope Neil Young will remember\nA southern man don't need him around anyhow\n \n  Sweet home Alabama where the skies are so blue\n  Sweet home Alabama Lord I'm coming home to you\n\nSolo\n\nIn Birmingham they love the govnor, boo-hoo\nNow we all did what we could do\nNow Watergate does not bother me\nDoes you conscience bother you, tell the truth!\n\nChorus\n\nSolo\n\nRiff x 2\n\nNow Muscle Shoals has got the Swappers\nAnd they've been known to pick a song or two\nLord they get me off so much\nThey pick me up when I'm feeling blue now how bout you?\n\n  Chorus\n\n",
     "key": "D"
+  },
+  "A_Rush_and_a_Push.The_Smiths": {
+    "name": "A Rush and a Push",
+    "artist": "The Smiths",
+    "id": "A_Rush_and_a_Push.The_Smiths",
+    "lyrics": "V: Dm Bb C    C: Eb Dm\n\nHello, I am the ghost of troubled Joe\nHung by his pretty neck some eighteen months ago\nI travelled to a mystical time zone\nAnd I missed my bed and I soon came home\n\nThey said there's too much caffiene in your bloodstream\nAnd a lack of real spice in your life\nI said leave me alone because I'm alright dad,\nSurprised to still be on my own\n\n  Ooh, but don't mention love I'd hate the pain of the strain again\n\nA rush and a push and the land that we stand on is ours\nIt has been before, so it shall be again\nAnd people who are uglier than you and I\nThey take what they need and just leave\n\n  Ooh, but don't mention love I'd hate the strain of the pain all over again\n\nA rush and a push and the land that we stand on is ours\nIt has been before, so why can't it be now?\nAnd people who are weaker than you and I\nThey take what they want from life\n\n  Ooh, but don't mention love no, no, don't mention love\n\nA rush and a push and the land that we stand on is ours\nYour youth may be gone but you're still a young man\nSo phone me, phone me\n\n  Ooh, I think I'm in love",
+    "key": "Dm"
+  },
+  "Beginnings.Chicago": {
+    "name": "Beginnings",
+    "artist": "Chicago",
+    "id": "Beginnings.Chicago",
+    "lyrics": "Amaj7 x-0-14-13-14-0  E9sus4/A x-0-12-11-12-0\n\nI: Amaj7 E9sus4/A\nV: (AM7 DM7) CM7   (GM7 CM7)  (AM7 Em7)  O: A G F G\n\nWhen I'm with you, it doesn't matter where we are\nOr what we're doin', I'm with you that's all that matters\nTime passes much too quickly when we're together laughing\nI wish I could sing it to you, woh oh...\n  Oh wo... \n    Mostly I'm silent, silent, never think of bad words to say\n \nWhen I kiss you, I feel a thousand different feelings\nThe color of chills, all over my body\nAnd when I feel them I quickly try to decide which one\nI should try to put into words, oh  try to put into words\n  Oh wo ..\n    Mostly I'm silent.. silent\n\nOnly the beginning of what I want to feel forever\nOnly the beginning, only just the start.\nGot to get you into my life.\n",
+    "key": "A"
   }
 }
