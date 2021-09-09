@@ -2479,10 +2479,10 @@ Riff x 2<br>
 Well I heard Mr. Young sing about her<br>
 Well I heard old Neil put her down<br>
 Well I hope Neil Young will remember<br>
-A southern man don’t need him around anyhow<br>
+A southern man don't need him around anyhow<br>
 <br>
 &nbsp;&nbsp;Sweet home Alabama where the skies are so blue<br>
-&nbsp;&nbsp;Sweet home Alabama Lord I’m coming home to you<br>
+&nbsp;&nbsp;Sweet home Alabama Lord I'm coming home to you<br>
 <br>
 Solo<br>
 <br>
@@ -3228,7 +3228,7 @@ class FootSwitchButton
       if( newState ) // true = 'down'
       {
         this.holdTimerExpired = false;
-        this.holdTimer = setTimeout( holdTimerCB, 250, this.buttonID );
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
       }
       else // released. (up)
       {
@@ -3237,7 +3237,7 @@ class FootSwitchButton
         else
         {
           clearTimeout( this.holdTimer );
-          this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
           changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
         }
       }
@@ -3247,7 +3247,7 @@ class FootSwitchButton
   holdTimerCB()
   {
     this.holdTimerExpired = true;
-    this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
     this.buttonID == 0 ? fontMinus() : fontPlus();
   }
 }
