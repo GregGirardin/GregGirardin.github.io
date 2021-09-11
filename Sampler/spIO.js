@@ -2,7 +2,7 @@
 // file IO
 ///////////////////////// ///////////////////////// /////////////////////////
 
-var serverURL = 'http://127.0.0.1:8080/'; // this is where samples.json and all the samples live.
+var serverURL = 'https://greggirardin.github.io/Sampler/'; // this is where samples.json and all the samples live.
 
 function configFileName()
 {
