@@ -1,12 +1,13 @@
 /* Using Tone.js for Web Audio API
 
-    S0 S1 S2. : Audio / Synth sources.
-    |  |  | TBD pan/level per voice
-    |/___/
+    S0 S1 S2 : Instruments
+    |  |  |
+    |_/___/
     |
   Master Gain <- The volume
-    |
-  Filter
+    |-------\
+    |       |
+  Filter   Meter
     |
   Distortion
     |
@@ -18,20 +19,16 @@
     |
   Tremolo
     |
-  Panner ?
-    |
-  Limiter
-    |
     |\
     | \
-    |  \_______________
-    |         |        |
-    Dry       RGain    DGain <- FX levels
-    |         |        |
-    |         Reverb   Delay <- Parallel FX so we play trails
-    |         |        |
-    |         /       /
-    Out  <-----------  
+    |  \_____________
+    |       |        |
+    Dry     RGain    DGain <- FX levels
+    |       |        |
+    |       Reverb   Delay <- Parallel so we play trails
+    |       |        |
+    |       /       /
+    Out  <---------  
 */
 
 var audioSource;
@@ -78,18 +75,20 @@ function initWebAudio()
   globals.filterBlock.wet.value = 0;
   globals.filterBlock.connect( globals.distortionBlock );
 
+	globals.meterBlock = new Tone.Meter( { channels : 2, });
   globals.masterLevelBlock = new Tone.Gain( 0 );
   globals.masterLevelBlock.connect( globals.filterBlock );
+  globals.masterLevelBlock.connect( globals.meterBlock );
 
   createSynths();
 }
 
 function initWebAudio2()
 {
+  Tone.start();
   globals.tremoloBlock.start();
   globals.chorusBlock.start();
   globals.filterBlock.start();
-  Tone.start();
 }
 
 function createSynths() // create all synths and connect them to globals.masterLevel
@@ -104,19 +103,35 @@ function createSynths() // create all synths and connect them to globals.masterL
     switch( sType )
     {
       case "Sine":
+        var oType = sType.toLowerCase();
+        s = new Tone.PolySynth( Tone.Synth, { polyphony : 15, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
+        s.set( { volume : -12, oscillator : { type : oType }, } );
+        break;
+
       case "Square":
+        var oType = sType.toLowerCase();
+        s = new Tone.PolySynth( Tone.Synth, { polyphony : 15, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
+        s.set( { volume : -14, oscillator : { type : oType }, } );
+        break;
+
       case "Sawtooth":
+        var oType = sType.toLowerCase();
+        s = new Tone.PolySynth( Tone.Synth, { polyphony : 15, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
+        s.set( { volume : -9, oscillator : { type : oType }, } );
+        break;
+  
       case "Triangle":
         var oType = sType.toLowerCase();
-        s = new Tone.PolySynth( Tone.Synth, { polyphony : 12, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
+        s = new Tone.PolySynth( Tone.Synth, { polyphony : 15, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
         s.set( { volume : -10, oscillator : { type : oType }, } );
         break;
 
       case "Bell":
         var oType = sType.toLowerCase();
         s = new Tone.PolySynth( Tone.Synth, { polyphony : 12, oscillator: { partials : [ 0, 2, 3, 6 ], } } );
-        s.set( { volume : -3, oscillator : { type : "sine" },
-                 envelope : { attack: 0, decay: 1, sustain: .2, release: 1 } } );
+        s.set( { volume : -12,
+                 oscillator : { type : "sine" },
+                 envelope : { attack: 0, decay: 1, sustain : .2, release : 1 } } );
         break;
 
       case "Piano": // mellower sounding piano
@@ -129,7 +144,9 @@ function createSynths() // create all synths and connect them to globals.masterL
                                           C6 : "C6.mp3", "D#6" : "Ds6.mp3", "F#6" : "Fs6.mp3", A6 : "A6.mp3",
                                           C7 : "C7.mp3", "D#7" : "Ds7.mp3", "F#7" : "Fs7.mp3", A7 : "A7.mp3",
                                           C8 : "C8.mp3" },
-                                release : 4, baseUrl : instURL + "piano/" } );
+                                volume : -10,
+                                release : 4,
+                                baseUrl : instURL + "piano/" } );
         break;
 
       case "Cello":
@@ -145,19 +162,24 @@ function createSynths() // create all synths and connect them to globals.masterL
       case "Flute":
         s = new Tone.Sampler( { urls :  { 'A5': 'A5.mp3', 'C3': 'C3.mp3', 'C4': 'C4.mp3', 'C5': 'C5.mp3', 'C6': 'C6.mp3',
                                           'E3': 'E3.mp3', 'E4': 'E4.mp3', 'E5': 'E5.mp3', 'A3': 'A3.mp3', 'A4': 'A4.mp3' },
+                                volume : -6,
                                 release : 8, baseUrl : instURL + "flute/" } );
         break;
 
       case "French":
         s = new Tone.Sampler( { urls :  { 'D2': 'D2.mp3', 'D4': 'D4.mp3', 'D#1': 'Ds1.mp3', 'F2': 'F2.mp3',
                                           'F4': 'F4.mp3', 'G1': 'G1.mp3', 'A0': 'A0.mp3', 'A2': 'A2.mp3', 'C1': 'C1.mp3', 'C3': 'C3.mp3' },
-                                release : 4, baseUrl : instURL + "french-horn/" } );
+                                volume : -6,
+                                release : 4,
+                                baseUrl : instURL + "french-horn/" } );
         break;
 
       case "Trumpet":
         s = new Tone.Sampler( { urls :  { 'C5': 'C5.mp3', 'D4': 'D4.mp3', 'D#3': 'Ds3.mp3', 'F2': 'F2.mp3', 'F3': 'F3.mp3',
                                           'F4': 'F4.mp3', 'G3': 'G3.mp3', 'A2': 'A2.mp3', 'A4': 'A4.mp3', 'A#3': 'As3.mp3', 'C3': 'C3.mp3' },
-                                release : 4, baseUrl : instURL + "trumpet/" } );
+                                volume : -8,
+                                release : 4,
+                                baseUrl : instURL + "trumpet/" } );
         break;
 
       case "Violin":
@@ -165,13 +187,16 @@ function createSynths() // create all synths and connect them to globals.masterL
                                           'C4': 'C4.mp3', 'C5': 'C5.mp3', 'C6': 'C6.mp3', 'C7': 'C7.mp3',
                                           'E4': 'E4.mp3', 'E5': 'E5.mp3', 'E6': 'E6.mp3',
                                           'G4': 'G4.mp3', 'G5': 'G5.mp3', 'G6': 'G6.mp3' },
+                                volume : 0,
                                 release : 4, baseUrl : instURL + "violin/" } );
         break;
 
       case "Xylo":
         s = new Tone.Sampler( { urls :  { 'G3': 'G3.mp3', 'G4': 'G4.mp3', 'G5': 'G5.mp3', 'G6': 'G6.mp3',
                                           'C4': 'C4.mp3', 'C5': 'C5.mp3', 'C6': 'C6.mp3','C7': 'C7.mp3' },
-                                release : 4, baseUrl : instURL + "xylophone/" } );
+                                volume : -3,
+                                release : 4,
+                                baseUrl : instURL + "xylophone/" } );
         break;
 
       case "Harp":
@@ -182,7 +207,9 @@ function createSynths() // create all synths and connect them to globals.masterL
                                           'G1': 'G1.mp3', 'G3': 'G3.mp3', 'G5': 'G5.mp3',
                                           'A2': 'A2.mp3', 'A4': 'A4.mp3', 'A6': 'A6.mp3',
                                           'B1': 'B1.mp3', 'B3': 'B3.mp3', 'B5': 'B5.mp3', 'B6': 'B6.mp3' },
-                                release : 4, baseUrl : instURL + "harp/" } );
+                                volume : -10,
+                                release : 4, 
+                                baseUrl : instURL + "harp/" } );
         break;
 
       case "Organ":
@@ -190,7 +217,9 @@ function createSynths() // create all synths and connect them to globals.masterL
                                           'D#1': 'Ds1.mp3', 'D#2': 'Ds2.mp3', 'D#3': 'Ds3.mp3', 'D#4' : 'Ds4.mp3', 'D#5' : 'Ds5.mp3',
                                           'F#1': 'Fs1.mp3', 'F#2': 'Fs2.mp3', 'F#3': 'Fs3.mp3', 'F#4' : 'Fs4.mp3', 'F#5' : 'Fs5.mp3',
                                           'A1': 'A1.mp3', 'A2': 'A2.mp3', 'A3': 'A3.mp3', 'A4': 'A4.mp3', 'A5': 'A5.mp3' },
-                                release : 4, baseUrl : instURL + "organ/" } );
+                                volume : -2,
+                                release : 4,
+                                baseUrl : instURL + "organ/" } );
         break;
 
       case "SynthPipe":
@@ -199,10 +228,10 @@ function createSynths() // create all synths and connect them to globals.masterL
                   volume : 0,
                   harmonicity : 3.01,
                   modulationIndex : 14,
-                  oscillator : { type: "triangle" },
-                  envelope : { attack: 0.2, decay: 0.3, sustain: 0.9, release: 1.2 },
-                  modulation : { type: "square" },
-                  modulationEnvelope : { attack: 0.01, decay: 0.5, sustain: 0.2, release: 0.1 } } );
+                  oscillator : { type : "triangle" },
+                  envelope : { attack : 0.2, decay : 0.3, sustain : 0.9, release : 1.2 },
+                  modulation : { type : "square" },
+                  modulationEnvelope : { attack : 0.01, decay : 0.5, sustain : 0.2, release : 0.1 } } );
         break;
 
       case "SynReed":
@@ -210,20 +239,20 @@ function createSynths() // create all synths and connect them to globals.masterL
         s.set( {  polyphony : 24,
                   volume : 0,
                   harmonicity : 3.999,
-                  oscillator : { type: "square" },
-                  envelope : { attack: 0.03, decay: 0.3, sustain: 0.7, release: 0.8 },
-                  modulation : { volume: 12, type: "square6" },
-                  modulationEnvelope : { attack: 2, decay: 3, sustain: 0.8, release: 0.1 } } );
+                  oscillator : { type : "square" },
+                  envelope : { attack : 0.03, decay : 0.3, sustain : 0.7, release : 0.8 },
+                  modulation : { volume : 12, type : "square6" },
+                  modulationEnvelope : { attack : 2, decay : 3, sustain : 0.8, release : 0.1 } } );
         break;
 
       case "SynKeys":
         s = new Tone.PolySynth( Tone.Synth );
-        s.set( {  polyphony : 24,
-                  volume : -6,
+        s.set( {  polyphony : 12,
+                  volume : -8,
                   harmonicity : 2,
-                  oscillator : { type: "amsine2", modulationType: "sine", harmonicity: 1.01 },
-                  modulation : { volume: 13, type: "amsine2", modulationType: "sine", harmonicity: 12 },
-                  modulationEnvelope : { attack: 0.006, decay: 0.2, sustain: 0.2, release: 0.4 } });
+                  oscillator : { type : "amsine2", modulationType : "sine", harmonicity: 1.01 },
+                  modulation : { volume : 13, type : "amsine2", modulationType : "sine", harmonicity : 12 },
+                  modulationEnvelope : { attack : 0.006, decay : 0.2, sustain : 0.2, release : 0.4 } });
         break;
 
       case "Pluck":
@@ -231,27 +260,28 @@ function createSynths() // create all synths and connect them to globals.masterL
         s.set( {  polyphony : 12,
                   volume : 0,
                   harmonicity : 2,
-                  oscillator : { type: "amsine2", modulationType: "sine", harmonicity: 1.01 },
-                  envelope : { attack: 0.006, decay: 4, sustain: 0.04, release: 1.2 },
-                  modulation : { volume: 13, type: "amsine2", modulationType: "sine", harmonicity: 12 },
-                  modulationEnvelope : { attack: 0.006, decay: 0.2, sustain: 0.2, release: 0.4 } } );
+                  oscillator : { type: "amsine2", modulationType : "sine", harmonicity : 1.01 },
+                  envelope : { attack: 0.006, decay: 4, sustain : 0.04, release : 1.2 },
+                  modulation : { volume: 13, type: "amsine2", modulationType : "sine", harmonicity: 12 },
+                  modulationEnvelope : { attack: 0.006, decay: 0.2, sustain : 0.2, release : 0.4 } } );
         break;
   
       case "MiscE":
         s = new Tone.PolySynth( Tone.Synth );
-        s.set({ volume : 0,
+        s.set({ volume : -6,
                 oscillator: { type: "fatsine4", spread: 60, count: 10 },
-                envelope: { attack: 0.4, decay: 0.01, sustain: 1, attackCurve: "sine", releaseCurve: "sine", release: 0.4 } });
+                envelope: { attack: 0.4, decay: 0.01, sustain : 1, attackCurve: "sine", releaseCurve : "sine", release : 0.4 } });
         break;
 
       case "noise":
-        s = new Tone.NoiseSynth( {  volume : -12 } );
+        s = new Tone.NoiseSynth( { volume : -12 } );
         break;
 
       default:
         continue;
     }
 
+    s.canThickenFlag = ( s instanceof Tone.PolySynth ) ? true : false;
     s.connect( globals.masterLevelBlock );
     globals.instruments[ sType ] = s;
   }
@@ -301,19 +331,20 @@ function setEffectLevels( g, t )
 {
   globals.instruments[ g.instrument ].set( { envelope : CGlobals.envelopeParams[ g.envelope ] } );
 
-  // volume to be immediate or may cause high volume after a switch.
-  globals.masterLevelBlock.gain.rampTo( g.masterLevel / 100, 0 ); 
+  var mBlockLevel = g.masterLevel / 100; // bring volume down a bit.
+  if( g.thickenFlag && globals.instruments[ g.instrument ].canThickenFlag )
+    mBlockLevel *= .9; // thickening creates 2 extra voices, so reduce volume to normalize.
+
+  // volume needs to be immediate or may cause high volume after a switch.
+  globals.masterLevelBlock.gain.rampTo( mBlockLevel, 0 ); 
   globals.dryLevelBlock.gain.rampTo( g.dryLevel / 100, t );
   globals.delayLevelBlock.gain.rampTo( g.delayLevel / 100, t );
   globals.reverbLevelBlock.gain.rampTo( g.reverbLevel / 100, t );
   globals.phaserBlock.wet.rampTo( g.phaserLevel / 100, t );
-
-  if( !globals.modDistState ) // Modifier is on?
-    globals.distortionBlock.wet.rampTo( g.distortionLevel / 100, t );
-  if( !globals.modTremoloState )
-    globals.tremoloBlock.wet.rampTo( g.tremoloLevel / 100, t );
-  if( !globals.modChorusState )
-    globals.chorusBlock.wet.rampTo( g.chorusLevel / 100, t );
+  globals.filterBlock.wet.rampTo( g.filterLevel / 100, t );
+  globals.distortionBlock.wet.rampTo( g.distortionLevel / 100, t );
+  globals.tremoloBlock.wet.rampTo( g.tremoloLevel / 100, t );
+  globals.chorusBlock.wet.rampTo( g.chorusLevel / 100, t );
 }
 
 function adjustVolumeLevel( diff )
@@ -329,8 +360,15 @@ function adjustVolumeLevel( diff )
 
 function setVolumeLevel( level )
 {
-  globals.cfg.groups[ globals.cursor.cg ].masterLevel = level;
-  globals.masterLevelBlock.gain.rampTo( level / 100, 1 );
+  var g = globals.cfg.groups[ globals.cursor.cg ];
+  g.masterLevel = level;
+ 
+  var mBlockLevel = level / 100; // bring volume down a bit.
+  if( g.thickenFlag && globals.instruments[ g.instrument ].canThickenFlag )
+    mBlockLevel *= .9; // thickening creates 2 extra voices, so reduce volume to normalize.
+
+  globals.masterLevelBlock.gain.rampTo( mBlockLevel, .5 ); 
+ 
   configEdited( true );
   // tweaking UI here is kind of aside effect.
   const newHtml =  "Vol:" + level;
@@ -464,6 +502,8 @@ function playCSample( audioElem )
 function playCChord( audioElem )
 {
   instrument = globals.cfg.groups[ audioElem.group ].instrument;
+  globals.ae.synth = globals.instruments[ instrument ];
+  globals.ae.group = globals.cfg.groups[ globals.cursor.cg ];
 
   var frequencies = [];
   for( var noteIx = 0;noteIx < 32;noteIx++ ) // noteIx 0, ocatve 0 is C4
@@ -471,14 +511,13 @@ function playCChord( audioElem )
     {
       var noteOffset = noteIx - 9 + audioElem.octave * 12; // semitone offset from A440
       var freq = 440 * Math.pow( 2, noteOffset / 12 );
-      var voices = globals.cfg.groups[ globals.cursor.cg ].thickenFlag ? [ freq *.996, freq, freq * 1.004 ] : [ freq ]; // detuned voices for thickness
+      var voices = ( globals.ae.group.thickenFlag && globals.instruments[ instrument ].canThickenFlag ) ? 
+                   [ freq *.996, freq, freq * 1.004 ] : [ freq ]; // detuned voices for thickness
       frequencies = frequencies.concat( voices );
     }
 
-  globals.ae.synth = globals.instruments[ instrument ];
   globals.ae.chordNotes = frequencies;
   globals.ae.synth.triggerAttack( frequencies );
-  globals.ae.group = globals.cfg.groups[ globals.cursor.cg ];
   const sMode = globals.cfg.groups[ globals.cursor.cg ].seqMode;
 
   if( ( sMode == CGlobals.seqModes[ 2 ] ) || ( sMode == CGlobals.seqModes[ 3 ] ) )
@@ -655,15 +694,4 @@ function stopArpeggio()
     } 
   }
   globals.ae = undefined;
-}
-
-function doModAudio( modifier, state )
-{
-  switch( modifier )
-  {
-    case "filter":      globals.filterBlock.wet.rampTo( state ? 1 : 0, 1 );       break;
-    case "tremolo":     globals.tremoloBlock.wet.rampTo( state ? 1 : 0, 1 );      break;
-    case "chorus":      globals.chorusBlock.wet.rampTo( state ? 1 : 0, 1 );       break;
-    case "distortion":  globals.distortionBlock.wet.rampTo( state ? .2 : 0, .5 ); break;
-  }
 }

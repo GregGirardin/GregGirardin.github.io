@@ -176,6 +176,7 @@ function setCursor( g, e )
   setArpState( g.arpFlag ); // need to update the highlight status
   setTempoMs( g.tempoMs ); // set the tempo to this group
   setChordLabels();
+  adjustVolumeLevel( 0 );
 }
 
 function groupClick( groupIndex )
@@ -366,6 +367,7 @@ function cloneGroup()
   newGroup.distortionLevel = copyGroup.distortionLevel;
   newGroup.chorusLevel = copyGroup.chorusLevel;
   newGroup.phaserLevel = copyGroup.phaserLevel;
+  newGroup.filterLevel = copyGroup.filterLevel;
   newGroup.tremoloLevel = copyGroup.tremoloLevel;
   newGroup.dryLevel = copyGroup.dryLevel;
   newGroup.reverbLevel = copyGroup.reverbLevel;
