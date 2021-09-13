@@ -12,3 +12,9 @@ files to curSampleConfig, but don't save in json.
 Synthesis / MIDI
 
 Volume / Fade in/out
+
+
+Closing Wednesday
+
+Tammy. Treworgy & Baldacc.
+
