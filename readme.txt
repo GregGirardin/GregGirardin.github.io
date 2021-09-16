@@ -18,12 +18,19 @@ Closing Wednesday
 
 Tammy. Treworgy & Baldacc.
 
-Try BoA Windham
-
-BoA - Nortrhgate Plaza
-
-Mike:
-
-Betty: 
-
 153946.99 to Trewrogy & Baldacci.
+
+
+
+business?
+
+LLC $500 (liability, accounting) Capital gains if you sell.
+Could put band in LLC.
+
+Sean Bell - to create LLC
+
+1) Call Sean Bell to create LLC
+2) Open checking acct in its name @ Mechanics.
+3) Physical checks?
+
+
