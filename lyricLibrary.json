@@ -3016,13 +3016,6 @@
     "lyrics": "V: D A Bm G A D\nA D\nA5  B5          A5    D\nB: G D A\n\nI: F# B F# G#m F# G#m F#\n\nJessie is a friend yeah I know, he's been a good friend of mine\nBut lately something's changed, it ain't hard to define\nJessie's got himself a girl, and I wanna make her mine\n \n  And she's watchin' him with those eyes\n  And she's lovin' him with that body, I just know it\n  And he's holdin' her in his arms, late late at night\n  \n  Y'know, I wish that I had Jessie's girl\n  I wish that I had Jessie's girl\n  Where can I find a woman like that?\n \nI'll play along with the charade\nThere doesn't seem to be a reason to change\nY'know I feel so dirty when they start talkin' cute\nI wanna tell her that I love her but the point is prob'ly moot\n\n  And she's watchin...\n \n    And I'm lookin' in the mirror all the time\n    Wond'rin' what she don't see in me\n    Yeah I've been funny I've been cool with the lines\n    Ain't that the way love's supposed to be?\n \nTell me, where can I find a woman like that?\n\ne|------------12---------------------------------17---------|\nB|---------------12----15-12----15--------17b(19)---(19)r17-|\nG|-7-7-7-7~~--------14-------14----14-----------------------|\n \ne|-10-----------10------------14-12-10-10/--15-14-12----12----|\nB|----12-11-10-----12-11-10--------------------------15----15~|\nG|------------------------------------------------------------|\n \ne|----------9--------------------------\nB|----10-12---10----12--10--12--14-15~~\nG|-11---------------12--11--12--14-14~~\n\n",
     "key": "D"
   },
-  "Paranoid.Black_Sabbath": {
-    "name": "Paranoid",
-    "artist": "Black Sabbath",
-    "id": "Paranoid.Black_Sabbath",
-    "lyrics": "Finished with my woman 'cause she couldn't help me with my mind\npeople think I'm insane because I am frowning all the time\nAll day long I think of things but nothing seems to satisfy\nThink I'll lose my mind if I don't find something to pacify\n\nCan you help me occupy my brain?\nOh yeah\n\nI need someone to show me the things in life that I can't find\nI can't see the things that make true happiness, I must be blind\n\nMake a joke and I will sigh and you will laugh and I will cry\nHappiness I cannot feel and love to me is so unreal\n\nAnd so as you hear these words telling you now of my state\nI tell you to enjoy life I wish I could but it's too late\ne|--------------------------------|\nB|--------------------------------|\nG|-7h9--7h9--7h9------7h9-----7h9-|\nD|-7h9--7h9--7h9--7h9-----7h9-----|\nA|-7----7----7--------------------|\nE|--------------------------------|\n\nEm D G  D  Em\n\n",
-    "key": "E"
-  },
   "Under_the_Milky_Way.The_Church": {
     "name": "Under the Milky Way",
     "artist": "The Church",
@@ -3050,5 +3043,12 @@
     "id": "I_Want_You_To_Want_Me.Cheap_Trick",
     "lyrics": "I: (drums x 4) A   G D A\n1: A F#m D           <- \"I want you..\"\n2: F#m B G [A | F#m] <- \"I'd shine up..\"\n3: A E F#m D         <- \"Didn't I..\"\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\nI want you to want me I need you to need me\nI'd love you to love me\n  I'd shine up my old brown shoes I'd put on a brand new shirt\n  I'd get home early from work If you'd say that you love me\n    Didn't I, didn't I, didn't I see you cryin...\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n  I'd shine up..\n    Didn't I...\n\n    Solo (3)\n\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n\nI want you to want me..\n\nIntro\n",
     "key": "A"
+  },
+  "Paranoid.Black_Sabbath": {
+    "name": "Paranoid",
+    "artist": "Black Sabbath",
+    "id": "Paranoid.Black_Sabbath",
+    "lyrics": "Finished with my woman 'cause she couldn't help me with my mind\npeople think I'm insane because I am frowning all the time\nAll day long I think of things but nothing seems to satisfy\nThink I'll lose my mind if I don't find something to pacify\n\n  Can you help me occupy my brain?\n\nI need someone to show me the things in life that I can't find\nI can't see the things that make true happiness, I must be blind\n\nMake a joke and I will sigh and you will laugh and I will cry\nHappiness I cannot feel and love to me is so unreal\n\nAnd so as you hear these words telling you now of my state\nI tell you to enjoy life I wish I could but it's too late\n\nG|-7h9--7h9--7h9------7h9-----7h9-|\nD|-7h9--7h9--7h9--7h9-----7h9-----|\nA|-7----7----7--------------------|\nE|--------------------------------|\n\nEm D G D\n\n",
+    "key": "E"
   }
 }
