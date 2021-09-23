@@ -15,11 +15,8 @@ Volume / Fade in/out
 
 
 Closing Wednesday
-
 Tammy. Treworgy & Baldacc.
-
 153946.99 to Trewrogy & Baldacci.
-
 
 
 business?
@@ -34,3 +31,11 @@ Sean Bell - to create LLC
 3) Physical checks?
 
 
+Dr Apt: 
+
+Dec 9: 1:50 Jen Coutoure.
+
+
+She's a Beauty
+Broken Wings
+Flagpole Sitta 
