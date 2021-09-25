@@ -30,7 +30,6 @@ Sean Bell - to create LLC
 2) Open checking acct in its name @ Mechanics.
 3) Physical checks?
 
-
 Dr Apt: 
 
 Dec 9: 1:50 Jen Coutoure.
@@ -38,4 +37,8 @@ Dec 9: 1:50 Jen Coutoure.
 
 She's a Beauty
 Broken Wings
-Flagpole Sitta 
+Flagpole Sitta
+
+
+
+Leprous album Contagion.
