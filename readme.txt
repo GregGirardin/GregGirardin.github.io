@@ -48,3 +48,11 @@ Leprous album Contagion.
 Momo house stuff.
 
 
+Guitars / picks
+AX8
+Power cables (AX8 / Monitor )
+Monitor
+XLRs
+tablet
+
+46 harriman drive.. out back.
