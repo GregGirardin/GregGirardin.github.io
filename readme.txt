@@ -1,6 +1,5 @@
 A javascript sample player.
 
-
 Notes:
 
 Handle files w/ spaces
@@ -32,21 +31,12 @@ Sean Bell - to create LLC
 
 Dr Apt: 
 
-Dec 9: 1:50 Jen Coutoure.
 
 
 She's a Beauty
 Broken Wings
 Flagpole Sitta
 
-Tyler Angell
-
-
-Leprous album Contagion.
-
-
-
-Momo house stuff.
 
 
 Guitars / picks
@@ -55,8 +45,3 @@ Power cables (AX8 / Monitor )
 Monitor
 XLRs
 tablet
-
-46 harriman drive.. out back.
-
-
-
