@@ -2694,13 +2694,6 @@
     "lyrics": "C: C Em\nV: Em C\nP: Em7 Em6 C Em\n\nAh, look at all the lonely people\n\nEleanor Rigby picks up the rice in the church where a wedding has been, lives in a dream\nWaits at the window, wearing the face that she keeps in a jar by the door, who is it for?\n\n  All the lonely people where do they all [come from | belong ]\n\nFather McKenzie writing the words of a sermon that no one will hear, no one comes near.\nLook at him working. darning his socks in the night when there's nobody there, what does he care?\n\nChorus\n\n  Ah, look at all the lonely people x 2\n\nEleanor Rigby died in the church and was buried along with her name, nobody came\nFather McKenzie wiping the dirt from his hands as he walks from the grave, no one was saved\n\nChorus",
     "key": "C"
   },
-  "Evenflow.Pearl_Jam": {
-    "name": "Evenflow",
-    "artist": "Pearl Jam",
-    "id": "Evenflow.Pearl_Jam",
-    "lyrics": "V: C D\nC: D Bb D C - (D Am C)\n\nB|-------5---x-7----7-7----------|-------------------|\nG|-------5---x-7----7-7----------|-7-5---------------|\nD|-/7--x-------0---------6-5-3-0-|-----6-5-3-0-3-5-0-|\n\nFreezin, rests his head on a pillow made of concrete, again\nOh, feelin maybe he'll see a little better set a days,   ooh yeah\nOh, hand out, faces that he sees time again ain't that familiar,  ooh yeah\nOh, dark grin, he can't help, when he's happy looks insane,  oh yeah\n \n  Even flow, thoughts arrive like butterflies\n  Oh, he don't know, so he chases them away, yeah...ooh...\n  Oh, someday yet, he'll begin his life again\n \nKneelin, looking through the paper through he doesn't know to read\nOh, prayin, now to something that has never showed him anything\nOh, feelin, understands the weather of the winters on its  way\nOh, ceilings, few and far between all the legal halls of shame,  yeah...\n \n  Even flow, thoughts arrive like butterflies\n  Oh, he don't know, so he chases them away, yeah...ooh..\n  Oh, someday yet, he'll begin his life again\n  Oh, whispering hands, gently lead, lead him away.\n  \n  Solo\n \n  Even flow...\n",
-    "key": "D"
-  },
   "Round_And_Round.Ratt": {
     "name": "Round And Round",
     "artist": "Ratt",
@@ -3134,5 +3127,12 @@
     "id": "Slow_And_Easy.Whitesnake",
     "lyrics": "You keep on pushing babe, like I've never known before\nYou know you drive me crazy child, I just wanna see you on the floor\nI wanna superstitious woman, she got a superstitious mind\n \nI can't see you baby, I can't see you anymore, no more\nYou keep on loving me, like I've never known before\nI wanna superstitious woman with a superstitious, a superstitious mind.. I don't mind, baby\n \nMy heart is beating faster babe, it's beating like a big bass drum\nYou know you got me speeding child, faster than a bullet from a gun\nYou're a superstitious woman an I got a superstitious mind, an I don't care\n \n   So take me down slow an easy make love to me slow an easy\n   I know that hard luck an trouble is coming my way,\n   So rock me til I'm burned to the bone x 3\n   \nSolo\n\nChorus\n",
     "key": "G"
+  },
+  "Evenflow.Pearl_Jam": {
+    "name": "Evenflow",
+    "artist": "Pearl Jam",
+    "id": "Evenflow.Pearl_Jam",
+    "lyrics": "V: C D\n\nC: D Bb D C - (D Am C)\n  r1                       r2\nB|-------5---x-7----7-----|-------------------|\nG|-------5---x-7----7-7---|-7-5---------------|\nD|-/7--x-------0----------|-----6-5-3-0-3-5-0-|\n\nFreezin, rests his head on a pillow made of concrete, again\nOh feelin maybe he'll see a little better set a days, ooh yeah\nOh hand out faces that he sees time again ain't that familiar, ooh yeah\nOh dark grin, he can't help, when he's happy looks insane, oh yeah\n \n  (r2 / r1 / r2)\n\n  Even flow, thoughts arrive like butterflies\n  Oh he don't know, so he chases them away, yeah.\n  Oh someday yet, he'll begin his life again.\n  Life again.. life again\n \nKneelin, looking through the paper through he doesn't know to read\nOh prayin now to something that has never showed him anything\nOh feelin understands the weather of the winters on its  way\nOh ceilings few and far between all the legal halls of shame, yeah...\n\n  r2\n\n  Chorus +\n  Oh whispering hands, gently lead, lead him away.\n  him away, him away\n\n  r3\n\nSolo\n \n  C2\n",
+    "key": "D"
   }
 }
