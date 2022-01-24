@@ -2533,13 +2533,6 @@
     "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
     "key": "Am"
   },
-  "Beat_It.Michael_Jackson": {
-    "name": "Beat It",
-    "artist": "Michael Jackson",
-    "id": "Beat_It.Michael_Jackson",
-    "lyrics": "They told him, \"Don't you ever come around here\"\n\"Don't wanna see your face, you better disappear\"\nThe fire's in their eyes and their words are really clear\nSo beat it, just beat it\n\nYou better run, you better do what you can\nDon't wanna see no blood, don't be a macho man\nYou wanna be tough, better do what you can\nSo beat it, but you wanna be bad\n\n  Just beat it (beat it), beat it \n  No one wants to be defeated\n  Showin' how funky and strong is your fight\n  It doesn't matter who's wrong or right\n  Just beat it\n\nThey're out to get you, better leave while you can\nDon't wanna be a boy, you wanna be a man\nYou wanna stay alive, better do what you can\nSo beat it, just beat it\n\nYou have to show them that you're really not scared\nYou're playin' with your life, this ain't no truth or dare\nThey'll kick you, then they'll beat you\nThen they'll tell you it's fair\nSo beat it, but you wanna be bad\n\n  Chorus x 2\n\nSolo\n\n  Chorus x 2\n",
-    "key": "Em"
-  },
   "Free_Bird.Lynyrd_Skynrd": {
     "name": "Free Bird",
     "artist": "Lynyrd Skynrd",
@@ -2707,13 +2700,6 @@
     "id": "Refugee.Tom_Petty",
     "lyrics": "V: (F#m A E) D B\nB: E A D\n\nWe got something we both know it we don't talk too much about it\nAin't no real big secret all the same somehow we get around it\n\n  Listen, it don't really matter to me, baby\n  You believe what you want to believe\n  You see, you don't have to live like a refugee\n  Don't have to live like a refugee\n\nSomewhere, somehow, somebody must have kicked you around some\nTell me why you wanna lay there and revel in your abandon\n\n  Honey, it don't make no difference to me, baby\n  Everybody's had to fight to be free\n  You see, you don't have to live like a refugee\n  (Don't have to live like a refugee)\n\n    Baby, we ain't the first I'm sure a lot of other lovers been burned\n    Right now this seems real to you\n    But it's one of those things you got to feel to be true\n\nSomewhere, somehow, somebody must have kicked you around some\nWho knows, maybe you were kidnapped tied up, taken away, and held for ransom\n\n  Honey, it don't really matter to me, baby\n  Everybody's had to fight to be free\n  You see, you don't have to live like a refugee\n  (Don't have to live like a refugee)\n",
     "key": "F#m"
-  },
-  "New_Sensation.INXS": {
-    "name": "New Sensation",
-    "artist": "INXS",
-    "id": "New_Sensation.INXS",
-    "lyrics": "Live baby live now that the day is over\nI gotta new sensation in perfect moments\nImpossible to refuse \nSleep baby sleep mow that the night is over\nAnd the sun comes like a god into our room\nAll perfect light and promises\n  \n  Gotta hold on you\n  A new sensation, a new sensation\n  Right now, I'm gonna take you over\n  A new sensation, a new sensation\n \nDream baby dream of all that's come and going\nAnd you will find out in the end there really is\nThere really is no difference\nCry baby cry when you got to get it out\nI'll be your shoulder you can tell me all\nDon't keep it in ya\nWell that's the reason why I'm here\n\nHey hey\n\n  Are you ready for a new sensation, new sensation Right now\n  Gonna take you on a ..\n\nSolo\n\nHate baby hate when there's nothing left for you\nYou're only human what can you do it'll soon be over\nDon't let your pain take over you\nLove baby love it's written all over your face\nThere's nothing better we could do than live forever\nWell that's all we've got to do\n\n  Chorus\n",
-    "key": "E"
   },
   "Wait.White_Lion": {
     "name": "Wait",
@@ -3121,6 +3107,13 @@
     "lyrics": "V: C F/C Bb F C C: (Bb Dm C) G\n\nAs soon as you are able, woman, I am willin\nTo make the break that we are on the brink of\nMy cup is on the table, our love is spillin\nWaitin here for you to take a drink of\n\n  So if you're tired of the same old story\n  Oh, turn some pages\n  I'll be here when you are ready\n  To roll with the changes Yeah, yeah, whoo\n\nI knew it had to happen, felt the tables turnin\nGot me through my darkest hour\nI heard the thunder clappin, felt the desert burnin\nUntil you poured on me like a sweet sun shower\n\n  Chorus / Solo / Chorus\n\nKeep on rollin...\n",
     "key": "C"
   },
+  "Beat_It.Michael_Jackson": {
+    "name": "Beat It",
+    "artist": "Michael Jackson",
+    "id": "Beat_It.Michael_Jackson",
+    "lyrics": "They told him, don't you ever come around here\nDon't wanna see your face, you better disappear\nThe fire's in their eyes and their words are really clear\nSo beat it, just beat it\n\nYou better run you better do what you can\nDon't wanna see no blood don't be a macho man\nYou wanna be tough better do what you can\nSo beat it, but you wanna be bad\n\n  Just beat it beat it.. no one wants to be defeated\n  Showin how funky and strong is your fight\n  It doesn't matter who's wrong or right, just beat it\n\nThey're out to get you, better leave while you can\nDon't wanna be a boy, you wanna be a man\nYou wanna stay alive, better do what you can\nSo beat it, just beat it\n\nYou have to show them that you're really not scared\nYou're playin' with your life, this ain't no truth or dare\nThey'll kick you, then they'll beat you then they'll tell you it's fair\nSo beat it, but you wanna be bad\n\n  Chorus x 2 / Solo / Chorus x 2\n",
+    "key": "Em"
+  },
   "Slow_And_Easy.Whitesnake": {
     "name": "Slow And Easy",
     "artist": "Whitesnake",
@@ -3132,7 +3125,14 @@
     "name": "Evenflow",
     "artist": "Pearl Jam",
     "id": "Evenflow.Pearl_Jam",
-    "lyrics": "V: C D\n\nC: D Bb D C - (D Am C)\n  r1                       r2\nB|-------5---x-7----7-----|-------------------|\nG|-------5---x-7----7-7---|-7-5---------------|\nD|-/7--x-------0----------|-----6-5-3-0-3-5-0-|\n\nFreezin, rests his head on a pillow made of concrete, again\nOh feelin maybe he'll see a little better set a days, ooh yeah\nOh hand out faces that he sees time again ain't that familiar, ooh yeah\nOh dark grin, he can't help, when he's happy looks insane, oh yeah\n \n  (r2 / r1 / r2)\n\n  Even flow, thoughts arrive like butterflies\n  Oh he don't know, so he chases them away, yeah.\n  Oh someday yet, he'll begin his life again.\n  Life again.. life again\n \nKneelin, looking through the paper through he doesn't know to read\nOh prayin now to something that has never showed him anything\nOh feelin understands the weather of the winters on its  way\nOh ceilings few and far between all the legal halls of shame, yeah...\n\n  r2\n\n  Chorus +\n  Oh whispering hands, gently lead, lead him away.\n  him away, him away\n\n  r3\n\nSolo\n \n  C2\n",
+    "lyrics": "V: C D\nC: D Bb D C - (D Am C)\n  r1                       r2\nB|-------5---x-7----7-----|-------------------|\nG|-------5---x-7----7-7---|-7-5---------------|\nD|-/7--x-------0----------|-----6-5-3-0-3-5-0-|\n\nFreezin, rests his head on a pillow made of concrete, again\nOh feelin maybe he'll see a little better set a days, ooh yeah\nOh hand out faces that he sees time again ain't that familiar, ooh yeah\nOh dark grin, he can't help, when he's happy looks insane, oh yeah\n \n  (r2 / r1 / r2)\n\n  Even flow, thoughts arrive like butterflies\n  Oh he don't know, so he chases them away, yeah.\n  Oh someday yet, he'll begin his life again.\n  Life again.. life again\n \nKneelin, looking through the paper through he doesn't know to read\nOh prayin now to something that has never showed him anything\nOh feelin understands the weather of the winters on its  way\nOh ceilings few and far between all the legal halls of shame, yeah...\n\n  r2\n\n  Chorus +\n  Oh whispering hands, gently lead, lead him away.\n  him away, him away\n\n  r3\n\nSolo\n \n  C2\n",
     "key": "D"
+  },
+  "New_Sensation.INXS": {
+    "name": "New Sensation",
+    "artist": "INXS",
+    "id": "New_Sensation.INXS",
+    "lyrics": "Live baby live now that the day is over\nI gotta new sensation, in perfect moments, impossible to refuse\nSleep baby sleep mow that the night is over\nAnd the sun comes like a god into our room, all perfect light and promises\n  \n  Gotta hold on you, a new sensation..\n  Right now, I'm gonna take you over a new sensation..\n \nDream baby dream of all that's come and going\nAnd you will find out in the end there really is, there really is no difference\nCry baby cry when you got to get it out\nI'll be your shoulder you can tell me all don't keep it in ya\nWell that's the reason why I'm here\n\n  Are you ready for a new sensation Right now\n  Gonna take you on a new sensation\n\nSolo\n\nHate baby hate when there's nothing left for you\nYou're only human what can you do it'll soon be over, don't let your pain take over you\nLove baby love it's written all over your face\nThere's nothing better we could do than live forever well that's all we've got to do\n\n  Chorus\n",
+    "key": "E"
   }
 }
