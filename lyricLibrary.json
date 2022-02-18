@@ -2505,13 +2505,6 @@
     "lyrics": "Mustang Sally, guess you better slow your Mustang down\nMustang Sally, now baby, guess you better slow your Mustang down \nYou been running all over the town now\nOh! I guess I'll have to put your flat feet on the ground\n\n  All you want to do is ride around Sally.. Ride, Sally, ride\n  One of these early mornings oh\n  You gonna be wiping your weeping eyes\n\nI bought you a brand new Mustang about nineteen sixty five\nNow you come around signifying a woman you don't wanna let me ride\n\n  Mustang Sally now baby\n  Guess you better slow that Mustang down\n  You been running all over the town\n  Oh! I'll have to put your flat feet on the ground\n",
     "key": "C"
   },
-  "Don_t_You_Forget_About_Me.Simple_Minds": {
-    "name": "Don't You Forget About Me",
-    "artist": "Simple Minds",
-    "id": "Don_t_You_Forget_About_Me.Simple_Minds",
-    "lyrics": "I: (D E) C DV: E D A D\nB: C G D A\n\nHey..\n\nWon't you come see about me? I'll be alone, dancing you know it baby\nTell me your troubles and doubts giving me everything inside and out and\nLove's strange so real in the dark think of the tender things that we were working on\nSlow change may pull us apart when the light gets into your heart, baby\n\n  Don't you forget about me\n\n  Will you stand above me? Look my way, never love me\n  Rain keeps falling, rain keeps falling down..\n  Will you recognise me? Call my name or walk on by\n  Rain keeps falling, rain keeps falling down.\n\nIntro\n\nDon't you try to pretend it's my feeling we'll win in the end\nI won't harm you or touch your defenses vanity and security\nDon't you forget about me I'll be alone dancing you know it baby\nGoing to take you apart I'll put us back together at heart baby\n\n  Don't you forget about me x 2\n  As you walk on by will you call my name? x 2\n  When you walk away Or will you walk away?\n  Will you walk on by? Come on call my name\n  Will you all my name? I say...\n\n  La..\n",
-    "key": "E"
-  },
   "Babylon.Don_McLean": {
     "name": "Babylon",
     "artist": "Don McLean",
@@ -3156,13 +3149,6 @@
     "lyrics": "I: D Cadd9 G (\"Boo hoo\" F C)\n \nBig wheels keep on turningCarry me home to see my kin\nSinging songs about the south land\nI miss ole bamy once again and I think it's a sin\n\nWell I heard Mr. Young sing about her\nWell I heard old Neil put her down\nWell I hope Neil Young will remember\nA southern man don't need him around anyhow\n \n  Sweet home Alabama where the skies are so blue\n  Sweet home Alabama Lord I'm coming home to you\n\nSolo\n\nIn Birmingham they love the govnor, boo-hoo\nNow we all did what we could do\nNow Watergate does not bother me\nDoes you conscience bother you, tell the truth!\n\nChorus / Solo / Riff x 2\n\nNow Muscle Shoals has got the Swappers\nAnd they've been known to pick a song or two\nLord they get me off so much\nThey pick me up when I'm feeling blue now how bout you?\n\n  Chorus\n",
     "key": "D"
   },
-  "Come_As_You_Are.Nirvana": {
-    "name": "Come As You Are",
-    "artist": "Nirvana",
-    "id": "Come_As_You_Are.Nirvana",
-    "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D\nC: Em G\nB: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your dont be late\nTake a rest as a friend as an old memory    \n \n  Memory ah\n \nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old memory\n \n  Memory\n \n    And I swear that I dont have a gun\n    No I dont have a gun\n \n  Solo\n\n  Memory ah\n \n    And I swear...\n \n  Memory ah\n",
-    "key": "Em"
-  },
   "Should_I_Stay_.The_Clash": {
     "name": "Should I Stay ",
     "artist": "The Clash",
@@ -3176,5 +3162,19 @@
     "id": "One_Thing_Leads_To_Another.The_Fixx",
     "lyrics": "The deception with tact, just what are you trying to say\nYou've got a blank face, which irritates, communicate pull out your party piece\nYou see dimensions, in two, state your case with black or white\nBut when one little cross leads to shots grit your teeth\nYou run for cover so discreet why don't they\n\n  Do what they say, say what you mean, one thing leads to another\n  You told me something wrong I know I listen too long but then\n  One thing leads to another\n\nThe impression that you sell, passes in and out like a scent\nBut the long face that you see, comes from living close to your fears\nIf this is up then I'm up but you're running out of sight, you've seen your name on the walls\nAnd when one little bump leads to shock miss a beat\nYou run for cover and there's heat why don't they\n\n  Chorus\n\n    One thing leads to another..\n\nThen it's easy to believe, somebody's been lying to me\nBut when the wrong word goes in the right ear, I know you've been lying to me\nIt's getting rough off the cuff I've got to say enough's enough, bigger the harder he falls\nBut when the wrong antidote is like a bone in the throat\nYou run for cover in the heat why don't they\n\nChorus",
     "key": ""
+  },
+  "Come_As_You_Are.Nirvana": {
+    "name": "Come As You Are",
+    "artist": "Nirvana",
+    "id": "Come_As_You_Are.Nirvana",
+    "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D    C: Em G    B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old memory    \n \n  Memory ah\n \nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old memory\n \n  Memory\n \n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory ah\n \n    And I swear...\n \n  Memory ah\n\n",
+    "key": "Em"
+  },
+  "Don_t_You_Forget_About_Me.Simple_Minds": {
+    "name": "Don't You Forget About Me",
+    "artist": "Simple Minds",
+    "id": "Don_t_You_Forget_About_Me.Simple_Minds",
+    "lyrics": "I: (D E) C DV: E D A D\nB: C G D A\n\nHey..\n\nWon't you come see about me? I'll be alone, dancing you know it baby\nTell me your troubles and doubts giving me everything inside and out and\nLove's strange so real in the dark think of the tender things that we were working on\nSlow change may pull us apart when the light gets into your heart, baby\n\n  Don't you forget about me\n\n  Will you stand above me? Look my way, never love me\n  Rain keeps falling, rain keeps falling down..\n  Will you recognize me? Call my name or walk on by..\n\nIntro\n\nDon't you try to pretend it's my feeling we'll win in the end\nI won't harm you or touch your defenses vanity and security\nDon't you forget about me I'll be alone dancing you know it baby\nGoing to take you apart I'll put us back together at heart baby\n\n  Don't you forget about me x 2\n  As you walk on by will you call my name? x 2\n  When you walk away Or will you walk away?\n  Will you walk on by? Come on call my name\n  Will you all my name? I say...\n\n  La..\n\n",
+    "key": "E"
   }
 }
