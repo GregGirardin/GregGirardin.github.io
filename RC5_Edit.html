@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RC5 Config Editor</title>
+<style>
+
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+</style>
+</head>
+
+<body align="left">
+<section>
+<div>
+<input type='file' class='css_menuButton' id='openConfigAction' style='display:none'>
+<button class='css_menuButton' id='openConfigButton' onclick='openConfig();'>Open</button>
+<button class='css_menuButton' id='saveConfigButton' onclick='saveConfig();'>Save</button>
+<hr>
+<div id='fileData'> </div>
+</div>
+</section>
+
+<script>
+var configEditedFlag = false;
+var rc5_XML;
+var memEntries;
+
+//////////////////////////// //////////////////////////// ////////////////////////////
+//////////////////////////// //////////////////////////// ////////////////////////////
+window.onload = rc5EditInit;
+
+/////////////// /////////////// /////////////// ///////////////
+function rc5EditInit()
+{
+  document.getElementById( 'openConfigAction' ).addEventListener( 'change', openConfigFile, false );
+}
+
+function openConfig()
+{
+  if( configEditedFlag )
+    if( !window.confirm( "Unsaved Edits. Continue?" ) )
+      return;
+
+  configEditedFlag = false;
+  document.getElementById( 'openConfigAction' ).click(); // this little hack is so we can css the open button
+}
+
+function openConfigFile( e )
+{
+  var file = e.target.files[ 0 ];
+  if( !file )
+    return;
+  // if( file.name != "MEMORY1.RC0" )
+  // {
+  //   alert( "File name must be MEMORY1.RC0" );
+  //   return;
+  // }
+
+  var reader = new FileReader();
+  reader.onload = function( e )
+  {
+    var parser = new DOMParser();
+    rc5_XML = parser.parseFromString( e.target.result, "text/xml" );
+    memEntries = rc5_XML.getElementsByTagName( "mem" );
+
+    generateConfigHTML();
+
+    document.getElementById( 'openConfigAction' ).value = null;
+  }
+
+  reader.readAsText( file );
+}
+
+var startModes = [ "Immediate", "FadeIn" ];
+var stopModes = [ "Immediate", "FadeOut", "LoopEnd" ];
+var dubModes = [ "Overdub", "Replace" ];
+var fadeTimes = [ "1/16", "1/8", "1/4", "1/2", "1M", "2M", "4M" ];
+
+function getEntryIx( array, entry )
+{
+  for( var ix = 0;ix < array.length;ix++ )
+    if( array[ ix ] == entry )
+      return ix;
+  
+  return -1;
+}
+
+function generateConfigHTML()
+{
+  var accords;
+  var tempHtml = "";
+
+  for( var memLoc = 0;memLoc <= memEntries.length;memLoc++ ) // valid memLoc < 1 - 99 > 
+  {
+    var memString;
+
+    if( ( memLoc > 0 ) && ( ( memLoc % 10 ) == 0 ) )
+      tempHtml += "</br>";
+
+    var validLoc = ( ( memLoc >= 1 ) && ( memLoc <= 99 ) ) ? true : false;
+
+    tempHtml += "<button class='accordion'>";
+    if( validLoc )
+      memString = memLoc.toString();
+    else
+      memString = "--"; // not a valid memory slot
+
+    if( memString.length == 1 )
+      memString = "0" + memString;
+    tempHtml += memString + "</button>\n";
+
+    if( !validLoc )
+      continue; // 1 - 99.
+
+    var entry = memEntries[ memLoc - 1 ]; // entries are 0 based.
+
+    var elem = entry.getElementsByTagName( "NAME" );
+    var loopName = "";
+
+    for( var ix = 0;ix < 12;ix++ )
+      loopName += String.fromCharCode( parseInt( elem[ 0 ].childNodes[ 1 + ix * 2 ].innerHTML ) );
+
+    var elem = entry.getElementsByTagName( "TRACK1" );
+    // if( memLoc == 1 )
+    //  console.log( "TRACK1", elem[ 0 ].childNodes );
+    var PlyLvl  = parseInt( elem[ 0 ].childNodes[  3 ].innerHTML );
+    var Pan     = parseInt( elem[ 0 ].childNodes[  5 ].innerHTML );
+    var One     = parseInt( elem[ 0 ].childNodes[  7 ].innerHTML );
+    var StrtMod = parseInt( elem[ 0 ].childNodes[  9 ].innerHTML );
+    var StpMod  = parseInt( elem[ 0 ].childNodes[ 11 ].innerHTML );
+    var MeasLen = parseInt( elem[ 0 ].childNodes[ 17 ].innerHTML );
+    var RecTmp  = parseInt( elem[ 0 ].childNodes[ 21 ].innerHTML );
+    var WavLen  = parseInt( elem[ 0 ].childNodes[ 25 ].innerHTML );
+
+    var elem = entry.getElementsByTagName( "MASTER" );
+    // if( memLoc == 1 )
+    //   console.log( "MASTER", elem[ 0 ].childNodes );
+    var Tempo     = parseInt( elem[ 0 ].childNodes[ 1 ].innerHTML );
+    var DubMode   = parseInt( elem[ 0 ].childNodes[ 3 ].innerHTML );
+    var FadeTime  = parseInt( elem[ 0 ].childNodes[ 9 ].innerHTML );
+
+    var elem = entry.getElementsByTagName( "RHYTHM" );
+    var Beat = parseInt( elem[ 0 ].childNodes[ 13 ].innerHTML );
+
+    tempHtml += "<div class='panel'>\n";
+    tempHtml += "Memory " + memString + "<br><br>\n";
+    tempHtml += "Name: <input contenteditable='true' id='sampleName" + 
+                memString + "' maxlength='12' value='" + loopName + "'><br>\n";
+    tempHtml += "PlyLvl: <input type='number' id='samplePlyLvl" +
+                memString + "' min='0' max='200' value='" + PlyLvl + "'><br>\n";
+    tempHtml += "Pan: <input type='number' id='samplePan" +
+                memString + "' min='-50' max='50' value='" + Pan + "'><br>\n";
+
+    var c = One ? "checked" : "";
+    tempHtml += "One shot: <input type='checkbox' id='sampleOne" + memString + "' " + c + "><br>\n";
+
+    // Start mode
+    tempHtml += "Start:<select id='sampleStartMode" + memString + "'>";
+    for( i = 0;i < startModes.length;i++ )
+    {
+      tempHtml += "<option value='" + startModes[ i ] + "' ";
+      if( StrtMod == i )
+        tempHtml += "selected='selected'";
+      tempHtml += ">" + startModes[ i ] + "</option>";
+    }
+    tempHtml += "</select><br>\n";
+
+    // Stop mode
+    tempHtml += "Stop:<select id='sampleStopMode" + memString + "'>";
+    for( i = 0;i < stopModes.length;i++ )
+    {
+      tempHtml += "<option value='" + stopModes[ i ] + "' ";
+      if( StpMod == i )
+        tempHtml += "selected='selected'";
+      tempHtml += ">" + stopModes[ i ] + "</option>";
+    }
+    tempHtml += "</select><br>\n";
+
+    // fade time
+    tempHtml += "Fade:<select id='sampleFadeTime" + memString + "'>";
+    for( i = 0;i < fadeTimes.length;i++ )
+    {
+      tempHtml += "<option value='" + fadeTimes[ i ] + "' ";
+      if( FadeTime == i )
+        tempHtml += "selected='selected'";
+      tempHtml += ">" + fadeTimes[ i ] + "</option>";
+    }
+    tempHtml += "</select><br>\n";
+
+
+    tempHtml += "Measures: <input type='number' id='sampleMeasLen" +
+                memString + "' min='1' max='4096' value='" + MeasLen + "'><br>\n";
+    tempHtml += "Recorded Tempo: <input type='number' id='sampleRecTmp" +
+                memString + "' min='20' max='300' value='" + RecTmp / 10 + "'><br>\n";
+    tempHtml += "Samples: <input type='number' id='sampleWavLen" +
+                memString + "' min='512' max='10000000' value='" + WavLen + "'><br>\n";
+    tempHtml += "Tempo: <input type='number' id='sampleTempo" +
+                memString + "' min='20' max='300' value='" + Tempo / 10 + "'><br>\n";
+    tempHtml += "<button class='css_menuButton' id='convertToAsync' onclick='convertToAsync(\"" +
+                memString + "\");'>Async</button>";
+    tempHtml += "</div>\n";
+  }
+
+  document.getElementById( 'fileData' ).innerHTML = tempHtml;
+
+  accords = document.getElementsByClassName( "accordion" );
+
+  for( var i = 1;i < accords.length;i++ ) // Hack: start at 1 because first accordin is invalid "memory 00"
+  {
+    accords[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+    accords[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+    accords[ i ].accIndex = i;
+  }
+}
+
+function accordionClick( elem )
+{
+  var wasOpen = elem.classList.contains( "active" );
+  var panel = elem.nextElementSibling;
+
+  if( wasOpen )
+  {
+    panel.style.display = "none"; 
+    elem.classList.remove( "active" );
+  }
+  else
+  {
+    panel.style.display = "block";
+    elem.classList.add( "active" );
+    elem.scrollIntoView();
+  }
+}
+
+// If a sample is asynchronous, find values to prevent RC5 time stretching artifacts.
+function convertToAsync( memString )
+{
+  var memIndex = parseInt( memString );
+
+  // Change the html,  the XML when saving.
+  if( !memIndex )
+    return;
+
+  var entry = memEntries[ memIndex - 1 ]; // entries are 0 based.
+  var elem = entry.getElementsByTagName( "TRACK1" );
+  var waveLen = parseInt( elem[ 0 ].childNodes[ 25 ].innerHTML );
+
+  var bpm = 100; // can pick any bpm for async samples
+  var nBeats = parseInt( waveLen * bpm / 2646000 );
+  var mod = nBeats % 4;
+  var nBeats4 = nBeats; // beats rounded up to a factor of 4 (4/4 time)
+  if( mod )
+    nBeats4 += 4 - mod;
+
+  var waveLenAdj = nBeats4 * 2646000 / bpm;
+
+  var elem = document.getElementById( "sampleMeasLen" + memString );
+  elem.value = nBeats4 / 4;
+  var elem = document.getElementById( "sampleRecTmp" + memString );
+  elem.value = 100.0; // 100.0 bpm
+  var elem = document.getElementById( "sampleTempo" + memString );
+  elem.value = 100.0;
+  var elem = document.getElementById( "sampleWavLen" + memString );
+  elem.value = waveLenAdj;
+}
+
+function saveConfig()
+{
+  // apply all html elements to the XLM
+  for( var memLoc = 1;memLoc <= memEntries.length;memLoc++ ) // valid memLoc < 1 - 99 > 
+  {
+    var memString = memLoc.toString();
+    if( memString.length == 1 )
+      memString = "0" + memString;
+
+    var entry = memEntries[ memLoc - 1 ]; // entries are 0 based.
+
+    var elem = entry.getElementsByTagName( "NAME" );
+    var docElem = document.getElementById( "sampleName" + memString );
+    var nameString = docElem.value.toString();
+    nameString += "            "; // make sure it ends in spaces
+
+    for( var ix = 0;ix < 12;ix++ )
+    {
+      var charValue = nameString.charCodeAt( ix );
+      elem[ 0 ].childNodes[ 1 + ix * 2 ].innerHTML = charValue.toString();
+    }
+
+    elem = entry.getElementsByTagName( "TRACK1" );
+    docElem = document.getElementById( "samplePlyLvl" + memString );
+    elem[ 0 ].childNodes[ 3 ].innerHTML = docElem.value.toString();
+    docElem = document.getElementById( "samplePan" + memString );
+    elem[ 0 ].childNodes[ 5 ].innerHTML = docElem.value.toString();
+    docElem = document.getElementById( "sampleOne" + memString );
+    elem[ 0 ].childNodes[ 7 ].innerHTML = docElem.value.toString();
+
+    docElem = document.getElementById( "sampleStartMode" + memString );
+    elem[ 0 ].childNodes[ 9 ].innerHTML = getEntryIx( startModes, docElem.value.toString() ).toString();
+    docElem = document.getElementById( "sampleStopMode" + memString );
+    elem[ 0 ].childNodes[ 11 ].innerHTML = getEntryIx( stopModes, docElem.value.toString() ).toString();
+
+    docElem = document.getElementById( "sampleMeasLen" + memString );
+    elem[ 0 ].childNodes[ 17 ].innerHTML = docElem.value.toString();
+    
+    docElem = document.getElementById( "sampleRecTmp" + memString );
+    elem[ 0 ].childNodes[ 21 ].innerHTML = ( docElem.value * 10 ).toString();
+    docElem = document.getElementById( "sampleWavLen" + memString );
+    elem[ 0 ].childNodes[ 25 ].innerHTML = docElem.value.toString();
+
+    elem = entry.getElementsByTagName( "MASTER" );
+    docElem = document.getElementById( "sampleTempo" + memString );
+    elem[ 0 ].childNodes[ 1 ].innerHTML = ( docElem.value * 10 ).toString();
+    docElem = document.getElementById( "sampleFadeTime" + memString );
+    elem[ 0 ].childNodes[ 9 ].innerHTML = getEntryIx( fadeTimes, docElem.value.toString() ).toString();
+
+    elem = entry.getElementsByTagName( "RHYTHM" );
+    elem[ 0 ].childNodes[ 13 ].innerHTML = "2"; // 4/4
+  }
+
+  // save the XLM file
+  const a = document.createElement( 'a' );
+
+  var serializer = new XMLSerializer();
+  var xmlString = serializer.serializeToString( rc5_XML );
+
+  const file = new Blob( [ xmlString ], { type: 'text/plain' } );
+  
+  a.href = URL.createObjectURL( file );
+  a.download = "MEMORY1.RC0";
+  a.click();
+	URL.revokeObjectURL( a.href );
+}
+
+
+</script>
+</body>
+</html>
