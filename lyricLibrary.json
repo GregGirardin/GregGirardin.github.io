@@ -1189,13 +1189,6 @@
     "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to.\nSilk suit, black tie,\nI don't need a reason why.\n\n  They come runnin' just as fast as they can\n  Cause every girl crazy 'bout a sharp dressed man.\n\nGold watch, diamond ring,\nI ain't missin' not a single thing.\nAnd cuff links, stick pin,\nWhen I step out I'm gonna do you in.\n\nTop coat, top hat,\nI don't worry 'cause my wallet's fat.\nBlack shades, white gloves,\nLookin' sharp and lookin' for love.\n",
     "key": ""
   },
-  "Shine.Collective_Soul": {
-    "name": "Shine",
-    "artist": "Collective Soul",
-    "id": "Shine.Collective_Soul",
-    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\nChorus\n\nGive me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\nChorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
-    "key": ""
-  },
   "You_Really_Got_Me.The_Kinks": {
     "name": "You Really Got Me",
     "artist": "The Kinks",
@@ -3190,5 +3183,19 @@
     "id": "Jamie_s_Cryin.VH",
     "lyrics": "She saw the look in his eyes, and she knew better\nHe wanted her tonight, and it was now or never\nHe made her feel so sad (break)\n\n  Oh Jamie's cryin x 2\n\nNow Jamie wouldn't say alright, she knew he'd forget her\nAnd so they said a goodnight, and now he's gone forever\n  She wants to send him a letter yeah, yeah\n  I just to try to make herself feel you better\n  It said give me (give me a call sometime)\n  But she knows what that'll get her\n\n  Oh, Jamie's cryin x 2\n\n    Now Jamie's been in love before and she knows what love is for\n    It should mean a little more than one night stands\n\n  She wants to send him a letter yeah..\nSolo\n\nOh, Jamie's cryin (break)\nOh, Jamie's cryin...\n\n",
     "key": "E"
+  },
+  "Home_Sweet_Home.Motley_Crue": {
+    "name": "Home Sweet Home",
+    "artist": "Motley Crue",
+    "id": "Home_Sweet_Home.Motley_Crue",
+    "lyrics": "V: C Em C7 F\nC: Ab Bb C\n \nYou know I'm a dreamer, but my heart's of gold,\nI had to run away high, so I wouldn't come home low.\nJust when things went right, It doesn't mean they're always wrong,\nJust take this song and you'll never feel left all alone.\nTake me to your heart, feel me in your bones,\nJust one more night, and I'm coming off this long and winding road.\n \n  I'm on my way, I'm on my way, Home Sweet Home, tonight, tonight\n \nYou know that I've seen, too many romantic dreams,\nUp in the lights, falling on the silver screen.\nMy heart's like an open book, for the whole world to read,\nSometimes nothing, keeps me together at the seams.\n\n  Chorus\n \n  Solo\n\n  Chorus\n",
+    "key": "C"
+  },
+  "Shine.Collective_Soul": {
+    "name": "Shine",
+    "artist": "Collective Soul",
+    "id": "Shine.Collective_Soul",
+    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\n  Chorus\n\nGive me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Chorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
+    "key": "D"
   }
 }
