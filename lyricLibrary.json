@@ -279,13 +279,6 @@
     "lyrics": "E|------------0-0-0-\nB|---------3--5-3-5-\nG|---------2--------\nD|---------0--------\nA|-------0----------\nE|-0-0-/3-----------\n\nG|----------2-0----\nD|--------0-0-1--2-\nA|-2----0--------2-\nE|-0-/3----------0-\n\n(Em D Em) G D Am C\n\nThis one goes out to the one I love\nThis one goes out to the one I've left behind\nA simple prop to occupy my time\nThis one goes out to the one I love\n\n  Fire\n\nv2\nSolo\nv3",
     "artist": "REM"
   },
-  "Harvest_Moon.Neil_Young": {
-    "key": "D",
-    "name": "Harvest Moon",
-    "id": "Harvest_Moon.Neil_Young",
-    "lyrics": "E|----------9--\nB|-10-12-10-10-\nG|-11-11-11-11-\nD|-0--0--0--0--\n\nV: (Em D) (G D)\nC: (A7sus4 A7)\n\nCome a little bit closer hear what I have to say\nJust like children sleeping we could dream this night away\nBut there's a full moon rising let's go dancing in the light\nWe know where the music's playing let's go out and feel the night.\n\n  Because I'm still in love with you, I want to see you dance again\n  Because I'm still in love with you, on this harvest moon.\n\nWhen we were strangers I watched you from afar\nWhen we were lovers I loved you with all my heart.\nBut now its gettin late and the moon is climbing high\nI want to celebrate see it shining in your eye.\n\nChorus\n\n!Harmonica G\n\nChorus",
-    "artist": "Neil Young"
-  },
   "When_I_Come_Around.Green_Day": {
     "key": "G",
     "name": "When I Come Around",
@@ -299,13 +292,6 @@
     "id": "Overkill.Men_At_Work",
     "lyrics": "I: C#m B   V: (E B D A)   C: (C#m B) G#m A B\n\nI can't get to sleep I think about the implications\nOf diving in too deep and possibly the complications\nEspecially at night I worry over situations\nI know will be alright perhaps it's just imagination\n\n  Day after day it reappears\n  Night after night my heartbeat, shows the fear\n  Ghosts appear and fade away.....\n\nAlone between the sheets only brings exasperation\nIt's time to walk the streets smell the desperation\nAt least there's pretty lights and though there's little variation\nIt nullifies the night from overkill...\n\nChorus / Solo / V1 / Chorus",
     "artist": "Men At Work"
-  },
-  "Lucky_Man.ELP": {
-    "key": "D",
-    "name": "Lucky Man",
-    "id": "Lucky_Man.ELP",
-    "lyrics": "V: G D    C: Am Em D\n\nHe had white horses and ladies by the score\nAll dressed in satin and waiting by the door\n\n  Ooh, what a lucky man he was\n\nWhite lace and feathers they made up his bed\nA gold covered mattress on which he was laid\n\nHe went to fight wars for his country and his king\nOf his honor and his glory the people would sing\n\nA bullet had found him his blood ran as he cried\nNo money could save him so he laid down and he died\n\n!Harmonica D",
-    "artist": "ELP"
   },
   "Warning.Green_Day": {
     "key": "A",
@@ -2498,13 +2484,6 @@
     "lyrics": "Mustang Sally, guess you better slow your Mustang down\nMustang Sally, now baby, guess you better slow your Mustang down \nYou been running all over the town now\nOh! I guess I'll have to put your flat feet on the ground\n\n  All you want to do is ride around Sally.. Ride, Sally, ride\n  One of these early mornings oh\n  You gonna be wiping your weeping eyes\n\nI bought you a brand new Mustang about nineteen sixty five\nNow you come around signifying a woman you don't wanna let me ride\n\n  Mustang Sally now baby\n  Guess you better slow that Mustang down\n  You been running all over the town\n  Oh! I'll have to put your flat feet on the ground\n",
     "key": "C"
   },
-  "Babylon.Don_McLean": {
-    "name": "Babylon",
-    "artist": "Don McLean",
-    "id": "Babylon.Don_McLean",
-    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
-    "key": "Am"
-  },
   "Free_Bird.Lynyrd_Skynrd": {
     "name": "Free Bird",
     "artist": "Lynyrd Skynrd",
@@ -3156,13 +3135,6 @@
     "lyrics": "The deception with tact, just what are you trying to say\nYou've got a blank face, which irritates, communicate pull out your party piece\nYou see dimensions, in two, state your case with black or white\nBut when one little cross leads to shots grit your teeth\nYou run for cover so discreet why don't they\n\n  Do what they say, say what you mean, one thing leads to another\n  You told me something wrong I know I listen too long but then\n  One thing leads to another\n\nThe impression that you sell, passes in and out like a scent\nBut the long face that you see, comes from living close to your fears\nIf this is up then I'm up but you're running out of sight, you've seen your name on the walls\nAnd when one little bump leads to shock miss a beat\nYou run for cover and there's heat why don't they\n\n  Chorus\n\n    One thing leads to another..\n\nThen it's easy to believe, somebody's been lying to me\nBut when the wrong word goes in the right ear, I know you've been lying to me\nIt's getting rough off the cuff I've got to say enough's enough, bigger the harder he falls\nBut when the wrong antidote is like a bone in the throat\nYou run for cover in the heat why don't they\n\nChorus",
     "key": ""
   },
-  "Come_As_You_Are.Nirvana": {
-    "name": "Come As You Are",
-    "artist": "Nirvana",
-    "id": "Come_As_You_Are.Nirvana",
-    "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D    C: Em G    B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old memory    \n \n  Memory ah\n \nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old memory\n \n  Memory\n \n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory ah\n \n    And I swear...\n \n  Memory ah\n\n",
-    "key": "Em"
-  },
   "Don_t_You_Forget_About_Me.Simple_Minds": {
     "name": "Don't You Forget About Me",
     "artist": "Simple Minds",
@@ -3211,5 +3183,37 @@
     "id": "Learn_To_Fly.Foo_Fighters",
     "lyrics": "V: (B F#m E)\nC: (B F#m E) G A (E) B\nB: B G D E G A\n\nRun and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing, watch the last one die\n \n  Looking for the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home and learn to fly\n \nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n \nChorus\n\n  Make my way back home\n  And learn to...\n \nFly along with me I can't quite make it alone\nTrying to make my life my own\n \nChorus\n  And learn to...\n\nChorus\n",
     "key": "B"
+  },
+  "Harvest_Moon.Neil_Young": {
+    "name": "Harvest Moon",
+    "artist": "Neil Young",
+    "id": "Harvest_Moon.Neil_Young",
+    "lyrics": "E|----------9--\nB|-10-12-10-10-\nG|-11-11-11-11-\nD|-0--0--0--0--\n\nV: (Em D) (G D)\nC: (A7sus4 A7)\n\nCome a little bit closer hear what I have to say\nJust like children sleeping we could dream this night away\nBut there's a full moon rising let's go dancing in the light\nWe know where the music's playing let's go out and feel the night.\n\n  Because I'm still in love with you, I want to see you dance again\n  Because I'm still in love with you, on this harvest moon.\n\nWhen we were strangers I watched you from afar\nWhen we were lovers I loved you with all my heart.\nBut now its gettin late and the moon is climbing high\nI want to celebrate see it shining in your eye.\n\n  Chorus\n\nHarmonica G\n\n  Chorus",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Babylon.Don_McLean": {
+    "name": "Babylon",
+    "artist": "Don McLean",
+    "id": "Babylon.Don_McLean",
+    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
+    "key": "Am",
+    "tempo": "undefined"
+  },
+  "Come_As_You_Are.Nirvana": {
+    "name": "Come As You Are",
+    "artist": "Nirvana",
+    "id": "Come_As_You_Are.Nirvana",
+    "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D    C: Em G    B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old memory    \n\n  Memory ah\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old memory\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory ah\n\n    And I swear...\n\n  Memory ah\n",
+    "key": "Em",
+    "tempo": "undefined"
+  },
+  "Lucky_Man.ELP": {
+    "name": "Lucky Man",
+    "artist": "ELP",
+    "id": "Lucky_Man.ELP",
+    "lyrics": "V: G D   C: Am Em D\n\nHe had white horses and ladies by the score\nAll dressed in satin and waiting by the door\n\n  Ooh, what a lucky man he was\n\nWhite lace and feathers they made up his bed\nA gold covered mattress on which he was laid\n\nHe went to fight wars for his country and his king\nOf his honor and his glory the people would sing\n\nA bullet had found him his blood ran as he cried\nNo money could save him so he laid down and he died\n\nHarmonica D",
+    "key": "D",
+    "tempo": "?"
   }
 }
