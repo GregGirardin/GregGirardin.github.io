@@ -2982,14 +2982,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Another_One_Bites_The_Dust.Queen": {
-    "name": "Another One Bites The Dust",
-    "artist": "Queen",
-    "id": "Another_One_Bites_The_Dust.Queen",
-    "lyrics": "V: (Fm Bbm)    P: (C# G#) Bbm C    C: (Fm Bbm) Gm Bb C\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n    Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n    Chorus\n",
-    "key": "Fm",
-    "tempo": "110"
-  },
   "Blue_Morning.Foreigner": {
     "name": "Blue Morning",
     "artist": "Foreigner",
@@ -3277,5 +3269,13 @@
     "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D    C: Em G    B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old    \n\n  Memory ah x 4\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory\n\n    And I swear...\nRiff\n\n",
     "key": "Em",
     "tempo": "undefined"
+  },
+  "Another_One_Bites_The_Dust.Queen": {
+    "name": "Another One Bites The Dust",
+    "artist": "Queen",
+    "id": "Another_One_Bites_The_Dust.Queen",
+    "lyrics": "V: (Em Am)    P: (C G) Am B    C: (Em Am) F#m A B\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n\n  Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n\n\n  Chorus\n\n",
+    "key": "Fm",
+    "tempo": "110"
   }
 }
