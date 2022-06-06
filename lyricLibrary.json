@@ -1790,7 +1790,7 @@
     "name": "Rock Me",
     "artist": "Great White",
     "id": "Rock_Me.Great_White",
-    "lyrics": "Sweet little babe you don't have to go\nLittle baby tell me you won't go\nWe'd be so good together if we had the time\nCause being alone is a nowhere state of mind\n\nOooh I know this loves' no crime, oh no\nI will find the time to change your mind\nOooh and if you stay the night, hold me tight\nWe'll make the wrong seem right\n\n  So come on now\n  rock me, rock me, roll me through the night x 3\n  We'll burn in love tonight\n\nSweet little baby, oh don't you go\nYou ain't so innocent, I know\nAnd if your love goes bad, if it makes you sad\nBut I'll be back for more at your door\n\n  Chorus\n  Solo\n\nand when your man don't care, I will be there\nStill be loving real good love, so baby now\n\n  Chorus x 2\n  Solo\n\nI: F#mP: F#m A B7 D\nC: F#m A E D - B C#\n\n",
+    "lyrics": "I: F#m P: F#m A B7 D\nC: F#m (D E) - B C#\n\n\nSweet little babe you don't have to go\nLittle baby tell me you won't go\nWe'd be so good together if we had the time\nCause being alone is a nowhere state of mind\n\nOooh I know this loves' no crime, oh no\nI will find the time to change your mind\nOooh and if you stay the night, hold me tight\nWe'll make the wrong seem right\n\n  So come on now\n  rock me, rock me, roll me through the night x 3\n  We'll burn in love tonight\n\nSweet little baby, oh don't you go\nYou ain't so innocent, I know\nAnd if your love goes bad, if it makes you sad\nBut I'll be back for more at your door\n\n  Chorus\n  Solo\n\nand when your man don't care, I will be there\nStill be loving real good love, so baby now\n\n  Chorus x 2\n  Solo\n",
     "key": "B",
     "tempo": "Tempo"
   },
@@ -1832,6 +1832,30 @@
     "id": "Rock_and_Roll_Fantasy.Bad_Company",
     "lyrics": "V: E C D\nC: G E G D A\n \nHere comes the jesters, one, two three\nIt's all part of my fantasy\nI love the music and I love to see the crowd\nDancin in the aisles and singin' out loud\n \nHere comes the dancers one by one\nYour mama's callin but you're havin fun\nYou find you're dancin on a number nine cloud\nPut your hands together now and sing It out loud\n \n  Its all part of my rock and roll fantasy / dream\n\n  Solo / Chorus\n\nPut up the spotlights one and all\nAnd let the feelin get down to your soul\nThe music's so loud you can hear the sound\nReachin for the sky and churn in up the ground\n \n Chorus x 2\n\nFantasy yeah\n",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Rebel_Yell.Billy_Idol": {
+    "name": "Rebel Yell",
+    "artist": "Billy Idol",
+    "id": "Rebel_Yell.Billy_Idol",
+    "lyrics": "V: B D/A G  D A\nI: G F# Em\n\nLast night a little dancer came dancin to my door\nLast night a little angel came pumpin cross my floor\nShe said come on baby I got a license for love\nAnd if it expires pray help from above\n\n  In the midnight hour she cried- \"more, more, more\"\n  With a rebel yell...\n\nShe don't like slavery, she won't sit and beg\nBut when I'm tired and lonely she sees me to bed\nWhat set you free and brought you to be me babe\nWhat set you free I need you hear by me Because\n\n  Chorus\n  \n    He lives in his own heaven\n    Collects it to go from the seven eleven\n    Well he's out all night to collect a fare\n    Just so long, just so long it don't mess up his hair.\n \nIntro\n\nSolo\n \n  I walked the ward with you, babe\n  A thousand miles with you\n  I dried your tears of pain, babe\n  A million times for you\n\n  I'd sell my soul for you babe\n  For money to burn with you\n  I'd give you all, and have none, babe\n  Just, just, justa, justa to have you here by me because\n\n  Chorus\n",
+    "key": "B",
+    "tempo": "Tempo"
+  },
+  "I_Ran.Flock_Of_Seaguls": {
+    "name": "I Ran",
+    "artist": "Flock Of Seaguls",
+    "id": "I_Ran.Flock_Of_Seaguls",
+    "lyrics": "(A G) F G A\n\nI walked along the avenue\nI never thought I'd meet a girl like you\nWith auburn hair and tawny eyes\nThe kind of eyes that hypnotize me through\n\n  And I ran, I ran so far away\n  I just ran, I ran all night and day\n  I couldn't get away\n\nA cloud appears above your head\nA beam of light comes shining down on you\nThe cloud is moving nearer still\nAurora borealis comes in view, aurora comes in view\n\n  Chorus\n  Solo\n\nReached out a hand to touch your face\nYou're slowly disappearing from my view, peering from my view\nReached out a hand to try again\nI'm floating in a beam of light with you, A beam of light with you\n\n  Chorus x 2\n  Solo\n",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Old_Time_Rock_and_Roll.Bob_Seger": {
+    "name": "Old Time Rock and Roll",
+    "artist": "Bob Seger",
+    "id": "Old_Time_Rock_and_Roll.Bob_Seger",
+    "lyrics": "Just take those old records off the shelf\n\nI'll sit and listen to them by myself\nToday's music ain't got the same soul\nI like that old time rock and roll\n \nDon't try to take me to a disco\nYou'll never even get me out on the floor\nIn ten minutes I'll be late for the door\nI like that old time rock and roll\n \n  Still like that old time rock and roll\n  That kind of music just soothes the soul\n  I reminisce about the days of gold\n  With that old time rock and roll\n \nWon't go to hear them play a tango\nI'd rather hear some blues and funky old soul\nThere's only one sure way to get me to go\nStart playing old time rock and roll\n \nCall me a relic, call me what you will\nSay I'm old fashioned, say I'm over the hill\nToday's music ain't got the same soul\nI like that old time rock and roll\n \n  Chorus\n",
+    "key": "D",
     "tempo": "Tempo"
   }
 }
