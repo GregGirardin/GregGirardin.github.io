@@ -1100,8 +1100,9 @@
     "name": "Mustang Sally",
     "artist": "Wilson Pickett",
     "id": "Mustang_Sally.Wilson_Pickett",
-    "lyrics": "Mustang Sally, guess you better slow your Mustang down\nMustang Sally, now baby, guess you better slow your Mustang down \nYou been running all over the town now\nOh! I guess I'll have to put your flat feet on the ground\n\n  All you want to do is ride around Sally.. Ride, Sally, ride\n  One of these early mornings oh\n  You gonna be wiping your weeping eyes\n\nI bought you a brand new Mustang about nineteen sixty five\nNow you come around signifying a woman you don't wanna let me ride\n\n  Mustang Sally now baby\n  Guess you better slow that Mustang down\n  You been running all over the town\n  Oh! I'll have to put your flat feet on the ground\n",
-    "key": "C"
+    "lyrics": "Mustang Sally, guess you better slow your Mustang down\nMustang Sally now baby, guess you better slow your Mustang down\nYou been running all over town\nOh I guess I'll have to put your flat feet on the ground\n\n  All you want to do is ride around Sally.. ride Sally ride.. x 3\n  One of these early mornings I'm gonna be wiping those weeping eyes\n\nI bought you a brand new Mustang it was nineteen sixty five\nNow you come around signifying a woman you don't wanna let me ride\nMustang Sally now baby guess you better slow that Mustang down\nYou been running all over town\nOh! I'll have to put your flat feet on the ground\n\n  Chorus\n",
+    "key": "C",
+    "tempo": "Tempo"
   },
   "Free_Bird.Lynyrd_Skynrd": {
     "name": "Free Bird",
@@ -1266,13 +1267,6 @@
     "lyrics": "A little ditty bout Jack and Diane\nTwo American kids growin up in the heartland\nJack, he's gonna be a football star\nDiane debutante, back seat of Jacky's car\n \nSuckin on chili dog outside the Tasty Freeze\nDiane sittin on Jacky's lap, he got his hands between her knees\nJacky says \"Hey Diane, lets run off behind a shady tree\"\nDribble off those Bobby Brooks, let me do what I please, sayin'\n \n  Ooh yeah, Life goes on\n  Long after the thrill of livin is gone, sayin\n \nJack, he sits back, collects his thoughts for a moment\nScratches his head and does his best James Dean\n\"Well then there Diane, we gotta run off to the city\"\nDiane says, \"Baby you ain't missing a thing\", but Jacky says\n \nChorus\n    \n    Oh, let it rock, let it roll.\n    Let the Bible belt come and save my soul\n    Holdin' on to sixteen as long as you can\n    Change is comin' round real soon, make us women and men\n\nChorus \n \nA little ditty bout Jack and Diane\nTwo American kids doin' the best they can\n",
     "key": "A"
   },
-  "Jenny_Jenny.Tommy_Tutone": {
-    "name": "Jenny Jenny",
-    "artist": "Tommy Tutone",
-    "id": "Jenny_Jenny.Tommy_Tutone",
-    "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me somethin' I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number, 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\nChorus\n\n    I got it.. I got your number on the wall\n    I got it.. For a good time, for a good time call\n\nSolo / Chorus\n\nJenny, Jenny, who can I turn to? 867-5309\nFor the price of a dime I can always turn to you 867-5309",
-    "key": ""
-  },
   "Man_of_constant_sorrow.Traditional": {
     "name": "Man of constant sorrow",
     "artist": "Traditional",
@@ -1391,13 +1385,6 @@
     "id": "Cocaine.Eric_Clapton",
     "lyrics": "If you want to hang out, you've gotta take her out, cocaine\nIf you want to get down, get down on the ground, cocaine\n\n  She don't lie, cocaine\n\nIf you got that lose, you want to kick them blues, cocaine\nWhen your day is done, and you want to ride on cocaine\n\nIf your day is gone, and you want to ride on, cocaine\nDon't forget this fact, you can't get it back, cocaine\n",
     "key": "E"
-  },
-  "Sweet_Home_Alabama.Lynyrd_Skynyrd": {
-    "name": "Sweet Home Alabama",
-    "artist": "Lynyrd Skynyrd",
-    "id": "Sweet_Home_Alabama.Lynyrd_Skynyrd",
-    "lyrics": "I: D Cadd9 G (\"Boo hoo\" F C)\n \nBig wheels keep on turningCarry me home to see my kin\nSinging songs about the south land\nI miss ole bamy once again and I think it's a sin\n\nWell I heard Mr. Young sing about her\nWell I heard old Neil put her down\nWell I hope Neil Young will remember\nA southern man don't need him around anyhow\n \n  Sweet home Alabama where the skies are so blue\n  Sweet home Alabama Lord I'm coming home to you\n\nSolo\n\nIn Birmingham they love the govnor, boo-hoo\nNow we all did what we could do\nNow Watergate does not bother me\nDoes you conscience bother you, tell the truth!\n\nChorus / Solo / Riff x 2\n\nNow Muscle Shoals has got the Swappers\nAnd they've been known to pick a song or two\nLord they get me off so much\nThey pick me up when I'm feeling blue now how bout you?\n\n  Chorus\n",
-    "key": "D"
   },
   "Should_I_Stay_.The_Clash": {
     "name": "Should I Stay ",
@@ -1851,14 +1838,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Melt_With_You.Modern_English": {
-    "name": "Melt With You",
-    "artist": "Modern English",
-    "id": "Melt_With_You.Modern_English",
-    "lyrics": "V: C F   B: Em G Am C\n\nMoving forward using all my breath\nMaking love to you was never second best\nI saw the world crashing all around your face\nNever really knowing it was always mesh and lace\n\n  I'll stop the world and melt with you\n  You've seen the difference and it's getting better all the time\n  There's nothing you and I won't do\n  I'll stop the world and melt with you\n\nDream of better lives the kind which never hate\nTrapped in the state of imaginary grace\nI made a pilgrimage to save this humans race\nNever comprehending the race had long gone by\n \n  Chorus\n\n    The future's open wide\n\n  Solo\n\n  Chorus\n\n    The future's open wide\n\nHmmm hmmm hmmm\n\n  Chorus\n",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Simple_Song.The_Shins": {
     "name": "Simple Song",
     "artist": "The Shins",
@@ -1897,6 +1876,222 @@
     "id": "Remedy.Seether",
     "lyrics": "V: Em D A  B: D Em\n\nThrow your dollar bills and leave your thrills all here with me\nAnd speak but don't pretend I won't defend you anymore you see\nIt aches in every bone I'll die alone but not for you\nMy eyes don't need to see that ugly thing I know its me you fear\nIf you want me hold me back\n \n  Frail the skin is dry and pale, the pain will never fail  and so it goes\n  Back to the remedy\n  Clip the wings that get you high just leave them where they lie and tell yourself\n  You'll be the death of me\n\nI don't need a friend I need to mend so far away\nSo come sit by the fire and play awhile, but you can't stay too long\nIt aches in every bone I'll die alone but not for pleasure\nI see my  heart explode it's been eroded by the weather here\nIf you want me hold me back\n \n  Chorus\n \n    Hold your eyes closed and take me in\n \n  Chorus\n",
     "key": "",
+    "tempo": "Tempo"
+  },
+  "Made.Spencer_Crandall": {
+    "name": "Made",
+    "artist": "Spencer Crandall",
+    "id": "Made.Spencer_Crandall",
+    "lyrics": "(C Gm F Ab G)\n\n\nI heard the same story growing up\nThat one day I'll just find someone\nA match made in heaven, it'll be perfect\nI put my exes up on pedestals\nJust to have my expectations knock 'em off\nIt took me falling for you, to finally learn that\nSoulmates aren't found they're made\n\n  Yeah we choose each other every day\n  Even when we bend we know we won't break\n  We just bounce back better 'cause\n  Soulmates aren't found they're\n  Forged in the same fire\n  Work at it even when we get tired\n  Making ups out of downs\n  Doing all that it takes 'cause\n  Soulmates aren't found they're made\n \nAnd we ain't reading in the stars\nAnd there's no magic fix for when we're fighting in the car\nAnd we both are right, so we both are wrong\nAnd we slam doors 'Cause we're head strong\n \nSo we stay up 'til 2am until we simmer down\nGo back and forth until we find some common ground\nCause then you know it's true We'll always work it out\nCause soulmates aren't found\n\n  Chorus\n\nHey, there ain't a single moment with you I'd trade\nAnd I just kinda wanna say thanks\nFor showing me that\n \n  Chorus\n",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Run_Around_Sue.Dion": {
+    "name": "Run Around Sue",
+    "artist": "Dion",
+    "id": "Run_Around_Sue.Dion",
+    "lyrics": "Here's my story it's sad but true. It's about a girl that I once knew\nShe took my love then ran around, with every single guy in town\n\nhey hey.. whoah..\n\nYeah, I should have known it from the very start\nThis girl will leave me with a broken heart\nNow listen people what I'm telling you\nA keep away from a Runaround Sue yeah\n\nI might miss her lips and the smile on her face\nThe touch of her hair and this girl's warm embrace\nSo if you don't want to cry like I do\nA keep away from a Runaround Sue\n\nWhoah.. \n\n  Ah, she likes to travel around she'll love you and she'll put you down\n  Now people let me put you wise, She goes out with other guys\n\nHere's the moral and the story from the guy who knows\nI fell in love and my love still grows\nAsk any fool that she ever knew, they'll say\nKeep away from a Runaround Sue\n\nYeah, keep away from this girl I know, know what she'll do\n\nKeep away from Sue\n\nShe likes to travel around...\n\nStay away from that girl\nDon't you know what she'll do now\n",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Wanderer.Dion": {
+    "name": "Wanderer",
+    "artist": "Dion",
+    "id": "Wanderer.Dion",
+    "lyrics": "Oh well I'm the type of guy who will never settle down\nWhere pretty girls are well you know that I'm around\nI kiss em and I love 'em 'cause to me they're all the same\nI hug em and I squeeze 'em they don't even know my name\n\n  They call me the wanderer yeah the wanderer I roam around..\n\nOh well there's Flo on my left and there's Mary on my right\nAnd Janie is the girl with that I'll be with tonight\nAnd when she asks me which one I love the best\nI tear open my shirt I got Rosie on my chest\n\n  Cause I'm the wanderer yeah the wanderer I roam around..\n\n   Oh well I roam from town to town I go through life without a care\n   Til I'm as happy as a clown with my two fists of iron and I'm going nowhere\n\nI'm the type of guy that likes to roam around\nI'm never in one place I roam from town to town\nAnd when I find myself a-fallin for some girl, yeah\nI hop right into that car of mine and ride around the world\n\n  Yeah I'm the wanderer, yeah the wanderer\n  I roam around around around, let's go\n\n   Solo\n\nVerse 3\n",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Stray_Cat_Strut.Stray_Cats": {
+    "name": "Stray Cat Strut",
+    "artist": "Stray Cats",
+    "id": "Stray_Cat_Strut.Stray_Cats",
+    "lyrics": "Ooh, ooh, ooh, ooh\n\nBlack and orange stray cat sittin' on a fence\nI ain't got enough dough to pay the rent\nI'm flat broke but I don't care\nI strut right by with my tail in the air\n\n  Stray cat strut, I'm a ladies cat\n  I'm a feline Casanova, hey man that's that\n  Get a shoe thrown at me from a mean old man\n  Get my dinner from a garbage can\n\n    I don't bother chasing mice around\n    I slink down the alleyway looking for a fight\n    Howling to the moonlight on a hot summer night\n    Singin' the blues while the lady cats cry\n    \"Wild stray cat, you're a real gone guy\"\n    I wish I could be as carefree and wild\n    But I got cat class and I got cat style\n\nSolo\n\n    Bridge\n",
+    "key": "Cm",
+    "tempo": "Tempo"
+  },
+  "Learn_To_Fly.Foo_Fighers": {
+    "name": "Learn To Fly",
+    "artist": "Foo Fighers",
+    "id": "Learn_To_Fly.Foo_Fighers",
+    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own (repeat)\n\n  Chorus\n",
+    "key": "F#",
+    "tempo": "Tempo"
+  },
+  "Secret_Agent_Man.Johnny_Rivers": {
+    "name": "Secret Agent Man",
+    "artist": "Johnny Rivers",
+    "id": "Secret_Agent_Man.Johnny_Rivers",
+    "lyrics": "There's a man who leads a life of danger\nTo everyone he meets he stays a stranger\nWith every move he makes\nAnother chance he takes\nOdds are he won't live to see tomorrow\n\n  Secret agent man, secret agent man\n  They've given you a number\n  And taken away your name\n\nBeware of pretty faces that you find\nA pretty face can hide an evil mind\nAh, be careful what you say\nOr you'll give yourself away\nOdds are he won't live to see tomorrow\n\n  Chorus\n\nSwingin' on the Riviera one day\nAnd then layin' in the Bombay alley next day\nOh no, you let the wrong word slip\nWhile kissing persuasive lips\nThe odds are he won't live to see tomorrow\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Some_Kind_Of_Wonderful.Grand_Funk": {
+    "name": "Some Kind Of Wonderful",
+    "artist": "Grand Funk",
+    "id": "Some_Kind_Of_Wonderful.Grand_Funk",
+    "lyrics": "I don't need a whole lots of money, I don't need a big fine car\nI got everything that a man could want, I got more than I could ask for\nAnd I don't have to run around I don't have to stay out all night\n'Cause I got me a sweet, a sweet loving woman And she know just how to treat me right\n\n  Oh, my baby, she's alright Oh, my baby's clean out of sight\n  Don't you know that she's?\n  She's some kind of wonderful\n  She's some kind of wonderful\n  Yes, she is, she is\n  She's some kind of wonderful\n  Yeah, yeah, yeah, yeah\n\nWhen I hold her in my arms you know she sets my soul on fire\nOh, when my baby kisses me my heart becomes filled with desire\nWhen she wraps her loving arms around me it bout drives me out of my mind\nYeah, when my baby kisses me chills run up and down my spine\n\n  Chorus\n\nNow is there anybody got a sweet little woman like mine?\nThere's got to be somebody got a sweet little woman like mine\nYeah, now can I get a witness? Can I get a witness?\n\nI'm talking, talking 'bout my baby (She's some kind of wonderful)\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Keep_Your_Hands_To_Yourself.Georgia_Satellites": {
+    "name": "Keep Your Hands To Yourself",
+    "artist": "Georgia Satellites",
+    "id": "Keep_Your_Hands_To_Yourself.Georgia_Satellites",
+    "lyrics": "I got a little change in my pocket goin' jing-a-ling-a-ling\nWants to call you on the telephone baby, a-give you a ring\nBut each time we talk, I get the same old thing\nAlways no hug-ee no kiss-ee until I get a weddin' ring\nMy honey my baby, don't put my love upon no shelf\nShe said don't hand me no lines and keep your hands to yourself\n\nB-baby baby baby why you wan' treat me this way\nYou know I'm still your lover boy I still feel the same way\nThat's when she told me a story, 'bout free milk and a cow\nAnd said no hug-ee no kiss-ee until I get a weddin' vow\nMy honey my baby, don't put my love upon no shelf\nShe said don't hand me no lines and keep your hands to yourself\n\nHold it here\nSee I wanted her real bad, and I was about to give in\nBut that's when she started talking about true love, started talking about sin\nAnd I said, honey I'll live with you for the rest of my life,\nShe said no hug-ee no kiss-ee until you make me your wife-a\nMy honey my baby, don't put my love upon no shelf\nShe said don't hand me no lines and keep your hands to yourself\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Last_Train_To_Clarksville.The_Monkees": {
+    "name": "Last Train To Clarksville",
+    "artist": "The Monkees",
+    "id": "Last_Train_To_Clarksville.The_Monkees",
+    "lyrics": "Take the last train to Clarksville and I'll meet you at the station\nYou can be here by 4:30 cause I've made your reservation\nDon't be slow oh, no, no, no\n\nCause I'm leavin' in the morning and I must see you again\nWe'll have one more night together til the morning brings my train\nAnd I must go, oh, no, no, no\n\n And I don't know if I'm ever coming home\n\nTake the last train to Clarksville I'll be waiting at the station\nWe'll have time for coffee flavored kisses and a bit of conversation\nOh, no, no, no\n\n  do do do...\n\nTake the last train to Clarksville now I must hang up the phone\nI can't hear you in this noisy railroad station all alone\nI'm feelin' low oh, no, no, no\n\n And I don't know if I'm ever coming home\n\n  Solo\n\nVerse 1\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Name.": {
+    "name": "Name",
+    "artist": "",
+    "id": "Name.",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Melt_With_You.Modern_English": {
+    "name": "Melt With You",
+    "artist": "Modern English",
+    "id": "Melt_With_You.Modern_English",
+    "lyrics": "V: C F   B: Em G Am C\n\nMoving forward using all my breath\nMaking love to you was never second best\nI saw the world crashing all around your face\nNever really knowing it was always mesh and lace\n\n  I'll stop the world and melt with you\n  You've seen the difference and it's getting better all the time\n  There's nothing you and I won't do\n  I'll stop the world and melt with you\n\nDream of better lives the kind which never hate\nTrapped in the state of imaginary grace\nI made a pilgrimage to save this humans race\nNever comprehending the race had long gone by\n \n  Chorus\n\n    The future's open wide\n\n  Solo\n\n  Chorus\n\n    The future's open wide\n\nHmmm hmmm hmmm\n\n  Chorus\n",
+    "key": "C",
+    "tempo": "Tempo"
+  },
+  "Honky_Tonk_woman.The_Rolling_Stones": {
+    "name": "Honky Tonk woman",
+    "artist": "The Rolling Stones",
+    "id": "Honky_Tonk_woman.The_Rolling_Stones",
+    "lyrics": "I met her, just a barroom queen in Memphis\nShe tried to make me upstairs for a ride\nShe had to carry me right across her shoulder\n'Cause I just can't seem to drink her off of my mind\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n\nI met her either say in New York City\nI had to put up a one heck of a fight\nThe lady said she'd covered me with roses\nShe broke my nose and then she broke my mind.\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n\n[Instrumental]\n\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Squeeze_Box.The_Who": {
+    "name": "Squeeze Box",
+    "artist": "The Who",
+    "id": "Squeeze_Box.The_Who",
+    "lyrics": "Mama's got a squeeze box she wears on her chest\nAnd when daddy comes home he never gets no rest\nCause she's playing all night and the music's all right\nMama's got a squeeze box daddy never sleeps at night\n\nWell the kids don't eat and the dog can't sleep\nThere's no escape from the music In the whole damn street\n'Cause she's playing all night and the music's all right\nMama's got a squeeze box daddy never sleeps at night\n\nShe goes in and out and in and out and in and out and in and out\nShe's playing all night and the music's all right\nMama's got a squeeze box daddy never sleeps at night\n\n  She goes, squeeze me, come on and squeeze me\n  Come on and tease me like you do\n  I'm so in love with you\n  Mama's got a squeeze box daddy never sleeps at night\n\nShe goes in and out and in and out and in and out and in and out\nCause she's playing all night and the music's all right\nMama's got a squeeze box daddy never sleeps at night\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "I_m_Gonna_Be.The_Proclaimers": {
+    "name": "I'm Gonna Be",
+    "artist": "The Proclaimers",
+    "id": "I_m_Gonna_Be.The_Proclaimers",
+    "lyrics": "When I wake up, well I know I'm gonna be,\nI'm gonna be the man who wakes up next to you\nWhen I go out, yeah I know I'm gonna be\nI'm gonna be the man who goes along with you\nWhen I get drunk, well I know I'm gonna be\nI'm gonna be the man who gets drunk next to you\nAnd when I haver, hey I know I'm gonna be\nI'm gonna be the man who's havering to you\n\n  And I would walk 500 miles\n  And I would walk 500 more\n  Just to be the man who walked a thousand miles\n  To fall down at your door\n\nWhen I'm working, yes I know I'm gonna be\nI'm gonna be the man who's working hard for you\nAnd when the money, comes in for the work I do\nI'll pass almost every penny on to you\nWhen I come home(When I come home), well I know I'm gonna be\nI'm gonna be the man who comes back home to you\n\nAnd when I grow old, well I know I'm gonna be\nI'm gonna be the man who's growing old with you\n\n  Chorus + Da da da (da da da)\n\nWhen I'm lonely, well I know I'm gonna be\nI'm gonna be the man who's lonely without you\nAnd when I'm dreaming, well I know I'm gonna dream\nI'm gonna dream about the time when I'm with you\nWhen I go out(When I go out), well I know I'm gonna be\nI'm gonna be the man who goes along with you\nAnd when I come home(When I come home), yes I know I'm gonna be\nI'm gonna be the man who comes back home with you\nI'm gonna be the man who's coming home with you\n\n Chorus + \"da da da\"\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Bad_Moon_Rising.CCR": {
+    "name": "Bad Moon Rising",
+    "artist": "CCR",
+    "id": "Bad_Moon_Rising.CCR",
+    "lyrics": "V: D A G DC: G D A D G\n\nI see the bad moon a-rising\nI see trouble on the way\nI see earthquakes and lightning\nI see bad times today\n\n  Don't go around tonight\n  Well, it's bound to take your life\n  There's a bad moon on the rise\n\nI hear hurricanes a-blowing\nI know the end is coming soon\nI fear rivers overflowing\nI hear the voice of rage and ruin\n\n  Chorus\n\n  Solo\n\nHope you got your things together\nHope you are quite prepared to die\nLooks like we're in for nasty weather\nOne eye is taken for an eye\n\n  Chorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Sweet_Home_Alabama.Lynyrd_Skynyrd": {
+    "name": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Sweet_Home_Alabama.Lynyrd_Skynyrd",
+    "lyrics": "I: D Cadd9 G (\"Boo hoo\" F C)\n \nBig wheels keep on turningCarry me home to see my kin\nSinging songs about the south land\nI miss ole bamy once again and I think it's a sin\n\nWell I heard Mr. Young sing about her\nWell I heard old Neil put her down\nWell I hope Neil Young will remember\nA southern man don't need him around anyhow\n \n  Sweet home Alabama where the skies are so blue\n  Sweet home Alabama Lord I'm coming home to you\n\nSolo\n\nIn Birmingham they love the govnor, boo-hoo\nNow we all did what we could do\nNow Watergate does not bother me\nDoes you conscience bother you, tell the truth!\n\nChorus / Solo / Riff x 2\n\nNow Muscle Shoals has got the Swappers\nAnd they've been known to pick a song or two\nLord they get me off so much\nThey pick me up when I'm feeling blue now how bout you?\n\n  Chorus\n",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
+    "name": "Call Me The Breeze",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Call_Me_The_Breeze.Lynyrd_Skynyrd",
+    "lyrics": "Call me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Give_Me_Three_Steps.Lynyrd_Skynyrd": {
+    "name": "Give Me Three Steps",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Give_Me_Three_Steps.Lynyrd_Skynyrd",
+    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord,  a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n Oh, won't you gimme three steps, gimme three steps mister, gimme three steps toward the door? \n Gimme three steps, gimme three steps mister\n and you'll never see me no more. For sure\"\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Johnny_B._Goode.Chuck_Berry": {
+    "name": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "id": "Johnny_B._Goode.Chuck_Berry",
+    "lyrics": "Deep down in Louisiana close to New Orleans\nWay back up in the woods among the evergreens\nThere stood a log cabin made of earth and wood\nWhere lived a country boy named Johnny B. Goode\nWho never ever learned to read or write so well\nBut he could play a guitar just like a-ringin' a bell\n\n  Go, go.. Go Johnny, go, go \n  Johnny B. Goode\n\nHe used to carry his guitar in a gunny sack\nGo sit beneath the tree by the railroad track\nOh, the engineers would see him sitting in the shade\nStrumming with the rhythm that the drivers made\nThe people passing by they would stop and say\n\"Oh my what that little country boy could play\"\n\n  Chorus\n\nHis mother told him \"someday you will be a man\nAnd you will be the leader of a big old band\nMany people coming from miles around\nTo hear you play your music when the sun go down\nMaybe someday your name will be in lights\nSaying \"Johnny B. Goode tonight\"\n\n  Chorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Rock_This_Town.Stray_Cats": {
+    "name": "Rock This Town",
+    "artist": "Stray Cats",
+    "id": "Rock_This_Town.Stray_Cats",
+    "lyrics": "Well, my baby and me went out late Saturday night\nI had my hair piled high and my baby just looked so right\nWell, pick you up at ten, gotta have you home at two\nMama don't know what I got in store for you\nBut that's all right 'cause we're looking as cool as can be\n\nWell, we found a little place that really didn't look that bad\nI had a whisky on the rocks\nAnd change of a dollar for the jukebox\nWell, I put the cold rock into that can\nBut all they played was disco, man\nCome on, baby, baby, let's get out of here right away\n\n  We're gonna rock this town rock it inside out.\n  We're gonna rock this town make'em scream and shout\n  Let's rock, rock, rock, man, rock\n  We're gonna rock till you pop\n  We're gonna rock till you drop\n  We're gonna rock this town\n  Rock it inside out\n\nWell, we're having a ball just 'a bopping on the big dance floor\nWell, there's a real square cat looks a 1974\nWell, he looked at me once, he looked at me twice\nLook at me again and there's gonna be fight\nWe're gonna rock this town\nWe're gonna rip this place apart\n\n  Chorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Jenny_Jenny.Tommy_Tutone": {
+    "name": "Jenny Jenny",
+    "artist": "Tommy Tutone",
+    "id": "Jenny_Jenny.Tommy_Tutone",
+    "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me somethin' I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number\n  I need to make you mine\n  Jenny, don't change your number\n  867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it (I got it), I got it\n    I got your number on the wall\n    I got it (I got it), I got it\n    For a good time, for a good time call\n\n  Solo\n\n  Jenny, don't change your number\n  I need to make you mine\n  Jenny, I called your number\n  867-5309\n\nJenny, Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n867-5309..\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Mony_Mony.Billy_Idol": {
+    "name": "Mony Mony",
+    "artist": "Billy Idol",
+    "id": "Mony_Mony.Billy_Idol",
+    "lyrics": "Here she come now sayin' \"Mony, Mony\"\nShoot em down, turn around, come on, Mony\nHey, she give me love and I feel all right now\nYeah! you gotta toss and turn and feel all right, yeah, I feel all right\nI said, yeah..\n\n  Cause you make me feel (Like I'm wanted)\n  So good, so good, so good\n  So fine, so fine, it's all mine \n  Well, I feel all right\n  I said, yeah (Yeah)\n\nWake it, shake it, Mony, Mony\nShotgun dead, and I'll come on, Mony\nDon't stop cookin cause I feel all right now\nDon't stop now come on, Mony, come on, yeah\nI said, yeah..\n\n  Chorus\n\n  Break\n\n    I love you Mony, mo-mo-mony.. say I do.\n    Yeah...\n    Come on..    Yeah..\n\nWake it shake it, Mony Mony\nUp down turn around, come on, Mony\nHey she give me love, and I feel all right now\nI said, don't stop now, come on, Mony\nCome on, Mony\nI said, yeah (Yeah)..\n\n  Chorus\n\n  I want to Ride your pony..\n\n\n  Chorus\n",
+    "key": "F",
+    "tempo": "Tempo"
+  },
+  "Good_Lovin.The_Young_Rascals": {
+    "name": "Good Lovin",
+    "artist": "The Young Rascals",
+    "id": "Good_Lovin.The_Young_Rascals",
+    "lyrics": "1.2.3 Good lovin.\n\nI was feelin so bad, I asked my family doctor just what I had\nI said, \"Doctor, Mr. M.D.\"\n\"Now can you tell me what's ailin' me\"\n\n  He said, \"Yeah, yeah\", yes, indeed all I, I really need\n  Good lovin (Now gimme that good, good lovin')\n  Good lovin (All I need is lovin')\n  Good lovin (Good, good lovin', baby)\n  Good lovin\n\nHoney please, squeeze me tight\n\nDon't you want your baby to be all right\nI said, \"Baby, now it's for sure\"\n\"I got the fever, yeah, and you got the cure\"\n\n  Chorus\n\n   Solo\n\n  Chorus\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Country_Girl.Luke_Bryan": {
+    "name": "Country Girl",
+    "artist": "Luke Bryan",
+    "id": "Country_Girl.Luke_Bryan",
+    "lyrics": "Hey girl, go on now!\nYou know you've got everybody lookin'\n\nGot a little boom in my big truck\nGonna open up the doors and turn it up\nGonna stomp my boots in the Georgia mud\nGonna watch you make me fall in love\n\nGet up on the hood of my daddy's tractor\nUp on the tool box, it don't matter\nDown on the tailgate girl I can't wait\nTo watch you do your thing\n\n  Shake it for the young bucks sittin' in the honky-tonks\n  For the rednecks rockin' til the break of dawn\n  The DJ spinnin that country song c'mon, c'mon, c'mon\n  Shake it for the birds, shake it for the bees\n  Shake it for the catfish swimmin down deep in the creek\n  For the crickets and the critters and the squirrels\n  Shake it to the moon, shake it for me girl\n\n  Aw, country girl, shake it for me girl..\n\nSomebody's sweet little farmer's child\nWith a gattle in her Bud to get a little wild\nPony-tail and a pretty smile rope me in from a country mile\nSo come on over here and get in my arms\nSpin me around this big ole barn\nTangle me up like grandma's yarn, Yeah, yeah, yeah\n\n  Chorus\n\n  Guitar\n\n   Solo\n\nNow dance, like a dandelion in the wind on the hill underneath the pines\nYeah, move like the river flows feel the kick drum down deep in your toes\nAll I wanna do is get to holdin' you and get to knowin' you\nAnd get to showin' you and get to lovin' you\n'Fore the night is through baby, you know what to do\n\n  Chorus\n",
+    "key": "E",
+    "tempo": "Tempo"
+  },
+  "Holiday.Green_Day": {
+    "name": "Holiday",
+    "artist": "Green Day",
+    "id": "Holiday.Green_Day",
+    "lyrics": "Hey!\n\nHear the sound of the falling rain coming down like an Armageddon flame (hey!)\nThe shame, the ones who died without a name\nHear the dogs howling out of key to a hymn called \"Faith and Misery\"\nAnd bleed, the company lost the war today, and\n\n  I beg to dream and differ from the hollow lies\n  This is the dawning of the rest of our lives, on holiday!\n\nHear the drum pounding out of time another protester has crossed the line\nTo find the money's on the other side\nCan I get another amen? There's a flag wrapped around a score of men\nA gag, a plastic bag on a monument\n\n  Chorus\n\n  Solo\n\n    The representative from California has the floor\n    \"Sieg Heil\" to the president Gasman bombs away is your punishment\n    Pulverize the Eiffel towers who criticize your government\n    \"Bang! Bang!\" goes the broken glass kill all the fags that don't agree\n    Try to fight fire, setting fire is not a way that's meant for me\n\n    Just 'cause\n    Just 'cause, because we're outlaws, yeah\n\n  Chorus\n",
+    "key": "Em",
+    "tempo": "Tempo"
+  },
+  "Authority_Song.John_Mellencamp": {
+    "name": "Authority Song",
+    "artist": "John Mellencamp",
+    "id": "Authority_Song.John_Mellencamp",
+    "lyrics": "They like to get you in a compromising position\nWell, they like to get you there and smile in your face\nYeah, they think they're so cute when they got you in that condition\nBut I think it's a total disgrace\n\n  And I say\n  I fight authority, authority always wins\n  Well, I fight authority, authority always wins\n  Well, I've been doing it since I was a young kid\n  And I come out grinnin'\n  Well, I fight authority, authority always wins\n\n(Oh yeah!)\nI call up my preacher\nI say, \"Give me strength for round 5\"\nHe said, \"You don't need no strength, you need to grow up son\"\nI said, \"Growin' up leads to growin' old and then to dyin'\nOoo, and dyin' to me don't sound like all that much fun\"\n\n  Chorus\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "La_Bamba.Richie_Valens": {
+    "name": "La Bamba",
+    "artist": "Richie Valens",
+    "id": "La_Bamba.Richie_Valens",
+    "lyrics": "C F G7\n\nPara bailar la bamba,\nPara bailar la bamba, se necesita una poca de gracia.\nUna poca de gracia para mi para ti.\nY Arriba y arriba\nY arriba y arriba, por ti sere...\n\nYo no soy marinero.\nYo no soy marinero, soy capitan...\n\n  Bam-ba-bamba\n\nVerse\n\n  Solo\n\nVerse\n",
+    "key": "C",
     "tempo": "Tempo"
   }
 }
