@@ -1850,7 +1850,7 @@
     "name": "Land Of Confusion",
     "artist": "Genesis",
     "id": "Land_Of_Confusion.Genesis",
-    "lyrics": "I: A Am\n\nV: D E - G A - C D - D E\nP: D Em - G A\nC: Em C D Bm\nB: C#m F# AM\n\nI must have dreamed a thousand dreams, been haunted by a million screams\nBut I can hear the marching feet, they're moving into the street\nNow, did you read the news today? They say the danger has gone away\nBut I can see the fire's still alight They're burning into the night\n\n There's too many men, too many people, making too many problems\n And there's not much love to go around\n Can't you see this is the land of confusion?\n\n  This is the world we live in\n  And these are the hands we're given\n  Use them and let's start trying\n  To make it a place worth living in\n\nOh, Superman, where are you now?\nWhen every thing's gone wrong somehow?\nMen of steel, these men of power\nI'm losing control by the hour\n\n This is the time, this is the place, so we look for the future\n But there's not much love to go around\n Tell me why this is the land of confusion\n\n  Chorus\n\n   I remember long ago when the sun was shining\n   And all the stars were bright all through the night\n   In the wake up this madness, as I held you tight So long ago\n\nI won't be coming home tonight my generation will put it right\nWe're not just making promises that we know we'll never keep\n\n P1\n\n  Now, this is the world we live in\n  And these are the hands we're given\n  Use them and let's start trying\n  To make it a place worth fighting for\n  This is the world we live in\n  And these are the names we're given\n  Stand up and let's start showing\n  Just where our lives are going to\n\n",
+    "lyrics": "I: G GmV: C D - F G - Bb C - C D\nP: (C Dm - F G) \nC: Dm Bb C Am\nB: (B - D C# B E) G   Bb   D\n\nI must have dreamed a thousand dreams, been haunted by a million screams\nBut I can hear the marching feet, they're moving into the street\nNow, did you read the news today? They say the danger has gone away\nBut I can see the fire's still alight They're burning into the night\n\n There's too many men, too many people, making too many problems\n And there's not much love to go around\n Can't you see this is the land of confusion?\n\n  This is the world we live in and these are the hands we're given\n  Use them and let's start trying to make it a place worth living in\n\nOh, Superman, where are you now? when every thing's gone wrong somehow?\nMen of steel, these men of power I'm losing control by the hour\n\n This is the time, this is the place, so we look for the future\n But there's not much love to go around\n Tell me why this is the land of confusion\n\n  Chorus\n\n   I remember long ago when the sun was shining\n   And all the stars were bright all through the night\n   In the wake up this madness, as I held you tight So long ago\n\nI won't be coming home tonight my generation will put it right\nWe're not just making promises that we know we'll never keep\n\n P1\n\n  Now, this is the world we live in and these are the hands we're given\n  Use them and let's start trying to make it a place worth fighting for\n  This is the world we live in and these are the names we're given\n  Stand up and let's start showing just where our lives are going to\n\n",
     "key": "A",
     "tempo": "Tempo"
   },
@@ -2100,6 +2100,54 @@
     "id": "Vertigo.U2",
     "lyrics": "Unos, dos, tres, catorce .. Turn it up loud, captain\n\nLights go down, it's dark the jungle is your head, can't rule your heart\nA feeling's so much stronger than a thought\nYour eyes are wide and though your soul, it can't be bought\nYour mind can wander\n\n  Hello, hello (hola), I'm at a place called Vertigo (¿dónde está?)\n  It's everything I wish I didn't know\n  Except you give me something I can feel, feel\n\nThe night is full of holes cause bullets rip the sky of ink with gold\nThey twinkle as the boys play rock and roll\nThey know that they can't dance, at least they know\nI can't stand the beat, I'm asking for the check\nGirl with crimson nails has Jesus around her neck\nSwinging to the music, swinging to the music (whoa, whoa)\n\n  Chorus\n\n  Checkmated, just fun she made it in, yeah\n\n  Solo\n\n    All of this, all of this can be yours..\n    Just give me what I want and no one gets hurt\n\n  Hello, hello, we're at a place called Vertigo\n  Lights go down, and all I know is that you give me something\n  I can feel your love teaching me how\n  Your love is teaching me how .. how to kneel\n  Yeah, yeah...\n",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "She_Sells_Sanctuary.The_Cult": {
+    "name": "She Sells Sanctuary",
+    "artist": "The Cult",
+    "id": "She_Sells_Sanctuary.The_Cult",
+    "lyrics": "R1 R2\nV: D C G\n\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\nR3\n\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\nThe world and the world turns around\nThe world and the world, yeah the world drags me down\n\nR2 - V1 - R2\n\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\nAnd the world, the world turns around\nAnd the world and the world, the world drags me down\nAnd the world and the world and the world, the world turns around\nAnd the world and the world and the world and the world\nAnd the world drags me down\n\nBreak R1\n\nSolo\n\nAh, hey yeah, hey yeah\nAnd the world (hey yeah, hey), and the world turn\n\nR2\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Dance_The_Night_Away.Van_Halen": {
+    "name": "Dance The Night Away",
+    "artist": "Van Halen",
+    "id": "Dance_The_Night_Away.Van_Halen",
+    "lyrics": "Have you seen her? So fine and pretty fooled me with her style and ease\nAnd I feel her from across the room, yes it's love in the third degree\n\n  Ooh baby baby won't cha turn your head my way\n  Ooh baby baby ah come on!\n  [ Take a chance / don't skip romance ] you're old enough to dance the night away\n  Whoah, come on girl, dance the night away\n\nA live wire, barely a beginner but just watch that lady go\nShe's on fire cause dancin gets her higher than anything else she knows\n\n  Chorus\n  Solo\n  Chorus\n",
+    "key": "E",
+    "tempo": "Tempo"
+  },
+  "Locomotive_Breath.Jethro_Tull": {
+    "name": "Locomotive Breath",
+    "artist": "Jethro Tull",
+    "id": "Locomotive_Breath.Jethro_Tull",
+    "lyrics": "[Em      Em  G  D] B D - Em G D - G A B  B D Em\n\n   In the shuffling madness of the Locomotive Breath\n   Runs the all time loser headlong to his death\nOh he feels the piston scraping steam breaking on his brow\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n\n   He sees his children jumping off at the stations one by one\n   His woman and his best friend in bed and having fun\nOh, he's crawling down the corridor on his hands and knees\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n \nSolo\n\n   He hears the silence howling, catches angels as they fall\n   And the all time winner has got him by the balls\nOh, he picks up Gideon's Bible open at page one\nI think God he stole the handle and the train it won't stop going\nNo way to slow down\nNo way to slow down\n",
+    "key": "Em",
+    "tempo": "Tempo"
+  },
+  "True_Faith.New_Order": {
+    "name": "True Faith",
+    "artist": "New Order",
+    "id": "True_Faith.New_Order",
+    "lyrics": "Dm F C G\nDm F C Bb\n\nV: [Dm Bb C Am C] Dm C Bb Am - C Bb Am A\nC: [D F C G] Bb\nI feel so extraordinary something's got a hold on me\nI get this feeling I'm in motion a sudden sense of libertyI don't care 'cause I'm not there and I don't care if I'm here tomorrow\nAgain and again I've taken too much of all the things that cost you too much\n\n  I used to think that the day would never come\n  I'd see delight in the shade of the morning sun\n  My morning sun is the drug that brings me near\n  To the childhood I lost, replaced by fear\n  I used to think that the day would never come\n  That my life would depend on the morning sun\n\nWhen I was a very small boy, very small boys talked to me\nNow that we've grown up together they're afraid of what they see\nThat's the price that we all pay and the value of destiny comes to nothing\nI can't tell you where we're going I guess there was just no way of knowing\n \n  Chorus\n\n[Bridge]\nDm G/D Dm G/D Dm G/D Dm A\n \nSolo\n \nDm F C G , Dm F C G , Dm F C Bb\n\nI feel so extraordinary something's got a hold on me\nI get this feeling I'm in motion a sudden sense of liberty\nThe chances are we've gone too far you took my time and you took my money\nNow I fear you've left me standing in a world that's so demanding\n \nChorus\n\n(over G)\n\nA|------3--5---2-3-2-0---2-3-2-0---2-3-5-3----|\nE|---5-------------------------------------3--|\n \nEnd on G\n",
+    "key": "Dm",
+    "tempo": "Tempo"
+  },
+  "Head_Like_A_Hole.NIN": {
+    "name": "Head Like A Hole",
+    "artist": "NIN",
+    "id": "Head_Like_A_Hole.NIN",
+    "lyrics": "God money, I'll do anything for you\nGod money, just tell me what you want me to\nGod money, nail me up against the wall\nGod money, don't want everything he wants it all\n\n  No, you can't take it.. that away from me\n  Head like a hole black as your soul I'd rather die than give you control x 2\n  Bow down before the one you serve you're going to get what you deserve x 2\n\nGod money's not looking for the cure\nGod money's not concerned about the sick among the pure\nGod money, let's go dancing on the backs of the bruised\nGod money's not one to choose\n\n  Chorus\n",
+    "key": "E",
+    "tempo": "Tempo"
+  },
+  "Hazy_Shade_Of_Winter.Bangels": {
+    "name": "Hazy Shade Of Winter",
+    "artist": "Bangels",
+    "id": "Hazy_Shade_Of_Winter.Bangels",
+    "lyrics": "I: Em D Em\nV: Em D C Bm DB: C G D Em\n\nTime time time, see what's become of me...\n\nTime time time, see what's become of me\nWhile I look around for my possibilities I was so hard to please\n\n  Look around, leaves are brown, and the sky is a hazy shade of winter\n\nHear the salvation army band\nDown by the riverside it's bound to be a better ride than what you've got planned\ncarry a cup in your hand.\n\n  Look around, leaves are brown, and the sky is a hazy shade of winter\n\nHang on to your hopes, my friend\nThat's an easy thing to say, but if your hopes should pass away simply pretend\nthat you can build them again\n\n  Look around, grass is high, fields are ripe, it's the spring time of my life\n\n    Seasons change with the scenery\n    Weaving time in a tapestry, won't you stop and remember me?\n\nLook around, leaves are brown, and the sky is a hazy shade of winter\nLook around, leaves are brown, there's a patch of snow on the ground\n",
+    "key": "Em",
     "tempo": "Tempo"
   }
 }
