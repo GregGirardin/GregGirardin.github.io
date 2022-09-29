@@ -1987,14 +1987,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Give_Me_Three_Steps.Lynyrd_Skynyrd": {
-    "name": "Give Me Three Steps",
-    "artist": "Lynyrd Skynyrd",
-    "id": "Give_Me_Three_Steps.Lynyrd_Skynyrd",
-    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord, a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n  Oh, won't you gimme three steps .. mister .. toward the door? \n  Gimme three steps .. mister and you'll never see me no more. For sure\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Some_Kind_Of_Wonderful.Grand_Funk": {
     "name": "Some Kind Of Wonderful",
     "artist": "Grand Funk",
@@ -2223,8 +2215,16 @@
     "name": "The Joker",
     "artist": "Steve Miller Band",
     "id": "The_Joker.Steve_Miller_Band",
-    "lyrics": "Some people call me The Space Cowboy, yeah\nSome call me The Gangster Of Love\nSome people call me Maurice\n'Cause I speak of the pompatus of love\n\nPeople talk about me, baby\nSay I'm doin' you wrong, doin' you wrong\nWell, don't you worry, baby, don't worry\n'Cause I'm right here, right here, right here, right here at home\n\n  Chorus\n\n  'Cause I'm a picker, I'm a grinner\n  And I'm a lover, and I'm a sinner\n  I play my music in the sun\n  'Cause I'm a joker, I'm a smoker\n  I'm a midnight toker\n  I sure don't want to hurt no one\n\n  Solo 1\n\n  Chorus\n\n  I'm a picker, I'm a grinner\n  I'm a lover, and I'm a sinner\n  I play my music in the sun\n  I'm a joker, I'm a smoker\n  I'm a midnight toker\n  I get my lovin' on the run\n  Whoooo, whooo\n\nYou're the cutest thing that I ever did see\nI really love your peaches, wanna shake your tree\nLovey-dovey, lovey-dovey, lovey-dovey all the time\nOooee baby, I'll sure show you a good time\n\n  Chorus\n\n  'Cause I'm a picker, I'm a grinner\n  I'm a lover, and I'm a sinner\n  I play my music in the sun\n  I'm a joker, I'm a smoker\n  I'm a midnight toker\n  I get my lovin' on the run\n\n  Solo 2\n\n  Chorus\n\n  I'm a picker, I'm a grinner\n  I'm a lover, and I'm a sinner\n  I play my music in the sun\n  I'm a joker, I'm a smoker\n  I'm a midnight toker\n  I sure don't want to hurt no one\n  Whoooo, whooo\n\nPeople keep talkin' about me, baby\nSay I'm doin' you wrong\nWell, don'tyou  worry, don't worry, no, don't worry, mama\n'Cause I'm right here at home\n\nYou're the cutest thing I ever did see\nReally love your peaches, wanna shake your tree\nLovey-dovey, lovey-dovey, lovey-dovey all the time\nC'mon baby, now I'll show you a good time\n",
+    "lyrics": "Some people call me The Space Cowboy, yeah\nSome call me The Gangster Of Love\nSome people call me Maurice\nCause I speak of the pompatus of love\n\nPeople talk about me, baby\nSay I'm doin' you wrong, doin' you wrong\nWell, don't you worry, baby, don't worry\nCause I'm right here, right here, right here, right here at home\n\n  Cause I'm a picker, I'm a grinner and I'm a lover, and I'm a sinner\n  I play my music in the sun\n  Cause I'm a joker, I'm a smoker, I'm a midnight toker\n  I sure don't want to hurt no one (I get my lovin' on the run)\n\n    Solo\n\n  Chorus\n\n  Whoooo, whooo\n\nYou're the cutest thing that I ever did see\nI really love your peaches, wanna shake your tree\nLovey-dovey, lovey-dovey, lovey-dovey all the time\nOooee baby, I'll sure show you a good time\n\n  Chorus\n\n    Solo\n\n  Chorus\n\nPeople keep talkin' about me, baby\nSay I'm doin' you wrong\nWell, don't you  worry, don't worry, no, don't worry, mama\nCause I'm right here at home\n\nYou're the cutest thing I ever did see...\n",
     "key": "F",
     "tempo": "83bpm"
+  },
+  "Gimme_Three_Steps.Lynyrd_Skynyrd": {
+    "name": "Gimme Three Steps",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Gimme_Three_Steps.Lynyrd_Skynyrd",
+    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord, a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n  Oh, won't you gimme three steps .. mister .. toward the door? \n  Gimme three steps .. mister and you'll never see me no more. For sure\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
