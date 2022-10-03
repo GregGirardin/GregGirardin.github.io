@@ -1827,10 +1827,10 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Learn_To_Fly.Foo_Fighers": {
+  "Learn_To_Fly.Foo_Fighters": {
     "name": "Learn To Fly",
-    "artist": "Foo Fighers",
-    "id": "Learn_To_Fly.Foo_Fighers",
+    "artist": "Foo Fighters",
+    "id": "Learn_To_Fly.Foo_Fighters",
     "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own (repeat)\n\n  Chorus\n",
     "key": "F#",
     "tempo": "Tempo"
@@ -1987,6 +1987,14 @@
     "key": "D",
     "tempo": "Tempo"
   },
+  "Gimme_Three_Steps.Lynyrd_Skynyrd": {
+    "name": "Gimme Three Steps",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Gimme_Three_Steps.Lynyrd_Skynyrd",
+    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord, a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n  Oh, won't you gimme three steps .. mister .. toward the door? \n  Gimme three steps .. mister and you'll never see me no more. For sure\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
   "Some_Kind_Of_Wonderful.Grand_Funk": {
     "name": "Some Kind Of Wonderful",
     "artist": "Grand Funk",
@@ -2003,10 +2011,10 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Jenny_Jenny.Tommy_Tutone": {
-    "name": "Jenny Jenny",
+  "867-5309/Jenny.Tommy_Tutone": {
+    "name": "867-5309/Jenny",
     "artist": "Tommy Tutone",
-    "id": "Jenny_Jenny.Tommy_Tutone",
+    "id": "867-5309/Jenny.Tommy_Tutone",
     "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
     "key": "D",
     "tempo": "Tempo"
