@@ -432,7 +432,8 @@
     "artist": "INXS",
     "id": "Never_Tear_Us_Apart.INXS",
     "lyrics": "Am F Dm F - (C F) G\n\nDon't ask me, what you know is true\nDon't have to tell you, I love your precious heart\n\n  I was standing you were there\n  Two worlds collided and they could never tear us apart\n\nWe could live for a thousand years\nBut if I hurt you I'd make wine from your tears\nI told you that we could fly\nCause we all have wings but some of us don't know why\n\nChorus / Harmonica C / Chorus",
-    "key": "Am"
+    "key": "Am",
+    "tempo": "undefined"
   },
   "Never_let_me_down.Depeche_Mode": {
     "name": "Never let me down",
@@ -1200,8 +1201,9 @@
     "name": "Sweet Child Of Mine",
     "artist": "Guns And Roses",
     "id": "Sweet_Child_Of_Mine.Guns_And_Roses",
-    "lyrics": "V: D C G D   C: A C D   S: Em C B A - Em G A C D\n\nShe's got a smile that it seems to me reminds me of childhood memories\nWhere everything was as fresh as a bright blue sky\nNow and then when I see her face she takes me away to that special place\nAnd if I stared too long I'd probably break down and cry\n\n  Whoa sweet child of mine\n  Whoa sweet love of mine\n\nShe's got eyes of the bluest skies as if they thought of rain\nI hate to look into those eyes and see an ounce of pain\nHer hair reminds me of a warm safe place where as a child I'd hide\nAnd pray for the thunder and rain to quietly pass me by\n\n  Whoa...\n\nWhere do we go..",
-    "key": "D"
+    "lyrics": "V: D C G DC: A C D\nS: Em C B A - Em G A C D\n\nShe's got a smile that it seems to me reminds me of childhood memories\nWhere everything was as fresh as a bright blue sky\nNow and then when I see her face she takes me away to that special place\nAnd if I stared too long I'd probably break down and cry\n\n  Whoa sweet child of mine\n  Whoa sweet love of mine\n\nShe's got eyes of the bluest skies as if they thought of rain\nI hate to look into those eyes and see an ounce of pain\nHer hair reminds me of a warm safe place where as a child I'd hide\nAnd pray for the thunder and rain to quietly pass me by\n\n  Whoa...\n\nWhere do we go..\n",
+    "key": "D",
+    "tempo": "undefined"
   },
   "Sweet_Emotion.Aerosmith": {
     "name": "Sweet Emotion",
@@ -1827,14 +1829,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Learn_To_Fly.Foo_Fighers": {
-    "name": "Learn To Fly",
-    "artist": "Foo Fighers",
-    "id": "Learn_To_Fly.Foo_Fighers",
-    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own (repeat)\n\n  Chorus\n",
-    "key": "F#",
-    "tempo": "Tempo"
-  },
   "Last_Train_To_Clarksville.The_Monkees": {
     "name": "Last Train To Clarksville",
     "artist": "The Monkees",
@@ -1987,6 +1981,14 @@
     "key": "D",
     "tempo": "Tempo"
   },
+  "Gimme_Three_Steps.Lynyrd_Skynyrd": {
+    "name": "Gimme Three Steps",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Gimme_Three_Steps.Lynyrd_Skynyrd",
+    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord, a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n  Oh, won't you gimme three steps .. mister .. toward the door? \n  Gimme three steps .. mister and you'll never see me no more. For sure\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
   "Some_Kind_Of_Wonderful.Grand_Funk": {
     "name": "Some Kind Of Wonderful",
     "artist": "Grand Funk",
@@ -2003,10 +2005,10 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Jenny_Jenny.Tommy_Tutone": {
-    "name": "Jenny Jenny",
+  "867-5309/Jenny.Tommy_Tutone": {
+    "name": "867-5309/Jenny",
     "artist": "Tommy Tutone",
-    "id": "Jenny_Jenny.Tommy_Tutone",
+    "id": "867-5309/Jenny.Tommy_Tutone",
     "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
     "key": "D",
     "tempo": "Tempo"
@@ -2183,7 +2185,7 @@
     "name": "Mr Brownstone",
     "artist": "G&R",
     "id": "Mr_Brownstone.G&R",
-    "lyrics": "I get up around seven get outta bed around nine\nAnd I don't worry about nothin' no 'cause worryin's a waste of my time\nThe show usually starts around seven we go on stage at nine\nGet on the bus at eleven sippin' a drink and feelin' fine\n\n  We been dancin' with Mr. Brownstone\n  He's been knockin' he won't' leave me alone no\n  He won't leave me alone\n\n    I used ta do a little but a little wouldn't do so the little got more and more\n    I just keep tryin' ta get a little better said a little better than before\n\n  We been dancin' with Mr. Brownstone...\n\nNow I get up around whenever I used ta get up on time\nBut that old man he's a real muthafucker gonna kick him on down the line\n\n    I used ta do a little...\n\n  We been dancin' with Mr. Brownstone...\n\nStuck it in the middle and I shot it in the middle and it, it drove outta my mind\nI should've known better, said I wish I never met her said I leave it all behind Yowsa!\n",
+    "lyrics": "Em A \nC: G C D E - B A\nS: F# E G  C   D   E\n    E   G A     D C# B G E\n\nI get up around seven get outta bed around nine\nAnd I don't worry about nothin no 'cause worryin's a waste of my time\nThe show usually starts around seven we go on stage at nine\nGet on the bus at eleven sippin a drink and feelin' fine\n\n  We been dancin' with Mr. Brownstone\n  He's been knockin' he won't leave me alone no\n  He won't leave me alone\n\n    I used ta do a little but a little wouldn't do so the little got more and more\n    I just keep tryin' ta get a little better said a little better than before\n\n  We been dancin with Mr. Brownstone...\n\nNow I get up around whenever I used ta get up on time\nBut that old man he's a real muthafucker gonna kick him on down the line\n\n    I used ta do a little...\n\n  We been dancin' with Mr. Brownstone...\n\nStuck it in the middle and I shot it in the middle and it, it drove outta my mind\nI should've known better, said I wish I never met her said I leave it all behind Yowsa!\n",
     "key": "Em",
     "tempo": "undefined"
   },
@@ -2219,12 +2221,28 @@
     "key": "F",
     "tempo": "83bpm"
   },
-  "Gimme_Three_Steps.Lynyrd_Skynyrd": {
-    "name": "Gimme Three Steps",
-    "artist": "Lynyrd Skynyrd",
-    "id": "Gimme_Three_Steps.Lynyrd_Skynyrd",
-    "lyrics": "V: D A - D E A - D G F# F E - D A D\nC: D A\n\nI was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou \nWhen in walked a man with a gun in his hand, he was looking for you know who. \nHe said \"Hey there fellow with the hair colored yellow, watcha tryin to prove? \nCuz thats my woman there and I'm a man who cares and this might be all for you\"\n(I said \"excuse me!\")\n \nI was scared and fearing for my life,I was shaking like a leaf on a tree \nCuz he was lean and mean and big and bad, Lord, a pointing that gun at me \n\"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you \nand I know you don't owe me but I wish you would let me ask one favor from you\n\n  Oh, won't you gimme three steps .. mister .. toward the door? \n  Gimme three steps .. mister and you'll never see me no more. For sure\n\nOh, well the crowd cleared away and I began to pray and the water fell on the floor.\nAnd I'm telling you, son, well it ain't no fun, staring straight down a forty-four. \nWell, he turned and screamed at Linda Lou, and that's the break I was looking for \nand you could hear me screaming a mile away as I was headed out toward the door. \n \nChorus\n",
+  "Jenny_Jenny.Tommy_Tutone": {
+    "name": "Jenny Jenny",
+    "artist": "Tommy Tutone",
+    "id": "Jenny_Jenny.Tommy_Tutone",
+    "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "Our_Lips_Are_Sealed_(Moon_Talk).The_Bangels": {
+    "name": "Our Lips Are Sealed (Moon Talk)",
+    "artist": "The Bangels",
+    "id": "Our_Lips_Are_Sealed_(Moon_Talk).The_Bangels",
+    "lyrics": "V: C Fm\nC: Ab G C# G C\n\n  Hush, my darling don't you cry.\n  Quiet, angel, forget their lies.\n\nCan you hear them? They talk about us. Telling lies, well, that's no surprise.\nCan you see them? See right through them. They have no shields, no secrets to reveal.\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.",
+    "key": "C",
+    "tempo": "undefined"
+  },
+  "Learn_To_Fly.Foo_Fighters": {
+    "name": "Learn To Fly",
+    "artist": "Foo Fighters",
+    "id": "Learn_To_Fly.Foo_Fighters",
+    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own (repeat)\n\n  Chorus\n",
+    "key": "F#",
     "tempo": "Tempo"
   }
 }
