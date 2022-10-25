@@ -1846,14 +1846,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Melt_With_You.Modern_English": {
-    "name": "Melt With You",
-    "artist": "Modern English",
-    "id": "Melt_With_You.Modern_English",
-    "lyrics": "V: C F   B: Em G Am C\n\nMoving forward using all my breath\nMaking love to you was never second best\nI saw the world crashing all around your face\nNever really knowing it was always mesh and lace\n\n  I'll stop the world and melt with you\n  You've seen the difference and it's getting better all the time\n  There's nothing you and I won't do\n  I'll stop the world and melt with you\n\nDream of better lives the kind which never hate\nTrapped in the state of imaginary grace\nI made a pilgrimage to save this humans race\nNever comprehending the race had long gone by\n \n  Chorus\n\n    The future's open wide\n\n  Solo\n\n  Chorus\n\n    The future's open wide\n\nHmmm hmmm hmmm\n\n  Chorus\n",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Honky_Tonk_woman.The_Rolling_Stones": {
     "name": "Honky Tonk woman",
     "artist": "The Rolling Stones",
@@ -2317,5 +2309,21 @@
     "lyrics": "V: (Em CM Am7 FM7) C: CM7 G Bm  S: FM7 Am C D Bm \n\nWell it's a lonely road that you have chosen\nMorning comes and you don't want to know me anymore\nAnd it's a long time since your heart was frozen morning comes..\n\n  For a moment your eyes open and you know\n  All the things I ever wanted you to know\n  I don't know you, and I don't want to\n  Till the moment your eyes open and you know\n  \nThat it's a lonely place that you have run to morning comes..\nAnd it's a lonely end that you will come to morning comes..\n \n  Chorus\n  \n    Solo\n\n    Chorus\n",
     "key": "Em",
     "tempo": "Em"
+  },
+  "I_Melt_With_You.Modern_English": {
+    "name": "I Melt With You",
+    "artist": "Modern English",
+    "id": "I_Melt_With_You.Modern_English",
+    "lyrics": "V: C F   B: Em G Am C\n\n\n\nMoving forward using all my breath\n\nMaking love to you was never second best\n\nI saw the world crashing all around your face\n\nNever really knowing it was always mesh and lace\n\n\n\n  I'll stop the world and melt with you\n\n  You've seen the difference and it's getting better all the time\n\n  There's nothing you and I won't do\n\n  I'll stop the world and melt with you\n\n\n\nDream of better lives the kind which never hate\n\nTrapped in the state of imaginary grace\n\nI made a pilgrimage to save this humans race\n\nNever comprehending the race had long gone by\n\n \n\n  Chorus\n\n\n\n    The future's open wide\n\n\n\n  Solo\n\n\n\n  Chorus\n\n\n\n    The future's open wide\n\n\n\nHmmm hmmm hmmm\n\n\n\n  Chorus\n\n",
+    "key": "C",
+    "tempo": "155"
+  },
+  "Once_In_A_Lifetime.Talking_Heads": {
+    "name": "Once In A Lifetime",
+    "artist": "Talking Heads",
+    "id": "Once_In_A_Lifetime.Talking_Heads",
+    "lyrics": "And you may find yourself living in a shotgun shack\nAnd you may find yourself in another part of the world\nAnd you may find yourself behind the wheel of a large automobile\nAnd you may find yourself in a beautiful house, with a beautiful wife\nAnd you may ask yourself, \"Well, how did I get here?\"\n\n    Chorus\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again after the money's gone\n    Once in a lifetime, water flowing underground\n\nAnd you may ask yourself, \"How do I work this?\"\nAnd you may ask yourself, \"Where is that large automobile?\"\nAnd you may tell yourself, \"This is not my beautiful house\"\nAnd you may tell yourself, \"This is not my beautiful wife\"\n\n    Chorus\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again after the money's gone\n    Once in a lifetime, water flowing underground\n\n    [ridge\n    Same as it ever was, same as it ever was\n    Same as it ever was, same as it ever was\n    Same as it ever was, same as it ever was\n    Same as it ever was, same as it ever was\n\nWater dissolving and water removing\nThere is water at the bottom of the ocean\nUnder the water, carry the water\nRemove the water at the bottom of the ocean\nWater dissolving and water removing\n\n    Chorus\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again, into the silent water\n    Under the rocks and stones, there is water underground\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again after the money's gone\n    Once in a lifetime, water flowing underground\n\nYou may ask yourself, \"What is that beautiful house?\"\nYou may ask yourself, \"Where does that highway go to?\"\nAnd you may ask yourself, \"Am I right? Am I wrong?\"\nAnd you may say to yourself, \"My God! What have I done?\"\n\n    Chorus\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again, into the silent water\n    Under the rocks and stones, there is water underground\n    Letting the days go by, let the water hold me down\n    Letting the days go by, water flowing underground\n    Into the blue again after the money's gone\n    Once in a lifetime, water flowing underground\n\nSame as it ever was, same as it ever was\nSame as it ever was and look where my hand was\nTime isn't holding up, time isn't after us\nSame as it ever was, same as it ever was\nSame as it ever was, same as it ever was\nSame as it ever was, same as it ever was\nLetting the days go by, same as it ever was\nHere a twister comes, here comes the twister\nSame as it ever was, same as it ever was (Letting the days go by)\nSame as it ever was, same as it ever was (Letting the days go by)\nOnce in a lifetime (Let the water hold me down)\nLetting the days go by (Water flowing underground)\nInto the blue again\n\n",
+    "key": "D",
+    "tempo": "117bpm"
   }
 }
