@@ -175,13 +175,6 @@
     "lyrics": "I: D    V: (D E G A) A D G Em A    C: G A D Bm G A D    B: (G A D)\n\nWell, she was an American girl raised on promises\nShe couldn't help thinking that there was a little more to life somewhere else\nAfter all it was a great big world with lots of places to run to\nAnd if she had to die tryin she had one little promise she was gonna keep\n\n  O yeah, all right take it easy, baby\n  Make it last all night she was an American girl\n\nWell it was kind of cold that night, she stood alone on her balcony\nYeah, she could hear the cars roll by, out on 441 like waves crashin' on the beach\nAnd for one desperate moment there he crept back in her memory\nGod it's so painful when something that's so close is still so far out of reach\n\nChorus  / Break / Solo",
     "artist": "Tom Petty"
   },
-  "Down_Under.Men_At_Work": {
-    "key": "Bm",
-    "name": "Down Under",
-    "id": "Down_Under.Men_At_Work",
-    "lyrics": "V: Bm A Bm G A\nC: D A Bm G A\n\nTravelling in a fried-out kombi\nOn a hippy trail, head full of zombie\nI met a strange lady, she made me nervous\nShe took me in and gave me breakfast, and she said\n\n  Do you come from a land down under\n  Where women glow, and men plunder?\n  Can't you hear, can't you hear the thunder?\n  You better run, you better take cover\n\nBuying bread from a man in Brussels, he was\nSix foot four and full of muscles\nI said: do you speak-a my language?\nHe just smiled and gave me a Vegemite sandwich, and he said\n\n  I come from a land down under\n  Where beer does flow and men chunder\n  Can't you hear, can't you hear the thunder?\n  You better run, you better take cover\n\nLying in a den in Bombay\nWith a slack jaw and not much to say\nI said to the man: are you trying to tempt me?\nBecause I come from the land of plenty, and he said\n\n  Chorus 1",
-    "artist": "Men At Work"
-  },
   "Ventura_Highway.America": {
     "key": "G",
     "name": "Ventura Highway",
@@ -286,13 +279,6 @@
     "id": "Don_t_Let_Me_Down.The_Beatles",
     "lyrics": "V: F#m7 E\nB: E B B7 E A E\n\nG|-------------------------|-------2---1-------------|\nD|-2-2-1-2---2---2---2---2-|---4-1---4---2-4-1-2---1-|\nA|---------4---2-----------|-2-------------------4---|\nE|-----------------4---2---|-------------------------|\n\n  Don't let me down\n\nNobody ever loved me like she does Ooh she does yeah she does\nAnd if somebody loved me like she'd do me oooh she'd do me yeah she does\n\n    I'm in love for the first time don't you know it's gonna last\n    It's a love that lasts forever it's a love that has no past\n\nAnd from the first time that she really done me Ooh she done me she done me good\nI guess nobody ever really done me Ooh she done me she done me good\n",
     "key": "F#m"
-  },
-  "Free.Zac_Brown": {
-    "name": "Free",
-    "artist": "Zac Brown",
-    "id": "Free.Zac_Brown",
-    "lyrics": "C F - C Dm Em F\n\nSo we live out in our old van travel all across this land me and you\nAnd we'll end up hand in hand somewhere down on the sand just me and you\n\n  Just as free, free as we'll ever be\n\nWe drive until the city lights dissolve into a country sky just me and you\nLay underneath the harvest moon do all the things that lovers do just me and you\n\nChorus\n\nHarmonica C\n\nNo we don't have a lot of money... all we need is love\n\nChorus\n\nSo we live out in our old van travel all across this land me and you",
-    "key": "C"
   },
   "Yellow.Coldplay": {
     "name": "Yellow",
@@ -1364,14 +1350,6 @@
     "key": "B",
     "tempo": "Tempo"
   },
-  "Our_Lips_Are_Sealed_(Moon_Talk).The_Bangels": {
-    "name": "Our Lips Are Sealed (Moon Talk)",
-    "artist": "The Bangels",
-    "id": "Our_Lips_Are_Sealed_(Moon_Talk).The_Bangels",
-    "lyrics": "V: C Fm\nC: Ab G C# G C\n\n  Hush, my darling don't you cry.\n  Quiet, angel, forget their lies.\n\nCan you hear them? They talk about us. Telling lies, well, that's no surprise.\nCan you see them? See right through them. They have no shields, no secrets to reveal.\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Stand_by_me.Ben_E._King": {
     "name": "Stand by me",
     "artist": "Ben E. King",
@@ -1500,14 +1478,6 @@
     "key": "A",
     "tempo": "undefined"
   },
-  "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk": {
-    "name": "Our Lips Are Sealed (Moon Talk)",
-    "artist": "Moon Talk",
-    "id": "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk",
-    "lyrics": "V: C Fm\nC: Ab G C# G C\n\n    Hush, my darling don't you cry.\n    Quiet, angel, forget their lies.\n\nCan you hear them? They talk about us.\nTelling lies, well, that's no surprise.\nCan you see them? See right through them.\nThey have no shields, no secrets to reveal.\n\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Any_Way_You_Want_It.Journey": {
     "name": "Any Way You Want It",
     "artist": "Journey",
@@ -1539,14 +1509,6 @@
     "lyrics": "V: D E F#m E   C: (A D) F#m E D \n \nTell me do you think it'd be all right, if I could just crash here tonight\nYou can see I'm in no shape for driving, and anyway I've got no place to go\nAnd you know it might not be that bad, you were the best I'd ever had\nIf I hadn't blown the whole thing years ago, I might not be alone\n \n  Tomorrow we can drive around this town, and let the cops chase us around\n  The past is gone but something might be found to take its place\n  Hey jealousy..\n  \nAnd you can trust me not to think and not to sleep around\nIf you don't expect too much from me you might not be let down\nCause all I really want is to be with you feeling like I matter too\nIf I hadn't blown the whole thing years ago I might be here with you\n \n  Chorus / Solo / Chorus\n \nV1\n \n  Chorus\n \nHey jealousy, she took my heart\nThere's only one thing I couldn't start",
     "key": "D",
     "tempo": "153"
-  },
-  "Just_Remember_I_Love_You.Firefall": {
-    "name": "Just Remember I Love You",
-    "artist": "Firefall",
-    "id": "Just_Remember_I_Love_You.Firefall",
-    "lyrics": "E|-0-0---0-0----0-0---0-0-\nB|-0-1---0-1----0-3---0-3-\nG|-2-2---2-2----4-4---4-4-\nD|-3-3---3-3----5-5---5-5-\n\nV: (F G) Em F G\nC: (C G F) Am G F G\n\nWhen it all goes crazy and the thrill is gone\nYour days get rainy and your nights get long\nAnd you get that feeling you were born to lose\nStarin at your ceiling dreamin of your blues\n\nWhen there's so much trouble that you wanna cry\nThe world has crumbled and you don't know why\nWhen your hopes are fading and they can't be found\nDreams have left you waiting, friends have let you down\n\n  Just remember I love you and it'll be alright\n  Just remember I love more than I can say\n  Just remember I love you and it'll be alright\n  Maybe then your blues will fade away\n\nWhen you need a lover and you're down so low\nStart to wonder, but you never know\nWhen it feels like sorrow is your only friend\nKnowing that tomorrow you'll feel this way again\n\n  Chorus\n\nWhen the blues come callin' at the break of dawn\nRain keeps fallin', but the rainbow's gone\nWhen you feel like crying but the tears won't come\nWhen your dreams are dyin', when you're on the run\n\n  Chorus",
-    "key": "F",
-    "tempo": "undefined"
   },
   "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
     "name": "Call Me The Breeze",
@@ -2411,5 +2373,37 @@
     "lyrics": "We had broken up for good just an hour before ah-ah-ah..\nNow I'm staring at the bodies as they dance across the floor\nAnd then the band slowed the tempo and the music took you down\nIt was the same old song with a melancholy sound\n\n  They don't write em like that anymore\n  They just don't write em like that anymore\n\nWe'd been living together for a million years\nBut now it feels so strange out in the atmospheres\nAnd then the jukebox plays a song I used to know\nAnd now I'm staring at the bodies as they're dancin so slow\n\n  They don't write em like that anymore x 2\n\n    oh..\n\nHmm, now I wind up staring at an empty glass\nCause it's so easy to say that you'll forget your past\n\n  Chorus x 2\n\n  They just don't!  No, they dont!  No, no!  Uh uh!\n",
     "key": "Am",
     "tempo": "142bpm"
+  },
+  "Free.Zac_Brown": {
+    "name": "Free",
+    "artist": "Zac Brown",
+    "id": "Free.Zac_Brown",
+    "lyrics": "C F - C Dm Em F\n\nSo we live out in our old van travel all across this land me and you\nAnd we'll end up hand in hand somewhere down on the sand just me and you\n\n  Just as free, free as we'll ever be\n\nWe drive until the city lights dissolve into a country sky just me and you\nLay underneath the harvest moon do all the things that lovers do just me and you\n\n  Chorus\n\n    No we don't have a lot of money... all we need is love\n\n  Chorus\n\nSo we live out in our old van travel all across this land me and you",
+    "key": "C",
+    "tempo": "undefined"
+  },
+  "Down_Under.Men_At_Work": {
+    "name": "Down Under",
+    "artist": "Men At Work",
+    "id": "Down_Under.Men_At_Work",
+    "lyrics": "V: Bm A Bm G A\nC: D A Bm G A\n\nTravelling in a fried-out kombi\nOn a hippy trail, head full of zombie\nI met a strange lady, she made me nervous\nShe took me in and gave me breakfast, and she said\n\n  Do you come from a land down under\n  Where women glow, and men plunder?\n  Can't you hear, can't you hear the thunder?\n  You better run, you better take cover\n\nBuying bread from a man in Brussels, he was\nSix foot four and full of muscles\nI said: do you speak-a my language?\nHe just smiled and gave me a Vegemite sandwich, and he said\n\n  I come from a land down under\n  Where beer does flow and men chunder\n  Can't you hear, can't you hear the thunder?\n  You better run, you better take cover\n\nLying in a den in Bombay\nWith a slack jaw and not much to say\nI said to the man: are you trying to tempt me?\nBecause I come from the land of plenty, and he said\n\n  Chorus 1",
+    "key": "Bm",
+    "tempo": "undefined"
+  },
+  "Just_Remember_I_Love_You.Firefall": {
+    "name": "Just Remember I Love You",
+    "artist": "Firefall",
+    "id": "Just_Remember_I_Love_You.Firefall",
+    "lyrics": "E|-0-0---0-0----0-0---0-0-\nB|-0-1---0-1----0-3---0-3-\nG|-2-2---2-2----4-4---4-4-\nD|-3-3---3-3----5-5---5-5-\n\nV: (F G) Em F G\nC: (C G F) Am G F G\n\nWhen it all goes crazy and the thrill is gone\nYour days get rainy and your nights get long\nAnd you get that feeling you were born to lose\nStarin at your ceiling dreamin of your blues\n\nWhen there's so much trouble that you wanna cry\nThe world has crumbled and you don't know why\nWhen your hopes are fading and they can't be found\nDreams have left you waiting, friends have let you down\n\n  Just remember I love you and it'll be alright\n  Just remember I love more than I can say\n  Just remember I love you and it'll be alright\n  Maybe then your blues will fade away\n\nWhen you need a lover and you're down so low\nStart to wonder, but you never know\nWhen it feels like sorrow is your only friend\nKnowing that tomorrow you'll feel this way again\n\n  Chorus\n\nWhen the blues come callin' at the break of dawn\nRain keeps fallin', but the rainbow's gone\nWhen you feel like crying but the tears won't come\nWhen your dreams are dyin', when you're on the run\n\n  Chorus",
+    "key": "F",
+    "tempo": "undefined"
+  },
+  "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk": {
+    "name": "Our Lips Are Sealed (Moon Talk)",
+    "artist": "Moon Talk",
+    "id": "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk",
+    "lyrics": "V: C Fm\nC: Ab G C# G C\n\n    Hush, my darling don't you cry.\n    Quiet, angel, forget their lies.\n\nCan you hear them? They talk about us.\nTelling lies, well, that's no surprise.\nCan you see them? See right through them.\nThey have no shields, no secrets to reveal.\n\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.",
+    "key": "C",
+    "tempo": "undefined"
   }
 }
