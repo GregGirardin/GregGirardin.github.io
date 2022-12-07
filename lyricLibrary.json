@@ -731,14 +731,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "Fall_On_Me.REM": {
-    "name": "Fall On Me",
-    "artist": "REM",
-    "id": "Fall_On_Me.REM",
-    "lyrics": "E|----3-0---5-3-------3-0--5-3------3-0-----|\nB|--------------0--------------0--------3-5-|\nG|-4-5----5-------4-5----5-------4-5--------|\n\nV: (Dm Am) (Dm G C F)  Dm G7\nC: (C Dm F G) F\nB: Am F Am G  Am F Dm G\n\nThere's a problem feathers iron bargain buildings weights and pulleys\nFeathers hit the ground before the weight can leave the air\n\n  Buy the sky and sell the sky and tell the sky and tell the sky\n  Don't fall on me - what is it up in the air for\n  Fall on me - if it's there for long\n  Fall on me - it's over it's over me\n\nThere's the progress we have found a way to talk around the problem\nBuilding towered foresight isn't anything at all\n\n  Chorus\n\n    Well I would keep it above but then it wouldn't be sky anymore\n    So if I send it to you you've got to promise to keep it home\n\n  Buy the sky and sell the sky and lift your arms up to the sky\n  and ask the sky and ask the sky",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Rebel_Yell.Billy_Idol": {
     "name": "Rebel Yell",
     "artist": "Billy Idol",
@@ -2514,5 +2506,21 @@
     "lyrics": "The deception with tact, just what are you trying to say\nYou've got a blank face, which irritates, communicate pull out your party piece\nYou see dimensions, in two, state your case with black or white\nBut when one little cross leads to shots grit your teeth\nYou run for cover so discreet why don't they\n\n  Do what they say, say what you mean, one thing leads to another\n  You told me something wrong I know I listen too long but then\n  One thing leads to another\n\nThe impression that you sell, passes in and out like a scent\nBut the long face that you see, comes from living close to your fears\nIf this is up then I'm up but you're running out of sight, you've seen your name on the walls\nAnd when one little bump leads to shock miss a beat\nYou run for cover and there's heat why don't they\n\n  Chorus\n\n  * Break * (vocal comes in near the end of the break)\n\n    One thing, one thing leads to another..\n\nThen it's easy to believe, somebody's been lying to me\nBut when the wrong word goes in the right ear, I know you've been lying to me\nIt's getting rough off the cuff I've got to say enough's enough, bigger the harder he falls\nBut when the wrong antidote is like a bone in the throat\nYou run for cover in the heat why don't they\n\nChorus",
     "key": "Am",
     "tempo": "137"
+  },
+  "Fall_On_Me.REM": {
+    "name": "Fall On Me",
+    "artist": "REM",
+    "id": "Fall_On_Me.REM",
+    "lyrics": "E|----3-0---5-3-------3-0--5-3------3-0-----|\nB|--------------0--------------0--------3-5-|\nG|-4-5----5-------4-5----5-------4-5--------|\n\nV: (Dm Am) (Dm G C F)  Dm G7\nC: (C Dm F G) F\nB: Am F Am G  Am F Dm G\n\nThere's a problem feathers iron bargain buildings weights and pulleys\nFeathers hit the ground before the weight can leave the air\n\n  Buy the sky and sell the sky and tell the sky and tell the sky\n  Don't fall on me - what is it up in the air for\n  Fall on me - if it's there for long\n  Fall on me - it's over it's over me\n\nThere's the progress we have found a way to talk around the problem\nBuilding towered foresight isn't anything at all\n\n  Chorus\n\n    Well I would keep it above but then it wouldn't be sky anymore\n    So if I send it to you you've got to promise to keep it home\n\n  Buy the sky and sell the sky and lift your arms up to the sky\n  and ask the sky and ask the sky",
+    "key": "Dm",
+    "tempo": "undefined"
+  },
+  "Fire_Woman.The_Cult": {
+    "name": "Fire Woman",
+    "artist": "The Cult",
+    "id": "Fire_Woman.The_Cult",
+    "lyrics": "I: G C D, F C D\nV: (D C G) D F G F\nC: D C G D C D F G C\n\nShake...\n\nWound up, can't sleep, can't do anything right little honey,\nOh since I set my eyes on you I tell you the truth\nTwistin like a flame in a slow dance baby, you're driving me crazy\nCome on little honey, come on now\n\n  Fire, smoke she is a rising\n  Fire, yeah smoke on the horizon\n  Fire, smoke she is a rising\n  Fire, oh smoke stack lightning\n\n    Solo\n\nWell, shake it up, you're to blame, got me swayin' little honey\nMy heart's a ball of burnin' flame oh, yes it is\nPrancing like a cat on a hot tin shack,\nLord have mercy come on little sister, come on and shake it\n\n  Chorus\n\n  Solo / Intro\n\n    I was thinking what I've been missing I'll tell you truthfully, well\n    She's coming close now, oh I can feel her she's getting close to me\n\n    And I never, yeah\n\n  Chorus\n\n  Fire woman, you're to blame",
+    "key": "undefined",
+    "tempo": "Tempo"
   }
 }
