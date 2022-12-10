@@ -1283,14 +1283,6 @@
     "key": "Em",
     "tempo": "118"
   },
-  "Locomotive_Breath.Jethro_Tull": {
-    "name": "Locomotive Breath",
-    "artist": "Jethro Tull",
-    "id": "Locomotive_Breath.Jethro_Tull",
-    "lyrics": "[Em      Em  G  D] B D - Em G D - G A B  B D Em\n\n   In the shuffling madness of the Locomotive Breath\n   Runs the all time loser headlong to his death\nOh he feels the piston scraping steam breaking on his brow\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n\n   He sees his children jumping off at the stations one by one\n   His woman and his best friend in bed and having fun\nOh, he's crawling down the corridor on his hands and knees\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n \nSolo\n\n   He hears the silence howling, catches angels as they fall\n   And the all time winner has got him by the balls\nOh, he picks up Gideon's Bible open at page one\nI think God he stole the handle and the train it won't stop going\nNo way to slow down\nNo way to slow down\n",
-    "key": "Em",
-    "tempo": "Tempo"
-  },
   "Long_Train_Running.Doobie_Brothers": {
     "name": "Long Train Running",
     "artist": "Doobie Brothers",
@@ -2521,6 +2513,22 @@
     "id": "Fire_Woman.The_Cult",
     "lyrics": "I: G C D, F C D\nV: (D C G) D F G F\nC: D C G D C D F G C\n\nShake...\n\nWound up, can't sleep, can't do anything right little honey,\nOh since I set my eyes on you I tell you the truth\nTwistin like a flame in a slow dance baby, you're driving me crazy\nCome on little honey, come on now\n\n  Fire, smoke she is a rising\n  Fire, yeah smoke on the horizon\n  Fire, smoke she is a rising\n  Fire, oh smoke stack lightning\n\n    Solo\n\nWell, shake it up, you're to blame, got me swayin' little honey\nMy heart's a ball of burnin' flame oh, yes it is\nPrancing like a cat on a hot tin shack,\nLord have mercy come on little sister, come on and shake it\n\n  Chorus\n\n  Solo / Intro\n\n    I was thinking what I've been missing I'll tell you truthfully, well\n    She's coming close now, oh I can feel her she's getting close to me\n\n    And I never, yeah\n\n  Chorus\n\n  Fire woman, you're to blame",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Locomotive_Breath.Jethro_Tull": {
+    "name": "Locomotive Breath",
+    "artist": "Jethro Tull",
+    "id": "Locomotive_Breath.Jethro_Tull",
+    "lyrics": "[Em      Em  G  D] B D - Em G D - G A B  B D Em\n\n   In the shuffling madness of the Locomotive Breath\n   Runs the all time loser headlong to his death\nOh he feels the piston scraping steam breaking on his brow\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n\n   He sees his children jumping off at the stations one by one\n   His woman and his best friend in bed and having fun\nOh, he's crawling down the corridor on his hands and knees\nOld Charlie stole the handle and the train it won't stop going\nNo way to slow down\n \nSolo\n\n   He hears the silence howling, catches angels as they fall\n   And the all time winner has got him by the balls\nOh, he picks up Gideon's Bible open at page one\nI think God he stole the handle and the train it won't stop going\nNo way to slow down\nNo way to slow down\n",
+    "key": "Em",
+    "tempo": "Tempo"
+  },
+  "Living_After_Midnight.Judas_Priest": {
+    "name": "Living After Midnight",
+    "artist": "Judas Priest",
+    "id": "Living_After_Midnight.Judas_Priest",
+    "lyrics": "  Living after midnight rocking to the dawn\n  Loving 'til the morning then I'm gone, I'm gone\n\nI took the city 'bout one a.m. Loaded, loaded\nI'm all geared up to score again. Loaded, loaded\nI come alive in the neon light\nThat's when I make my moves right\n\n  Chorus\n\nGot gleaming chrome, reflecting steel, loaded, loaded\nReady to take on every deal loaded, loaded\nMy pulse is racing, hot to take\nAnd this motor's revved up, fit to break\n\n  Chorus\n\n    I'm aiming for ya, I'm gonna floor ya\n    My body's coming, all night long\n\n  Solo\n\nThe air's electric, sparkin' power, loaded, loaded\nI'm getting hotter by the hour, loaded, loaded\nI set my sights and then home in\nThe joint starts flying when I begin\n\n  Chorus",
+    "key": "E",
     "tempo": "Tempo"
   }
 }
