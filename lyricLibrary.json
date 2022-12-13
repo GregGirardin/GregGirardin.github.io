@@ -1987,22 +1987,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Can_t_Get_Enough.Bad_Company": {
-    "name": "Can't Get Enough",
-    "artist": "Bad Company",
-    "id": "Can_t_Get_Enough.Bad_Company",
-    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
-    "key": "C",
-    "tempo": "undefined"
-  },
-  "Careless_Whisper.George_Michael": {
-    "name": "Careless Whisper",
-    "artist": "George Michael",
-    "id": "Careless_Whisper.George_Michael",
-    "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Centerfold.J_Geils": {
     "name": "Centerfold",
     "artist": "J Geils",
@@ -2529,6 +2513,30 @@
     "id": "Living_After_Midnight.Judas_Priest",
     "lyrics": "  Living after midnight rocking to the dawn\n  Loving 'til the morning then I'm gone, I'm gone\n\nI took the city 'bout one a.m. Loaded, loaded\nI'm all geared up to score again. Loaded, loaded\nI come alive in the neon light\nThat's when I make my moves right\n\n  Chorus\n\nGot gleaming chrome, reflecting steel, loaded, loaded\nReady to take on every deal loaded, loaded\nMy pulse is racing, hot to take\nAnd this motor's revved up, fit to break\n\n  Chorus\n\n    I'm aiming for ya, I'm gonna floor ya\n    My body's coming, all night long\n\n  Solo\n\nThe air's electric, sparkin' power, loaded, loaded\nI'm getting hotter by the hour, loaded, loaded\nI set my sights and then home in\nThe joint starts flying when I begin\n\n  Chorus",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Careless_Whisper.George_Michael": {
+    "name": "Careless Whisper",
+    "artist": "George Michael",
+    "id": "Careless_Whisper.George_Michael",
+    "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
+    "key": "Dm",
+    "tempo": "undefined"
+  },
+  "Can_t_Get_Enough.Bad_Company": {
+    "name": "Can't Get Enough",
+    "artist": "Bad Company",
+    "id": "Can_t_Get_Enough.Bad_Company",
+    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
+    "key": "C",
+    "tempo": "undefined"
+  },
+  "Counting_Blue_Cars.Dishwalla": {
+    "name": "Counting Blue Cars",
+    "artist": "Dishwalla",
+    "id": "Counting_Blue_Cars.Dishwalla",
+    "lyrics": "\nV: Bm A G\nC: D E G\nMust've been mid afternoon\nI could tell by how far the child's shadow stretched out and\nHe walked with a purpose\nIn his sneakers, down the street\nHe had many questions like children often do, he said:\n\n  Tell me all your thoughts on God\n  Tell me am I very far\n\nMust've been late afternoon\non our way the sun broke free of the clouds\nWe count only blue cars\nSkip the cracks in the street\nAnd ask many questions like children often do, we said:\n\n  Tell me all your thoughts on God cause I'd really like to meet her\n  And ask her why we're who we are\n  Tell me all your thoughts on God cause I'm on my way to see her\n  So tell me am I very far,\n  Am I very far now?\n\nIt's getting cold, picked up the pace.\nHow our shoes make hard noises in this place.\nOur clothes are stained\nWe pass many cross-eyed people\nAnd ask many questions like children often do\n\n  Chorus",
+    "key": "Bm",
     "tempo": "Tempo"
   }
 }
