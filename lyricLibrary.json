@@ -282,13 +282,6 @@
     "lyrics": "D G D - G F G - D G D - A7\n\nDarling, you've got to let me know, should I stay or should I go,\nIf you say that you are mine, I'll be here 'til the end of time,\nSo you've got to let me know, should I stay or should I go?\n \nIt's always tease, tease, tease, you're happy when I'm on my knees,\nOne day it's fine, and next it's black, so if you want me off your back,\nWell, come on, and let me know... Should I stay or should I go?\n \n  Should I stay, or should I go now? (¿Yo me enfrio o lo soplo?)\n  Should I stay, or should I go now? (¿Yo me enfrio o lo soplo?)\n  If I go there will be trouble, (Si me voy va a haber peligro!)\n  And if I stay it will be double, (Si me quedo sera el doble!)\n  So you gotta let me know... (Me tienes que decir...)\n  Should I cool it, or should I blow? (¿Yo me enfrio o lo soplo?)\n\nThis indecision's buggin' me, (Esta indecisión me molesta)\nIf you don't want me, set me free! (Si no me quieres, líbrame!)\nExactly whom I'm supposed to be? (Digame quein tengo ser!)\nDon't you know which clothes even fit me? (¿No sabes que ropas me queda?)\nCome on, and let me know... (Me tienes que decir..)\nShould I cool it, or should I blow? (¿Me debo ir o quedarme?)\n \n Chorus\n",
     "key": "G"
   },
-  "Shine.Collective_Soul": {
-    "name": "Shine",
-    "artist": "Collective Soul",
-    "id": "Shine.Collective_Soul",
-    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\n  Chorus\n\nGive me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Chorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
-    "key": "D"
-  },
   "Lucky_Man.ELP": {
     "name": "Lucky Man",
     "artist": "ELP",
@@ -2648,5 +2641,13 @@
     "lyrics": "V: [ G D C ] G/B [Am D]\nC: [Em Am] C D [ G C D C D] [Am D] C D\n\nI don't know where I'm going, but I sure know where I've been.\nHanging on the promises in songs of yesterday.\nAnd I've made up my mind, I ain't wasting no more time, here I go again.\n\nThough I keep searching for an answer, I never seem to find what I'm looking for.\nOh Lord, I pray you give me strength to carry on,\n\n  Cause I know what it means, to walk along, the lonely street of dreams.\n  And here I go again on my own, going down the only road I've ever known.\n  Like a drifter I was born to walk alone.\n  And I've made up my mind, I ain't wasting no more time.\n\nI'm just another heart in need of rescue, waiting on love's sweet charity.\nAnd I'm gonna hold on for the rest of my days,\n \n  Chorus\n\n    Solo (over Verse w/ G pedal)\n\n  Chorus\n\ne-||-------------------------------------|\nB-||-----------8-10-8-7-8----------------|\nG-||-4-5-7----------------5~-------------|\nD-||-------5/7---------------------------|\n\ne-||--------------7---------------------------------|\nB-||-------7-8-10B--10-8-10---------10-8B(10)-8-8~--|\nG-||-(5)/9------------------7-----7-----------------|\nD-||--------------------------7-7-------------------|\nA-||------------------------------------------------|\nE-||------------------------------------------------|\n \ne-||-17B(19)17B(20)-15-17--------------|\nB-||----------------------15-----------|\nG-||-----------------------------------|\n\ne-||--------------------------------------------------------|\nB-||--------------------------------------------------------|\nG-||---------------------------------------------12-14-16---|\nD-||------------------------------------12-14-16------------|\nA-||------------------12-14-15-12-14-15---------------------|\nE-||-12-14-15-12-14-15--------------------------------------|\n \ne-||----------14-15-17B(19)~-----------|\nB-||-13-15-17--------------------------|\nG-||-----------------------------------|",
     "key": "G",
     "tempo": "Tempo"
+  },
+  "Shine.Collective_Soul": {
+    "name": "Shine",
+    "artist": "Collective Soul",
+    "id": "Shine.Collective_Soul",
+    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\n  Chorus\n   Solo\nV1\n  Chorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
+    "key": "D",
+    "tempo": ""
   }
 }
