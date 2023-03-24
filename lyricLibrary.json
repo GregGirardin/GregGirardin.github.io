@@ -2657,14 +2657,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Gel.Collective_Soul": {
-    "name": "Gel",
-    "artist": "Collective Soul",
-    "id": "Gel.Collective_Soul",
-    "lyrics": "Color me any color\nSpeak to me in tongues and share\nTell me how you'd love to hate me\nTell me how you'd love to care\nWell, I just want to shake us up\nWell, I just want, I just want to\nTo shake us up (uh-uh)\n\n  Let's mingle (uh-uh, uh-uh, uh-uh)\n  And make it well\n  Come together now\n  Yeah, let's gel\n\nClothe me in any fashion\nGlitter to so mundane\nTell me how you'd love to change me\nTell me I can stay the same\nI just want to shake us up\nWell, I just want, I just want to\nTo shake us up (uh-uh, uh-uh, uh-uh)\n\n  Chorus\n\n    Break / Solo\n\n  Chorus\n\n  Well, let's bungle\n  And live to tell\n  How we came together\n  Yeah, how we gelled",
-    "key": "E",
-    "tempo": "143bpm"
-  },
   "Heavy.Collective_Soul": {
     "name": "Heavy",
     "artist": "Collective Soul",
@@ -2673,13 +2665,21 @@
     "key": "C#",
     "tempo": "107bpm"
   },
-  "Bad_Case_Of_Loving_You.Robert_Palmer": {
-    "name": "Bad Case Of Loving You",
-    "artist": "Robert Palmer",
-    "id": "Bad_Case_Of_Loving_You.Robert_Palmer",
-    "lyrics": "Whoa\n\nA hot summer night, fell like a net\nI've gotta find my baby yet\nI need you, to soothe my head\nAnd turn my blue heart to red\n\n  Doctor Doctor, gimme the news\n  I got a bad case of lovin' you\n  No pill's gonna cure my ill\n  I got a bad case of lovin' you\n\nA pretty face don't make no pretty heart\nI learned that buddy from the start\nYou think I'm cute, a little bit shy\nMama, I ain't that kind of guy\n\n  Chorus\n\nI know you like it, you like it on top\nTell me mamma, are you gonna stop?\n\nYou had me down twenty-one to zip\nSmile of Judas on your lip\nShake my fist, knock on wood\nI got it bad, and I got it good\n\n  Chorus",
+  "Gel.Collective_Soul": {
+    "name": "Gel",
+    "artist": "Collective Soul",
+    "id": "Gel.Collective_Soul",
+    "lyrics": "Color me any color\nSpeak to me in tongues and share\nTell me how you'd love to hate me\nTell me how you'd love to care\nWell, I just want to shake us up\nWell, I just want, I just want to\nTo shake us up (uh-uh)\n\n  Let's mingle (uh-uh, uh-uh, uh-uh)\n  And make it well\n  Come together now\n  Yeah, let's gel\n\nClothe me in any fashion\nGlitter to so mundane\nTell me how you'd love to change me\nTell me I can stay the same\nI just want to shake us up\nWell, I just want, I just want to\nTo shake us up (uh-uh, uh-uh, uh-uh)\n\n  Chorus\n\n    Break / Solo\n\n  Chorus\n\n  Well, let's bungle\n  And live to tell\n  How we came together\n  Yeah, how we gelled",
     "key": "E",
-    "tempo": "146bpm"
+    "tempo": "143bpm"
+  },
+  "Whip_It.Devo": {
+    "name": "Whip It",
+    "artist": "Devo",
+    "id": "Whip_It.Devo",
+    "lyrics": "Crack that whip, give the past a slip\nStep on a crack, break your mama's back\n\nWhen a problem comes along, you must whip it\nBefore the cream sits out too long, you must whip it\nWhen something's going wrong, you must whip it\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good\n\nWhen a good time turns around, you must whip it\nYou will never live it down, unless you whip it\nNo one gets away, until they whip it\n\n  I say whip it, whip it good\n  I say whip it, whip it good\n\nCrack that whip...\nWhen a problem comes along...\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good",
+    "key": "D",
+    "tempo": "158bpm"
   },
   "Sharp_Dressed_Man.ZZ_Top": {
     "name": "Sharp Dressed Man",
@@ -2689,12 +2689,20 @@
     "key": "C",
     "tempo": "125bpm"
   },
-  "Whip_It.Devo": {
-    "name": "Whip It",
-    "artist": "Devo",
-    "id": "Whip_It.Devo",
-    "lyrics": "Crack that whip, give the past a slip\nStep on a crack, break your mama's back\n\nWhen a problem comes along, you must whip it\nBefore the cream sits out too long, you must whip it\nWhen something's going wrong, you must whip it\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good\n\nWhen a good time turns around, you must whip it\nYou will never live it down, unless you whip it\nNo one gets away, until they whip it\n\n  I say whip it, whip it good\n  I say whip it, whip it good\n\nCrack that whip...\nWhen a problem comes along...\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good",
-    "key": "D",
-    "tempo": "158bpm"
+  "Bad_Case_Of_Loving_You.Robert_Palmer": {
+    "name": "Bad Case Of Loving You",
+    "artist": "Robert Palmer",
+    "id": "Bad_Case_Of_Loving_You.Robert_Palmer",
+    "lyrics": "Whoa\n\nA hot summer night, fell like a net\nI've gotta find my baby yet\nI need you, to soothe my head\nAnd turn my blue heart to red\n\n  Doctor Doctor, gimme the news\n  I got a bad case of lovin' you\n  No pill's gonna cure my ill\n  I got a bad case of lovin' you\n\nA pretty face don't make no pretty heart\nI learned that buddy from the start\nYou think I'm cute, a little bit shy\nMama, I ain't that kind of guy\n\n  Chorus\n\nI know you like it, you like it on top\nTell me mamma, are you gonna stop?\n\nYou had me down twenty-one to zip\nSmile of Judas on your lip\nShake my fist, knock on wood\nI got it bad, and I got it good\n\n  Chorus",
+    "key": "E",
+    "tempo": "146bpm"
+  },
+  "Burning_Down_The_House.Talking_Heads": {
+    "name": "Burning Down The House",
+    "artist": "Talking Heads",
+    "id": "Burning_Down_The_House.Talking_Heads",
+    "lyrics": "Ah, watch out\nYou might get what you're after\nCool babies\nStrange but not a stranger\nI'm an ordinary guy\nBurning down the house\n\nHold tight\nWait 'til the party's over\nHold tight\nWe're in for nasty weather\nThere has got to be a way\nBurning down the house\n\nHere's your ticket, pack your bags\nTime for jumpin' overboard\nTransportation is here\nClose enough but not too far\nMaybe you know where you are\nFightin' fire with fire\n\nAh, all wet\nHey, you might need a raincoat\nShakedown\nDreams walking in broad daylight\nThree hundred sixty five degrees\nBurning down the house\n\nAh, it was once upon a place\nSometimes I listen to myself\nGonna come in first place\nPeople on their way to work\nAnd, baby what do you expect?\nGonna burst into flames, ah\n\nBurning down the house\n\nMy house\nIs out of the ordinary\nThat's right\nDon't wannna hurt nobody\nSome things sure can sweep me off my feet\nBurning down the house\n\nNo visible means of support\nAnd you have not seen nothin' yet\nEverything's stuck together\nAnd I don't know what you expect\nStaring into the TV set\nFightin' fire with fire, ah",
+    "key": "Dm",
+    "tempo": "103bpm"
   }
 }
