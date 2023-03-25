@@ -757,7 +757,7 @@
     "name": "Come As You Are",
     "artist": "Nirvana",
     "id": "Come_As_You_Are.Nirvana",
-    "lyrics": "G|-----------0---0-----------2-\nD|-0-0-1-2~----2---2-2-1-0-0---\n\nV: Em D    C: Em G    B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old    \n\n  Memory ah x 4\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory\n\n    And I swear...\nRiff\n\n",
+    "lyrics": "G|----------0---0-----------2-\nD|-0-0-1-2----2---2-2-1-0-0---\n\nV: Em D    Chorus: Em G     Bridge: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old    \n\n  Memory ah x 4\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory\n\n    And I swear...\nRiff\n",
     "key": "Em",
     "tempo": "undefined"
   },
@@ -2385,14 +2385,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "A_Day_in_the_Life.The_Beatles": {
-    "name": "A Day in the Life",
-    "artist": "The Beatles",
-    "id": "A_Day_in_the_Life.The_Beatles",
-    "lyrics": "I: G Bm Em Em7 CM7\nV: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7\nB: E D (E B7sus4)\nA: C G D A - E C G D A - E D C D\n\nWoke up, fell out of bed, dragged a comb across my head\n  Found my way downstairs and drank a cup and looking up, I noticed I was late\n  Found my coat and grabbed my hat, made the bus in seconds flat\n  Found my way upstairs and had a smoke and somebody spoke and I went into a dream\n  Ahhh..\n\nI read the news today oh boy, four thousand holes in Blackburn, Lancashire\nAnd though the holes were rather small they had to count them all\nNow they know how many holes it takes to fill the Albert Hall\nI'd love to turn you on",
-    "key": "G",
-    "tempo": "98"
-  },
   "House_of_the_rising_sun.The_Animals": {
     "name": "House of the rising sun",
     "artist": "The Animals",
@@ -2704,5 +2696,13 @@
     "lyrics": "Ah, watch out, you might get what you're after\nCool babies, strange but not a stranger\nI'm an ordinary guy burning down the house\n\nHold tight, wait 'til the party's over\nHold tight, we're in for nasty weather\nThere has got to be a way, burning down the house\n\n  Here's your ticket, pack your bags time for jumpin' overboard\n  Transportation is here\n  Close enough but not too far maybe you know where you are\n  Fightin' fire with fire\n\nAh, all wet, hey you might need a raincoat\nShakedown, dreams walking in broad daylight\nThree hundred sixty five degrees burning down the house\n\n  Ah, it was once upon a place sometimes I listen to myself\n  Gonna come in first place\n  People on their way to work and, baby what do you expect?\n  Gonna burst into flames, ah\n\n  Burning down the house\n\nMy house, is out of the ordinary\nThat's right, don't wannna hurt nobody\nSome things sure can sweep me off my feet burning down the house\n\n  No visible means of support and you have not seen nothin' yet\n  Everything's stuck together\n  And I don't know what you expect staring into the TV set\n  Fightin' fire with fire, ah",
     "key": "Dm",
     "tempo": "103bpm"
+  },
+  "A_Day_in_the_Life.The_Beatles": {
+    "name": "A Day in the Life",
+    "artist": "The Beatles",
+    "id": "A_Day_in_the_Life.The_Beatles",
+    "lyrics": "I: G Bm Em Em7 CM7\nV: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7\nB: E D (E B7sus4)\nA: C G D A - E C G D A - E D C D\n\nI read the news today, oh boy about a lucky man who made the grade\nAnd though the news was rather sad well, I just had to laugh\nI saw the photograph\n\nHe blew his mind out in a car, he didn't notice that the lights had changed\nA crowd of people stood and stared they'd seen his face before\nNobody was really sure if he was from the House of Lords\n\nI saw a film today oh boy, the English Army had just won the war\nA crowd of people turned away but I just had to look\nHaving read the book.. I'd love to turn you on\n\n  Woke up, fell out of bed, dragged a comb across my head\n  Found my way downstairs and drank a cup and looking up,\n  I noticed I was late\n  Found my coat and grabbed my hat, made the bus in seconds flat\n  Found my way upstairs and had a smoke\n  and somebody spoke and I went into a dream\n\n  Ahhh..\n\nI read the news today oh boy, four thousand holes in Blackburn, Lancashire\nAnd though the holes were rather small they had to count them all\nNow they know how many holes it takes to fill the Albert Hall\nI'd love to turn you on",
+    "key": "G",
+    "tempo": "98"
   }
 }
