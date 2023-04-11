@@ -2745,14 +2745,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Beer_Drinkers.ZZ_Top": {
-    "name": "Beer Drinkers",
-    "artist": "ZZ Top",
-    "id": "Beer_Drinkers.ZZ_Top",
-    "lyrics": "\nD|--------------5~~~------\n\nA|------5-7p5h7-----------\nE|--5-7-------------------\n\n\nBlues in E \n \nIf you see me walkin' down the line,\nwith my fav'rite honky tonk in mind,\nwell, I'll be here around suppertime\nwith my can of dinner and a bunch of fine\n \n  Beer drinkers and hell raisers, yeah. \n  Uh-huh-huh, baby, don't you wanna come with me?\n \nThe crowd gets loud when the band gets right\nsteel guitar cryin' through the night.\nYeah, try'n to cover up the corner fight but\nev'rything's cool 'cause they's just tight.\n \n  Chorus\n\n\n  Solo\n \nThe joint was jumpin like a cat on hot tin.\nLord, I thought the floor was gonna give in.\nSoundin a lot like a House Congressional\ncause we're experimental and professional.\n\n\n  Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Nothin_But_A_Good_time.Poison": {
     "name": "Nothin But A Good time",
     "artist": "Poison",
@@ -2767,6 +2759,14 @@
     "id": "New_Sensation.INXS",
     "lyrics": "Live baby live, now that the day is over\nI got a new sensation in perfect moments\nThat's impossible to refuse\n\nSleep baby sleep, now that the night is over\nAnd the sun comes like a God into our room\nAll perfect light and promises\n\n  Got a hold on you, a new sensation..\n  Right now, it's gonna take you over\n  A new sensation, a new sensation\n\nDream baby dream, of all that's come and going\nAnd you will find out in the end there really is\nThere really is no difference\n\nCry baby cry, when you got to get it out\nI'll be your shoulder you can tell me all\nDon't keep it in ya well, that's the reason why I'm here\n\n  Hey hey, are you ready for a new sensation, a new sensation\n  Right now? gonna take you on a new sensation, a new sensation\n\n    Trumpet! (New sensation)\n\nHate, baby, hate when there's nothing left for you\nYou're only human, what can you do? It'll soon be over\nDon't let your pain take over you\nLove, baby, love it's written all over your face\nThere's nothing better we could do than live forever\nWell, that's all we've got to do\n\n  Hey now I'm gonna take a new sensation, new sensation\n  Right now got a hold on you\n  A new sensation..",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Beer_Drinkers.ZZ_Top": {
+    "name": "Beer Drinkers",
+    "artist": "ZZ Top",
+    "id": "Beer_Drinkers.ZZ_Top",
+    "lyrics": "\nG|---------3---D|----30-------\nA|-345--35-----\nE|-------------\n\nBlues in G\n \nIf you see me walkin' down the line,\nwith my fav'rite honky tonk in mind,\nwell, I'll be here around suppertime\nwith my can of dinner and a bunch of fine\n \n  Beer drinkers and hell raisers, yeah. \n  Uh-huh-huh, baby, don't you wanna come with me?\n \nThe crowd gets loud when the band gets right\nsteel guitar cryin' through the night.\nYeah, try'n to cover up the corner fight but\nev'rything's cool 'cause they's just tight.\n \n  Chorus\n\n  Solo\n \nThe joint was jumpin like a cat on hot tin.\nLord, I thought the floor was gonna give in.\nSoundin a lot like a House Congressional\ncause we're experimental and professional.\n\n  Chorus",
+    "key": "G",
     "tempo": "Tempo"
   }
 }
