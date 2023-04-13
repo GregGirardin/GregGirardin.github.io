@@ -116,8 +116,9 @@
     "name": "Superstition",
     "artist": "Stevie Wonder",
     "id": "Superstition.Stevie_Wonder",
-    "lyrics": "D|---------5----------------5---------|\nA|---7-5-7----5-5h7-----5-7----5-5h7--| B C B Bb A B\nE|-0----------------5-7---------------|\n\nVery superstitious, writing's on the wall\nVery superstitious, ladders bout' to fall\nThirteen month old baby, broke the lookin glass\nSeven years of bad luck, the good things in your past\n\n  When you believe in things that you don't understand\n  Then you suffer, superstition ain't the way\n\nVery superstitious, wash your face and hands\nRid me of the problem, do all that you can\nKeep me in a daydream, keep me goin' strong\nYou don't wanna save me, sad is my song\n\nChorus\n\nVery superstitious, nothin' more to say\nVery superstitious, the devil's on his way\nThirteen months old baby, broke the lookin' glass\nSeven years of bad luck, good things in your past\n\nChorus",
-    "key": "Em"
+    "lyrics": "D|---------5----------------5---------|\nA|---7-5-7----5-5h7-----5-7----5-5h7--| B C B Bb A B\nE|-0----------------5-7---------------|\n\nVery superstitious, writing's on the wall\nVery superstitious, ladders bout' to fall\nThirteen month old baby, broke the lookin glass\nSeven years of bad luck, the good things in your past\n\n  When you believe in things that you don't understand\n  Then you suffer, superstition ain't the way\n\nVery superstitious, wash your face and hands\nRid me of the problem, do all that you can\nKeep me in a daydream, keep me goin' strong\nYou don't wanna save me, sad is my song\n\n  Chorus\n\nVery superstitious, nothin' more to say\nVery superstitious, the devil's on his way\nThirteen months old baby, broke the lookin' glass\nSeven years of bad luck, good things in your past\n\n  Chorus",
+    "key": "Em",
+    "tempo": "undefined"
   },
   "Runaround.Blues_Traveler": {
     "name": "Runaround",
@@ -357,7 +358,7 @@
     "name": "Surrender",
     "artist": "Cheap Trick",
     "id": "Surrender.Cheap_Trick",
-    "lyrics": "I: (Ab Bb) V1: (B F# E B) (E F# B) C: B G#m F# E\n\nMother told me, yes, she told me That I'd meet girls like you\nShe also told me, \"Stay away You'll never know what you'll catch\"\nJust the other day I heard Of a soldier's falling off\nSome Indonesian junk That's going 'round\n\n  Mommy's alright daddy's alright. They just seem a little weird\n  Surrender Surrender, but don't give yourself away\n\nI: (A B)\n\nFather says, \"Your mother's right she's really up on things\nBefore we married, Mommy served in the WACS in the Philippines”\nNow, I had heard the WACs recruited Old maids for the war\nBut mommy isn't one of those I've known her all these years\n\nChorus\n\nI: (A B)\n\nV: (C G F C)\nWhatever happened to all this season's losers of the year?\nEvery time I got to thinking where'd they disappear?\nBut when I woke up, Mom and Dad are rolling on the couch\nRolling numbers, rock and rollin' got my KISS records out\n\nChorus (C Am G F)\n\nAway.. (C F C G)\n",
+    "lyrics": "I: (Ab Bb) V1: (B F# E B) (E F# B) C: B G#m F# E\n\nMother told me, yes, she told me That I'd meet girls like you\nShe also told me, \"Stay away You'll never know what you'll catch\"\nJust the other day I heard Of a soldier's falling off\nSome Indonesian junk That's going 'round\n\n  Mommy's alright daddy's alright. They just seem a little weird\n  Surrender Surrender, but don't give yourself away\n\nI: (A B)\n\nFather says, \"Your mother's right she's really up on things\nBefore we married, Mommy served in the WACS in the Philippines”\nNow, I had heard the WACs recruited Old maids for the war\nBut mommy isn't one of those I've known her all these years\n\n  Chorus\n\nI: (A B)\n\nV: (C G F C)\nWhatever happened to all this season's losers of the year?\nEvery time I got to thinking where'd they disappear?\nBut when I woke up, Mom and Dad are rolling on the couch\nRolling numbers, rock and rollin' got my KISS records out\n\n  Chorus (C Am G F)\n\nAway.. (C F C G)\n",
     "key": "E",
     "tempo": "undefined"
   },
@@ -605,7 +606,7 @@
     "name": "Sweet Child Of Mine",
     "artist": "Guns N' Roses",
     "id": "Sweet_Child_Of_Mine.Guns_N__Roses",
-    "lyrics": "V: D C G DC: A C D\nS: Em C B A - Em G A C D\n\nShe's got a smile that it seems to me reminds me of childhood memories\nWhere everything was as fresh as a bright blue sky\nNow and then when I see her face she takes me away to that special place\nAnd if I stared too long I'd probably break down and cry\n\n  Whoa sweet child of mine\n  Whoa sweet love of mine\n\nShe's got eyes of the bluest skies as if they thought of rain\nI hate to look into those eyes and see an ounce of pain\nHer hair reminds me of a warm safe place where as a child I'd hide\nAnd pray for the thunder and rain to quietly pass me by\n\n  Whoa...\n\nWhere do we go..\n",
+    "lyrics": "V: D C G DC: A C D\nS: Em C B A - Em G A C D\n\nShe's got a smile that it seems to me reminds me of childhood memories\nWhere everything was as fresh as a bright blue sky\nNow and then when I see her face she takes me away to that special place\nAnd if I stared too long I'd probably break down and cry\n\n  Whoa sweet child of mine / love of mine\n\nShe's got eyes of the bluest skies as if they thought of rain\nI hate to look into those eyes and see an ounce of pain\nHer hair reminds me of a warm safe place where as a child I'd hide\nAnd pray for the thunder and rain to quietly pass me by\n\n  Whoa...\n\nWhere do we go..\n",
     "key": "D",
     "tempo": "undefined"
   },
@@ -1173,7 +1174,7 @@
     "name": "Stuck in the middle with you",
     "artist": "Steelers Wheel",
     "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
-    "lyrics": "V:D G D - A C G - D    B:(G7 D) A7\n\nWell I don't know why I came here tonight I got the feeling that something ain't right\nI'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs\n  Clowns to the left of me, jokers to the right, here I am, stuck in the middle with you.\n\nYes I'm stuck in the middle with you and I'm wondering what it is I should do\nIt's so hard to keep this smile from my face losing control, yeah, I'm all over the place..\n  Clowns to the left..\n\n    Well you started out with nothing and you're proud that you're a self made man\n    And your friends they all come crawlin slap you on the back and say please, please\n\nTrying to make some sense of it all but I can see that it makes no sense at all\nIs it cool to go to sleep on the floor cause I don't think that I can take anymore.\nClowns to the left..\n\n  Solo\n\n    Well you started out with nothing..\n\nV1",
+    "lyrics": "V:D G D - A C G - D    B:(G7 D) A7\n\nWell I don't know why I came here tonight I got the feeling that something ain't right\nI'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs\n  Clowns to the left of me, jokers to the right, here I am stuck in the middle with you.\n\nYes I'm stuck in the middle with you and I'm wondering what it is I should do\nIt's so hard to keep this smile from my face losing control, yeah, I'm all over the place..\n  Clowns to the left..\n\n    Well you started out with nothing and you're proud that you're a self made man\n    And your friends they all come crawlin slap you on the back and say please, please\n\nTrying to make some sense of it all but I can see that it makes no sense at all\nIs it cool to go to sleep on the floor cause I don't think that I can take anymore.\nClowns to the left..\n\n  Solo\n\n    Well you started out with nothing..\n\nV1",
     "key": "D",
     "tempo": "undefined"
   },
@@ -1237,7 +1238,7 @@
     "name": "Any Way You Want It",
     "artist": "Journey",
     "id": "Any_Way_You_Want_It.Journey",
-    "lyrics": "V: G D/F# Em C B\n\n  Any way you want it\n  That's the way you need it any way you want it\n \nShe loves to laugh she loves to sing she does everything\nShe loves to move she loves to groove she loves the lovin' things\nOoh, all night, all night oh every night\nSo hold tight, hold tight ooh, baby, hold tight Oh, she said,\n \nChorus\n \nI was alone I never knew what good love could do\nOoh, then we touched then we sang about the lovin' things\nOoh all night...\n\nChorus\n\nSolo\n\n  Hold on...\n\nSolo2\n\nChorus x2\n",
+    "lyrics": "V: G D/F# Em C B\n\n  Any way you want it that's the way you need it any way you want it\n \nShe loves to laugh she loves to sing she does everything\nShe loves to move she loves to groove she loves the lovin' things\nOoh, all night, all night oh every night\nSo hold tight, hold tight ooh, baby, hold tight Oh, she said,\n \n  Chorus\n \nI was alone I never knew what good love could do\nOoh, then we touched then we sang about the lovin' things\nOoh all night...\n\n  Chorus\n\n    Solo\n\n  Hold on...\n\n    Solo\n\n  Chorus x 2\n",
     "key": "G",
     "tempo": ""
   },
@@ -1837,7 +1838,7 @@
     "name": "Black Magic Woman",
     "artist": "Santana",
     "id": "Black_Magic_Woman.Santana",
-    "lyrics": "V: Dm7 Am7 Dm7 Gm Dm7 A7 Dm\n\nI got a black magic woman...\nI got a black magic woman got me so blind I can't see\nThat she's a black magic woman she's tryin' to make a devil out of me\n\nDon't turn your back on me baby...\nYes, don't turn your back on me baby, stop messin' around with your tricks\nDon't turn your back on me baby you just might pick up my magic sticks\n\nGot your spell on me baby...\nGot your spell on me baby turnin' my heart into stone\nI need you so bad magic woman I can't leave you alone\n\nSolo\n",
+    "lyrics": "V: Dm7 Am7 Dm7 Gm Dm7 A7 Dm\n\nI got a black magic woman... got me so blind I can't see\nThat she's a black magic woman she's tryin' to make a devil out of me\n\nDon't turn your back on me baby... stop messin' around with your tricks\nDon't turn your back on me baby you just might pick up my magic sticks\n\nGot your spell on me baby... turnin' my heart into stone\nI need you so bad magic woman I can't leave you alone\n\nSolo\n",
     "key": "Dm",
     "tempo": "undefined"
   },
@@ -1848,14 +1849,6 @@
     "lyrics": "Blues in A\n\nCall me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
     "key": "A",
     "tempo": "Tempo"
-  },
-  "Can_t_Get_Enough.Bad_Company": {
-    "name": "Can't Get Enough",
-    "artist": "Bad Company",
-    "id": "Can_t_Get_Enough.Bad_Company",
-    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
-    "key": "C",
-    "tempo": "undefined"
   },
   "Careless_Whisper.George_Michael": {
     "name": "Careless Whisper",
@@ -2093,7 +2086,7 @@
     "name": "Rock and Roll Fantasy",
     "artist": "Bad Company",
     "id": "Rock_and_Roll_Fantasy.Bad_Company",
-    "lyrics": "V: E C D\nC: G E G D A\n \nHere comes the jesters, one, two three\nIt's all part of my fantasy\nI love the music and I love to see the crowd\nDancin in the aisles and singin' out loud\n \nHere comes the dancers one by one\nYour mama's callin but you're havin fun\nYou find you're dancin on a number nine cloud\nPut your hands together now and sing It out loud\n \n  Its all part of my rock and roll fantasy / dream\n\n  Solo / Chorus\n\nPut up the spotlights one and all\nAnd let the feelin get down to your soul\nThe music's so loud you can hear the sound\nReachin for the sky and churn in up the ground\n \n Chorus x 2\n\nFantasy yeah\n",
+    "lyrics": "V: E C D\nC: G E G D A\n \nHere comes the jesters, one, two three\nIt's all part of my fantasy\nI love the music and I love to see the crowd\nDancin in the aisles and singin' out loud\n \nHere comes the dancers one by one\nYour mama's callin but you're havin fun\nYou find you're dancin on a number nine cloud\nPut your hands together now and sing It out loud\n \n  Its all part of my rock and roll fantasy / dream\n\n    Solo\n\n\n  Chorus\n\nPut up the spotlights one and all\nAnd let the feelin get down to your soul\nThe music's so loud you can hear the sound\nReachin for the sky and churn in up the ground\n \n Chorus x 2\n\nFantasy yeah\n",
     "key": "E",
     "tempo": "Tempo"
   },
@@ -2120,14 +2113,6 @@
     "lyrics": "V: [ G D C ] G/B [Am D]\nC: [Em Am] C D [ G C D C D] [Am D] C D\n\nI don't know where I'm going, but I sure know where I've been.\nHanging on the promises in songs of yesterday.\nAnd I've made up my mind, I ain't wasting no more time, here I go again.\n\nThough I keep searching for an answer, I never seem to find what I'm looking for.\nOh Lord, I pray you give me strength to carry on,\n\n  Cause I know what it means, to walk along, the lonely street of dreams.\n  And here I go again on my own, going down the only road I've ever known.\n  Like a drifter I was born to walk alone.\n  And I've made up my mind, I ain't wasting no more time.\n\nI'm just another heart in need of rescue, waiting on love's sweet charity.\nAnd I'm gonna hold on for the rest of my days,\n \n  Chorus\n\n    Solo (over Verse w/ G pedal)\n\n  Chorus\n\ne-||-------------------------------------|\nB-||-----------8-10-8-7-8----------------|\nG-||-4-5-7----------------5~-------------|\nD-||-------5/7---------------------------|\n\ne-||--------------7---------------------------------|\nB-||-------7-8-10B--10-8-10---------10-8B(10)-8-8~--|\nG-||-(5)/9------------------7-----7-----------------|\nD-||--------------------------7-7-------------------|\nA-||------------------------------------------------|\nE-||------------------------------------------------|\n \ne-||-17B(19)17B(20)-15-17--------------|\nB-||----------------------15-----------|\nG-||-----------------------------------|\n\ne-||--------------------------------------------------------|\nB-||--------------------------------------------------------|\nG-||---------------------------------------------12-14-16---|\nD-||------------------------------------12-14-16------------|\nA-||------------------12-14-15-12-14-15---------------------|\nE-||-12-14-15-12-14-15--------------------------------------|\n \ne-||----------14-15-17B(19)~-----------|\nB-||-13-15-17--------------------------|\nG-||-----------------------------------|",
     "key": "G",
     "tempo": "Tempo"
-  },
-  "Shine.Collective_Soul": {
-    "name": "Shine",
-    "artist": "Collective Soul",
-    "id": "Shine.Collective_Soul",
-    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\n  Chorus\n   Solo\nV1\n  Chorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
-    "key": "D",
-    "tempo": ""
   },
   "Talk_Dirty_To_Me.Poison": {
     "name": "Talk Dirty To Me",
@@ -2293,7 +2278,7 @@
     "name": "Whats so funny",
     "artist": "Elvis Costello",
     "id": "Whats_so_funny.Elvis_Costello",
-    "lyrics": "V: (G C) Em A D C   B: (G D/F# Em [ C | A | D ] )\n\nAs I walk through this wicked world\nSearching for light in the darkness of insanity\nI ask myself \"Is all hope lost?\"\nIs there only pain and hatred, and misery?\n  Cause each time I feel like this inside one thing I wanna know\n  What's so funny 'bout peace, love, and understanding? Oh\n\nAs I walk on through troubled times\nMy spirit gets so downhearted sometimes\nSo where are the strong ones and who are the trusted?\nAnd where is the harmony, sweet harmony\n  Cause each time I feel it slippin away just makes me wanna cry\n  What's so funny 'bout peace, love, and understanding? Oh\n\nSolo\n\nSo where are the strong ones...",
+    "lyrics": "V: (G C) Em A D C   B: (G D/F# Em [ C | A | D ] )\n\nAs I walk through this wicked world\nSearching for light in the darkness of insanity\nI ask myself \"Is all hope lost?\"\nIs there only pain and hatred, and misery?\n  Cause each time I feel like this inside one thing I wanna know\n  What's so funny 'bout peace, love, and understanding? Oh\n\nAs I walk on through troubled times\nMy spirit gets so downhearted sometimes\nSo where are the strong ones and who are the trusted?\nAnd where is the harmony, sweet harmony\n  Cause each time I feel it slippin away just makes me wanna cry\n  What's so funny 'bout peace, love, and understanding? Oh\n\n  Solo\n\nSo where are the strong ones...",
     "key": "G",
     "tempo": "undefined"
   },
@@ -2767,6 +2752,38 @@
     "id": "The_Boys_Are_Back_In_Town.Thin_Lizzy",
     "lyrics": "\nI: (A Bm D)\nV: (A C#m7 D [F#4 | F] C#m7 F#4 Bm7 E)\nS: (A A/B C#m7 E)\nB: D4 D - C#m7 F#4 Bm7 E F#4\n\nGuess who just got back today? Them wild-eyed boys that had been away\nHaven't changed had much to say but man, I still think them cats are crazy\nThey were askin if you were around, how you was, where you could be found\nI told em you were livin' downtown drivin' all the old men crazy\n\n  The boys are back in town...\n\n  Solo\n\nYou know that chick that used to dance a lot every night she'd be on the floor, shakin' what she's got\nMan, when I tell you she was cool, she was red-hot I mean, she was steamin'\nAnd that time over at Johnny's place well, this chick got up and she slapped Johnny's face\nMan, we just fell about the place if that chick don't wanna know, forget her\n\n  The boys are back in town...\n\n  Solo / Break\n\n   Spread the word around, guess who's back in town\n   Just spread the word around\n\nFriday night they'll be dressed to kill down at Dino's Bar'n'Grill\nThe drink will flow and blood will spill and if the boys wanna fight, you better let 'em\nThat jukebox in the corner blastin out my favorite song the nights are getting longer, it won't be long\nWon't be long 'til summer comes now that the boys are here again\n\n  The boys are back in town..\n\n  Solo 2\n  Solo\n",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "Slow_Ride.Foghat": {
+    "name": "Slow Ride",
+    "artist": "Foghat",
+    "id": "Slow_Ride.Foghat",
+    "lyrics": "  Slow ride, take it easy x 4\n\nI'm in the mood, the rhythm is right,\nMove to the music, we can roll all night.\nOooh - slow ride - oooh\n\n  Slow ride x 2\n\n    Slow down, go down, got to get your lovin' one more time\n    Hold me, roll me, slow ridin' woman you're so fine\n\n  Solo\n\nV1\n\n  Slow ride x 2\n\n    Slow down..\n\n  Solo (Slow ride, easy, slow ride, sleazy)\n\n    Slow down..\n\n  Slow ride, take it easy - slow ride, take it easy\n  Slow down, go down - Slow down, go down\n\nOh come on baby, take a slow ride with me,\nCome on baby, take a slow ride.\nOh feels good, mmm feels so good, I like it yea,\nI feel good, oh I feel alright!\nYou know the rhythm is right x 2\nWe gotta rock all night x 2\nYou know the rhythm is right, yeah, we gotta rock all night x 2\nWhoa, c'mon now\nWoo, Yea, Woo, Woa!\n\nElevate me mama x 4... Oww! Woo!",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Can_t_Get_Enough.Bad_Company": {
+    "name": "Can't Get Enough",
+    "artist": "Bad Company",
+    "id": "Can_t_Get_Enough.Bad_Company",
+    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
+    "key": "C",
+    "tempo": "undefined"
+  },
+  "Shine.Collective_Soul": {
+    "name": "Shine",
+    "artist": "Collective Soul",
+    "id": "Shine.Collective_Soul",
+    "lyrics": "Give me a word, give me a sign.\nShow me where to look, tell me what will I find?\nLay me on the ground, or fly me in the sky.\nShow me where to look, tell me what will I find?\n\n  Whoa, heaven let your light shine down\n\nLove is in the water, love is in the air.\nShow me where to look, tell me will love be there?\nTeach me how to speak, teach me how to share.\nTeach me where to go, tell me will love be there?\n\n  Chorus\n   Solo\nV1\n  Chorus\n\n    I'm gonna let it shine...\n    Heaven's little light, shine on me..\n",
+    "key": "D",
+    "tempo": ""
+  },
+  "Shipping_Up_To_Boston.Dropkick_Murphys": {
+    "name": "Shipping Up To Boston",
+    "artist": "Dropkick Murphys",
+    "id": "Shipping_Up_To_Boston.Dropkick_Murphys",
+    "lyrics": "V: Em (x3), D, A\nC: (D C G) Em\n\nI'm a sailor peg, and I lost my leg\nI climbed up the topsails, I lost my leg\n \nRiff\n \n  I'm shipping up to Boston,(whoa oh oh) (x3)\n  I'm shipping off, to find my wooden leg\n \nEm (x3), D, A\n \nV1\n \n  Chorus",
+    "key": "Em",
     "tempo": "Tempo"
   }
 }
