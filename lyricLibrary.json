@@ -931,14 +931,6 @@
     "key": "Bm",
     "tempo": "undefined"
   },
-  "Honky_Tonk_woman.The_Rolling_Stones": {
-    "name": "Honky Tonk woman",
-    "artist": "The Rolling Stones",
-    "id": "Honky_Tonk_woman.The_Rolling_Stones",
-    "lyrics": "I met her, just a barroom queen in Memphis\nShe tried to make me upstairs for a ride\nShe had to carry me right across her shoulder\n'Cause I just can't seem to drink her off of my mind\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n\nI met her either say in New York City\nI had to put up a one heck of a fight\nThe lady said she'd covered me with roses\nShe broke my nose and then she broke my mind.\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n\n  Instrumental\n\nShe's a honky tonk woman\nGimme, gimme, gimme, gimme\nGimme, gimme the honky tonk girl.\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Animals.Nickelback": {
     "name": "Animals",
     "artist": "Nickelback",
@@ -2743,7 +2735,7 @@
     "name": "Beer Drinkers",
     "artist": "ZZ Top",
     "id": "Beer_Drinkers.ZZ_Top",
-    "lyrics": "G|---------3-\nD|----30-----\nA|-345--35---\nE|-----------\n\nBlues in G\n \nIf you see me walkin' down the line,\nwith my fav'rite honky tonk in mind,\nwell, I'll be here around suppertime\nwith my can of dinner and a bunch of fine\n \n  Beer drinkers and hell raisers, yeah. \n  Uh-huh-huh, baby, don't you wanna come with me?\n \nThe crowd gets loud when the band gets right\nsteel guitar cryin' through the night.\nYeah, try'n to cover up the corner fight but\nev'rything's cool 'cause they's just tight.\n \n  Chorus\n\n  Solo\n \nThe joint was jumpin like a cat on hot tin.\nLord, I thought the floor was gonna give in.\nSoundin a lot like a House Congressional\ncause we're experimental and professional.\n\n  Chorus",
+    "lyrics": "G|---------3-\nD|----30-----\nA|-345--35---\nE|-----------\n\nBlues in G\n \nIf you see me walkin' down the line,\nwith my fav'rite honky tonk in mind,\nwell, I'll be here around suppertime\nwith my can of dinner and a bunch of fine\n \n  Beer drinkers and hell raisers, yeah. \n  Uh, baby, don't you wanna come with me?\n \nThe crowd gets loud when the band gets right\nsteel guitar cryin' through the night.\nYeah, try'n to cover up the corner fight but\nev'rything's cool 'cause they's just tight.\n \n  Chorus\n\n  Solo\n \nThe joint was jumpin like a cat on hot tin.\nLord, I thought the floor was gonna give in.\nSoundin a lot like a House Congressional\ncause we're experimental and professional.\n\n  Chorus",
     "key": "G",
     "tempo": "Tempo"
   },
@@ -2833,6 +2825,22 @@
     "id": "Hysteria.Def_Leppard",
     "lyrics": "Out of touch, out of reach, yeah\nYou could try to get closer to me\nI'm in love, I'm in deep, yeah\nHypnotized, I'm shakin' to my knees\n\n  I gotta know tonight, if you're alone tonight\n  Can't stop this feelin, can't stop this fire\n\n  Oh, I get hysterical, hysteria\n  Oh, can you feel it? Do you believe it? \n  It's such a magical mysteria\n  When you get that feelin, better start believin'\n  'Cause it's a miracle Oh, say you will, ooh babe\n  Hysteria when you're near'\n\nOut of me, into you, yeah\nYou can't hide, it's just a one-way street\nOh, I believe I'm in you, yeah\nOpen wide, that's right\nDream me off my feet, oh believe in me\n\n  PC + C",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "Paradise_City.Guns_&_Roses": {
+    "name": "Paradise City",
+    "artist": "Guns & Roses",
+    "id": "Paradise_City.Guns_&_Roses",
+    "lyrics": "  Take me down to the paradise city\n  Where the grass is green and the girls are pretty\n  Take me home (oh, won't you please take me home) x 2\n\nJust a urchin livin' under the street\nI'm a hard case that's tough to beat\nI'm your charity case so buy me something to eat\nI'll pay you at another time, take it to the end of the line\n\nRags to riches or so they say\nYa gotta keep pushin' for the fortune and fame\nYou know it's all a gamble when it's just a game\nYa treat it like a capital crime, everybody's doin' the time\n\n  Chorus\n\nStrapped in the chair of the city's gas chamber\nWhy I'm here I can't quite remember\nThe surgeon general says it's hazardous to breathe\nI'd have another cigarette but I can't see, tell me who you're gonna believe\n\n  Chorus\n\n    So far away\n\nCaptain America's been torn apart\nNow he's a court jester with a broken heart\nHe said \"turn me around and take me back to the start\"\nI must be losing my mind \"are you blind?\", I've seen it all a million times\n\n  Chorus\n\nOh, won't you please take me home\nI wanna go, I wanna go\nOh, won't you please take me home\nI wanna see how good it can be\nOh, won't you please take me home\nTake me down to the paradise city",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Honky_Tonk_woman.The_Rolling_Stones": {
+    "name": "Honky Tonk woman",
+    "artist": "The Rolling Stones",
+    "id": "Honky_Tonk_woman.The_Rolling_Stones",
+    "lyrics": "V: G C - G A D - G C - G D G\nC: G D G\n\nI met her, just a barroom queen in Memphis\nShe tried to make me upstairs for a ride\nShe had to carry me right across her shoulder\nCause I just can't seem to drink her off of my mind\n\n  She's a honky tonk woman\n  Gimme... the honky tonk girl.\n\nI met her either say in New York City\nI had to put up a one heck of a fight\nThe lady said she'd covered me with roses\nShe broke my nose and then she broke my mind.\n\n  Chorus\n\n    Instrumental\n\n  Chorus",
+    "key": "A",
     "tempo": "Tempo"
   }
 }
