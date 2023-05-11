@@ -2779,38 +2779,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "I_ll_Be_There_For_You.The_Rembrandts": {
-    "name": "I'll Be There For You",
-    "artist": "The Rembrandts",
-    "id": "I_ll_Be_There_For_You.The_Rembrandts",
-    "lyrics": "So no one told you life was gonna be this way\nYour job's a joke, you're broke, your love life's DOA\nIt's like you're always stuck in second gear\nWhen it hasn't been your day, your week, your month\nOr even your year, but\n\n  I'll be there for you (when the rain starts to pour)\n  I'll be there for you (like I've been there before)\n  I'll be there for you, cause you're there for me too\n\nYou're still in bed at ten and work began at eight\nYou've burned your breakfast so far, things are goin great\nYour mother warned you there'd be days like these\nOh, but she didn't tell you when the world has brought\nYou down to your knees that\n\n  Chorus\n\n    No one could ever know me, no one could ever see me\n    Seems you're the only one who knows, what it's like to be me\n    Someone to face the day with, make it through all the rest with\n    Someone I'll always laugh with, even at my worst I'm best with you\n\n  SOLO\n\nIt's like you're always stuck in second gear..\n\n  Chorus\n\n  I'll be there for you x 3\n  Cause you're there for me too",
-    "key": "A",
-    "tempo": "94bpm"
-  },
-  "Shut_Up_And_Dance.Walk_The_Moon": {
-    "name": "Shut Up And Dance",
-    "artist": "Walk The Moon",
-    "id": "Shut_Up_And_Dance.Walk_The_Moon",
-    "lyrics": "  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night\nThe chemical, physical, kryptonite\nHelpless to the bass and faded light\nOh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks\nMy discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me\nI knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nDeep in her eyes\nI think I see the future\nI realize this is my last chance\nShe took my arm\nI don't know how it happened\nWe took the floor and she said\n\n    Chorus\n",
-    "key": "C#",
-    "tempo": "128bpm"
-  },
-  "I_Will_Follow.U2": {
-    "name": "I Will Follow",
-    "artist": "U2",
-    "id": "I_Will_Follow.U2",
-    "lyrics": "I was on the outside when you said, you said you needed me\nI was looking at myself, I was blind, I could not see\n\nA boy tries hard to be a man his mother takes him by his hand\nIf he stops to think he starts to cry, oh, why?\n\n  If you walk away, walk away walk away, walk away, I will follow x 2\n\nI was on the inside when they pulled the four walls down\nI was looking through the window, I was lost, I am found\n\n  Chorus\n\n    Your eyes make a circle, I see you when I go in there\n    Your eyes..\n\n  Chorus\n\n  I will follow\n",
-    "key": "E",
-    "tempo": "155bpm"
-  },
-  "Just_Like_Heaven.The_Cure": {
-    "name": "Just Like Heaven",
-    "artist": "The Cure",
-    "id": "Just_Like_Heaven.The_Cure",
-    "lyrics": "Show me, show me, show me, how you do that trick\nThe one that makes me scream, she said\nThe one that makes me laugh, she said\nThrew her arms around my neck\n\nShow me how you do it, and I promise you\nI promise that I'll run away with you\nI'll run away with you\n\nSpinning on that dizzy edge\nI kissed her face and kissed her head\nDreamed of all the different ways\nI had to make her glow\nWhy are you so far away?, she said\nWhy won't you ever know that I'm in love with you?\nThat I'm in love with you?\n\nYou\nSoft and only\nYou\nLost and lonely\nYou\nStrange as angels\nDancing in the deepest oceans\nTwisting in the water\nYou're just like a dream\nJust like a dream\n\nDaylight licked me into shape\nI must have been asleep for days\nAnd moving lips to breathe her name\nI opened up my eyes\nAnd found myself alone\nAlone\nAlone above a raging sea\nThat stole the only girl I loved\nAnd drowned her deep inside of me\n\nYou\nSoft and only\nYou\nLost and lonely\nYou\nJust like heaven",
-    "key": "A",
-    "tempo": "151bpm"
-  },
   "I_m_Gonna_Be_(500_Miles).The_Proclaimers": {
     "name": "I'm Gonna Be (500 Miles)",
     "artist": "The Proclaimers",
@@ -2842,5 +2810,37 @@
     "lyrics": "V: G C - G A D - G C - G D G\nC: G D G\n\nI met her, just a barroom queen in Memphis\nShe tried to make me upstairs for a ride\nShe had to carry me right across her shoulder\nCause I just can't seem to drink her off of my mind\n\n  She's a honky tonk woman\n  Gimme... the honky tonk girl.\n\nI met her either say in New York City\nI had to put up a one heck of a fight\nThe lady said she'd covered me with roses\nShe broke my nose and then she broke my mind.\n\n  Chorus\n\n    Instrumental\n\n  Chorus",
     "key": "A",
     "tempo": "Tempo"
+  },
+  "I_ll_Be_There_For_You.The_Rembrandts": {
+    "name": "I'll Be There For You",
+    "artist": "The Rembrandts",
+    "id": "I_ll_Be_There_For_You.The_Rembrandts",
+    "lyrics": "So no one told you life was gonna be this way\nYour job's a joke, you're broke, your love life's DOA\nIt's like you're always stuck in second gear\nWhen it hasn't been your day, your week, your month\nOr even your year, but\n\n  I'll be there for you (when the rain starts to pour)\n  I'll be there for you (like I've been there before)\n  I'll be there for you, cause you're there for me too\n\nYou're still in bed at ten and work began at eight\nYou've burned your breakfast so far, things are goin great\nYour mother warned you there'd be days like these\nOh, but she didn't tell you when the world has brought\nYou down to your knees that\n\n  Chorus\n\n    No one could ever know me, no one could ever see me\n    Seems you're the only one who knows, what it's like to be me\n    Someone to face the day with, make it through all the rest with\n    Someone I'll always laugh with, even at my worst I'm best with you\n\n  SOLO\n\nIt's like you're always stuck in second gear..\n\n  Chorus\n\n  I'll be there for you x 3\n  Cause you're there for me too",
+    "key": "A",
+    "tempo": "94bpm"
+  },
+  "Shut_Up_And_Dance.Walk_The_Moon": {
+    "name": "Shut Up And Dance",
+    "artist": "Walk The Moon",
+    "id": "Shut_Up_And_Dance.Walk_The_Moon",
+    "lyrics": "  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night\nThe chemical, physical, kryptonite\nHelpless to the bass and faded light\nOh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks\nMy discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me\nI knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nDeep in her eyes\nI think I see the future\nI realize this is my last chance\nShe took my arm\nI don't know how it happened\nWe took the floor and she said\n\n    Chorus\n",
+    "key": "C#",
+    "tempo": "128bpm"
+  },
+  "I_Will_Follow.U2": {
+    "name": "I Will Follow",
+    "artist": "U2",
+    "id": "I_Will_Follow.U2",
+    "lyrics": "I was on the outside when you said, you said you needed me\nI was looking at myself, I was blind, I could not see\n\nA boy tries hard to be a man his mother takes him by his hand\nIf he stops to think he starts to cry, oh, why?\n\n  If you walk away, walk away walk away, walk away, I will follow x 2\n\nI was on the inside when they pulled the four walls down\nI was looking through the window, I was lost, I am found\n\n  Chorus\n\n    Your eyes make a circle, I see you when I go in there\n    Your eyes..\n\n  Chorus\n\n  I will follow\n",
+    "key": "E",
+    "tempo": "155bpm"
+  },
+  "Just_Like_Heaven.The_Cure": {
+    "name": "Just Like Heaven",
+    "artist": "The Cure",
+    "id": "Just_Like_Heaven.The_Cure",
+    "lyrics": "Show me.. how you do that trick the one that makes me scream she said\nThe one that makes me laugh she said, threw her arms around my neck\nShow me how you do it, and I promise you I promise that I'll run away with you\nI'll run away with you\n\nSpinning on that dizzy edge I kissed her face and kissed her head\nDreamed of all the different ways I had to make her glow\nWhy are you so far away? she said why won't you ever know\nThat I'm in love with you. That I'm in love with you.\n\n  You, soft and only\n  You, lost and lonely\n  You, strange as angels\n  Dancing in the deepest oceans wwisting in the water\n  You're just like a dream, just like a dream\n\n    Solo\n\nDaylight licked me into shape I must have been asleep for days\nAnd moving lips to breathe her name I opened up my eyes\nAnd found myself alone alone alone above a raging sea\nThat stole the only girl I loved and drowned her deep inside of me\n\n  You, soft and only\n  You, lost and lonely\n  You, just like heaven",
+    "key": "A",
+    "tempo": "151bpm"
   }
 }
