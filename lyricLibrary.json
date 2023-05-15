@@ -91,13 +91,6 @@
     "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
     "key": "D"
   },
-  "Running_To_Stand_Still.U2": {
-    "name": "Running To Stand Still",
-    "artist": "U2",
-    "id": "Running_To_Stand_Still.U2",
-    "lyrics": "V: (D G)\nC: (A G) D\n\nSo she woke up, woke up from where she was, lyin' still, and said\n\"I've got to do something about where we're goin'.\nStep on a steam train, step out of the driving rain maybe,\nrun from the darkness in the night.\"\n\n  Singing \"La la la la de dei\"...\n\nSweet the sin, bitter the taste in my mouth.\nI see seven towers, but I only see one way out.\nYou gotta cry without weeping, talk without speaking scream without raising your voice.\nYou know I took the poison, from the poison stream then I floated out of here.\n\nShe runs through the streets, with her eyes painted red under a black belly of cloud in the rain.\nIn through a doorway she brings me white golden pearls stolen from the sea.\nShe is ragin', she is raging and the storm blows up in her eyes.\nShe will suffer the needle chill. She's running to stand still.",
-    "key": "D"
-  },
   "Zombie.The_Cranberries": {
     "name": "Zombie",
     "artist": "The Cranberries",
@@ -2842,5 +2835,21 @@
     "lyrics": "Show me.. how you do that trick the one that makes me scream she said\nThe one that makes me laugh she said, threw her arms around my neck\nShow me how you do it, and I promise you I promise that I'll run away with you\nI'll run away with you\n\nSpinning on that dizzy edge I kissed her face and kissed her head\nDreamed of all the different ways I had to make her glow\nWhy are you so far away? she said why won't you ever know\nThat I'm in love with you. That I'm in love with you.\n\n  You, soft and only\n  You, lost and lonely\n  You, strange as angels\n  Dancing in the deepest oceans wwisting in the water\n  You're just like a dream, just like a dream\n\n    Solo\n\nDaylight licked me into shape I must have been asleep for days\nAnd moving lips to breathe her name I opened up my eyes\nAnd found myself alone alone alone above a raging sea\nThat stole the only girl I loved and drowned her deep inside of me\n\n  You, soft and only\n  You, lost and lonely\n  You, just like heaven",
     "key": "A",
     "tempo": "151bpm"
+  },
+  "Running_To_Stand_Still.U2": {
+    "name": "Running To Stand Still",
+    "artist": "U2",
+    "id": "Running_To_Stand_Still.U2",
+    "lyrics": "V: (D G)\nC: (A G) D\n\nSo she woke up, woke up from where she was, lyin' still, and said\n\"I've got to do something about where we're goin'.\nStep on a steam train, step out of the driving rain maybe,\nrun from the darkness in the night.\"\n\n  Singing \"La la la la de dei\"...\n\nSweet the sin, bitter the taste in my mouth.\nI see seven towers, but I only see one way out.\nYou gotta cry without weeping, talk without speaking scream without raising your voice.\nYou know I took the poison, from the poison stream then I floated out of here.\n\nShe runs through the streets, with her eyes painted red under a black belly of cloud in the rain.\nIn through a doorway she brings me white golden pearls stolen from the sea.\nShe is ragin', she is raging and the storm blows up in her eyes.\nShe will suffer the needle chill. She's running to stand still.",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Run_Like_Hell.Pink_Floyd": {
+    "name": "Run Like Hell",
+    "artist": "Pink Floyd",
+    "id": "Run_Like_Hell.Pink_Floyd",
+    "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\nA|---------------------------------||\nE|---------------------------------||\n\nE|-10-10---9---7-7--5--5-5--3--5-5--2-2-2----||x2\nB|-10-10---10--8-8--7--5-5--3--5-5--3-3-3----||\nG|-11-11---9---7-7--7--6-6--4--6-6--2-2-2----||\nD|-------------------------------------------||\n\n\"Run\" (F A D)\nV: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
