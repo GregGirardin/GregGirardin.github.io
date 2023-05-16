@@ -1748,14 +1748,6 @@
     "key": "D",
     "tempo": "110bpm"
   },
-  "Don_t_Change.INXS": {
-    "name": "Don't Change",
-    "artist": "INXS",
-    "id": "Don_t_Change.INXS",
-    "lyrics": "I'm standing here on the ground the sky above won't fall down \nSee no evil in all directions \nResolution of happiness things have been dark for too long\n\n  Don't change for you, don't change a thing for me x 2\n\nI found a love that I had lost it was gone for too long \nHear no evil in all directions \nExecution of bitterness message received loud and clear\n\n  Chorus\n\n    Solo\n\nVerse 1\n\n  Chorus",
-    "key": "A",
-    "tempo": "164bpm"
-  },
   "Rush.Big_Audio_Dynamite": {
     "name": "Rush",
     "artist": "Big Audio Dynamite",
@@ -2851,5 +2843,13 @@
     "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\nA|---------------------------------||\nE|---------------------------------||\n\nE|-10-10---9---7-7--5--5-5--3--5-5--2-2-2----||x2\nB|-10-10---10--8-8--7--5-5--3--5-5--3-3-3----||\nG|-11-11---9---7-7--7--6-6--4--6-6--2-2-2----||\nD|-------------------------------------------||\n\n\"Run\" (F A D)\nV: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
     "key": "D",
     "tempo": "Tempo"
+  },
+  "Don_t_Change.INXS": {
+    "name": "Don't Change",
+    "artist": "INXS",
+    "id": "Don_t_Change.INXS",
+    "lyrics": "I'm standing here on the ground the sky above won't fall down \nSee no evil in all directions \nResolution of happiness things have been dark for too long\n\n  Don't change for you, don't change a thing for me x 2\n\nI found a love that I had lost it was gone for too long \nHear no evil in all directions \nExecution of bitterness message received loud and clear\n\n  Don't change for you, don't change a thing for me x 2\n\n    Solo\n\nVerse 1\n\n  Don't change for you, don't change a thing for me x 3\n\nOutro\n\n  Don't change\n  Don't change\n",
+    "key": "A",
+    "tempo": "164bpm"
   }
 }
