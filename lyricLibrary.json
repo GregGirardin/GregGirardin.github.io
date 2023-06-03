@@ -782,14 +782,6 @@
     "key": "Em",
     "tempo": "132"
   },
-  "Shakedown_Street.The_Grateful_Dead": {
-    "name": "Shakedown Street",
-    "artist": "The Grateful Dead",
-    "id": "Shakedown_Street.The_Grateful_Dead",
-    "lyrics": "I: Dm\nV: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G\nC: C7.. C#7\n\nYou tell me this town ain't got no heart. Well, well, well, you can never tell.\nThe sunny side of the street is dark. Well...\nMaybe that's cause it's midnight, in the dark of the moon besides.\nMaybe the dark is from your eyes... You know you got such dark eyeSolo\n\n  Nothin' shakin' on Shakedown Street. Used to be the heart of town.\n  Don't tell me this town ain't got no heart. You just gotta poke around.\n\nYou think you've seen this town clear through. Well.\nNothin' here that could interest you. Well...\nIt's not because you missed out on the thing that we had to start.\nMaybe you had too much too fast... Or just over played your part.\n\n  Chorus\n\nSince I'm passing your way today. Well\nI just stopped in 'cause I want to say.\nI recall your darkness when it crackled like a thundercloud.\nDon't tell me this town ain't got no heart, when I can hear it beat out loud!\n\n  Chorus",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Back_In_The_USSR.The_Beatles": {
     "name": "Back In The USSR",
     "artist": "The Beatles",
@@ -2946,8 +2938,16 @@
     "name": "Sex On Fire",
     "artist": "Kings Of Leon",
     "id": "Sex_On_Fire.Kings_Of_Leon",
-    "lyrics": "Lay where you're laying\nDon't make a sound\nI know they're watching\nThey're watching\n\nAll the commotion\nThe kiddie-like play\nIt has people talking\nTalking\n\n  You\n  Your sex is on fire\n\nThe dark of the alley\nThe breaking of day\nHead while I'm driving\nI'm driving\n\nSoft lips are open\nThem knuckles are pale\nFeels like you're dying\nYou're dying\n\n  You\n  Your sex is on fire\n  Consumed\n  With what's just transpired\n\nHot as a fever\nRattle of bones\nI could just taste it\nTaste it\n\nIf this not forever\nIf this just tonight\nOh we're still the greatest\nThe greatest\nThe greatest\n\n  You\n  Your sex is on fire\n\n  You\n  Your sex is on fire\n  Consumed\n  With what's just transpired\n\n  And you\n  Your sex is on fire\n  Consumed\n  With what's just transpired",
+    "lyrics": "Lay where you're laying, don't make a sound\nI know they're watching, they're watching\nAll the commotion, the kiddie-like play\nIt has people talking, talking\n\n  You, your sex is on fire\n\nThe dark of the alley, the breaking of day\nHead while I'm driving, I'm driving\nSoft lips are open, them knuckles are pale\nFeels like you're dying, you're dying\n\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\nHot as a fever, rattle of bones\nI could just taste it, taste it\nIf this not forever, if this just tonight\nOh we're still the greatest, the greatest\n\n  You, your sex is on fire\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\n  And you, your sex is on fire\n  Consumed, with what's just transpired",
     "key": "A",
     "tempo": "153bpm"
+  },
+  "Shakedown_Street.The_Grateful_Dead": {
+    "name": "Shakedown Street",
+    "artist": "The Grateful Dead",
+    "id": "Shakedown_Street.The_Grateful_Dead",
+    "lyrics": "I: Dm\nV: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G\nC: C7.. C#7\n\nYou tell me this town ain't got no heart. Well, well, well, you can never tell.\nThe sunny side of the street is dark. Well...\nMaybe that's cause it's midnight, in the dark of the moon besides.\nMaybe the dark is from your eyes... You know you got such dark eyeSolo\n\n  Nothin' shakin' on Shakedown Street. Used to be the heart of town.\n  Don't tell me this town ain't got no heart. You just gotta poke around.\n\nYou think you've seen this town clear through. Well.\nNothin' here that could interest you. Well...\nIt's not because you missed out on the thing that we had to start.\nMaybe you had too much too fast... Or just over played your part.\n\n  Chorus\n\nSince I'm passing your way today. Well\nI just stopped in 'cause I want to say.\nI recall your darkness when it crackled like a thundercloud.\nDon't tell me this town ain't got no heart, when I can hear it beat out loud!\n\n  Chorus",
+    "key": "Dm",
+    "tempo": "undefined"
   }
 }
