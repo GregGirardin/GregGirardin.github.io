@@ -7,11 +7,12 @@
     "artist": "AC/DC"
   },
   "Tush.ZZ_Top": {
-    "key": "G",
     "name": "Tush",
+    "artist": "ZZ Top",
     "id": "Tush.ZZ_Top",
     "lyrics": "I been up, I been down, take my word, my way around.\nI ain't askin' for much.\nI said, Lord, take me downtown, I'm just lookin' for some tush.\n\nI been bad, I been good, Dallas, Texas, Hollywood...\n\nTake me back way back home, not by myself, not alone...",
-    "artist": "ZZ Top"
+    "key": "G",
+    "tempo": "undefined"
   },
   "What_You_Won_t_Do.Bobby_Caldwell": {
     "key": "C",
@@ -133,7 +134,8 @@
     "artist": "Eddie Money",
     "id": "Two_Tickets_To_Paradise.Eddie_Money",
     "lyrics": "V: G A  C: D G A\n\nGot a surprise especially for you.\nSomething that both of us have always wanted to do.\nWaited so long...\n \nI'm gonna take you on a trip so far from here.\nI've got two tickets in my pocket, now baby, we're gonna disappear.\nWaited so long..\n \n  I've got, two tickets to paradise.\n  Won't you, pack your bags, we'll leave tonight.\n  I've got, two tickets to paradise...\n \nSolo\n\n  oh-oh...\n \nI'm gonna take you on a trip so far from here.\nI've got two tickets in my pocket, baby, gonna disappear. (Know why?)\nWaited so long, waited so long.\n \nChorus\n",
-    "key": "G"
+    "key": "G",
+    "tempo": "undefined"
   },
   "Mustang_Sally.Wilson_Pickett": {
     "name": "Mustang Sally",
@@ -2949,5 +2951,13 @@
     "lyrics": "I: Dm\nV: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G\nC: C7.. C#7\n\nYou tell me this town ain't got no heart. Well, well, well, you can never tell.\nThe sunny side of the street is dark. Well...\nMaybe that's cause it's midnight, in the dark of the moon besides.\nMaybe the dark is from your eyes... You know you got such dark eyeSolo\n\n  Nothin' shakin' on Shakedown Street. Used to be the heart of town.\n  Don't tell me this town ain't got no heart. You just gotta poke around.\n\nYou think you've seen this town clear through. Well.\nNothin' here that could interest you. Well...\nIt's not because you missed out on the thing that we had to start.\nMaybe you had too much too fast... Or just over played your part.\n\n  Chorus\n\nSince I'm passing your way today. Well\nI just stopped in 'cause I want to say.\nI recall your darkness when it crackled like a thundercloud.\nDon't tell me this town ain't got no heart, when I can hear it beat out loud!\n\n  Chorus",
     "key": "Dm",
     "tempo": "undefined"
+  },
+  "Twilight_Zone.Golden_Earring": {
+    "name": "Twilight Zone",
+    "artist": "Golden Earring",
+    "id": "Twilight_Zone.Golden_Earring",
+    "lyrics": "Somewhere in a lonely hotel room\nThere's a guy starting to realize\nThat eternal fate has turned its back on him It's two A.M\n\nIt's two A.M., the fear has gone\nI'm sitting here waitin', the gun's still warm\nMaybe my connection is tired of takin' chances\nYeah, there's a storm on the loose, sirens in my head\nWrapped up in silence, all circuits are dead\nCannot decode, my whole life spins into a frenzy\n\n  Help, I'm steppin' into the Twilight Zone\n  Place is a madhouse, feels like being cloned\n  My beacon's been moved under moon and star\n  Where am I to go now that I've gone too far? x 2\n\n  Soon you will come to know when the bullet hits the bone\n\nI'm falling down the spiral destination unknown\nDouble crossed messenger all alone\nCan't get no connection, can't get through where are you?\nWell the night weighs heavy on his guilty mind\nThis far from the borderline\nWhen the hitman comes he knows damn well he has been cheated\n\n  Chorus",
+    "key": "Bm",
+    "tempo": "Tempo"
   }
 }
