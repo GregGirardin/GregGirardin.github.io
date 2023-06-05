@@ -2536,14 +2536,6 @@
     "key": "A",
     "tempo": "164bpm"
   },
-  "Oh_Sherrie.Steve_Perry": {
-    "name": "Oh Sherrie",
-    "artist": "Steve Perry",
-    "id": "Oh_Sherrie.Steve_Perry",
-    "lyrics": "I: F C F  Bb    Bb/A  Gm7   F  C\n : F C F  Ab/F  Eb/F  Gm/F  F\n\nV: (Dm Bb C/D Dm) (Bb F C)\nC: F C/F Ab/F Eb/F Gm/F F\nS: F  C/F  F  Gm Bb C\n : F  C/F  F  Ab/F   Eb/F  Gm/F    F\n : Ab/F     Eb/F      Gm/F    F\n\n : F   C/F   F    Ab/F   Eb/F   Gm/F    F\n : Ab/F     Eb/F      Gm/F    F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n \n  Solo\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Never_Tear_Us_Apart.INXS": {
     "name": "Never Tear Us Apart",
     "artist": "INXS",
@@ -2958,6 +2950,14 @@
     "id": "Twilight_Zone.Golden_Earring",
     "lyrics": "Somewhere in a lonely hotel room\nThere's a guy starting to realize\nThat eternal fate has turned its back on him It's two A.M\n\nIt's two A.M., the fear has gone\nI'm sitting here waitin', the gun's still warm\nMaybe my connection is tired of takin' chances\nYeah, there's a storm on the loose, sirens in my head\nWrapped up in silence, all circuits are dead\nCannot decode, my whole life spins into a frenzy\n\n  Help, I'm steppin' into the Twilight Zone\n  Place is a madhouse, feels like being cloned\n  My beacon's been moved under moon and star\n  Where am I to go now that I've gone too far? x 2\n\n  Soon you will come to know when the bullet hits the bone\n\nI'm falling down the spiral destination unknown\nDouble crossed messenger all alone\nCan't get no connection, can't get through where are you?\nWell the night weighs heavy on his guilty mind\nThis far from the borderline\nWhen the hitman comes he knows damn well he has been cheated\n\n  Chorus",
     "key": "Bm",
+    "tempo": "Tempo"
+  },
+  "Oh_Sherrie.Steve_Perry": {
+    "name": "Oh Sherrie",
+    "artist": "Steve Perry",
+    "id": "Oh_Sherrie.Steve_Perry",
+    "lyrics": "I: F C/F (xx3553) F (xx3565)\n : Bb9 (xx8768) Bb(xx8766) /A Gm F\n : F C/F F - Ab/F Eb/F Gm/F F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
+    "key": "undefined",
     "tempo": "Tempo"
   }
 }
