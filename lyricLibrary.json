@@ -85,13 +85,6 @@
     "lyrics": "V: G D G C G D  C G D\nC: (G C F C) (Am D)\nO: (C Bm Am G) (G C)\n\nTrouble.. been wronging my soul since the day I was born\nWorry.. just will not seem to leave my mind alone\n\n  I've been saved by a woman... she won't let me go\n\nTrouble.. feels like every time I get back on my feet\n  she come around and knock me down again\nWorry.. sometimes I swear it feels like\n  this worry is my only friend\n\nChorus\n\nHarmonica G\n\nWhoa... She good to me now. She give me love and affection.\nShe good to me\n",
     "key": "G"
   },
-  "Tin_Man.America": {
-    "name": "Tin Man",
-    "artist": "America",
-    "id": "Tin_Man.America",
-    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
-    "key": "D"
-  },
   "Zombie.The_Cranberries": {
     "name": "Zombie",
     "artist": "The Cranberries",
@@ -2880,14 +2873,6 @@
     "key": "Dm",
     "tempo": "undefined"
   },
-  "Red_Hill_Mining_Town.U2": {
-    "name": "Red Hill Mining Town",
-    "artist": "U2",
-    "id": "Red_Hill_Mining_Town.U2",
-    "lyrics": "V:(G C) D A F          (E A) B F# D\nB: D A F                B F# D\nC: G D F C G D F        E B D A E B D\n\nFrom father to son the blood runs thin\nOoh, see the faces frozen still against the wind.\n \nThe seam is split the coal-face cracked\nThe lines are long there's no going back.\nThrough hands of steel and heart of stone\nOur labour day has come and gone.\n \n  They leave me holdin' on in Red Hill Town.\n  See the lights go down on ...\n   \n    Hangin' on, you're all that's left to hold on to.\n    I'm still waiting\n    I'm hangin' on you're all that's left to hold on to.\n\nThe glass is cut the bottle run dry.\nOur love runs cold in the caverns of the night.\nWe're wounded by fear injured in doubt.\nI can lose myself you I can't live without.\n \n  Pre / Chorus\n \nWe scorch the earth set fire to the sky\nAnd we stooped so low to reach so high.\nA link is lost the chain undone.\nWe wait all day for night to come\nAnd it comes like a hunter child.\n\n  Chorus\n\nWe see love, slowly stripped away\nOur love has seen its better day.\nHangin' on\nLights go down on Red Hill\nThe lights go down on Red Hill.\nThe lights go down on Red Hill.\nThe lights go down on Red Hill Town..",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "The_Captain_Of_Her_Heart.Double": {
     "name": "The Captain Of Her Heart",
     "artist": "Double",
@@ -2911,14 +2896,6 @@
     "lyrics": "I: B F#m A\nV: B F#m A E\nC: (A E) B F#m E D\nO: (B F#m) E D B\n\nRollin' through these hills I've known I'd be coming\nThere ain't a man alive that likes to be alone\nIt's been a while since I seen my lady smile\nHave I been have I been away so long\n\n  I'm tired..\n  Can I come home for the summer I could slow down for a little while\n  Get back to lovin each other leave all those long and lonesome miles behind\n\nThrough the years I have learned some things worth the tellin\nAnd you'd be right in guessin that each and every lesson they were hard won\n\n  Chorus\n\nYou'll follow her, wherever she goes\nYou love her, and you just wanted to know\nThat you'll follow her, you'll find a way\nCause you love her and you just wanted to know",
     "key": "B",
     "tempo": "undefined"
-  },
-  "Too_Hot_To_Handle.UFO": {
-    "name": "Too Hot To Handle",
-    "artist": "UFO",
-    "id": "Too_Hot_To_Handle.UFO",
-    "lyrics": "Caught in the crossfire, warnin' fight\nLegends make or break game\nSwept up by the rolling waves of the night\nThe paper chase for fame\n\n  I was too, too hot, baby\n  Too hot to handle\n  Yeah, I was too, too hot\n  Too hot to handle\n\nWink of an eye, the feelings ran high\nA real rock and roll molest\nBut I ain't no romance\nAnd I ain't no slow chance\nWon't get no quick change\n\n  And I'm too, too hot, baby\n  Too hot to handle\n  Yeah, I'm too, too hot, baby\n  Too hot to handle\n\nSha la la la, roll you over\nTurn you around and do it again\nSha la la la, keep on coming\nDo it once but never the same\n\n  [Solo]\n\nSha la la la, roll you over\nTurn you around and do it again\nSha la la la, keep on coming\nDo it once but never the same\n\nI'm in your town, won't fool around\nI'll make some action stick\nJust like the story says, these boys are bad\nSo keep out of shootin' range\n\n  And I'm too, too hot, baby\n  Too hot to handle\n  Yeah, I'm too, too hot, baby\n  Too hot to handle\n\n  And I'm too, too hot, baby\n  Too hot to handle\n  Yeah, I'm too, too hot, baby\n  Too hot to handle\n\n  Too hot\n  Too hot\n  Too hot to handle\n  And I'm too, too hot, baby\n  Too hot to handle\n\n  [Outro solo]",
-    "key": "A",
-    "tempo": "128bpm"
   },
   "Remedy_(Black_Crowes).The_Black_Crowes": {
     "name": "Remedy (Black Crowes)",
@@ -2958,6 +2935,30 @@
     "id": "Oh_Sherrie.Steve_Perry",
     "lyrics": "I: F C/F (xx3553) F (xx3565)\n : Bb9 (xx8768) Bb(xx8766) /A Gm F\n : F C/F F - Ab/F Eb/F Gm/F F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Tin_Man.America": {
+    "name": "Tin Man",
+    "artist": "America",
+    "id": "Tin_Man.America",
+    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Too_Hot_To_Handle.UFO": {
+    "name": "Too Hot To Handle",
+    "artist": "UFO",
+    "id": "Too_Hot_To_Handle.UFO",
+    "lyrics": "Caught in the crossfire, warnin' fight\nLegends make or break game\nSwept up by the rolling waves of the night\nThe paper chase for fame\n\n  I was too, too hot, baby. Too hot to handle x 2\n\nWink of an eye, the feelings ran high\nA real rock and roll molest\nBut I ain't no romance\nAnd I ain't no slow chance\nWon't get no quick change\n\n  And I'm too, too hot, baby. Too hot to handle x 2\n\n    Sha la la la, roll you over, turn you around and do it again\n    Sha la la la, keep on coming, do it once but never the same\n\n  Solo\n\n    Sha la la la, roll you over...\n\nI'm in your town, won't fool around\nI'll make some action stick\nJust like the story says, these boys are bad\nSo keep out of shootin' range\n\n  Yeah I'm too, too hot, baby. Too hot to handle x 4\n",
+    "key": "A",
+    "tempo": "128bpm"
+  },
+  "Red_Hill_Mining_Town.U2": {
+    "name": "Red Hill Mining Town",
+    "artist": "U2",
+    "id": "Red_Hill_Mining_Town.U2",
+    "lyrics": "V:(G C) D A F          (E A) B F# D\nB: D A F                B F# D\nC: G D F C G D F        E B D A E B D\n\nFrom father to son the blood runs thin\nOoh, see the faces frozen still against the wind.\n \nThe seam is split the coal-face cracked\nThe lines are long there's no going back.\nThrough hands of steel and heart of stone\nOur labour day has come and gone.\n \n  They leave me holdin' on in Red Hill Town.\n  See the lights go down on ...\n   \n    Hangin' on, you're all that's left to hold on to.\n    I'm still waiting\n    I'm hangin' on, you're all that's left to hold on to.\n\nThe glass is cut the bottle run dry.\nOur love runs cold in the caverns of the night.\nWe're wounded by fear injured in doubt.\nI can lose myself you I can't live without.\n \n  Pre / Chorus\n \nWe scorch the earth set fire to the sky\nAnd we stooped so low to reach so high.\nA link is lost the chain undone.\nWe wait all day for night to come\nAnd it comes like a hunter child.\n\n  Chorus\n\nWe see love, slowly stripped away\nOur love has seen its better day.\nHangin' on\nLights go down on Red Hill...\n",
+    "key": "G",
     "tempo": "Tempo"
   }
 }
