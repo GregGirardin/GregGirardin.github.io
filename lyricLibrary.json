@@ -85,6 +85,14 @@
     "lyrics": "V: G D G C G D  C G D\nC: (G C F C) (Am D)\nO: (C Bm Am G) (G C)\n\nTrouble.. been wronging my soul since the day I was born\nWorry.. just will not seem to leave my mind alone\n\n  I've been saved by a woman... she won't let me go\n\nTrouble.. feels like every time I get back on my feet\n  she come around and knock me down again\nWorry.. sometimes I swear it feels like\n  this worry is my only friend\n\nChorus\n\nHarmonica G\n\nWhoa... She good to me now. She give me love and affection.\nShe good to me\n",
     "key": "G"
   },
+  "Tin_Man.America": {
+    "name": "Tin Man",
+    "artist": "America",
+    "id": "Tin_Man.America",
+    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
+    "key": "D",
+    "tempo": "undefined"
+  },
   "Zombie.The_Cranberries": {
     "name": "Zombie",
     "artist": "The Cranberries",
@@ -777,6 +785,14 @@
     "key": "Em",
     "tempo": "132"
   },
+  "Shakedown_Street.The_Grateful_Dead": {
+    "name": "Shakedown Street",
+    "artist": "The Grateful Dead",
+    "id": "Shakedown_Street.The_Grateful_Dead",
+    "lyrics": "I: Dm\nV: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G\nC: C7.. C#7\n\nYou tell me this town ain't got no heart. Well, well, well, you can never tell.\nThe sunny side of the street is dark. Well...\nMaybe that's cause it's midnight, in the dark of the moon besides.\nMaybe the dark is from your eyes... You know you got such dark eyeSolo\n\n  Nothin' shakin' on Shakedown Street. Used to be the heart of town.\n  Don't tell me this town ain't got no heart. You just gotta poke around.\n\nYou think you've seen this town clear through. Well.\nNothin' here that could interest you. Well...\nIt's not because you missed out on the thing that we had to start.\nMaybe you had too much too fast... Or just over played your part.\n\n  Chorus\n\nSince I'm passing your way today. Well\nI just stopped in 'cause I want to say.\nI recall your darkness when it crackled like a thundercloud.\nDon't tell me this town ain't got no heart, when I can hear it beat out loud!\n\n  Chorus",
+    "key": "Dm",
+    "tempo": "undefined"
+  },
   "Back_In_The_USSR.The_Beatles": {
     "name": "Back In The USSR",
     "artist": "The Beatles",
@@ -1465,14 +1481,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "Hungry_Like_The_Wolf.Duran_Duran": {
-    "name": "Hungry Like The Wolf",
-    "artist": "Duran Duran",
-    "id": "Hungry_Like_The_Wolf.Duran_Duran",
-    "lyrics": "V: E - D E\nC: C G F - C G F D .. Em7\n\nDark in the city, night is a wire, steam in the subway, the earth is a-fire do..\nWoman you want me, give me a sign and catch me breathing even closer be-hind\n \n  In touch with the ground, I'm on the hunt, I'm after you\n  I smell like I sound, I'm lost in a crowd and I'm hungry like the wolf\n  Straddle the line, in discord and rhyme, I'm on the hunt, I'm after you\n  Mouth is alive, with juices like wine, and I'm hungry like the wolf\n \nStalked in the forest, too close to hide, I'll be upon you by the moonlight side\nHigh blood drumming on your skin it's so tight, you feel my heat, I'm just a moment be-hind\n \n  In touch with the ground, I'm on the hunt I'm after you\n  Scent and a sound, I'm lost and I'm found and I'm hungry like the wolf\n  Straddle the line, it's discord and rhyme, I howl and I whine, I'm after you\n  Mouth is a-live, all running in-side, and I'm hungry like the wolf\n \nSolo Em.\n\n    Hungry like the wolf\n \n  Burning the ground, I break from the crowd, I'm on the hunt, I'm after you\n  I smell like I sound, I'm lost and I'm found and I'm hungry like the wolf\n\n  Straddle the line, it's discord and rhyme, I'm on the hunt, I'm after you\n  Mouth is a-live with juices like wine and I'm hungry like the wolf",
-    "key": "E",
-    "tempo": "128"
-  },
   "How_You_Remind_Me.Nickelback": {
     "name": "How You Remind Me",
     "artist": "Nickelback",
@@ -1864,14 +1872,6 @@
     "lyrics": "You say you want a revolution, well you know\nWe all want to change the world\nYou tell me that it's evolution, well you know\nWe all want to change the world\n \n  But when you talk about destruction\n  don't you know that you can count me out\n  Don't you know it's gonna be, alright 3x\n \nYou say you got a real solution, well you know\nWe'd all love to see the plan\nYou ask me for a contribution, well you know\nWe're all doing what we can\n \n  But if you want money for people with minds that hate\n  All I can tell you is brother you have to wait\n  Don't you know it's gonna be, alright 3x\n \nYou say you'll change the constitution, well you know\nWe all want to change your head\nYou tell me it's the institution, well you know\nYou better free your mind instead\n \n  But if you go carrying pictures of Chairman Mao\n  You ain't gonna make it with anyone any  how \n  Don't you know it's gonna be, alright 3x\n",
     "key": "B",
     "tempo": "undefined"
-  },
-  "Remedy.Seether": {
-    "name": "Remedy",
-    "artist": "Seether",
-    "id": "Remedy.Seether",
-    "lyrics": "V: Em D A  B: D Em\n\nThrow your dollar bills and leave your thrills all here with me\nAnd speak but don't pretend I won't defend you anymore you see\nIt aches in every bone I'll die alone but not for you\nMy eyes don't need to see that ugly thing I know its me you fear\nIf you want me hold me back\n \n  Frail the skin is dry and pale, the pain will never fail and so it goes\n  Back to the remedy\n  Clip the wings that get you high just leave them where they lie and tell yourself\n  You'll be the death of me\n\nI don't need a friend I need to mend so far away\nSo come sit by the fire and play awhile, but you can't stay too long\nIt aches in every bone I'll die alone but not for pleasure\nI see my  heart explode it's been eroded by the weather here\nIf you want me hold me back\n \n  Chorus\n \n    Hold your eyes closed and take me in\n \n  Chorus\n",
-    "key": "D",
-    "tempo": "Tempo"
   },
   "Rock_and_Roll_Fantasy.Bad_Company": {
     "name": "Rock and Roll Fantasy",
@@ -2529,6 +2529,14 @@
     "key": "A",
     "tempo": "164bpm"
   },
+  "Oh_Sherrie.Steve_Perry": {
+    "name": "Oh Sherrie",
+    "artist": "Steve Perry",
+    "id": "Oh_Sherrie.Steve_Perry",
+    "lyrics": "I: F C/F (xx3553) F (xx3565)\n : Bb9 (xx8768) Bb(xx8766) /A Gm F\n : F C/F F - Ab/F Eb/F Gm/F F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
   "Never_Tear_Us_Apart.INXS": {
     "name": "Never Tear Us Apart",
     "artist": "INXS",
@@ -2873,6 +2881,14 @@
     "key": "Dm",
     "tempo": "undefined"
   },
+  "Red_Hill_Mining_Town.U2": {
+    "name": "Red Hill Mining Town",
+    "artist": "U2",
+    "id": "Red_Hill_Mining_Town.U2",
+    "lyrics": "V:(G C) D A F          (E A) B F# D\nB: D A F                B F# D\nC: G D F C G D F        E B D A E B D\n\nFrom father to son the blood runs thin\nOoh, see the faces frozen still against the wind.\n \nThe seam is split the coal-face cracked\nThe lines are long there's no going back.\nThrough hands of steel and heart of stone\nOur labour day has come and gone.\n \n  They leave me holdin' on in Red Hill Town.\n  See the lights go down on ...\n   \n    Hangin' on, you're all that's left to hold on to.\n    I'm still waiting\n    I'm hangin' on, you're all that's left to hold on to.\n\nThe glass is cut the bottle run dry.\nOur love runs cold in the caverns of the night.\nWe're wounded by fear injured in doubt.\nI can lose myself you I can't live without.\n \n  Pre / Chorus\n \nWe scorch the earth set fire to the sky\nAnd we stooped so low to reach so high.\nA link is lost the chain undone.\nWe wait all day for night to come\nAnd it comes like a hunter child.\n\n  Chorus\n\nWe see love, slowly stripped away\nOur love has seen its better day.\nHangin' on\nLights go down on Red Hill...\n",
+    "key": "G",
+    "tempo": "Tempo"
+  },
   "The_Captain_Of_Her_Heart.Double": {
     "name": "The Captain Of Her Heart",
     "artist": "Double",
@@ -2897,6 +2913,14 @@
     "key": "B",
     "tempo": "undefined"
   },
+  "Too_Hot_To_Handle.UFO": {
+    "name": "Too Hot To Handle",
+    "artist": "UFO",
+    "id": "Too_Hot_To_Handle.UFO",
+    "lyrics": "Caught in the crossfire, warnin' fight\nLegends make or break game\nSwept up by the rolling waves of the night\nThe paper chase for fame\n\n  I was too, too hot, baby. Too hot to handle x 2\n\nWink of an eye, the feelings ran high\nA real rock and roll molest\nBut I ain't no romance\nAnd I ain't no slow chance\nWon't get no quick change\n\n  And I'm too, too hot, baby. Too hot to handle x 2\n\n    Sha la la la, roll you over, turn you around and do it again\n    Sha la la la, keep on coming, do it once but never the same\n\n  Solo\n\n    Sha la la la, roll you over...\n\nI'm in your town, won't fool around\nI'll make some action stick\nJust like the story says, these boys are bad\nSo keep out of shootin' range\n\n  Yeah I'm too, too hot, baby. Too hot to handle x 4\n",
+    "key": "A",
+    "tempo": "128bpm"
+  },
   "Remedy_(Black_Crowes).The_Black_Crowes": {
     "name": "Remedy (Black Crowes)",
     "artist": "The Black Crowes",
@@ -2913,14 +2937,6 @@
     "key": "A",
     "tempo": "153bpm"
   },
-  "Shakedown_Street.The_Grateful_Dead": {
-    "name": "Shakedown Street",
-    "artist": "The Grateful Dead",
-    "id": "Shakedown_Street.The_Grateful_Dead",
-    "lyrics": "I: Dm\nV: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G\nC: C7.. C#7\n\nYou tell me this town ain't got no heart. Well, well, well, you can never tell.\nThe sunny side of the street is dark. Well...\nMaybe that's cause it's midnight, in the dark of the moon besides.\nMaybe the dark is from your eyes... You know you got such dark eyeSolo\n\n  Nothin' shakin' on Shakedown Street. Used to be the heart of town.\n  Don't tell me this town ain't got no heart. You just gotta poke around.\n\nYou think you've seen this town clear through. Well.\nNothin' here that could interest you. Well...\nIt's not because you missed out on the thing that we had to start.\nMaybe you had too much too fast... Or just over played your part.\n\n  Chorus\n\nSince I'm passing your way today. Well\nI just stopped in 'cause I want to say.\nI recall your darkness when it crackled like a thundercloud.\nDon't tell me this town ain't got no heart, when I can hear it beat out loud!\n\n  Chorus",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Twilight_Zone.Golden_Earring": {
     "name": "Twilight Zone",
     "artist": "Golden Earring",
@@ -2929,36 +2945,28 @@
     "key": "Bm",
     "tempo": "Tempo"
   },
-  "Oh_Sherrie.Steve_Perry": {
-    "name": "Oh Sherrie",
-    "artist": "Steve Perry",
-    "id": "Oh_Sherrie.Steve_Perry",
-    "lyrics": "I: F C/F (xx3553) F (xx3565)\n : Bb9 (xx8768) Bb(xx8766) /A Gm F\n : F C/F F - Ab/F Eb/F Gm/F F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
-  "Tin_Man.America": {
-    "name": "Tin Man",
-    "artist": "America",
-    "id": "Tin_Man.America",
-    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
-    "key": "D",
-    "tempo": "undefined"
-  },
-  "Too_Hot_To_Handle.UFO": {
-    "name": "Too Hot To Handle",
+  "Doctor_Doctor.UFO": {
+    "name": "Doctor Doctor",
     "artist": "UFO",
-    "id": "Too_Hot_To_Handle.UFO",
-    "lyrics": "Caught in the crossfire, warnin' fight\nLegends make or break game\nSwept up by the rolling waves of the night\nThe paper chase for fame\n\n  I was too, too hot, baby. Too hot to handle x 2\n\nWink of an eye, the feelings ran high\nA real rock and roll molest\nBut I ain't no romance\nAnd I ain't no slow chance\nWon't get no quick change\n\n  And I'm too, too hot, baby. Too hot to handle x 2\n\n    Sha la la la, roll you over, turn you around and do it again\n    Sha la la la, keep on coming, do it once but never the same\n\n  Solo\n\n    Sha la la la, roll you over...\n\nI'm in your town, won't fool around\nI'll make some action stick\nJust like the story says, these boys are bad\nSo keep out of shootin' range\n\n  Yeah I'm too, too hot, baby. Too hot to handle x 4\n",
-    "key": "A",
+    "id": "Doctor_Doctor.UFO",
+    "lyrics": "Doctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, the mess I'm in\n\nShe walked up to me\nAnd really stole my heart\nAnd then she started\nTo take my body apart\n\n  Livin', lovin', I'm on the run\n  far away from you\n  Livin', lovin', I'm on the run\n  So far away from you\n\nDoctor, doctor, please\nOh, I'm going fast\nDoctor doctor, please\nOh, I'm going fast\n\nIt's only just a moment\nShe's turnin' paranoid\nThat's not a situation\nFor a nervous boy\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, the mess I'm in\n\nBut you look so angry\nAs I crawled across your floor\nShe's got the strain\nAnd I can't take any more\n\n  Chorus\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, I'm going fast\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, I'm going fast",
+    "key": "F",
+    "tempo": "141bpm"
+  },
+  "Remedy_(Seether).Seether": {
+    "name": "Remedy (Seether)",
+    "artist": "Seether",
+    "id": "Remedy_(Seether).Seether",
+    "lyrics": "V: Em D A  B: D Em\n\nThrow your dollar bills and leave your thrills all here with me\nAnd speak but don't pretend I won't defend you anymore you see\nIt aches in every bone I'll die alone but not for you\nMy eyes don't need to see that ugly thing I know its me you fear\nIf you want me hold me back\n \n  Frail the skin is dry and pale, the pain will never fail and so it goes\n  Back to the remedy\n  Clip the wings that get you high just leave them where they lie and tell yourself\n  You'll be the death of me\n\nI don't need a friend I need to mend so far away\nSo come sit by the fire and play awhile, but you can't stay too long\nIt aches in every bone I'll die alone but not for pleasure\nI see my  heart explode it's been eroded by the weather here\nIf you want me hold me back\n \n  Chorus\n \n    Hold your eyes closed and take me in\n \n  Chorus\n",
+    "key": "D",
     "tempo": "128bpm"
   },
-  "Red_Hill_Mining_Town.U2": {
-    "name": "Red Hill Mining Town",
-    "artist": "U2",
-    "id": "Red_Hill_Mining_Town.U2",
-    "lyrics": "V:(G C) D A F          (E A) B F# D\nB: D A F                B F# D\nC: G D F C G D F        E B D A E B D\n\nFrom father to son the blood runs thin\nOoh, see the faces frozen still against the wind.\n \nThe seam is split the coal-face cracked\nThe lines are long there's no going back.\nThrough hands of steel and heart of stone\nOur labour day has come and gone.\n \n  They leave me holdin' on in Red Hill Town.\n  See the lights go down on ...\n   \n    Hangin' on, you're all that's left to hold on to.\n    I'm still waiting\n    I'm hangin' on, you're all that's left to hold on to.\n\nThe glass is cut the bottle run dry.\nOur love runs cold in the caverns of the night.\nWe're wounded by fear injured in doubt.\nI can lose myself you I can't live without.\n \n  Pre / Chorus\n \nWe scorch the earth set fire to the sky\nAnd we stooped so low to reach so high.\nA link is lost the chain undone.\nWe wait all day for night to come\nAnd it comes like a hunter child.\n\n  Chorus\n\nWe see love, slowly stripped away\nOur love has seen its better day.\nHangin' on\nLights go down on Red Hill...\n",
-    "key": "G",
-    "tempo": "Tempo"
+  "Hungry_Like_The_Wolf.Duran_Duran": {
+    "name": "Hungry Like The Wolf",
+    "artist": "Duran Duran",
+    "id": "Hungry_Like_The_Wolf.Duran_Duran",
+    "lyrics": "V: E - D E\nC: C G F - C G F D .. Em7\n\nDark in the city, night is a wire, steam in the subway, the earth is a-fire do..\nWoman you want me, give me a sign and catch me breathing even closer be-hind\n \n  In touch with the ground, I'm on the hunt, I'm after you\n  I smell like I sound, I'm lost in a crowd and I'm hungry like the wolf\n  Straddle the line, in discord and rhyme, I'm on the hunt, I'm after you\n  Mouth is alive, with juices like wine, and I'm hungry like the wolf\n \nStalked in the forest, too close to hide, I'll be upon you by the moonlight side\nHigh blood drumming on your skin it's so tight, you feel my heat, I'm just a moment be-hind\n \n  In touch with the ground, I'm on the hunt I'm after you\n  Scent and a sound, I'm lost and I'm found and I'm hungry like the wolf\n  Straddle the line, it's discord and rhyme, I howl and I whine, I'm after you\n  Mouth is a-live, all running in-side, and I'm hungry like the wolf\n \nSolo Em.\n\n    Hungry like the wolf\n \n  Burning the ground, I break from the crowd, I'm on the hunt, I'm after you\n  I smell like I sound, I'm lost and I'm found and I'm hungry like the wolf\n  Straddle the line, it's discord and rhyme, I'm on the hunt, I'm after you\n  Mouth is a-live with juices like wine and I'm hungry like the wolf\n\n  Burning the ground, I break from the crowd, I'm on the hunt, I'm after you\n  Scent and a sound, I'm lost and I'm found and I'm hungry like the wolf  Straddle the line, it's discord and rhyme, I howl and I whine, I'm after you\n  Mouth is a-live, all running in-side, and I'm hungry like the wolf",
+    "key": "E",
+    "tempo": "128"
   }
 }
