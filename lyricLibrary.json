@@ -2945,14 +2945,6 @@
     "key": "Bm",
     "tempo": "Tempo"
   },
-  "Doctor_Doctor.UFO": {
-    "name": "Doctor Doctor",
-    "artist": "UFO",
-    "id": "Doctor_Doctor.UFO",
-    "lyrics": "Doctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, the mess I'm in\n\nShe walked up to me\nAnd really stole my heart\nAnd then she started\nTo take my body apart\n\n  Livin', lovin', I'm on the run\n  far away from you\n  Livin', lovin', I'm on the run\n  So far away from you\n\nDoctor, doctor, please\nOh, I'm going fast\nDoctor doctor, please\nOh, I'm going fast\n\nIt's only just a moment\nShe's turnin' paranoid\nThat's not a situation\nFor a nervous boy\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, the mess I'm in\n\nBut you look so angry\nAs I crawled across your floor\nShe's got the strain\nAnd I can't take any more\n\n  Chorus\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, I'm going fast\n\nDoctor, doctor, please\nOh, the mess I'm in\nDoctor, doctor, please\nOh, I'm going fast",
-    "key": "F",
-    "tempo": "141bpm"
-  },
   "Remedy_(Seether).Seether": {
     "name": "Remedy (Seether)",
     "artist": "Seether",
@@ -2976,5 +2968,13 @@
     "lyrics": "Well you know just what you do to me \nThe way you move soft and slippery \nCut the night just like a razor \nRarely talk and that's the danger\n\n  It's the one thing \n  You are my thing\n\nYou know your voice is a love song \nIt's a cat call from the past \nThere's no ice in your lover's walk \nYou don't look twice 'cause you move so fast\n\n  Chorus\n\nYou've got a dozen men behind you \nYou've got dead flowers on the floor \nYou're too pretty in the daylight \nIt keeps them coming back for more \n(Because you know I love you)\n\n  Chorus (three times)",
     "key": "A",
     "tempo": "138bpm"
+  },
+  "Doctor_Doctor.UFO": {
+    "name": "Doctor Doctor",
+    "artist": "UFO",
+    "id": "Doctor_Doctor.UFO",
+    "lyrics": "Doctor doctor please, oh the mess I'm in x 2\nShe walked up to me, and really stole my heart\nAnd then she started, to take my body apart\n\n  Livin, lovin, I'm on the run far away from you\n  Livin, lovin, I'm on the run so far away from you\n\nDoctor doctor please, oh, I'm going fast x 2\nIt's only just a moment, she's turnin paranoid\nThat's not a situation, for a nervous boy\n\nDoctor doctor please, oh the mess I'm in x 2\nBut you look so angry, as I crawled across your floor\nShe's got the strain, and I can't take any more\n\n  Chorus\n\nDoctor doctor please, oh the mess I'm in\nDoctor doctor please, oh I'm going fast\nDoctor doctor please, oh the mess I'm in\nDoctor doctor please, oh I'm going fast",
+    "key": "F",
+    "tempo": "141bpm"
   }
 }
