@@ -1905,14 +1905,6 @@
     "key": "B",
     "tempo": "Tempo"
   },
-  "867-5309/Jenny.Tommy_Tutone": {
-    "name": "867-5309/Jenny",
-    "artist": "Tommy Tutone",
-    "id": "867-5309/Jenny.Tommy_Tutone",
-    "lyrics": "Jenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "House_of_the_rising_sun.The_Animals": {
     "name": "House of the rising sun",
     "artist": "The Animals",
@@ -2976,5 +2968,13 @@
     "lyrics": "Doctor doctor please, oh the mess I'm in x 2\nShe walked up to me, and really stole my heart\nAnd then she started, to take my body apart\n\n  Livin, lovin, I'm on the run far away from you\n  Livin, lovin, I'm on the run so far away from you\n\nDoctor doctor please, oh, I'm going fast x 2\nIt's only just a moment, she's turnin paranoid\nThat's not a situation, for a nervous boy\n\nDoctor doctor please, oh the mess I'm in x 2\nBut you look so angry, as I crawled across your floor\nShe's got the strain, and I can't take any more\n\n  Chorus\n\nDoctor doctor please, oh the mess I'm in\nDoctor doctor please, oh I'm going fast\nDoctor doctor please, oh the mess I'm in\nDoctor doctor please, oh I'm going fast",
     "key": "F",
     "tempo": "141bpm"
+  },
+  "867-5309/Jenny.Tommy_Tutone": {
+    "name": "867-5309/Jenny",
+    "artist": "Tommy Tutone",
+    "id": "867-5309/Jenny.Tommy_Tutone",
+    "lyrics": "V: F#m D A B\nC: E D A - E A D - E D A\nB: C#m E F#m A B\n\nJenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
+    "key": "F#m",
+    "tempo": "Tempo"
   }
 }
