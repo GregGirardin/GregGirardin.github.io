@@ -2921,14 +2921,6 @@
     "key": "F#m",
     "tempo": "Tempo"
   },
-  "Sober.Tool": {
-    "name": "Sober",
-    "artist": "Tool",
-    "id": "Sober.Tool",
-    "lyrics": "There's a shadow just behind me,\nShrouding every step I take,\nMaking every promise empty,\nPointing every finger at me.\nWaiting like a stalking butler\nWho upon the finger rests.\nMurder now the path of \"must we\"\nJust because the son has come.\n\nJesus, won't you fucking whistle something but the past is done? x 2\n\n  Why can't we not be sober? I just want to start this over.\n  Why can't we drink forever? I just want to start this over.\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nI will work to elevate you\nJust enough to bring you down.\n\nMother Mary, won't you whisper something but the past is done? x 2\n\n  Chorus\n\nI am just a worthless liar.\nI am just an imbecile.\nI will only complicate you.\nTrust in me and fall as well.\nI will find a center in you.\nI will chew it up and leave,\nTrust me [5x]\n\n  Chorus\n\nI want what I want [4x]",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Some_Kind_Of_Wonderful.Grand_Funk": {
     "name": "Some Kind Of Wonderful",
     "artist": "Grand Funk",
@@ -3072,5 +3064,13 @@
     "lyrics": "I don't practice Santeria\nI ain't got no crystal ball\nWell, I had a million dollars\nBut I, I'd spend it all\n\nIf I could find that Heina\nAnd that Sancho that she's found\nWell, I'd pop a cap in Sancho\nAnd I'd slap her down\n\n  What I really wanna know\n  Ah, baby, mhmm\n  What I really wanna say\n  I can't define\n  Well, it's love\n  That I need, oh\n\nMy soul will have to\nWait till I get back\nTo find a Heina of my own\nDaddy's gonna love one and all\n\nI feel the break\nFeel the break, feel the break\nAnd I got live it up\nOh, yeah, huh\nWell, I swear that I\n\n  What I really wanna know\n  Ah, baby\n  What I really wanna say\n  I can't define\n  Got love, make it go\n  My soul will have to\n\n   Solo\n\n  What I really wanna say\n  Ah, baby\n  What I really wanna say\n  Is I've got mine\n  And I'll make it\n  Oh, yes I'm coming up\n\nTell Sanchito that if\nHe knows what is good for him\nHe best go run and hide\nDaddy's got a new Forty-Five\n\nAnd I won't think twice to stick\nThat barrel straight down Sancho's throat\nBelieve me when I say that I got\nSomethin' for his punk ass\n\n  What I really wanna know\n  Ah, baby\n  Ooh, what I really wanna say\n  Is there's just one\n  Way back, and I'll make it, yeah\n\nMy soul will have to wait\nYeah, yeah, yeah",
     "key": "C#",
     "tempo": "91bpm"
+  },
+  "Sober.Tool": {
+    "name": "Sober",
+    "artist": "Tool",
+    "id": "Sober.Tool",
+    "lyrics": "There's a shadow just behind me Shrouding every step I take,\nMaking every promise empty pointing every finger at me.\nWaiting like a stalking butler who upon the finger rests.\nMurder now the path of \"must we\", just because the son has come.\n\n  Jesus, won't you fucking whistle something but the past is done? x 2\n  Why can't we not be sober? I just want to start this over.\n  Why can't we drink forever? I just want to start this over.\n\n    Solo\n\nI am just a worthless liar. I am just an imbecile.\nI will only complicate you. Trust in me and fall as well.\nI will find a center in you. I will chew it up and leave.\nI will work to elevate you, just enough to bring you down.\n\n  Mother Mary, won't you whisper something but the past is done? x 2\n  Chorus\n\n    Break\n\nI am just a worthless liar. I am just an imbecile.\nI will only complicate you. Trust in me and fall as well.\nI will find a center in you. I will chew it up and leave,\nTrust me [5x]\n\n  Chorus\n\n  Solo double time\n\n  I want what I want x 4",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
