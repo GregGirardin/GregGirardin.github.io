@@ -433,14 +433,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "My_Sharona.The_Knack": {
-    "name": "My Sharona",
-    "artist": "The Knack",
-    "id": "My_Sharona.The_Knack",
-    "lyrics": "Ooh, my little pretty one, my pretty one\nWhen you gonna give me some time, Sharona?\nOoh, you make my motor run, my motor run\nGot it comin' off of the line, Sharona\n\n   Never gonna stop, give it up, such a dirty mind\n   I always get it up for the touch of the younger kind\n   My, my, my, ay, ah, woh!\n\n   M-m-m-my Sharona\n\nCome a little closer, hon, a-will you, hon?\nClose enough to look in my eyes, Sharona\nKeep it in a mystery, you're kissing me\nRunning down the length of my thighs, Sharona\n\n   Chorus\n\n   M-m-m-my Sharona x 2\n\nWhen you gonna give to me, g-give to me?\nIs it just a matter of time, Sharona?\nIs it d-d-destiny, d-destiny?\nOr is it just a game in my mind, Sharona?\n\n   Chorus\n\n   M-m-m-m-m-m-m-my, my, my, ay, ah, woh!\n\nM-m-m-my Sharona x 4\n\nOh, my Sharona \n",
-    "key": "G",
-    "tempo": "148bpm"
-  },
   "The_Breakup_Song.Greg_Kihn_Band": {
     "name": "The Breakup Song",
     "artist": "Greg Kihn Band",
@@ -3112,5 +3104,13 @@
     "lyrics": "I was on the outside when you said, you said you needed me\nI was looking at myself, I was blind, I could not see\n\nA boy tries hard to be a man his mother takes him by his hand\nIf he stops to think he starts to cry, oh, why?\n\n  If you walk away, walk away walk away, walk away, I will follow x 2\n\nI was on the inside when they pulled the four walls down\nI was looking through the window, I was lost, I am found\n\n  Chorus\n\n    Your eyes make a circle, I see you when I go in there\n    Your eyes..\n\n  Chorus x 4\n\n  I will follow\n",
     "key": "E",
     "tempo": "155bpm"
+  },
+  "My_Sharona.The_Knack": {
+    "name": "My Sharona",
+    "artist": "The Knack",
+    "id": "My_Sharona.The_Knack",
+    "lyrics": "Ooh, my little pretty one, my pretty one\nWhen you gonna give me some time, Sharona?\nOoh, you make my motor run, my motor run\nGun it comin' off of the line, Sharona\n\n   Never gonna stop, give it up, such a dirty mind\n   I always get it up for the touch of the younger kind\n   My, my, my, ay, ah, woh!\n\n   M-m-m-my Sharona\n\nCome a little closer, hon, a-will you, hon?\nClose enough to look in my eyes, Sharona\nKeep it in a mystery, you're kissing me\nRunning down the length of my thighs, Sharona\n\n   Chorus\n\n   M-m-m-my Sharona x 2\n\n\n Bridge\n\nWhen you gonna give to me, g-give to me?\nIs it just a matter of time, Sharona?\nIs it d-d-destiny, d-destiny?\nOr is it just a game in my mind, Sharona?\n\n   Chorus\n\n   M-m-m-m-m-m-m-my, my, my, ay, ah, woh!\n\nM-m-m-my Sharona x 4\n\n\n Solo\n\nOooohaa, my Sharona x 3\n",
+    "key": "G",
+    "tempo": "148bpm"
   }
 }
