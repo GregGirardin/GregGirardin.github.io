@@ -2442,14 +2442,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Run_Like_Hell.Pink_Floyd": {
-    "name": "Run Like Hell",
-    "artist": "Pink Floyd",
-    "id": "Run_Like_Hell.Pink_Floyd",
-    "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\nA|---------------------------------||\nE|---------------------------------||\n\nE|-10-10---9---7-7--5--5-5--3--5-5--2-2-2----||x2\nB|-10-10---10--8-8--7--5-5--3--5-5--3-3-3----||\nG|-11-11---9---7-7--7--6-6--4--6-6--2-2-2----||\nD|-------------------------------------------||\n\n\"Run\" (F A D)\nV: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Don_t_Change.INXS": {
     "name": "Don't Change",
     "artist": "INXS",
@@ -3121,5 +3113,13 @@
     "lyrics": "Breathe in, breathe out\nBreathe in, breathe out\nBreathe in\nBreathe in, breathe out\nBreathe in, breathe out\nBreathe in\n\nTied to a wheel, my fingers got to feel\nBleeding through a tourniquet smile\nI spin on a whim, I slide to the right\nI felt you like electric light\nFor our love, for our fear\nFor our rise against the years and years and years\n\n   Got a machinehead, it's better than the rest\n   Green to red, machinehead\n   Got a machinehead, it's better than the rest\n   Green to red\n   And I walk from my machine\n   I walk from my machine\n\nBreathe in, breathe out\nBreathe in, breathe out\nBreathe in\nDeaf, dumb, dirty\nStarted to deserve this\nLeaning on my conscience wall\nBlood is like wine\nUnconscious all the time\nIf I had it all again I'd change it all\n\n   Chorus\n\nI've seen the best minds of my generation\nIt's a foul ball\n\nBreathe in, breathe out\nBreathe in, breathe out\nBreathe in, breathe in, breathe in\n\n   Got a machinehead, it's better than the rest\n   Green to red, machinehead\n   Got a machinehead, it's better than the rest\n   Green to red\n   Better than the rest\n   Better than the rest\n   Machinehead\n   And I walk from my machine\n   And I walk from my machine",
     "key": "C#",
     "tempo": "110bpm"
+  },
+  "Run_Like_Hell.Pink_Floyd": {
+    "name": "Run Like Hell",
+    "artist": "Pink Floyd",
+    "id": "Run_Like_Hell.Pink_Floyd",
+    "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\n\nE|-10--9---7-5---5-3---5-2--||x2\nB|-10-10---8-7---5-3---5-3--||\nG|-11--9---7-7---6-4---6-2--||\nD|--------------------------||\n\n\"Run\" (F A D) V: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
