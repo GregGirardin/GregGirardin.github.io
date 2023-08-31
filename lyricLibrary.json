@@ -234,14 +234,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Sound_Of_Madness.Shinedown": {
-    "name": "Sound Of Madness",
-    "artist": "Shinedown",
-    "id": "Sound_Of_Madness.Shinedown",
-    "lyrics": "Yeah I get it, you're an outcast always under attack\nalways coming in last bringing up the past\nNo one owes you anything I think you need a shotgun blast\nA kick in the ass so paranoid watch your back\n\nOh my here we go another loose cannon gone bipolar slipped down, couldn't get much lower\nQuicksand's got no sense of humor I'm still laughing like hell\nYou think that by cryin to me lookin' so sorry, that I'm gonna believe\nYou've been infected by a social disease well then, take your medicine\n\n  I created the sound of madness, wrote the book on pain somehow I'm still here to explain\n  That the darkest hour never comes in the night you can sleep with a gun\n  But when you gonna wake up and fight... for yourself\n\nI'm so sick of this tombstone mentality if there's an afterlife then it'll set you free\nBut I'm not gonna part the seas you're a self-fulfilling prophecy\nYou think that by..\n\n  Chorus / Solo / Chorus x 2\n\nD|-6-6--6-5-3-0--3--------------------------6-|\nA|-----------------5----5---5---5---5---5---6-|\nD|--------------------0---0---0---0---0-----6-|\n\nD|-3-------------------------6-6--6-5-3-0--3--------------6-5-3-0-|\nA|---5\\---5---5---5---5---5-----------------5---5---5---5-6-5-3-0-|\nD|------0---0---0---0---0---------------------0---0---0---6-5-3-0-|\n \nC: (Bb5 D5 F5 C5) Ab5\n \nSolo: A5 C5 G5 D5 - A5 C5 G5 Bb5\nB|---------------17--15--17---12--13---15------|\nG|--14--12--14-----------------------------14--|\n",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Learn_To_Fly.Foo_Fighters": {
     "name": "Learn To Fly",
     "artist": "Foo Fighters",
@@ -3119,6 +3111,14 @@
     "artist": "Pink Floyd",
     "id": "Run_Like_Hell.Pink_Floyd",
     "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\n\nE|-10--9---7-5---5-3---5-2--||x2\nB|-10-10---8-7---5-3---5-3--||\nG|-11--9---7-7---6-4---6-2--||\nD|--------------------------||\n\n\"Run\" (F A D) V: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Sound_Of_Madness.Shinedown": {
+    "name": "Sound Of Madness",
+    "artist": "Shinedown",
+    "id": "Sound_Of_Madness.Shinedown",
+    "lyrics": "Yeah I get it, you're an outcast always under attack\nalways coming in last bringing up the past\nNo one owes you anything I think you need a shotgun blast\nA kick in the ass so paranoid watch your back\n\nOh my here we go another loose cannon gone bipolar slipped down, couldn't get much lower\nQuicksand's got no sense of humor I'm still laughing like hell\nYou think that by cryin to me lookin' so sorry, that I'm gonna believe\nYou've been infected by a social disease well then, take your medicine\n\n  I created the sound of madness, wrote the book on pain somehow I'm still here to explain\n  That the darkest hour never comes in the night you can sleep with a gun\n  But when you gonna wake up and fight... for yourself\n\nI'm so sick of this tombstone mentality if there's an afterlife then it'll set you free\nBut I'm not gonna part the seas you're a self-fulfilling prophecy\nYou think that by..\n\n  Chorus\n\n    Solo\n\n  Chorus (quiet) \"when you gonna wake up, when you gonna wake up, and fight...\"\n   \n  Chorus\n\n    when you gonna wake up and fight..\n\n\nD|-6-6--6-5-3-0--3--------------------------6-|\nA|-----------------5----5---5---5---5---5---6-|\nD|--------------------0---0---0---0---0-----6-|\n\nD|-3-----------6-6--6-5-3-0--3--------------6-5-3-0-|\nA|---5\\--5-5------------------5---5---5---5-6-5-3-0-|\nD|------0-0---------------------0---0---0---6-5-3-0-|\n \nC: (Bb5 D5 F5 C5) Ab5\n \nSolo: A5 C5 G5 D5 - A5 C5 G5 Bb5\nB|---------------17--15--17---12--13---15------|\nG|--14--12--14-----------------------------14--|\n",
     "key": "D",
     "tempo": "Tempo"
   }
