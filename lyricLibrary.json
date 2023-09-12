@@ -234,14 +234,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Learn_To_Fly.Foo_Fighters": {
-    "name": "Learn To Fly",
-    "artist": "Foo Fighters",
-    "id": "Learn_To_Fly.Foo_Fighters",
-    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own (repeat)\n\n  Chorus\n",
-    "key": "F#",
-    "tempo": "Tempo"
-  },
   "Stray_Cat_Strut.Stray_Cats": {
     "name": "Stray Cat Strut",
     "artist": "Stray Cats",
@@ -3137,5 +3129,13 @@
     "lyrics": "(Yeah, yeah) oh, I'm newly calibrated\n(Yeah, yeah) all shiny and clean\n(Yeah, yeah) I'm your recent adaptation\n(Yeah, yeah) time to redefine me\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\n(Yeah, yeah) oh, I'm happy as Christmas\n(Yeah, yeah) all wrapped to be seen\n(Yeah, yeah) I'm your recent acquisition\n(Yeah, yeah) time to celebrate me\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better\n\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down",
     "key": "B",
     "tempo": "123bpm"
+  },
+  "Learn_To_Fly.Foo_Fighters": {
+    "name": "Learn To Fly",
+    "artist": "Foo Fighters",
+    "id": "Learn_To_Fly.Foo_Fighters",
+    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Chorus\n\n  Make my way back home when I learn to\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to fly\n  Make my way back home when I learn to\n",
+    "key": "F#",
+    "tempo": "136bpm"
   }
 }
