@@ -3130,14 +3130,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Better_Now.Collective_Soul": {
-    "name": "Better Now",
-    "artist": "Collective Soul",
-    "id": "Better_Now.Collective_Soul",
-    "lyrics": "(Yeah, yeah) oh, I'm newly calibrated\n(Yeah, yeah) all shiny and clean\n(Yeah, yeah) I'm your recent adaptation\n(Yeah, yeah) time to redefine me\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\n(Yeah, yeah) oh, I'm happy as Christmas\n(Yeah, yeah) all wrapped to be seen\n(Yeah, yeah) I'm your recent acquisition\n(Yeah, yeah) time to celebrate me\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better\n\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\nLet the word out, I've got to get out\nOh, I'm feeling better now\nBreak the news out, I've got to get out\nOh, I'm feeling better now\n\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down\nThe world's done shakin', the world's done shakin'\nThe world's done shakin' me down",
-    "key": "B",
-    "tempo": "123bpm"
-  },
   "Precious_Declaration.Collective_Soul": {
     "name": "Precious Declaration",
     "artist": "Collective Soul",
@@ -3153,5 +3145,21 @@
     "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to fly\n  Make my way back home when I learn to\n",
     "key": "F#",
     "tempo": "136bpm"
+  },
+  "Broken_Wings.Mr_Mister": {
+    "name": "Broken Wings",
+    "artist": "Mr Mister",
+    "id": "Broken_Wings.Mr_Mister",
+    "lyrics": "V: G#m F# C#\nC: C#m B A\nS: F#m A E D C#m\n\nBaby, don't understand\nwhy we can't just hold on to each other's hands\nThis time might be the last if fear\nunless I make it all too clear I need you so ooh\n \n  Take these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear the voices sing\n  The book of love will open up and let us in.\n  Take these broken wings\n \nBaby, I think tonight we can take\nwhat was wrong and make it right.\nBaby it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Ch\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Better_Now.Collective_Soul": {
+    "name": "Better Now",
+    "artist": "Collective Soul",
+    "id": "Better_Now.Collective_Soul",
+    "lyrics": "(Yeah, yeah oh, I'm newly calibrated\n(Yeah, yeah all shiny and clean\n(Yeah, yeah I'm your recent adaptation\n(Yeah, yeah time to redefine me\n\n  Let the word out, I've got to get out, oh I'm feeling better now\n  Break the news out, I've got to get out, oh I'm feeling better now\n\nYeah, yeah, oh, I'm happy as Christmas\nYeah, yeah, all wrapped to be seen\nYeah, yeah, I'm your recent acquisition\nYeah, yeah, time to celebrate me\n\n  Chorus\n\n    The world's done shakin x 3 ... me down\n    The world's done shakin x 3 ... me down\n\n  Chorus\n  Chorus (The world's done shakin')\n\n  Solo (The world's done shakin)",
+    "key": "B",
+    "tempo": "123bpm"
   }
 }
