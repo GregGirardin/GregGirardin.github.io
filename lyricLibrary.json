@@ -2810,14 +2810,6 @@
     "key": "G#",
     "tempo": "175bpm"
   },
-  "Sex_On_Fire.Kings_Of_Leon": {
-    "name": "Sex On Fire",
-    "artist": "Kings Of Leon",
-    "id": "Sex_On_Fire.Kings_Of_Leon",
-    "lyrics": "Lay where you're laying, don't make a sound\nI know they're watching, they're watching\nAll the commotion, the kiddie-like play\nIt has people talking, talking\n\n  You, your sex is on fire\n\nThe dark of the alley, the breaking of day\nHead while I'm driving, I'm driving\nSoft lips are open, them knuckles are pale\nFeels like you're dying, you're dying\n\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\nHot as a fever, rattle of bones\nI could just taste it, taste it\nIf this not forever, if this just tonight\nOh we're still the greatest, the greatest\n\n  You, your sex is on fire\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\n  And you, your sex is on fire\n  Consumed, with what's just transpired",
-    "key": "A",
-    "tempo": "153bpm"
-  },
   "Twilight_Zone.Golden_Earring": {
     "name": "Twilight Zone",
     "artist": "Golden Earring",
@@ -3161,5 +3153,21 @@
     "lyrics": "I: (Ab Bb) V1: (B F# E B) (E F# B) C: B G#m F# E\n\nMother told me, yes, she told me That I'd meet girls like you\nShe also told me, \"Stay away You'll never know what you'll catch\"\nJust the other day I heard Of a soldier's falling off\nSome Indonesian junk That's going 'round\n\n  Mommy's alright daddy's alright. They just seem a little weird\n  Surrender Surrender, but don't give yourself away\n\nI: (A B)\n\nFather says, \"Your mother's right she's really up on things\nBefore we married, Mommy served in the WACS in the Philippines\"\nNow, I had heard the WACs recruited Old maids for the war\nBut mommy isn't one of those I've known her all these years\n\n  Chorus\n\nI: (A B)\n\nV: (C G F C)\nWhatever happened to all this season's losers of the year?\nEvery time I got to thinking where'd they disappear?\nBut when I woke up, Mom and Dad are rolling on the couch\nRolling numbers, rock and rollin' got my KISS records out\n\n  Chorus (C Am G F)\n\nAway.. (C F C G)\n\n  Surrender, surrender (Mommy's alright, Daddy's alright)\n  But don't give yourself away\n  Surrender, surrender (Mommy's alright, Daddy's alright)\n  But don't give yourself away\n\n  repeat outro again 2x",
     "key": "E",
     "tempo": "134bpm"
+  },
+  "Sex_On_Fire.Kings_Of_Leon": {
+    "name": "Sex On Fire",
+    "artist": "Kings Of Leon",
+    "id": "Sex_On_Fire.Kings_Of_Leon",
+    "lyrics": "Lay where you're laying, don't make a sound\nI know they're watching, they're watching\nAll the commotion, the kiddie-like play\nIt has people talking, talking\n\n  You, your sex is on fire\n\nThe dark of the alley, the breaking of day\nHead while I'm driving, I'm driving\nSoft lips are open, them knuckles are pale\nFeels like you're dying, you're dying\n\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\nHot as a fever, rattle of bones\nI could just taste it, taste it\nIf this not forever, if this just tonight\nOh we're still the greatest, the greatest\n\n  You, your sex is on fire\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\n  And you, your sex is on fire\n  Consumed, with what's just transpired",
+    "key": "A",
+    "tempo": "153bpm"
+  },
+  "Sex_Type_Thing.STP": {
+    "name": "Sex Type Thing",
+    "artist": "STP",
+    "id": "Sex_Type_Thing.STP",
+    "lyrics": "I am, I am, I am\nI said, I wanna get next to you\nI said, I gonna get close to you\nYou wouldn't want me have to hurt you too, hurt you too\n\nI ain't, I ain't, I ain't\nA-buyin' into your apathy\nI'm gonna learn ya my philosophy\nYou wanna know about atrocity, atrocity?\n\n  I know you want what's on my mind\n  I know you like what's on my mind\n  I know it eats you up inside\n  I know you know, you know, you know\n\nI am a man, a man\nI'll give ya something that ya won't forget\nI said ya shouldn't have a-worn that dress\nI said ya shouldn't have a-worn that dress, worn that dress\n\n  Chorus\n\n    Here I come, I come...\n\nV1\n\n  Chorus x 2\n\n  Here I come..\n\nHere I come, I come, I come, I come",
+    "key": "E",
+    "tempo": "Tempo"
   }
 }

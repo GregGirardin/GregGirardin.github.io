@@ -190,7 +190,9 @@
 <button class='css_modeButton' id='modeEditButton'    onclick='changeMode( MODE_EDIT );'>Edit</button>
 <button class='css_modeButton' id='modeDelLibButton'  onclick='changeMode( MODE_DEL_LIB );'>Delete</button>
 <button class='css_modeButton' id='toggleLibViewMode' onclick='toggleLibViewMode();'>Sort by</button>
+<!--
 <button class='css_modeButton' id='togLyricHTML'      onclick='togLyricHTML();'>HTML in lyrics?</button>
+-->
 <hr>
 <div id='libraryDiv' class='css_library'> </div>
 </div>
@@ -623,24 +625,18 @@ function saveSongEdits()
     
     var tempo = document.getElementById( "editSongTempo" ).value;
 
-    // Allow html in the lyrics. But replace <br> with CR.
+    // Prune HTML formatting but try to preserve newlines.
     var foo = document.getElementById( "editSongLyrics" ).innerHTML;
-    if( !allowLyricHTML )
-    { // Prune HTML formatting but try to preserve newlines.
-      // Use a randomish sequence we can go back and replace with a \n after we strip all html formatting.
-      //console.log ("Phase 1"); console.log( foo );
 
-      //foo = foo.replace( /<div><br><\/div>/g, 'Q!W@E#' ); // Treat this as a single newline
-      //foo = foo.replace(    /<br/g, 'Q!W@E#<br' );
-      //foo = foo.replace( /<\/div/g, 'Q!W@E#</div' );
-      //foo = foo.replace(   /<\/p/g, 'Q!W@E#</p' );
+    var dbg = true;
+    if( dbg ) { console.log( "Initial innerHTML" ); console.log( foo ); }
+    foo = foo.replace( /<div/g, '\n<div' ); // when editing in the innerHTML, the browser may use <div></div> for newlines, sometimes just <br> 
+    //foo = foo.replace( /<\/div/g, '\n</div' ); // end of a div ends the line and paragraph
+    foo = foo.replace( /<br/g,  '\n<br' ); // catch <br foobar> tags, not just vanilla "<br>"
+    if( dbg ) { console.log( "Replaced" ); console.log( foo ); }
 
-      foo = foo.replace( /<div>/g, '\n' );
-      foo = foo.replace( /<br>/g,  '\n' );
-
-      foo = strip( foo ); // Strip HTML formating
-      //foo = foo.replace( /Q!W@E#/g, '\n' ); // add newlines back
-    }
+    foo = strip( foo ); // Strip HTML formating
+    if( dbg ) { console.log( "Final" ); console.log( foo ); }
 
     var editedSong = new LibrarySong( name, artist, key, foo, tempo );
     if( editedSong.id != "." ) // That's the default name when adding, don't add.
@@ -738,20 +734,6 @@ function toggleLibViewMode()
   elem.innerHTML = viewMode;
 
   generateLibraryHTML();
-}
-
-var allowLyricHTML = false;
-
-// Allow or prune HTML in edited lyrics. When pasting you end up with whatever HTML formatting
-// that gets included. Usually it's just a harmless waste of space but it could affect the display.
-// Pruning it also makes lyricLibrary.json cleaner.
-// You may want to keep it if you're adding italics, bold, etc to the lyrics.
-function togLyricHTML()
-{
-  allowLyricHTML = !allowLyricHTML;
-  
-  var elem = document.getElementById( "togLyricHTML" );
-  elem.innerHTML = allowLyricHTML ? "Allow HTML" : "Prune HTML";
 }
 
 //////////////// ////////////////
