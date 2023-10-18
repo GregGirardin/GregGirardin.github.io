@@ -1722,14 +1722,6 @@
     "key": "F",
     "tempo": "undefined"
   },
-  "Interstate_Love_Song.STP": {
-    "name": "Interstate Love Song",
-    "artist": "STP",
-    "id": "Interstate_Love_Song.STP",
-    "lyrics": "Waiting on a Sunday afternoon\nFor what I read between the lines, your lies\n\nFeelin' like a hand in rusted shame\nSo do you laugh at those who cry? Reply?\n\n  Leavin' on a southern train only yesterday you lied,\n  Promises of what I seemed to be\n  Only watched the time go by all of these things you said to me\n\nBreathing is the hardest thing to do\nWith all I've said and all that's dead for you, you lied, Good bye\n\n  Chorus\n",
-    "key": "undefined",
-    "tempo": "undefined"
-  },
   "My_Own_Worst_Enemy.Lit": {
     "name": "My Own Worst Enemy",
     "artist": "Lit",
@@ -3169,5 +3161,13 @@
     "lyrics": "I am, I am, I am\nI said, I wanna get next to you\nI said, I gonna get close to you\nYou wouldn't want me have to hurt you too, hurt you too\n\nI ain't, I ain't, I ain't\nA-buyin' into your apathy\nI'm gonna learn ya my philosophy\nYou wanna know about atrocity, atrocity?\n\n  I know you want what's on my mind\n  I know you like what's on my mind\n  I know it eats you up inside\n  I know you know, you know, you know\n\nI am a man, a man\nI'll give ya something that ya won't forget\nI said ya shouldn't have a-worn that dress\nI said ya shouldn't have a-worn that dress, worn that dress\n\n  Chorus\n\n    Here I come, I come...\n\nV1\n\n  Chorus x 2\n\n  Here I come..\n\nHere I come, I come, I come, I come",
     "key": "E",
     "tempo": "Tempo"
+  },
+  "Interstate_Love_Song.STP": {
+    "name": "Interstate Love Song",
+    "artist": "STP",
+    "id": "Interstate_Love_Song.STP",
+    "lyrics": "Waiting on a Sunday afternoon\nFor what I read between the lines, your lies\n\nFeelin' like a hand in rusted shame\nSo do you laugh at those who cry? Reply?\n\n  Leavin' on a southern train only yesterday you lied,\n  Promises of what I seemed to be\n  Only watched the time go by all of these things you said to me\n\nBreathin' is the hardest thing to do\nWith all I've said and all that's dead for you, you lied, Good bye\n\n  Leavin' on a southern train only yesterday you lied,\n  Promises of what I seemed to be\n  Only watched the time go by all of these things I said to you\n",
+    "key": "E",
+    "tempo": "171bpm"
   }
 }
