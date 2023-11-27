@@ -2050,14 +2050,6 @@
     "key": "D",
     "tempo": "158bpm"
   },
-  "Sharp_Dressed_Man.ZZ_Top": {
-    "name": "Sharp Dressed Man",
-    "artist": "ZZ Top",
-    "id": "Sharp_Dressed_Man.ZZ_Top",
-    "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to\nSilk suit, black tie (black tie)\nI don't need a reason why\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a sharp-dressed man\n\nGold watch, diamond ring\nI ain't missin' not a single thing\nCufflinks, stick pin\nWhen I step out I'm gonna do you in\n\n  Chorus\n\nTop coat, top hat\nAnd I don't worry 'cause my wallet's fat\nBlack shades, white gloves\nLookin' sharp, lookin' for love\n\n  Chorus",
-    "key": "C",
-    "tempo": "125bpm"
-  },
   "Burning_Down_The_House.Talking_Heads": {
     "name": "Burning Down The House",
     "artist": "Talking Heads",
@@ -3170,11 +3162,27 @@
     "key": "E",
     "tempo": "171bpm"
   },
+  "Sharp_Dressed_Man.ZZ_Top": {
+    "name": "Sharp Dressed Man",
+    "artist": "ZZ Top",
+    "id": "Sharp_Dressed_Man.ZZ_Top",
+    "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to\nSilk suit, black tie (black tie)\nI don't need a reason why\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a sharp-dressed man\n\nGold watch, diamond ring\nI ain't missin' not a single thing\nCufflinks, stick pin\nWhen I step out I'm gonna do you in\n\n  Chorus\n\nTop coat, top hat\nAnd I don't worry 'cause my wallet's fat\nBlack shades, white gloves\nLookin' sharp, lookin' for love\n\n  Chorus",
+    "key": "C",
+    "tempo": "125bpm"
+  },
+  "Sharp_Dressed_Man_(Nickelback_cover).Nickelback": {
+    "name": "Sharp Dressed Man (Nickelback cover)",
+    "artist": "Nickelback",
+    "id": "Sharp_Dressed_Man_(Nickelback_cover).Nickelback",
+    "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to\nSilk suit, black tie (black tie)\nI don't need a reason why\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a sharp-dressed man\n\nGold watch, diamond ring\nI ain't missin' not a single thing\nCufflinks, stick pin\nWhen I step out I'm gonna do you in\n\n  Chorus\n\n  Solo\n\nTop coat, top hat\nAnd I don't worry 'cause my wallet's fat\nBlack shades, white gloves\nLookin' sharp, lookin' for love\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a\n\n  SHARP ..... DRESSED ..... MAN",
+    "key": "C",
+    "tempo": "125bpm"
+  },
   "White_Christmas.Bad_Religion": {
     "name": "White Christmas",
     "artist": "Bad Religion",
     "id": "White_Christmas.Bad_Religion",
-    "lyrics": "\n  Intro\n\nI'm dreaming of a white Christmas\nJust like the ones I used to know\nWhere the treetops glisten and children listen\nTo hear sleigh bells in the snow\n\nI'm dreaming of a white Christmas\nWith every Christmas card I write\nMay your days be merry and bright\nAnd may all your Christmases be white\n\n  Solo\n\nI'm dreaming of a white Christmas\nWith every Christmas card I write\nMay your days be merry and bright\nAnd may all your Christmases be white\n\nBe white\nAll white\nAll white",
+    "lyrics": "  Intro\n\nI'm dreaming of a white Christmas\nJust like the ones I used to know\nWhere the treetops glisten and children listen\nTo hear sleigh bells in the snow\n\nI'm dreaming of a white Christmas\nWith every Christmas card I write\nMay your days be merry and bright\nAnd may all your Christmases be white\n\n  Solo\n\nI'm dreaming of a white Christmas\nWith every Christmas card I write\nMay your days be merry and bright\nAnd may all your Christmases...\n\nBe-ee whiiii-iiii-ite\nBe-ee whiiii-iiii-ite\nAa-all whiiii-iiii-ite\nAll whii-ite",
     "key": "E",
     "tempo": "83bpm"
   }
