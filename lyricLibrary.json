@@ -2883,14 +2883,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "Ain_t_Talkin_Bout_Love.Van_Halen": {
-    "name": "Ain't Talkin Bout Love",
-    "artist": "Van Halen",
-    "id": "Ain_t_Talkin_Bout_Love.Van_Halen",
-    "lyrics": "I heard the news baby all about your disease\nYeah, you may have all you want baby\nBut I got somethin' you need, oh yeah!\n\n  Ain't talkin 'bout love my love is rotten to the core\n  Ain't talkin 'bout love just like I told you before\n\nYou know you're semi-good lookin, and on the streets again\nOoh yeah, you think you're really cookin' baby\nYou better find yourself a friend, my friend\n\n  Chorus / Solo / Chorus\n\n    I've been to the edge and then I stood and looked down\n    You know I lost a lot of friends there, I've got no time to mess around\n    Mmm, so if you want it, got to bleed for it, baby\n    Yeah! Got to, got to bleed, baby..\n\n  Chorus\n\nAin't talkin' / Don't wanna / Don't need to / Ain't gonna\nNo more! No more! Aah!\nHey, hey, hey!",
-    "key": "Am",
-    "tempo": ""
-  },
   "Ammonium_Maze.Percy_Hill": {
     "name": "Ammonium Maze",
     "artist": "Percy Hill",
@@ -3202,5 +3194,21 @@
     "lyrics": "V: (C D Em D)\nP: Em Am C D\nS: D\n\nShe calls me from the cold just when I was low, feeling short of stable\nAll that she intends and all she keeps inside isn't on the label\nShe says she's ashamed and can she take me for awhile?\nAnd can I be a friend we'll forget the past but maybe I'm not able\nAnd I break at the bend\n\n  We're here and now will we ever be again cause I have found\n  All that shimmers in this world is sure to fade away again\n\nShe dreams a champagne dream strawberry surprise, pink linen and white paper\nLavender and cream Fields of butterflies, reality escapes her\nShe says that love is for fools who fall behind\nAnd I'm somewhere between I never really know a killer from a savior\n'Til I break at the bend\n\n  We're here and now...\n\n  It's too far away for me to hold too far away\n\nSolo\n\n  It's too far away for me to hold too far away\n\nGuess I'll let it go",
     "key": "Em",
     "tempo": "undefined"
+  },
+  "All_Mixed_Up.311": {
+    "name": "All Mixed Up",
+    "artist": "311",
+    "id": "All_Mixed_Up.311",
+    "lyrics": "You've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\n\nWe come with the funky style that gets us known for the show\nAnd we'll mix the hip-hop reggae if we say it is so\nAnd fuck the naysayers cause they don't mean a thing\nCause this is what style we bring\n\nNow it's morning but last night's on my mind\nThere's something I need to get off my chest\nAnd no matter what may come to shine\nThe dream will always be mine\n\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But the first could be the last, so just get off of your ass\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But you know this will pass, so just get off of your ass\n\nYou've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\nSick sick bit got to have it\nLike bustin' in on a session but you got to call it quits\nSick sick bit just can't quit\nFact that you don't even know makes it fully legit\n\nNow it's morning but last night's on my mind...\n\nYou keep me coming, that is a gal that'll kill dem stunning x 4\n\nYou make me nervous, throat dry, my brain is empty, don't know why\nBut I saw you doing something which is really truly nothing\nBut you could bust me out all day\n\nMany moons since first I saw you, many moons since first we did the do\nMany moons since first I saw you, ,any moons since first we did the do\nAnd why did I try when I knew it was no and\nWhy did I try when I say it was so\nBut save it for late we should just let it skate\nCause the waiting feel is fine",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Ain_t_Talkin_Bout_Love.Van_Halen": {
+    "name": "Ain't Talkin Bout Love",
+    "artist": "Van Halen",
+    "id": "Ain_t_Talkin_Bout_Love.Van_Halen",
+    "lyrics": "I heard the news baby all about your disease\nYeah, you may have all you want baby\nBut I got somethin' you need, oh yeah!\n\n  Ain't talkin 'bout love my love is rotten to the core\n  Ain't talkin 'bout love just like I told you before\n\nYou know you're semi-good lookin, and on the streets again\nOoh yeah, you think you're really cookin' baby\nYou better find yourself a friend, my friend\n\n  Chorus / Solo / Chorus\n\n    I've been to the edge and then I stood and looked down\n    You know I lost a lot of friends there, I've got no time to mess around\n    Mmm, so if you want it, got to bleed for it, baby\n    Yeah! Got to, got to bleed, baby..\n\n  Chorus\n\nAin't talkin' / Don't wanna / Don't need to / Ain't gonna\nNo more! No more! Aah!\nHey, hey, hey!",
+    "key": "Am",
+    "tempo": ""
   }
 }
