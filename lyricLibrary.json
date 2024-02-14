@@ -2823,7 +2823,7 @@
     "name": "Last Nite",
     "artist": "The Strokes",
     "id": "Last_Nite.The_Strokes",
-    "lyrics": "Last night she said\n\"Oh, baby, I feel so down\"\n\"Oh, it turn' me off when I feel left out\"\nSo I, I turned 'round\nOh, baby, don't care no more\nI know this for sure, I'm walking out that door\n\nWell, I've been in town for just about fifteen, oh, minutes now\nOh baby, I feel so down, and I don't know why\nI keep walking for miles\n\n  And see, people, they don't understand\n  Your girlfriends, they can't understand\n  Your grandsons, they won't understand\n  On top of this, I ain't ever gonna understand\n\nLast night she said\n\"Oh, baby, don't feel so down\"\n\"Oh, it turn' me off when I feel left out\"\nSo I, I turned 'round\nOh, baby, gonna be alright\nIt was a great big lie, 'cause I left that night, yeah\n\n  Solo\n\n  Oh, people, they don't understand\n  No, girlfriends, they don't understand\n  In spaceships, they won't understand\n  And me, I ain't ever gonna understand\n\nLast night she said\n\"Oh, baby, I feel so down\"\n\"See, it turn' me off when I feel left out\"\nSo I, I turned 'round\nOh, little girl, I don't care no more\nI know this for sure, I'm walking out that door, yeah",
+    "lyrics": "V: C Dm G Em Dm\nC: F G\nS: C F G\n\nLast night she said\n\"Oh, baby I feel so down, oh it turn me off when I feel left out\"\nSo I, I turned 'round oh, baby, don't care no more\nI know this for sure, I'm walking out that door\n\nWell, I've been in town for just about fifteen, oh, minutes now\nOh baby, I feel so down, and I don't know why\nI keep walking for miles\n\n  And see people they don't understand\n  Your girlfriends they can't understand\n  Your grandsons they won't understand\n  On top of this I ain't ever gonna understand\n\nLast night she said\n\"Oh, baby, don't feel so down oh, it turn me off when I feel left out\"\nSo I, I turned round, oh baby gonna be alright\nIt was a great big lie, cause I left that night, yeah\n\n    Solo\n\n  Oh people they don't understand\n  No girlfriends they don't understand\n  In spaceships they won't understand\n  And me, I ain't ever gonna understand\n\nLast night she said\n\"Oh, baby, I feel so down, see it turn me off when I feel left out\"\nSo I, I turned 'round oh, little girl, I don't care no more\nI know this for sure, I'm walking out that door, yeah",
     "key": "C",
     "tempo": "104bpm"
   },
@@ -3010,14 +3010,6 @@
     "lyrics": "V: G#m F# C#\nC: C#m B A\nS: F#m A E D C#m\n\nBaby, don't understand\nwhy we can't just hold on to each other's hands\nThis time might be the last if fear\nunless I make it all too clear I need you so ooh\n \n  Take these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear the voices sing\n  The book of love will open up and let us in.\n  Take these broken wings\n \nBaby, I think tonight we can take\nwhat was wrong and make it right.\nBaby it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Ch\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
     "key": "undefined",
     "tempo": "Tempo"
-  },
-  "Better_Now.Collective_Soul": {
-    "name": "Better Now",
-    "artist": "Collective Soul",
-    "id": "Better_Now.Collective_Soul",
-    "lyrics": "(Yeah, yeah oh, I'm newly calibrated\n(Yeah, yeah all shiny and clean\n(Yeah, yeah I'm your recent adaptation\n(Yeah, yeah time to redefine me\n\n  Let the word out, I've got to get out, oh I'm feeling better now\n  Break the news out, I've got to get out, oh I'm feeling better now\n\nYeah, yeah, oh, I'm happy as Christmas\nYeah, yeah, all wrapped to be seen\nYeah, yeah, I'm your recent acquisition\nYeah, yeah, time to celebrate me\n\n  Chorus\n\n    The world's done shakin x 3 ... me down\n    The world's done shakin x 3 ... me down\n\n  Chorus\n  Chorus (The world's done shakin')\n\n  Solo (The world's done shakin)",
-    "key": "B",
-    "tempo": "123bpm"
   },
   "Surrender.Cheap_Trick": {
     "name": "Surrender",
@@ -3210,5 +3202,13 @@
     "lyrics": "I heard the news baby all about your disease\nYeah, you may have all you want baby\nBut I got somethin' you need, oh yeah!\n\n  Ain't talkin 'bout love my love is rotten to the core\n  Ain't talkin 'bout love just like I told you before\n\nYou know you're semi-good lookin, and on the streets again\nOoh yeah, you think you're really cookin' baby\nYou better find yourself a friend, my friend\n\n  Chorus / Solo / Chorus\n\n    I've been to the edge and then I stood and looked down\n    You know I lost a lot of friends there, I've got no time to mess around\n    Mmm, so if you want it, got to bleed for it, baby\n    Yeah! Got to, got to bleed, baby..\n\n  Chorus\n\nAin't talkin' / Don't wanna / Don't need to / Ain't gonna\nNo more! No more! Aah!\nHey, hey, hey!",
     "key": "Am",
     "tempo": ""
+  },
+  "Better_Now.Collective_Soul": {
+    "name": "Better Now",
+    "artist": "Collective Soul",
+    "id": "Better_Now.Collective_Soul",
+    "lyrics": "Yeah yeah, oh, I'm newly calibrated\nYeah yeah, all shiny and clean\nYeah yeah, I'm your recent adaptation\nYeah yeah, time to redefine me\n\n  Let the word out, I've got to get out, oh I'm feeling better now\n  Break the news out, I've got to get out, oh I'm feeling better now\n\nYeah yeah, oh, I'm happy as Christmas\nYeah yeah, all wrapped to be seen\nYeah yeah, I'm your recent acquisition\nYeah yeah, time to celebrate me\n\n  Chorus\n\n    The world's done shakin x 3 ... me down\n    The world's done shakin x 3 ... me down\n\n  Chorus\n  Chorus (The world's done shakin')\n\n  Solo (The world's done shakin)",
+    "key": "B",
+    "tempo": "123bpm"
   }
 }
