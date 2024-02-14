@@ -755,14 +755,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Only_The_Lonely.The_Motels": {
-    "name": "Only The Lonely",
-    "artist": "The Motels",
-    "id": "Only_The_Lonely.The_Motels",
-    "lyrics": "V: G Em C D\nC: D C G\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n \n  Chorus / Solo / Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk": {
     "name": "Our Lips Are Sealed (Moon Talk)",
     "artist": "Moon Talk",
@@ -3210,5 +3202,21 @@
     "lyrics": "Yeah yeah, oh, I'm newly calibrated\nYeah yeah, all shiny and clean\nYeah yeah, I'm your recent adaptation\nYeah yeah, time to redefine me\n\n  Let the word out, I've got to get out, oh I'm feeling better now\n  Break the news out, I've got to get out, oh I'm feeling better now\n\nYeah yeah, oh, I'm happy as Christmas\nYeah yeah, all wrapped to be seen\nYeah yeah, I'm your recent acquisition\nYeah yeah, time to celebrate me\n\n  Chorus\n\n    The world's done shakin x 3 ... me down\n    The world's done shakin x 3 ... me down\n\n  Chorus\n  Chorus (The world's done shakin')\n\n  Solo (The world's done shakin)",
     "key": "B",
     "tempo": "123bpm"
+  },
+  "Only_The_Lonely.The_Motels": {
+    "name": "Only The Lonely",
+    "artist": "The Motels",
+    "id": "Only_The_Lonely.The_Motels",
+    "lyrics": "V: G Em C D\nC: D C G\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Operation_Spirit.Live": {
+    "name": "Operation Spirit",
+    "artist": "Live",
+    "id": "Operation_Spirit.Live",
+    "lyrics": "Did you give it up?\n\nHeard a lot of talk about the ocean, yeah\nHeard a lot of talk about the sea, now\nHeard a lot of talk about a lot of things\nNever meant that much to me\n\nHeard a lot of talk about my spirit\nHeard a lot of talk about my soul\nBut I decided that anxiety and pain\nWere better friends, so I let it go\n\n  Did you let it go [now | love]?\n  Did you let it go, our love?\n  Did you let it go, my friend?\n  Let's get it back, let's get it back, together, yeah\n\nHeard a lot of talk about this Jesus\nA man of love and a man of strength\nBut what a man was two thousand years ago\nMeans nothing at all to me today\n\nHe could have been telling me about my higher self\nBut he only lives inside my prayer\nSo what he was may have been beautiful\nBut the pain is right now and right here\n\n  Chorus x 2\n\n  Did you give it up?\n\n  Chorus",
+    "key": "Em",
+    "tempo": "Tempo"
   }
 }
