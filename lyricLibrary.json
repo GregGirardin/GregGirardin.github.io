@@ -1427,14 +1427,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "I_Hate_Myself.Joan_Jett": {
-    "name": "I Hate Myself",
-    "artist": "Joan Jett",
-    "id": "I_Hate_Myself.Joan_Jett",
-    "lyrics": "G|--9-12-9--7-9---7---7-----7-9-\nD|--9-12-9--7-9---7---7-----7-9-\nA|--7-10-7--5-7---5---5-----5-7-\nE|------------------7---7-------\n\nV: (E A B)  P: (G A) B7  C: E A B\n\nMidnight, gettin uptight, where are you?\nYou said you'd meet me, now it's quarter to two\nI know I'm hangin' but I'm still wantin' you\n\nHey Jack, it's a fact they're talkin' in town\nI turn my back and you're messin' around\nI'm not getting jealous, don't like lookin' like a clown\n\n  I think of you every night and day\n  You took my heart, and you took my pride away\n\n  I hate myself for loving you\n  Can't break free from the the things that you do\n  I wanna walk but I run back to you\n  That's why I hate myself for loving you\n\n(Intro riff x 2)\n\nDaylight, spent the night without you\nBut I've been dreamin' 'bout the lovin' you do\nI'm over being angry 'bout the hell you put me through\n\nHey man, bet you can't treat me right\nYou just don't know what you was missin' last night\nI wanna see you beggin', say, \"Forget it\" just for spite\n\n  Chorus\n\n  Solo\n\nPC / Chorus acapella\nChorus\n\nOut over intro riff\n",
-    "key": "E",
-    "tempo": ""
-  },
   "I_Melt_With_You.Modern_English": {
     "name": "I Melt With You",
     "artist": "Modern English",
@@ -3217,6 +3209,30 @@
     "id": "Operation_Spirit.Live",
     "lyrics": "Did you give it up?\n\nHeard a lot of talk about the ocean, yeah\nHeard a lot of talk about the sea, now\nHeard a lot of talk about a lot of things\nNever meant that much to me\n\nHeard a lot of talk about my spirit\nHeard a lot of talk about my soul\nBut I decided that anxiety and pain\nWere better friends, so I let it go\n\n  Did you let it go [now | love]?\n  Did you let it go, our love?\n  Did you let it go, my friend?\n  Let's get it back, let's get it back, together, yeah\n\nHeard a lot of talk about this Jesus\nA man of love and a man of strength\nBut what a man was two thousand years ago\nMeans nothing at all to me today\n\nHe could have been telling me about my higher self\nBut he only lives inside my prayer\nSo what he was may have been beautiful\nBut the pain is right now and right here\n\n  Chorus x 2\n\n  Did you give it up?\n\n  Chorus",
     "key": "Em",
+    "tempo": "Tempo"
+  },
+  "I_Hate_Myself.Joan_Jett": {
+    "name": "I Hate Myself",
+    "artist": "Joan Jett",
+    "id": "I_Hate_Myself.Joan_Jett",
+    "lyrics": "G|--9-12-9--7-9---7---7-----7-9-\nD|--9-12-9--7-9---7---7-----7-9-\nA|--7-10-7--5-7---5---5-----5-7-\nE|------------------7---7-------\n\nV: (E A B)  P: (G A) B7  C: E A B\n\nMidnight, gettin uptight, where are you?\nYou said you'd meet me, now it's quarter to two\nI know I'm hangin' but I'm still wantin' you\n\nHey Jack, it's a fact they're talkin' in town\nI turn my back and you're messin' around\nI'm not getting jealous, don't like lookin' like a clown\n\n  I think of you every night and day\n  You took my heart, and you took my pride away\n\n  I hate myself for loving you\n  Can't break free from the the things that you do\n  I wanna walk but I run back to you\n  That's why I hate myself for loving you\n\n(Intro riff x 2)\n\nDaylight, spent the night without you\nBut I've been dreamin' 'bout the lovin' you do\nI'm over being angry 'bout the hell you put me through\n\nHey man, bet you can't treat me right\nYou just don't know what you was missin' last night\nI wanna see you beggin', say, \"Forget it\" just for spite\n\n  Chorus\n\n  Solo\n\nPC / Chorus acapella\nChorus\n\nOut over intro riff\n",
+    "key": "E",
+    "tempo": ""
+  },
+  "I_Alone.Live": {
+    "name": "I Alone",
+    "artist": "Live",
+    "id": "I_Alone.Live",
+    "lyrics": "V: (G D C CM7) B\nC: E B G\nB: B - G\n\nIt's easier not to be wise, measure these things by your brains\nI sank into Eden with you alone in the church by and by\nI'll read to you love save your eyes you'll need them your boat is at sea\nYour anchor is up, you've been swept away\nAnd the greatest of teachers won't hesitate\nTo leave you there by yourself chained to fate\n \n  I alone love you, I alone tempt you, I alone love you\n  Fear is not the end of this\n  I alone love you, I alone tempt you, I alone love you\n \nIt's easier not to be great and measure these things by your eyes\nWe long to be here by his resolve alone in the church by and by\nTo cradle the baby in space\nAnd leave you there by yourself chained to fate\n \n  Chorus\n \n    Oh now we took it back too far only love can save us now\n    All these riddles that you burn all come running back to you\n    All these rhythms that you hide only love can save us now\n    All these riddles that you burn\n    yeah yeah yeah\n \n  Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Selling_The_Drama.Live": {
+    "name": "Selling The Drama",
+    "artist": "Live",
+    "id": "Selling_The_Drama.Live",
+    "lyrics": "V: (G D G) Bm7 C9 - D\nC: (Em A) C9\nS: D2 E2 D2 C2 - G D D4 G \n\nAnd to love a god\nAnd to fear a flame\nAnd to burn a crowd that has a name\n\nAnd to right or wrong\nAnd to meek or strong\nIt is known just scream it from the wall\n\ne|----0-0-0---0-0-0---0-0-0---0-0-0---0-----|\nB|--3-3-3-3/5-5-5-5/7-7-7-7/8-8-8-8---8/10--|\n\ne|--0--0--0-----0--0--0-----0--0-----0---|\nB|--10-10-10/12-12-12-12/15-15-15/17-17--|\n\n\nI've willed, I've walked, I've read, I've talked,\nI know, I know, I've been there before\n\n  Hey, now we won't be raped\n  Hey, now we won't be scarred like that\n \nIt's the sun that burns\nIt's the wheel that turns\nIt's the way we sing that makes 'em dream\n\nAnd to Christ a cross\nAnd to me a chair\nI will sit and earn the ransom from up here\n\nI've willed...\n\n  Hey, now we won't be raped...\n\n   Scared like that\n\nV1",
+    "key": "undefined",
     "tempo": "Tempo"
   }
 }
