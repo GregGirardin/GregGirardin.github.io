@@ -79,14 +79,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "Tin_Man.America": {
-    "name": "Tin Man",
-    "artist": "America",
-    "id": "Tin_Man.America",
-    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\n  But Oz never did give nothing to the tin man\n  That he didn't already have\n  And cause never was the reason for the evening\n  Or the tropic of Sir Galahad\n  So please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
-    "key": "D",
-    "tempo": "undefined"
-  },
   "Zombie.The_Cranberries": {
     "name": "Zombie",
     "artist": "The Cranberries",
@@ -849,14 +841,6 @@
     "id": "Mysterious_Ways.U2",
     "lyrics": "I: A   V: (A D A E) A   C: (A D) (A D C G)   B: Am D Am G - A D A C G\n\nJohnny take a walk with your sister the moon\nLet her pale light in to fill up your room\nYou've been living underground eating from a can\nYou've been running away from what you don't understand, love\n\n  She's slippy you're sliding down she'll be there when you hit the ground\n  It's alright.. she moves in mysterious ways\n\nJohnny take a dive with your sister in the rain\nLet her talk about the things you can't explain\nTo touch is to heal to hurt is to steal\nIf you want to kiss the sky better learn how to kneel, on your knees boy!\n\n  She's the wave she turns the tide she sees the man inside the child...\n  Lift my days, light up my nights, oh\n\nSolo\n\n    One day you'll look back and you'll see where you were held low\n    By this love while you could stand there\n    You could move on this moment follow this feeling\n\nChorus / Solo",
     "key": "A",
-    "tempo": "undefined"
-  },
-  "Mr_Brownstone.Guns_N__Roses": {
-    "name": "Mr Brownstone",
-    "artist": "Guns N' Roses",
-    "id": "Mr_Brownstone.Guns_N__Roses",
-    "lyrics": "I: Em A \nC: G C D E - B A\nS: F# E G  C   D   E   E   G A     D C# B G E\n\nI get up around seven get outta bed around nine\nAnd I don't worry about nothin no 'cause worryin's a waste of my time\nThe show usually starts around seven we go on stage at nine\nGet on the bus at eleven sippin a drink and feelin' fine\n\n  We been dancin' with Mr. Brownstone\n  He's been knockin' he won't leave me alone no\n  He won't leave me alone\n\n    I used ta do a little but a little wouldn't do so the little got more and more\n    I just keep tryin' ta get a little better said a little better than before\n\n  We been dancin with Mr. Brownstone...\n\nNow I get up around whenever I used ta get up on time\nBut that old man he's a real muthafucker gonna kick him on down the line\n\n    I used ta do a little...\n\n  We been dancin' with Mr. Brownstone...\n\nStuck it in the middle and I shot it in the middle and it, it drove outta my mind\nI should've known better, said I wish I never met her said I leave it all behind Yowsa!\n",
-    "key": "Em",
     "tempo": "undefined"
   },
   "Say_Goodbye_To_Hollywood.Billy_Joel": {
@@ -1675,14 +1659,6 @@
     "key": "F#",
     "tempo": "Tempo"
   },
-  "Once_In_A_Lifetime.Talking_Heads": {
-    "name": "Once In A Lifetime",
-    "artist": "Talking Heads",
-    "id": "Once_In_A_Lifetime.Talking_Heads",
-    "lyrics": "And you may find yourself living in a shotgun shack\nAnd you may find yourself in another part of the world\nAnd you may find yourself behind the wheel of a large automobile\nAnd you may find yourself in a beautiful house, with a beautiful wife\nAnd you may ask yourself, \"Well, how did I get here?\"\n\n  Letting the days go by, let the water hold me down\n  Letting the days go by, water flowing underground\n  Into the blue again after the money's gone\n  Once in a lifetime, water flowing underground\n\nAnd you may ask yourself, \"How do I work this?\"\nAnd you may ask yourself, \"Where is that large automobile?\"\nAnd you may tell yourself, \"This is not my beautiful house\"\nAnd you may tell yourself, \"This is not my beautiful wife\"\n\n  Chorus\n\n    Same as it ever was...\n\nWater dissolving and water removing\nThere is water at the bottom of the ocean\nUnder the water, carry the water\nRemove the water at the bottom of the ocean\nWater dissolving and water removing\n\n  Letting the days go by, let the water hold me down\n  Letting the days go by, water flowing underground\n  Into the blue again, into the silent water\n  Under the rocks and stones, there is water underground\n  Chorus 1\n\nYou may ask yourself, \"What is that beautiful house?\"\nYou may ask yourself, \"Where does that highway go to?\"\nAnd you may ask yourself, \"Am I right? Am I wrong?\"\nAnd you may say to yourself, \"My God! What have I done?\"\n\n  Chorus\n\nSame as it ever was, same as it ever was\nSame as it ever was and look where my hand was\nTime isn't holding up, time isn't after us\nSame as it ever was x 6\nLetting the days go by, same as it ever was\nHere a twister comes, here comes the twister\nSame as it ever was, same as it ever was (Letting the days go by) x 2\nOnce in a lifetime (Let the water hold me down)\nLetting the days go by (Water flowing underground)\nInto the blue again\n",
-    "key": "D",
-    "tempo": "117bpm"
-  },
   "Rebel_Yell.Billy_Idol": {
     "name": "Rebel Yell",
     "artist": "Billy Idol",
@@ -2059,14 +2035,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "The_Gambler.Kenny_Rodgers": {
-    "name": "The Gambler",
-    "artist": "Kenny Rodgers",
-    "id": "The_Gambler.Kenny_Rodgers",
-    "lyrics": "D (G D) [G A / A D]\n\nOn a warm summer's evenin' on a train bound for nowhere,\nI met up with the gambler; we were both too tired to sleep.\nSo we took turns a starin' out the window at the darkness\n'til boredom overtook us, and he began to speak.\n\nHe said, \"Son, I've made a life out of readin' people's faces,\nand knowin' what their cards were by the way they held their eyes.\nAnd if you don't mind my sayin', I can see you're out of aces.\nFor a taste of your whiskey I'll give you some advice.\"\n\nSo I handed him my bottle and he drank down my last swallow.\nThen he bummed a cigarette and asked me for a light.\nAnd the night got deathly quiet, and his face lost all expression.\nSaid, \"If you're gonna play the game, boy, ya gotta learn to play it right.\n\n  You got to know when to hold 'em, know when to fold 'em,\n  know when to walk away and know when to run.\n  You never count your money when you're sittin' at the table.\n  There'll be time enough for countin when the dealin's done.\n\nEv'ry gambler knows that the secret to survivin\nis knowin what to throw away and knowing what to keep.\ncause every hand's a winner and every hand's a loser,\nand the best that you can hope for is to die in your sleep.\n\nAnd when he'd finished speakin', he turned back towards the window,\ncrushed out his cigarette and faded off to sleep.\nAnd somewhere in the darkness the gambler, he broke even.\nBut in his final words I found an ace that I could keep.\n\n  Chorus",
-    "key": "D",
-    "tempo": "undefined"
-  },
   "Ventura_Highway.America": {
     "name": "Ventura Highway",
     "artist": "America",
@@ -2418,14 +2386,6 @@
     "lyrics": "V: (A AM7 Bm7 Esus4 E)   (F#m C#m D E4 E)\nC: (Bm A/C# E) Bm C#m\nBreak: (Bm C#m) Bm E4 E\n\nI walked across an empty land I knew the pathway like the back of my hand\nI felt the earth beneath my feet sat by the river and it made me complete\n  Oh simple thing where have you gone I'm getting old and I need something to rely on\n  So tell me when you're gonna let me in I'm getting tired and I need somewhere to begin\n\nI came across a fallen tree I felt the branches of it looking at me\nIs this the place we used to love? Is this the place that I've been dreaming of?\n\n  Oh simple thing...\n\n    And if you have a minute why don't we go talk about it somewhere only we know?\n    This could be the end of everything so why don't we go  Somewhere only we know?\n\n  Break\n\n  Oh simple thing.. \n\n  So if you have a minute why don't we go talk about it somewhere only we know?\nThis could be the end of everything\n  So why don't we go\n  So why don't we go\n \n  This could be the end of everything\n  So why don't we go\n  Somewhere only we know?\n",
     "key": "A",
     "tempo": "Tempo"
-  },
-  "The_Devil_Went_Down_to_Georgia.Charlie_Daniels": {
-    "name": "The Devil Went Down to Georgia",
-    "artist": "Charlie Daniels",
-    "id": "The_Devil_Went_Down_to_Georgia.Charlie_Daniels",
-    "lyrics": "Dm        C\nDm C Bb A G A Dm A C Dm\nC A Dm\n\nThe Devil went down to Georgia he was looking for a soul to steal\nHe was in a bind cause he was way behind he was willin' to make a deal\nWhen he came across this young man sawin' on a fiddle and playin' it hot\nAnd the Devil jumped upon a hickory stump and said boy let me tell you what\n \nI guess you didn't know it but I'm a fiddle player too\nAnd if you'd care to take a dare I'll make a bet with you\nNow you play a pretty good fiddle boy but give the devil his due\nI bet a fiddle of gold against your soul cause I think I'm better than you \nThe boy said my name's Johnny and it might be a sin\nBut I'll take your bet, you're gonna regret cause I'm the best that's ever been\n\nJohnny, you rosin up your bow and play your fiddle hard\nCause hell’s broke loose in Georgia and the Devil deals it hard\nAnd if you win you get this shiny fiddle made of gold\nBut if you lose the Devil gets your soul\n\n  Solo\n \nThe Devil opened up his case and he said I'll start this show\nAnd fire flew from his fingertips as he rosined up his bow\nAnd he pulled the bow across his strings and it made an evil hiss\nThen a band of demons joined in and it sounded something like this \n \nDm   C Dm x2\nA|-5---------------|-----5-----------|-----------------|-----------------|\nE|-----1---3---4---|-5-------5---4---|-3---1---3---4---|-5---1---3---1---|\n\nWhen the Devil finished Johnny said well, you're pretty good ol' son\nBut sit down in that chair right there and let me show you how it's done\n\n    Fire on the mountain, run boys run\n    The Devil's in the house of the risin' sun\n    Chicken in the bread pan pickin' out dough\n    Granny does your dog bite no, child, no\n \n[Solo]\nDm  C   Dm  C   Dm  C\nA   A   A  A C Dm\n\nThe Devil bowed his head because he knew that he'd been beat\nand he laid that golden fiddle on the ground at Johnny's feet\nJohnny said Devil just come on back if you ever wanna try again\nI done told you once, you son of a bitch I'm the best that's ever been, and he played\n \n    Fire on the mountain, run boys run\n    The Devil's in the house of the risin' sun\n    The chicken in the bread pan are pickin' out dough\n    Granny will your dog bite no, child, no\n \n[Outro Solo]\nDm  C  Dm  C  Dm\nC Dm Em Gm Dm C Bb A\nDm C Bb A  Dm C Bb A\nDm C Bb A Gm F  Dm Dm",
-    "key": "Dm",
-    "tempo": "undefined"
   },
   "You_Really_Got_Me.The_Kinks": {
     "name": "You Really Got Me",
@@ -3232,6 +3192,62 @@
     "artist": "Live",
     "id": "Selling_The_Drama.Live",
     "lyrics": "V: (G D G) Bm7 C9 - D\nC: (Em A) C9\nS: D2 E2 D2 C2 - G D D4 G \n\nAnd to love a god\nAnd to fear a flame\nAnd to burn a crowd that has a name\n\nAnd to right or wrong\nAnd to meek or strong\nIt is known just scream it from the wall\n\ne|----0-0-0---0-0-0---0-0-0---0-0-0---0-----|\nB|--3-3-3-3/5-5-5-5/7-7-7-7/8-8-8-8---8/10--|\n\ne|--0--0--0-----0--0--0-----0--0-----0---|\nB|--10-10-10/12-12-12-12/15-15-15/17-17--|\n\n\nI've willed, I've walked, I've read, I've talked,\nI know, I know, I've been there before\n\n  Hey, now we won't be raped\n  Hey, now we won't be scarred like that\n \nIt's the sun that burns\nIt's the wheel that turns\nIt's the way we sing that makes 'em dream\n\nAnd to Christ a cross\nAnd to me a chair\nI will sit and earn the ransom from up here\n\nI've willed...\n\n  Hey, now we won't be raped...\n\n   Scared like that\n\nV1",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Mr_Brownstone.Guns_N__Roses": {
+    "name": "Mr Brownstone",
+    "artist": "Guns N' Roses",
+    "id": "Mr_Brownstone.Guns_N__Roses",
+    "lyrics": "I: Em A\nC: G C D E - B A\nS: F# E G C D E   E G A D C# B G E\n\nI get up around seven get outta bed around nine\nAnd I don't worry about nothin no 'cause worryin's a waste of my time\nThe show usually starts around seven we go on stage at nine\nGet on the bus at eleven sippin a drink and feelin' fine\n\n  We been dancin' with Mr. Brownstone\n  He's been knockin' he won't leave me alone no\n  He won't leave me alone\n\n    I used ta do a little but a little wouldn't do so the little got more and more\n    I just keep tryin' ta get a little better said a little better than before\n\n  We been dancin with Mr. Brownstone...\n\nNow I get up around whenever I used ta get up on time\nBut that old man he's a real muthafucker gonna kick him on down the line\n\n    I used ta do a little...\n\n  We been dancin' with Mr. Brownstone...\n\nStuck it in the middle and I shot it in the middle and it, it drove outta my mind\nI should've known better, said I wish I never met her said I leave it all behind Yowsa!\n",
+    "key": "Em",
+    "tempo": "undefined"
+  },
+  "Moves_Like_Jagger.Maroon_5": {
+    "name": "Moves Like Jagger",
+    "artist": "Maroon 5",
+    "id": "Moves_Like_Jagger.Maroon_5",
+    "lyrics": "Just shoot for the stars if it feels right\nThen aim for my heart if you feel like it\nTake me away, and make it okay, I swear I'll behave\nYou wanted control, so we waited\nI put on a show, now we're naked\nYou say I'm a kid, my ego is big, I don't give a shit\n\n  And it goes like this (Uh)\n  Take me by the tongue and I'll know you (Uh)\n  Kiss me 'til you're drunk and I'll show you\n  All the moves like Jagger\n  I've got them moves like Jagger\n  I've got them moves like Jagger (Uh)\n  I don't need to try to control you (Uh)\n  Look into my eyes and I'll own you\n  With them moves like Jagger\n  I've got them moves like Jagger\n  I've got them moves like Jagger\n\nMaybe it's hard when you feel like\nYou're broken and scarred, nothing feels right\nBut when you're with me I'll make you believe that I've got the key\nOh, so get in the car, we can ride it\nWherever you want, get inside it\nAnd you wanna steer But I'm shifting gears I'll take it from here\n\n  Chorus\n\n    Uh, you wanna know how to make me smile?\n    Take control, own me just for the night (Ah)\n    And if I share my secret, you're gonna have to keep it (Shh)\n    Nobody else can see this (Ah, uh)\n    So watch and learn, I won't show you twice\n    Head to toe, ooh, baby, rub me right, yeah\n    And if I share my secret, you're gonna have to keep it\n    Nobody else can see this\n\nChorus",
+    "key": "Bm",
+    "tempo": "Tempo"
+  },
+  "Once_In_A_Lifetime.Talking_Heads": {
+    "name": "Once In A Lifetime",
+    "artist": "Talking Heads",
+    "id": "Once_In_A_Lifetime.Talking_Heads",
+    "lyrics": "And you may find yourself living in a shotgun shack\nAnd you may find yourself in another part of the world\nAnd you may find yourself behind the wheel of a large automobile\nAnd you may find yourself in a beautiful house, with a beautiful wife\nAnd you may ask yourself, \"Well, how did I get here?\"\n\n  Letting the days go by, let the water hold me down\n  Letting the days go by, water flowing underground\n  Into the blue again after the money's gone\n  Once in a lifetime, water flowing underground\n\nAnd you may ask yourself, \"How do I work this?\"\nAnd you may ask yourself, \"Where is that large automobile?\"\nAnd you may tell yourself, \"This is not my beautiful house\"\nAnd you may tell yourself, \"This is not my beautiful wife\"\n\n  Chorus\n\n    Same as it ever was...\n\nWater dissolving and water removing\nThere is water at the bottom of the ocean\nUnder the water, carry the water\nRemove the water at the bottom of the ocean\nWater dissolving and water removing\n\n  Letting the days go by, let the water hold me down\n  Letting the days go by, water flowing underground\n  Into the blue again, into the silent water\n  Under the rocks and stones, there is water underground\n  Chorus 1\n\nYou may ask yourself, \"What is that beautiful house?\"\nYou may ask yourself, \"Where does that highway go to?\"\nAnd you may ask yourself, \"Am I right? Am I wrong?\"\nAnd you may say to yourself, \"My God! What have I done?\"\n\n  Chorus\n\nSame as it ever was, same as it ever was\nSame as it ever was and look where my hand was\nTime isn't holding up, time isn't after us\nSame as it ever was x 6\nLetting the days go by, same as it ever was\nHere a twister comes, here comes the twister\nSame as it ever was, same as it ever was (Letting the days go by) x 2\nOnce in a lifetime (Let the water hold me down)\nLetting the days go by (Water flowing underground)\nInto the blue again\n",
+    "key": "D",
+    "tempo": "117bpm"
+  },
+  "The_Gambler.Kenny_Rodgers": {
+    "name": "The Gambler",
+    "artist": "Kenny Rodgers",
+    "id": "The_Gambler.Kenny_Rodgers",
+    "lyrics": "D (G D) [G A / A D]\n\nOn a warm summer's evenin' on a train bound for nowhere,\nI met up with the gambler; we were both too tired to sleep.\nSo we took turns a starin' out the window at the darkness\n'til boredom overtook us, and he began to speak.\n\nHe said, \"Son, I've made a life out of readin' people's faces,\nand knowin' what their cards were by the way they held their eyes.\nAnd if you don't mind my sayin', I can see you're out of aces.\nFor a taste of your whiskey I'll give you some advice.\"\n\nSo I handed him my bottle and he drank down my last swallow.\nThen he bummed a cigarette and asked me for a light.\nAnd the night got deathly quiet, and his face lost all expression.\nSaid, \"If you're gonna play the game, boy, ya gotta learn to play it right.\n\n  You got to know when to hold 'em, know when to fold 'em,\n  know when to walk away and know when to run.\n  You never count your money when you're sittin' at the table.\n  There'll be time enough for countin when the dealin's done.\n\nEv'ry gambler knows that the secret to survivin\nis knowin what to throw away and knowing what to keep.\ncause every hand's a winner and every hand's a loser,\nand the best that you can hope for is to die in your sleep.\n\nAnd when he'd finished speakin', he turned back towards the window,\ncrushed out his cigarette and faded off to sleep.\nAnd somewhere in the darkness the gambler, he broke even.\nBut in his final words I found an ace that I could keep.\n\n  Chorus",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Tin_Man.America": {
+    "name": "Tin Man",
+    "artist": "America",
+    "id": "Tin_Man.America",
+    "lyrics": "V: Dsus4 D5 (GM7 CM7)\nC: Em7 GM7\n\nSometimes late when things are real and people share the\ngift of gab between themselves\nSome are quick to take the bait and catch the perfect\nprize that waits among the shells\n\nBut Oz never did give nothing to the tin man\nThat he didn't already have\nAnd cause never was the reason for the evening\nOr the tropic of Sir Galahad\nSo please believe in me\n\nWhen I say I'm spinning round, round\nSmoke glass stain'd bright colors\nImage going down down soapsud green like bubbles\nOooh...\n\nChorus\n\nv2",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "The_Devil_Went_Down_to_Georgia.Charlie_Daniels": {
+    "name": "The Devil Went Down to Georgia",
+    "artist": "Charlie Daniels",
+    "id": "The_Devil_Went_Down_to_Georgia.Charlie_Daniels",
+    "lyrics": "Dm C\nDm C Bb A G A Dm A C Dm\nC A Dm\n\nThe Devil went down to Georgia he was looking for a soul to steal\nHe was in a bind cause he was way behind he was willin' to make a deal\nWhen he came across this young man sawin' on a fiddle and playin' it hot\nAnd the Devil jumped upon a hickory stump and said boy let me tell you what\n\nI guess you didn't know it but I'm a fiddle player too\nAnd if you'd care to take a dare I'll make a bet with you\nNow you play a pretty good fiddle boy but give the devil his due\nI bet a fiddle of gold against your soul cause I think I'm better than you\nThe boy said my name's Johnny and it might be a sin\nBut I'll take your bet, you're gonna regret cause I'm the best that's ever been\n\nJohnny, you rosin up your bow and play your fiddle hard\nCause hell’s broke loose in Georgia and the Devil deals it hard\nAnd if you win you get this shiny fiddle made of gold\nBut if you lose the Devil gets your soul\n\n  Solo\n\nThe Devil opened up his case and he said I'll start this show\nAnd fire flew from his fingertips as he rosined up his bow\nAnd he pulled the bow across his strings and it made an evil hiss\nThen a band of demons joined in and it sounded something like this\n\nDm C Dm x2\nA|-5---------------|-----5-----------|-----------------|-----------------|\nE|-----1---3---4---|-5-------5---4---|-3---1---3---4---|-5---1---3---1---|\n\nWhen the Devil finished Johnny said well, you're pretty good ol' son\nBut sit down in that chair right there and let me show you how it's done\n\nFire on the mountain, run boys run\nThe Devil's in the house of the risin' sun\nChicken in the bread pan pickin' out dough\nGranny does your dog bite no, child, no\n\n[Solo]\nDm C Dm C Dm C\nA A A A C Dm\n\nThe Devil bowed his head because he knew that he'd been beat\nand he laid that golden fiddle on the ground at Johnny's feet\nJohnny said Devil just come on back if you ever wanna try again\nI done told you once, you son of a bitch I'm the best that's ever been, and he played\n\nFire on the mountain, run boys run\nThe Devil's in the house of the risin' sun\nThe chicken in the bread pan are pickin' out dough\nGranny will your dog bite no, child, no\n\n[Outro Solo]\nDm C Dm C Dm\nC Dm Em Gm Dm C Bb A\nDm C Bb A Dm C Bb A\nDm C Bb A Gm F Dm Dm",
+    "key": "Dm",
+    "tempo": "undefined"
+  },
+  "This_Love.Maroon_5": {
+    "name": "This Love",
+    "artist": "Maroon 5",
+    "id": "This_Love.Maroon_5",
+    "lyrics": "V:E7/G# - Am - Dm - Bdim7\nC: (Am Dm G7 C)\n \nI was so high I did not recognize\nthe fire burning in her eyes, the chaos that controlled my mind...\nWhispered goodbye and she got on a plane\nNever to return again but always in my heart\n\n  This love has taken its toll on me\n  She said goodbye too many times before\n  Her heart is breaking in front of me\n    Am        D             F               E      E7/G#  -  Am  -  Dm  -  Bdim7\n  and I have no choice, cause I won't say goodbye anymore\n\nI tried my best to feed her appetite\nKeep her coming every night so hard to keep her satisfied\nKept playing love like it was just a game\nPretending to feel the same Then turn around and leave again\n \n  Chorus\n \n[Bridge]\nDm\nI'll fix these broken things\nC\n  Repair your broken wings\nE7/G#                         Am\n  And make sure everything's alright\nDm\n  My pressure on your hips\nC\n  Sinking my fingertips\nE7\n  Into every inch of you\n \nCause I know that's what you want me to do\n \n  Chorus x 2",
     "key": "undefined",
     "tempo": "Tempo"
   }
