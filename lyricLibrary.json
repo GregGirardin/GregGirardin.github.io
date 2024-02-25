@@ -1613,14 +1613,6 @@
     "key": "Dm",
     "tempo": "undefined"
   },
-  "Dreams.Fleetwood_Mac": {
-    "name": "Dreams",
-    "artist": "Fleetwood Mac",
-    "id": "Dreams.Fleetwood_Mac",
-    "lyrics": "V: (F G)\nC: (FM7 G6)\n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Solo\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
-    "key": "F",
-    "tempo": "undefined"
-  },
   "My_Own_Worst_Enemy.Lit": {
     "name": "My Own Worst Enemy",
     "artist": "Lit",
@@ -1772,14 +1764,6 @@
     "lyrics": "This hit, that ice cold Michelle Pfeiffer, that white gold\nThis one, for them hood girls them good girls, straight masterpieces\nStylin', wilin' Livin’ it up in the city\nGot Chucks on with Saint Laurent gotta kiss myself I’m so pretty\n\n  I’m too hot (hot damn) Call the police and the fireman\n  I’m too hot (hot damn) Make a dragon wanna retire man\n  I’m too hot (hot damn) Say my name you know who I am\n  I’m too hot (hot damn) And my band 'bout that money\n  Break it down\n\n  Girls hit your hallelujah (Woo!) x 3\n  Cause Uptown funk gon’ give it to you x 3\n  Saturday night and we in the spot\n  Don’t believe me, just watch (come on)\n  Hey, hey, hey, oh!\n\nStop wait a minute fill my cup put some liquor in it\nTake a sip, sign the check Julio! Get the stretch!\nRide to Harlem, Hollywood, Jackson, Mississippi\nIf we show up, we gona show out smoother than a fresh jar of Skippy\n\n  PC / Chorus\n\nBefore we leave lemme tell y’all a lil’ something\nUptown Funk you up\nCome on, dance Jump on it if you sexy then flaunt it\nIf you freaky then own it don’t brag about it, come show me\nCome on, dance jump on it if you sexy then flaunt it\nWell it’s Saturday night and we in the spot\n\n  Don’t believe me, just watch (come on)\n\n  Uptown Funk you up\n",
     "key": "undefined",
     "tempo": "Tempo"
-  },
-  "We_Can_Work_It_Out.The_Beatles": {
-    "name": "We Can Work It Out",
-    "artist": "The Beatles",
-    "id": "We_Can_Work_It_Out.The_Beatles",
-    "lyrics": "V: ( C Bb C ) F C F G\nB: Am /G /F E7sus4\n\nTry to see it my way. Do I have to keep on talking till I can't go on\nWhile you see it your way, run the risk of knowing that our love may soon be gone\nWe can work it out\n\nThink of what you're saying. You can get it wrong and still you think that it's alright\nThink of what I'm saying. We can work it out and get it straight or say goodnight\nWe can work it out\n\n  Life is very short and there's no time for fussing and fighting my friend\n  I have always thought that it's a crime so I will ask you once again\n\nTry to see it my way only time will tell if I am right or I am wrong\nWhile you see it your way there's a chance that we might fall apart before too long\nWe can work it out\n\n  Life is very short...\n\nVerse",
-    "key": "C",
-    "tempo": "undefined"
   },
   "We_Just_Disagree.Dave_Mason": {
     "name": "We Just Disagree",
@@ -3252,5 +3236,21 @@
     "lyrics": "I: A\nV: A F#m E D A\nC: A E F#m D - A E D A\nB: F#m E A - D A E - F#m G D A E\nO: E A\n \nAlmost heaven, West Virginia, Blue Ridge Mountains, Shenandoah River.\nLife is old there, older than the trees, younger than the mountains, blowin like a breeze.\n\n  Country roads, take me home, to the place I belong\n  West Virginia, mountain mama, take me home, country roads.\n \nAll my memories gather round her, miner's lady, stranger to blue water.\nDark and dusty, painted on the sky, misty taste of moonshine, teardrop in my eye.\n \n  Chorus\n\n   I hear her voice, in the mornin' hour she calls me.\n   The radio reminds me of my home far away.\n   And driving down the road I get a feeling\n   that I should have been home yesterday, yesterday.\n \n  Chorus x 2\n \nTake me home, down country roads.\n",
     "key": "A",
     "tempo": "Tempo"
+  },
+  "Dreams.Fleetwood_Mac": {
+    "name": "Dreams",
+    "artist": "Fleetwood Mac",
+    "id": "Dreams.Fleetwood_Mac",
+    "lyrics": "V: (F G)\n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Solo\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
+    "key": "F",
+    "tempo": "undefined"
+  },
+  "We_Can_Work_It_Out.The_Beatles": {
+    "name": "We Can Work It Out",
+    "artist": "The Beatles",
+    "id": "We_Can_Work_It_Out.The_Beatles",
+    "lyrics": "V: (C Bb C) F C F G\nB: Am /G /F E4\n\nTry to see it my way. Do I have to keep on talking till I can't go on\nWhile you see it your way, run the risk of knowing that our love may soon be gone\nWe can work it out\n\nThink of what you're saying. You can get it wrong and still you think that it's alright\nThink of what I'm saying. We can work it out and get it straight or say goodnight\nWe can work it out\n\n  Life is very short and there's no time for fussing and fighting my friend\n  I have always thought that it's a crime so I will ask you once again\n\nTry to see it my way only time will tell if I am right or I am wrong\nWhile you see it your way there's a chance that we might fall apart before too long\nWe can work it out\n\n  Life is very short...\n\nVerse",
+    "key": "C",
+    "tempo": "undefined"
   }
 }
