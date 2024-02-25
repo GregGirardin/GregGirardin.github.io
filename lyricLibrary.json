@@ -1067,14 +1067,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Babylon.Don_McLean": {
-    "name": "Babylon",
-    "artist": "Don McLean",
-    "id": "Babylon.Don_McLean",
-    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
-    "key": "Am",
-    "tempo": "undefined"
-  },
   "Country_Girl.Luke_Bryan": {
     "name": "Country Girl",
     "artist": "Luke Bryan",
@@ -3250,5 +3242,13 @@
     "lyrics": "V:E7/G# - Am - Dm - Bdim7\nC: (Am Dm G7 C)\n \nI was so high I did not recognize\nthe fire burning in her eyes, the chaos that controlled my mind...\nWhispered goodbye and she got on a plane\nNever to return again but always in my heart\n\n  This love has taken its toll on me\n  She said goodbye too many times before\n  Her heart is breaking in front of me\n    Am        D             F               E      E7/G#  -  Am  -  Dm  -  Bdim7\n  and I have no choice, cause I won't say goodbye anymore\n\nI tried my best to feed her appetite\nKeep her coming every night so hard to keep her satisfied\nKept playing love like it was just a game\nPretending to feel the same Then turn around and leave again\n \n  Chorus\n \n[Bridge]\nDm\nI'll fix these broken things\nC\n  Repair your broken wings\nE7/G#                         Am\n  And make sure everything's alright\nDm\n  My pressure on your hips\nC\n  Sinking my fingertips\nE7\n  Into every inch of you\n \nCause I know that's what you want me to do\n \n  Chorus x 2",
     "key": "undefined",
     "tempo": "Tempo"
+  },
+  "By_The_Waters_of_Babylon.Don_McLean": {
+    "name": "By The Waters of Babylon",
+    "artist": "Don McLean",
+    "id": "By_The_Waters_of_Babylon.Don_McLean",
+    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
+    "key": "Am",
+    "tempo": "undefined"
   }
 }
