@@ -1517,14 +1517,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Careless_Whisper.George_Michael": {
-    "name": "Careless Whisper",
-    "artist": "George Michael",
-    "id": "Careless_Whisper.George_Michael",
-    "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Centerfold.J_Geils": {
     "name": "Centerfold",
     "artist": "J Geils",
@@ -1844,14 +1836,6 @@
     "lyrics": "V:(G Bm Em - (Am G D)) Em D\nC: (G D/F# Em) (Am G D) (G D/F# Em) C/G G/B Am G D\n\n  Come on feel the noise girls rock your boys\n  We'll get wild, wild, wild!\n\nSo you think I got an evil mind, I'll tell you honey\nI don't know why, I don't know why\nSo you think my singing's out of time, it makes me money\nI don't know why I don't know why, anymore Oh no\n\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild... Wild, wild, wild\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild .. Baby\n\nSo you see I got a funny face, I got no worries\nAnd I don't know why I don't know why\nOh, I gotta sing with some disgrace, I'm in no hurry\nAnd I don't know why I don't know why, anymore no, no, no\n \n  Chorus\n\n  Solo\n\nWell you think we have a easy time, you should know better\nAnd I don't know why I don't know why\nSo you say I got a dirty mind, I'm a mean go getter\nI don't know why I don't know why, anymore Oh no\n\n  Chorus\n",
     "key": "G",
     "tempo": "Tempo"
-  },
-  "Cool_Change.Little_River_Band": {
-    "name": "Cool Change",
-    "artist": "Little River Band",
-    "id": "Cool_Change.Little_River_Band",
-    "lyrics": "C: (D A) E A\nB: C A C E A\n\nIf there's one thing in my life that's missing it's the time that I spend alone\nSailing on the cool and bright clear water\nThere's lots of those friendly people they're showing me ways to go\nBut I never want to lose their inspiration\n\n  Time for cool change, I know that it's time for a cool change\n  And now that my life is so prearranged..\n\nWell I was born in the sign of water and it's there that I feel my best\nThe albatross and the whales they are my brothers\nIt's kind of a special feeling when you're out on the sea alone\nStaring at the full moon like a lover\n\n  Chorus\n\n   I've never been romantic and sometimes I don't care\n   I know it may sound selfish but let me breathe the air\n\nV3 = V1a + V2b\n\n  Chorus",
-    "key": "D",
-    "tempo": ""
   },
   "Jessies_Girl.Rick_Springfield": {
     "name": "Jessies Girl",
@@ -3268,5 +3252,21 @@
     "lyrics": "I'm not content to be with you in the daytime\nGirl, I want to be with you all of the time\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night x 3\n\nI believe that you and me last forever\nOh yeah, all day and night I'm yours, leave me never\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night x 2\n  Oh, come on\n\nI believe that you and me last forever\nOh yeah, all day and night I'm yours, leave me never\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night\n  All day and all of the night time\n  All day and all of the night\n",
     "key": "G",
     "tempo": "137bpm"
+  },
+  "Careless_Whisper.George_Michael": {
+    "name": "Careless Whisper",
+    "artist": "George Michael",
+    "id": "Careless_Whisper.George_Michael",
+    "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
+    "key": "Dm",
+    "tempo": "undefined"
+  },
+  "Cool_Change.Little_River_Band": {
+    "name": "Cool Change",
+    "artist": "Little River Band",
+    "id": "Cool_Change.Little_River_Band",
+    "lyrics": "V: (A G D)\nC: (D A) E A\nB: C A C E A\n\nIf there's one thing in my life that's missing it's the time that I spend alone\nSailing on the cool and bright clear water\nThere's lots of those friendly people they're showing me ways to go\nBut I never want to lose their inspiration\n\n  Time for cool change, I know that it's time for a cool change\n  And now that my life is so prearranged..\n\nWell I was born in the sign of water and it's there that I feel my best\nThe albatross and the whales they are my brothers\nIt's kind of a special feeling when you're out on the sea alone\nStaring at the full moon like a lover\n\n  Chorus\n\n   I've never been romantic and sometimes I don't care\n   I know it may sound selfish but let me breathe the air\n\nV3 = V1a + V2b\n\n  Chorus",
+    "key": "A",
+    "tempo": ""
   }
 }
