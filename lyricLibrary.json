@@ -3029,14 +3029,6 @@
     "key": "B",
     "tempo": "123bpm"
   },
-  "Only_The_Lonely.The_Motels": {
-    "name": "Only The Lonely",
-    "artist": "The Motels",
-    "id": "Only_The_Lonely.The_Motels",
-    "lyrics": "V: G Em C D\nC: D C G\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Operation_Spirit.Live": {
     "name": "Operation Spirit",
     "artist": "Live",
@@ -3268,5 +3260,21 @@
     "lyrics": "V: Am Dm G C F B E E7\n\nAt first I was afraid, I was petrified\nI kept thinkin I could never live without you by my side\nBut then I spent so many nights just thinking how you've done me wrong\nI grew strong, I learned how to get along\n\nAnd so you're back from outer space\nI just walked in to find you here with that look upon your face,\nShould have changed my stupid lock, I should've made you leave your key\nIf I'd have known for just one second you'd be back to bother me.\n\n  Oh now go, walk out the door\n  just turn around now, you're not welcome anymore.\n  Weren't you the one who tried to break me with desire?\n  Did you think I'd crumble? Did you think I'd lay down and die?\n\n  Oh not I, I will survive\n  as long as I know how to love, I know I'll be alive.\n  I've got all my life to live, I've got all my love to give\n  I will survive, I will survive, yeah\n\nIt took all the strength I had just not to fall apart\nI'm tryin' hard to mend the pieces of my broken heart\nAnd I spent oh so many nights just feelin sorry for myself\nI used to cry, but now I hold my head up high\n\nAnd you'll see me with somebody new\nI'm not that stupid little person still in love with you\nAnd so you thought you'd just drop by and you expect me to be free\nBut now I'm saving all my lovin' for someone who's lovin' me\n\n  Oh now go...\n",
     "key": "Am",
     "tempo": "undefined"
+  },
+  "Only_The_Lonely.The_Motels": {
+    "name": "Only The Lonely",
+    "artist": "The Motels",
+    "id": "Only_The_Lonely.The_Motels",
+    "lyrics": "V: G Em C D\nC: D C G\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Only_Time_Will_Tell.Asia": {
+    "name": "Only Time Will Tell",
+    "artist": "Asia",
+    "id": "Only_Time_Will_Tell.Asia",
+    "lyrics": "V: (C G/C C) (Am G/A Am) F Dm E4\nC: (Am Dm/A G Em F) G\n\nYou're leaving now, it's in your eyes\nThere's no disguising it\nIt really comes as no surprise\nTo find that you planned it all along\n \nI see it now, becomes so clear\nYour insincerity\nAnd me all starry eyed\nYou'd think that I would have known by now\n\n  Now, sure as the sun will cross the sky\n  This lie is over\n  Lost like the tears that used to tide me over\n\nOne thing is sure, that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die\n\n Chorus\n \n(Skip these: V1, V2, Chorus)\n\nYou're on your own, inside your room \nYou're claiming victory\nYou were just using me\nAnd there is no one you can use now\n\nOne thing is sure that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die",
+    "key": "C",
+    "tempo": "Tempo"
   }
 }
