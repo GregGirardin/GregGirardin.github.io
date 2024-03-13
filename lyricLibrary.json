@@ -3197,14 +3197,6 @@
     "key": "G",
     "tempo": "137bpm"
   },
-  "Careless_Whisper.George_Michael": {
-    "name": "Careless Whisper",
-    "artist": "George Michael",
-    "id": "Careless_Whisper.George_Michael",
-    "lyrics": "V: Dm Gm Bb Am\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Cool_Change.Little_River_Band": {
     "name": "Cool Change",
     "artist": "Little River Band",
@@ -3276,5 +3268,13 @@
     "lyrics": "V: (C G/C C) (Am G/A Am) F Dm E4\nC: (Am Dm/A G Em F) G\n\nYou're leaving now, it's in your eyes\nThere's no disguising it\nIt really comes as no surprise\nTo find that you planned it all along\n \nI see it now, becomes so clear\nYour insincerity\nAnd me all starry eyed\nYou'd think that I would have known by now\n\n  Now, sure as the sun will cross the sky\n  This lie is over\n  Lost like the tears that used to tide me over\n\nOne thing is sure, that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die\n\n Chorus\n \n(Skip these: V1, V2, Chorus)\n\nYou're on your own, inside your room \nYou're claiming victory\nYou were just using me\nAnd there is no one you can use now\n\nOne thing is sure that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die",
     "key": "C",
     "tempo": "Tempo"
+  },
+  "Careless_Whisper.George_Michael": {
+    "name": "Careless Whisper",
+    "artist": "George Michael",
+    "id": "Careless_Whisper.George_Michael",
+    "lyrics": "V: Am Dm F Em\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
+    "key": "Am",
+    "tempo": "undefined"
   }
 }
