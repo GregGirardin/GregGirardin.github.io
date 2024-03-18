@@ -2741,14 +2741,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Africa.Toto": {
-    "name": "Africa",
-    "artist": "Toto",
-    "id": "Africa.Toto",
-    "lyrics": "I:(A G#m C#m)\nV: (B D#m G#m - B/F# A/E C#m G#m A G#m C#m)\n : B D#m G#m A C#m\nC: (F#m D A E)\n : F#m D A  C#m E F#m E/G# A\n\nI hear the drums echoing tonight\nShe hears only whispers of some quiet conversation\nShe's coming in, twelve thirty flight\nThe moonlit wings reflect the stars that guide me toward salvation\nI stopped an old man along the way\nHoping to find some old forgotten words or ancient melodies\nHe turned to me as if to say “hurry boy, it's waiting there for you”\n \n  Gonna take a lot to drag me away from you\n  There's nothing that a hundred men or more could ever do\n  I bless the rains down in Africa  \n  Gonna take some time to do the things we never had... Ooo Oo\n \nThe wild dogs cry out in the night\nAs they grow restless longing for some solitary company\nI know that I must do what's right\nAs sure as Kilimanjaro rises like Olympus above the Serengeti\nI seek to cure what's deep inside\nFrightened of this thing that I've become\n \n  Chorus\n \n[Interlude]\nB    D#m      G#m   B/F#\nA/E  Bsus/F#  G#m   A  G#m C#m\n \n[Bridge]\n            “hurry boy, she's waiting there for you”\n \n[Outro]",
-    "key": "B",
-    "tempo": "Tempo"
-  },
   "Turn_Up_The_Radio.Autograph": {
     "name": "Turn Up The Radio",
     "artist": "Autograph",
@@ -3283,6 +3275,22 @@
     "id": "Babylon.David_Gray",
     "lyrics": "V: (DM9/F# G6)\nC: (D A Em [F# | G | A | A])\n\nFriday night I'm going nowhere all the lights are changing green to red\nTurning over TV stations situations running through my head\nLooking back through time you know it's clear that I've been blind, I've been a fool\nTo open up my heart to all that jealousy, that bitterness, that ridicule\n\nSaturday I'm running wild and all the lights are changing red to green\nMoving through the crowds I'm pushing chemicals are rushing in my bloodstream\nOnly wish that you were here, you know I'm seeing it so clear I've been afraid\nTo show you how I really feel admit to some of those bad mistakes I've made\n\n  And if you want it, come and get it, crying out loud\n  The love that I was giving you was, never in doubt\n  Let go your heart, let go your head, and feel it now\n  Let go your heart, let go your head, and feel it now\n  Babylon\n\nSunday, all the lights of London shining, sky is fading red to blue\nKicking through the autumn leaves and wondering where it is you might be going to\nTurning back for home, you know I'm feeling so alone I can't believe\nClimbing on the stair, I turn around to see you smiling there In front of me\n\n  Chorus",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Africa.Toto": {
+    "name": "Africa",
+    "artist": "Toto",
+    "id": "Africa.Toto",
+    "lyrics": "I:(A G#m C#m)\nV: (B D#m G#m - B/F# A/E C#m G#m A G#m C#m)\n : B D#m G#m A C#m\nC: (F#m D A E)\n : F#m D A  C#m E F#m E/G# A\n\nI hear the drums echoing tonight\nShe hears only whispers of some quiet conversation\nShe's coming in, twelve thirty flight\nThe moonlit wings reflect the stars that guide me toward salvation\nI stopped an old man along the way\nHoping to find some old forgotten words or ancient melodies\nHe turned to me as if to say “hurry boy, it's waiting there for you”\n \n  Gonna take a lot to drag me away from you\n  There's nothing that a hundred men or more could ever do\n  I bless the rains down in Africa  \n  Gonna take some time to do the things we never had... Ooo Oo\n \nThe wild dogs cry out in the night\nAs they grow restless longing for some solitary company\nI know that I must do what's right\nAs sure as Kilimanjaro rises like Olympus above the Serengeti\nI seek to cure what's deep inside\nFrightened of this thing that I've become\n \n  Chorus\n \n[Interlude]\nB    D#m      G#m   B/F#\nA/E  Bsus/F#  G#m   A  G#m C#m\n \n[Bridge]\n            “hurry boy, she's waiting there for you”\n \n[Outro]",
+    "key": "B",
+    "tempo": "Tempo"
+  },
+  "A_Face_In_The_Crowd.Tom_Petty": {
+    "name": "A Face In The Crowd",
+    "artist": "Tom Petty",
+    "id": "A_Face_In_The_Crowd.Tom_Petty",
+    "lyrics": "(Em C) (D Am) Bm Am Em\n\nBefore all of this ever went down\nIn another place, another town\nYou were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, thinking out loud\nA face in the crowd\n\n  Solo\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd",
+    "key": "undefined",
     "tempo": "Tempo"
   }
 }
