@@ -2445,14 +2445,6 @@
     "key": "C",
     "tempo": "undefined"
   },
-  "Another_One_Bites_The_Dust.Queen": {
-    "name": "Another One Bites The Dust",
-    "artist": "Queen",
-    "id": "Another_One_Bites_The_Dust.Queen",
-    "lyrics": "V: (Em Am)    P: (C G) Am B    C: (Em Am) F#m A B\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n\n  Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n\n  Chorus\n",
-    "key": "Em",
-    "tempo": "110"
-  },
   "Black_Magic_Woman.Santana": {
     "name": "Black Magic Woman",
     "artist": "Santana",
@@ -3316,5 +3308,21 @@
     "lyrics": "Wow, I feel good\nI knew that I would, now\nI feel good\nI knew that I would, now\nSo good, so good, I got you\n\nWow, I feel nice\nLike sugar and spice\nI feel nice\nLike sugar and spice\nSo nice, so nice, I got you\n\nWhen I hold you in my arms\nI know that I can't do no wrong\nAnd when I hold you in my arms\nMy love won't do you no harm\n\nAnd I feel nice\nLike sugar and spice\nI feel nice\nLike sugar and spice\nSo nice, so nice, I got you\n\nWhen I hold you in my arms\nI know that I can't do no wrong\nAnd when I hold you in my arms\nMy love can't do me no harm\n\nAnd I feel nice\nLike sugar and spice\nI feel nice\nLike sugar and spice\nSo nice, so nice, I got you\n\nWow, I feel good\nI knew that I would, now\nI feel good\nI knew that I would\nSo good, so good, cuz I got you\nSo good, so good, cuz I got you\nSo good, so good, cüz I got you\n\nHey!\nOh-whoo!\n",
     "key": "G",
     "tempo": "144bpm"
+  },
+  "Another_One_Bites_The_Dust.Queen": {
+    "name": "Another One Bites The Dust",
+    "artist": "Queen",
+    "id": "Another_One_Bites_The_Dust.Queen",
+    "lyrics": "V: (Em Am)    P: (C G) Am B    C: (Em Am) F#m A B\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n\n  Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n\n  Chorus\n",
+    "key": "Em",
+    "tempo": "110"
+  },
+  "Break_Down.Tom_Petty": {
+    "name": "Break Down",
+    "artist": "Tom Petty",
+    "id": "Break_Down.Tom_Petty",
+    "lyrics": "It's alright if you love me\nIt's alright if you don't\nI'm not afraid of you runnin' away honey I get the feeling you won't\n\nSay there ain't no sense in pretending\nYour eyes give you away\nSomething inside you is feeling like I do we said all there is to say\n\n  Baby\n  Breakdown, go ahead and give it to me\n  Breakdown, honey, take me through the night\n  (Take me, baby, breakdown, ooh)\n  Breakdown, now I'm standin' here, can't you see?\n  Breakdown, it's alright\n  It's alright, it's alright\n\nChorus\n",
+    "key": "Am",
+    "tempo": "Tempo"
   }
 }
