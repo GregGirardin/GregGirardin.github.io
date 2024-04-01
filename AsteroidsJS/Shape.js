@@ -1,6 +1,6 @@
-import { c } from './constants.js';
-import { Point, Vector } from './vector.js';
-import { gManager } from './main.js';
+import { c } from 'constants.js';
+import { Point, Vector } from 'vector.js';
+import { gManager } from 'main.js';
 
 // a line is two verticies and a color
 export class Line

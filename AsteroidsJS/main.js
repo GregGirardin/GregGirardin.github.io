@@ -1,11 +1,11 @@
-import { c } from './constants.js';
-import { Ship } from './Ship.js';
-import { Vector } from './Vector.js';
-import { newTanker } from './Tanker.js';
-import { newBigAlien, newSmallAlien } from './Aliens.js';
-import { spawnList, CollisionObject, gameEvents } from './Utils.js';
-import { newAsteroid, newBlackhole } from './Asteroid.js';
-import { Instructions } from './Instructions.js';
+import { c } from 'constants.js';
+import { Ship } from 'Ship.js';
+import { Vector } from 'Vector.js';
+import { newTanker } from 'Tanker.js';
+import { newBigAlien, newSmallAlien } from 'Aliens.js';
+import { spawnList, CollisionObject, gameEvents } from 'Utils.js';
+import { newAsteroid, newBlackhole } from 'Asteroid.js';
+import { Instructions } from 'Instructions.js';
 
 export let gManager; // a single global instance. Everything uses this.
 window.onload = gameInit;

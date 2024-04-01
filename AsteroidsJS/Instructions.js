@@ -1,9 +1,9 @@
-import { c } from './constants.js';
-import { Ship } from './Ship.js';
-import { Tanker } from './Tanker.js';
-import { BigAlien, SmallAlien } from './Aliens.js';
-import { Asteroid, Blackhole } from './Asteroid.js';
-import { gManager } from './main.js';
+import { c } from 'constants.js';
+import { Ship } from 'Ship.js';
+import { Tanker } from 'Tanker.js';
+import { BigAlien, SmallAlien } from 'Aliens.js';
+import { Asteroid, Blackhole } from 'Asteroid.js';
+import { gManager } from 'main.js';
 
 export class Instructions
 {
