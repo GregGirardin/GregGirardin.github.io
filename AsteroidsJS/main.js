@@ -1,11 +1,11 @@
-import { c } from 'constants.js';
-import { Ship } from 'Ship.js';
-import { Vector } from 'Vector.js';
-import { newTanker } from 'Tanker.js';
-import { newBigAlien, newSmallAlien } from 'Aliens.js';
-import { spawnList, CollisionObject, gameEvents } from 'Utils.js';
-import { newAsteroid, newBlackhole } from 'Asteroid.js';
-import { Instructions } from 'Instructions.js';
+import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
+import { Ship } from 'http://greggirardin.github.io/AsteroidsJS/Ship.js';
+import { Vector } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { newTanker } from 'http://greggirardin.github.io/AsteroidsJS/Tanker.js';
+import { newBigAlien, newSmallAlien } from 'http://greggirardin.github.io/AsteroidsJS/Aliens.js';
+import { spawnList, CollisionObject, gameEvents } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { newAsteroid, newBlackhole } from 'http://greggirardin.github.io/AsteroidsJS/Asteroid.js';
+import { Instructions } from 'http://greggirardin.github.io/AsteroidsJS/Instructions.js';
 
 export let gManager; // a single global instance. Everything uses this.
 window.onload = gameInit;
