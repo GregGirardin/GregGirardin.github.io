@@ -1,5 +1,5 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
-import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/vector.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
+import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
 import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class WorldObject

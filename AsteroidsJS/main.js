@@ -1,4 +1,4 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
 import { Ship } from 'https://greggirardin.github.io/AsteroidsJS/Ship.js';
 import { Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
 import { newTanker } from 'https://greggirardin.github.io/AsteroidsJS/Tanker.js';

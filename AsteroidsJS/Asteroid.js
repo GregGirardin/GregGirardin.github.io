@@ -1,4 +1,4 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
 import { WorldObject, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
 import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
 import { Vector, Point } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
