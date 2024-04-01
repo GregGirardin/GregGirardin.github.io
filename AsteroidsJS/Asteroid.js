@@ -1,9 +1,9 @@
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { WorldObject, randInt, randFloat } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Shape } from 'http://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { Vector, Point } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { SmokeParticle } from 'http://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { WorldObject, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
+import { Vector, Point } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { SmokeParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
+import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class Asteroid extends( WorldObject )
 {

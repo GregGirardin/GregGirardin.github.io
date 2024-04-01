@@ -1,10 +1,10 @@
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { WorldObject, randInt, randFloat } from "http://greggirardin.github.io/AsteroidsJS/Utils.js";
-import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicAttack, HeuristicGoto } from "http://greggirardin.github.io/AsteroidsJS/Pilot.js";
-import { Point, Vector } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { Shape } from 'http://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { SmokeParticle, CannonParticle } from 'http://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { WorldObject, randInt, randFloat } from "https://greggirardin.github.io/AsteroidsJS/Utils.js";
+import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicAttack, HeuristicGoto } from "https://greggirardin.github.io/AsteroidsJS/Pilot.js";
+import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
+import { SmokeParticle, CannonParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
+import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class SmallAlien extends WorldObject
 {

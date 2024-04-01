@@ -1,12 +1,12 @@
 
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { Point, Vector } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from 'http://greggirardin.github.io/AsteroidsJS/Pilot.js';
-import { WorldObject, angleTo, randInt, randFloat } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Shape } from 'http://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { Pilot } from 'http://greggirardin.github.io/AsteroidsJS/Pilot.js';
-import { SmokeParticle } from 'http://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from 'https://greggirardin.github.io/AsteroidsJS/Pilot.js';
+import { WorldObject, angleTo, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
+import { Pilot } from 'https://greggirardin.github.io/AsteroidsJS/Pilot.js';
+import { SmokeParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
+import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class Tanker extends WorldObject
 {

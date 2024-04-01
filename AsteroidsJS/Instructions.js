@@ -1,9 +1,9 @@
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { Ship } from 'http://greggirardin.github.io/AsteroidsJS/Ship.js';
-import { Tanker } from 'http://greggirardin.github.io/AsteroidsJS/Tanker.js';
-import { BigAlien, SmallAlien } from 'http://greggirardin.github.io/AsteroidsJS/Aliens.js';
-import { Asteroid, Blackhole } from 'http://greggirardin.github.io/AsteroidsJS/Asteroid.js';
-import { gManager } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { Ship } from 'https://greggirardin.github.io/AsteroidsJS/Ship.js';
+import { Tanker } from 'https://greggirardin.github.io/AsteroidsJS/Tanker.js';
+import { BigAlien, SmallAlien } from 'https://greggirardin.github.io/AsteroidsJS/Aliens.js';
+import { Asteroid, Blackhole } from 'https://greggirardin.github.io/AsteroidsJS/Asteroid.js';
+import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class Instructions
 {

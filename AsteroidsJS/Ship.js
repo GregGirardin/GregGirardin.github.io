@@ -1,10 +1,10 @@
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { WorldObject } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Line, Shape } from 'http://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { randInt, randFloat } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Point, Vector } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { SmokeParticle, CannonParticle, Torpedo } from 'http://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager, gameOver } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { WorldObject } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { Line, Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
+import { randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { SmokeParticle, CannonParticle, Torpedo } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
+import { gManager, gameOver } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class Ship extends WorldObject
 {

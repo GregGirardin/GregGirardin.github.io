@@ -1,7 +1,7 @@
-import { c } from 'http://greggirardin.github.io/AsteroidsJS/constants.js';
-import { angleTo, angleNorm, randInt, randFloat } from 'http://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Point, Vector, dir, vectorDiff } from 'http://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { gManager } from 'http://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from 'https://greggirardin.github.io/AsteroidsJS/constants.js';
+import { angleTo, angleNorm, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
+import { Point, Vector, dir, vectorDiff } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
+import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
 
 export class Heuristic
 {
