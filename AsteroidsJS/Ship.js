@@ -1,10 +1,10 @@
-import { c } from 'constants.js';
-import { WorldObject } from 'Utils.js';
-import { Line, Shape } from 'Shape.js';
-import { randInt, randFloat } from 'Utils.js';
-import { Point, Vector } from 'Vector.js';
-import { SmokeParticle, CannonParticle, Torpedo } from 'Particles.js';
-import { gManager, gameOver } from 'main.js';
+import { c } from './constants.js';
+import { WorldObject } from './Utils.js';
+import { Line, Shape } from './Shape.js';
+import { randInt, randFloat } from './Utils.js';
+import { Point, Vector } from './Vector.js';
+import { SmokeParticle, CannonParticle, Torpedo } from './Particles.js';
+import { gManager, gameOver } from './main.js';
 
 export class Ship extends WorldObject
 {

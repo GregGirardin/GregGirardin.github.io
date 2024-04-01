@@ -1,4 +1,4 @@
-import { c } from 'constants.js';
+import { c } from './constants.js';
 
 export class Point
 {

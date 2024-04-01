@@ -1,10 +1,10 @@
-import { c } from 'constants.js';
-import { WorldObject, randInt, randFloat } from "Utils.js";
-import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicGo, HeuristicAttack, HeuristicGoto } from "Pilot.js";
-import { Point, Vector } from 'Vector.js';
-import { Shape } from 'Shape.js';
-import { SmokeParticle, CannonParticle } from 'Particles.js';
-import { gManager } from 'main.js';
+import { c } from './constants.js';
+import { WorldObject, randInt, randFloat } from "./Utils.js";
+import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicGo, HeuristicAttack, HeuristicGoto } from "./Pilot.js";
+import { Point, Vector } from './Vector.js';
+import { Shape } from './Shape.js';
+import { SmokeParticle, CannonParticle } from './Particles.js';
+import { gManager } from './main.js';
 
 export class SmallAlien extends WorldObject
 {

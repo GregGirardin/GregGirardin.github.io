@@ -273,7 +273,6 @@ function keyDownHandler( e ) { gManager.keyDownHandler( e ); }
 
 function gameInit()
 {
-  console.log( "gameInit" );
   gManager = new gameManager();
 
   document.addEventListener( "keydown", keyDownHandler, false );

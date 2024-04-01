@@ -1,12 +1,12 @@
 
-import { c } from 'constants.js';
-import { Point, Vector } from 'Vector.js';
-import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from 'Pilot.js';
-import { WorldObject, angleTo, randInt, randFloat } from 'Utils.js';
-import { Shape } from 'Shape.js';
-import { Pilot } from 'Pilot.js';
-import { SmokeParticle } from 'Particles.js';
-import { gManager } from 'main.js';
+import { c } from './constants.js';
+import { Point, Vector } from './Vector.js';
+import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from './Pilot.js';
+import { WorldObject, angleTo, randInt, randFloat } from './Utils.js';
+import { Shape } from './Shape.js';
+import { Pilot } from './Pilot.js';
+import { SmokeParticle } from './Particles.js';
+import { gManager } from './main.js';
 
 export class Tanker extends WorldObject
 {

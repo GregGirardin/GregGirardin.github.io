@@ -1,9 +1,9 @@
-import { c } from 'constants.js';
-import { WorldObject, randInt, randFloat } from 'Utils.js';
-import { Shape } from 'Shape.js';
-import { Vector, Point } from 'Vector.js';
-import { SmokeParticle } from 'Particles.js';
-import { gManager } from 'main.js';
+import { c } from '/constants.js';
+import { WorldObject, randInt, randFloat } from '/Utils.js';
+import { Shape } from '/Shape.js';
+import { Vector, Point } from '/Vector.js';
+import { SmokeParticle } from '/Particles.js';
+import { gManager } from '/main.js';
 
 export class Asteroid extends( WorldObject )
 {
