@@ -1,4 +1,4 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
+import { c } from './Constants.js';
 
 export class Point
 {

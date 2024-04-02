@@ -1,10 +1,10 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { Vector } from './Vector.js';
+import { gManager } from './main.js';
 
 export class WorldObject
 {
-  constructor( type, p, a, v, colRadius, mass, weapon, maxspeed=c.SPEED_VHI )
+  constructor( type, p, a, v, colRadius, mass, weapon=false, maxspeed=c.SPEED_VHI )
   {
     this.v = v;
     this.spin = 0;

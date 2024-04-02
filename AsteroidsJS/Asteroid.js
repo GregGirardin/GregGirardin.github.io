@@ -1,9 +1,9 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { WorldObject, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { Vector, Point } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { SmokeParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { WorldObject, randInt, randFloat } from './Utils.js';
+import { Shape } from './Shape.js';
+import { Vector, Point } from './Vector.js';
+import { SmokeParticle } from './Particles.js';
+import { gManager } from './main.js';
 
 export class Asteroid extends( WorldObject )
 {
@@ -73,7 +73,7 @@ export class Asteroid extends( WorldObject )
         continue;
   
       if( ( this.iron == true || 
-          ( colObj.i.magnitude < colObj.SMALL_IMPULSE && colObj.o.weapon == false ) ) && colObj.o.type != c.OBJECT_TYPE_BH ) 
+          ( colObj.i.magnitude < c.SMALL_IMPULSE && colObj.o.weapon == false ) ) && colObj.o.type != c.OBJECT_TYPE_BH ) 
       {
         this.v.add( colObj.i, true );
         if( this.v.magnitide > c.SPEED_HI )

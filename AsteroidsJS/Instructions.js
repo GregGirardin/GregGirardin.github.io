@@ -1,9 +1,9 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { Ship } from 'https://greggirardin.github.io/AsteroidsJS/Ship.js';
-import { Tanker } from 'https://greggirardin.github.io/AsteroidsJS/Tanker.js';
-import { BigAlien, SmallAlien } from 'https://greggirardin.github.io/AsteroidsJS/Aliens.js';
-import { Asteroid, Blackhole } from 'https://greggirardin.github.io/AsteroidsJS/Asteroid.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { Ship } from './Ship.js';
+import { Tanker } from './Tanker.js';
+import { BigAlien, SmallAlien } from './Aliens.js';
+import { Asteroid, Blackhole } from './Asteroid.js';
+import { gManager } from './main.js';
 
 export class Instructions
 {
@@ -29,10 +29,10 @@ export class Instructions
       "Thrust: Up Arrow",
       "Stop: Down Arrow",
       "Turn: Left/Right Arrows",
-      "Gun: Space",
+      "Cannon: Space",
       "Torpedo: f",
-      "Help: ?",
       "New Game: N",
+      "Help / Pause: ?",
     ]
 
     this.displayString = 
@@ -43,7 +43,7 @@ export class Instructions
       "Big alien.",
       "Asteroid.",
       "Iron Asteroid, can't destroy.",
-      "Black hole."
+      "Black hole, avoid."
     ];
 
     for( let index = 0;index < this.displayObjects.length;index++ )

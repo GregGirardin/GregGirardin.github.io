@@ -1,27 +1,26 @@
-
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from 'https://greggirardin.github.io/AsteroidsJS/Pilot.js';
-import { WorldObject, angleTo, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { Pilot } from 'https://greggirardin.github.io/AsteroidsJS/Pilot.js';
-import { SmokeParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { Point, Vector } from './Vector.js';
+import { Heuristic, HeuristicFace, HeuristicGo, HeuristicStop, HeuristicWait, HeuristicGoto } from './Pilot.js';
+import { WorldObject, angleTo, randInt, randFloat } from './Utils.js';
+import { Shape } from './Shape.js';
+import { Pilot } from './Pilot.js';
+import { SmokeParticle } from './Particles.js';
+import { gManager } from './main.js';
 
 export class Tanker extends WorldObject
 {
   constructor()
   {
-    const s = [ [ -10,-10, 0,-10, "black" ],
-                [ -10, 10, 0, 10, "black" ],
-                [   0,-10, 10, 0, "black" ],
-                [   0, 10, 10, 0, "black" ],
-                [ -10,-10 ,-5, 0, "black" ],
-                [ -10, 10 ,-5, 0, "black" ] ];
+    const s = [ [ -10,-10, 0,-10, ],
+                [ -10, 10, 0, 10, ],
+                [   0,-10, 10, 0, ],
+                [   0, 10, 10, 0, ],
+                [ -10,-10 ,-5, 0, ],
+                [ -10, 10 ,-5, 0, ] ];
 
     // start from the right side, going left.
     let p = new Point( c.SCREEN_WIDTH + c.SCREEN_BUFFER - 1,
-                      randFloat( c.SCREEN_HEIGHT * .1, c.SCREEN_HEIGHT * .9 ) );
+                       randFloat( c.SCREEN_HEIGHT * .1, c.SCREEN_HEIGHT * .9 ) );
 
     super( c.OBJECT_TYPE_TANKER, p, 0, new Vector( 0, 0 ), 12, c.TANKER_MASS );
 

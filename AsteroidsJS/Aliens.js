@@ -1,10 +1,10 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { WorldObject, randInt, randFloat } from "https://greggirardin.github.io/AsteroidsJS/Utils.js";
-import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicAttack, HeuristicGoto } from "https://greggirardin.github.io/AsteroidsJS/Pilot.js";
-import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { Shape } from 'https://greggirardin.github.io/AsteroidsJS/Shape.js';
-import { SmokeParticle, CannonParticle } from 'https://greggirardin.github.io/AsteroidsJS/Particles.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { WorldObject, randInt, randFloat } from './Utils.js';
+import { Pilot, Heuristic, HeuristicGotoRandom, HeuristicStop, HeuristicAttack, HeuristicGoto } from './Pilot.js';
+import { Point, Vector } from './Vector.js';
+import { Shape } from './Shape.js';
+import { SmokeParticle, CannonParticle } from './Particles.js';
+import { gManager } from './main.js';
 
 export class SmallAlien extends WorldObject
 {
@@ -15,7 +15,7 @@ export class SmallAlien extends WorldObject
                 [ -4, -5, -4, 5, "black" ] ];
 
     let p = new Point( -c.SCREEN_BUFFER + 1, randFloat( 0, c.SCREEN_HEIGHT ) );
-    super( c.OBJECT_TYPE_ALIEN, p, randFloat( -.1, .1 ), new Vector( 0, 0 ), 7, c.SMALL_ALIEN_MASS );
+    super( c.OBJECT_TYPE_ALIEN, p, randFloat( -.1, .1 ), new Vector( 0, 0 ), 7, c.SMALL_ALIEN_MASS, false, c.SPEED_HI );
 
     this.shape = new Shape( s );
     this.cannon = false;
@@ -110,7 +110,7 @@ export class BigAlien extends WorldObject
                 [ -10,-8,-10, 8, "black" ] ];
 
     let p = new Point( -c.SCREEN_BUFFER + 1, randFloat( 0, c.SCREEN_HEIGHT ) );
-    super( c.OBJECT_TYPE_ALIEN, p, randFloat( -.1, .1 ), new Vector( 0, 0 ), 12, c.BIG_ALIEN_MASS, c.SPEED_MED );
+    super( c.OBJECT_TYPE_ALIEN, p, randFloat( -.1, .1 ), new Vector( 0, 0 ), 12, c.BIG_ALIEN_MASS, false, c.SPEED_MED );
 
     this.shape = new Shape( s );
 

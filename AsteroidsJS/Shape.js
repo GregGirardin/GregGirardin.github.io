@@ -1,6 +1,5 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { Point, Vector } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { Point } from './Vector.js';
+import { gManager } from './main.js';
 
 // a line is two verticies and a color
 export class Line

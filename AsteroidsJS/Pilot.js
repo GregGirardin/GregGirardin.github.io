@@ -1,7 +1,7 @@
-import { c } from 'https://greggirardin.github.io/AsteroidsJS/Constants.js';
-import { angleTo, angleNorm, randInt, randFloat } from 'https://greggirardin.github.io/AsteroidsJS/Utils.js';
-import { Point, Vector, dir, vectorDiff } from 'https://greggirardin.github.io/AsteroidsJS/Vector.js';
-import { gManager } from 'https://greggirardin.github.io/AsteroidsJS/main.js';
+import { c } from './Constants.js';
+import { angleTo, angleNorm, randInt, randFloat } from './Utils.js';
+import { Point, Vector, dir, vectorDiff } from './Vector.js';
+import { gManager } from './main.js';
 
 export class Heuristic
 {
@@ -207,6 +207,7 @@ export class HeuristicAttack
       this.ttNextAttack = 1;
       return true;
     }
+  
     if( this.attackState == c.ATTACK_INIT )
     {
       if( this.ttNextAttack == 0 )
@@ -242,7 +243,7 @@ export class HeuristicAttack
         this.ttNextAttack = randFloat( 20, 70 );
       }
       else
-        s.spin = aToGoal / 50;
+        s.spin = aToGoal / 20;
       }
     return false;
   }
