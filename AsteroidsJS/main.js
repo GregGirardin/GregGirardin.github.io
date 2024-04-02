@@ -13,7 +13,7 @@ window.onload = gameInit;
 let spawnParams = [ [ 5000,12000, -1, 2000, newBlackhole ], // -1 means can spawn forever but don't affect level complete
                     [ 1000, 2000, -1, 1200, newTanker ],
                     [  100,  300,  0,  100, newAsteroid ],
-                    [  400, 1200,  0,  500, newBigAlien ],
+                    [  400,  800,  0,  500, newBigAlien ],
                     [  200, 1200,  0, 1000, newSmallAlien ] ];
 
 class gameManager
@@ -51,7 +51,7 @@ class gameManager
     this.waveComplete = false
 
     spawnParams[ 2 ][ 2 ] = wave * 15; // Asteroids
-    spawnParams[ 3 ][ 2 ] = wave * 8; // big aliens
+    spawnParams[ 3 ][ 2 ] = wave * 5; // big aliens
     spawnParams[ 4 ][ 2 ] = wave * 5; // small aliens
 
     this.spawnList = new spawnList( spawnParams );

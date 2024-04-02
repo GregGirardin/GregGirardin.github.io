@@ -1,5 +1,5 @@
-let SCREEN_WIDTH = 1200;
-let SCREEN_HEIGHT = 600;
+let SCREEN_WIDTH = 1280;
+let SCREEN_HEIGHT = 800;
 let PI = 3.14159;
 
 export const c =
