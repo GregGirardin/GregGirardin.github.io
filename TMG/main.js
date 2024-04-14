@@ -230,7 +230,7 @@ function keyDownHandler( param )
       else
         mapzoom = 1;
       break;
-    case 'q':
+    case 's':
       if( showHit )
         showHit = false;
       else
@@ -552,25 +552,19 @@ function displayHelp()
 {
   const instructionStrings =
   [
-    "TMX From Image Utility.",
-    "",
-    "Choose the map image by clicking 'Open Map Image' or pressing 'm'.",
-    "Choose the tile image by clicking 'Open Tiles' or pressing 't'",
+    "Choose the map image by clicking 'Open Map Image' or pressing 'm'. Choose the tile image by clicking 'Open Tiles' or pressing 't'",
     "Select the tile width 16,32 or 64.",
     "",
-    "Select a tile by clicking it, deselect with Escape.",
-    "Select colors that map to that tile by clicking in the map.",
+    "Select a tile by clicking it, deselect with Escape. Select colors that map to that tile by clicking in the map.",
     "Prune mapping colors by clicking on them in the mapping pane.",
     "Save these color to tile mappings with 'Save Mappings', load them with 'Open Mappings'.",
     "",
-    "Test the mapping by clicking 'Generate'.",
-    "Toggle showing the hit rate and missed tiles by pressing 'q'.",
+    "Test the mapping by clicking 'Generate'. Toggle showing the missed tiles by pressing 's'.",
     "If you don't need exact color mapping change 'Strict' to 'Med' or 'Loose'.",
     "",
     "Save the map as json using 'Save TMX'. This can be opened with Tiled.",
     "",
-    "Navigate Map: Arrows, 1-7 to zoom, press 1 twice to center.",
-    "Navigate Tiles: shift + arrows."
+    "Navigate Map: Arrows, 1-7 to zoom, press 1 twice to center. Adjust Tile Map: Shift + Arrows."
   ];
 
   ctx.fillStyle = "black";
