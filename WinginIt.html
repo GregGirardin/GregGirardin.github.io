@@ -1,0 +1,1150 @@
+<!--
+{
+  "name": "WinginIt",
+  "sets": [
+    {
+      "name": "Set",
+      "songs": [
+        {
+          "name": "Gimme Three Steps",
+          "artist": "Lynyrd Skynyrd",
+          "id": "Gimme_Three_Steps.Lynyrd_Skynyrd",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Ain't Talkin Bout Love",
+          "artist": "Van Halen",
+          "id": "Ain_t_Talkin_Bout_Love.Van_Halen",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Are You Gonna Be My Girl",
+          "artist": "Jet",
+          "id": "Are_You_Gonna_Be_My_Girl.Jet",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Bad Moon Rising",
+          "artist": "CCR",
+          "id": "Bad_Moon_Rising.CCR",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Blue On Black",
+          "artist": "Kenny Wayne Shepard",
+          "id": "Blue_On_Black.Kenny_Wayne_Shepard",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Born On The Bayou",
+          "artist": "CCR",
+          "id": "Born_On_The_Bayou.CCR",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Break Down",
+          "artist": "Tom Petty",
+          "id": "Break_Down.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Can't Get Enough",
+          "artist": "Bad Company",
+          "id": "Can_t_Get_Enough.Bad_Company",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Can't You See",
+          "artist": "Marshall Tucker",
+          "id": "Can_t_You_See.Marshall_Tucker",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Cocaine",
+          "artist": "Eric Clapton",
+          "id": "Cocaine.Eric_Clapton",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Come Together",
+          "artist": "The Beatles",
+          "id": "Come_Together.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Cumbersome",
+          "artist": "7M3",
+          "id": "Cumbersome.7M3",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Dirty Deeds",
+          "artist": "AC/DC",
+          "id": "Dirty_Deeds.AC/DC",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Fortunate Son",
+          "artist": "CCR",
+          "id": "Fortunate_Son.CCR",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Highway To Hell",
+          "artist": "AC/DC",
+          "id": "Highway_To_Hell.AC/DC",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Honky Tonk woman",
+          "artist": "The Rolling Stones",
+          "id": "Honky_Tonk_woman.The_Rolling_Stones",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Living After Midnight",
+          "artist": "Judas Priest",
+          "id": "Living_After_Midnight.Judas_Priest",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Man In The Box",
+          "artist": "Alice In Chains",
+          "id": "Man_In_The_Box.Alice_In_Chains",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Last Dance With Mary Jane",
+          "artist": "Tom Petty",
+          "id": "Last_Dance_With_Mary_Jane.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "My Own Worst Enemy",
+          "artist": "Lit",
+          "id": "My_Own_Worst_Enemy.Lit",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Mustang Sally",
+          "artist": "Wilson Pickett",
+          "id": "Mustang_Sally.Wilson_Pickett",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sweet Child Of Mine",
+          "artist": "Guns N' Roses",
+          "id": "Sweet_Child_Of_Mine.Guns_N__Roses",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sweet Home Alabama",
+          "artist": "Lynyrd Skynyrd",
+          "id": "Sweet_Home_Alabama.Lynyrd_Skynyrd",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Walk This way",
+          "artist": "Aerosmith",
+          "id": "Walk_This_way.Aerosmith",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "You Shook Me All Night Long",
+          "artist": "AC/DC",
+          "id": "You_Shook_Me_All_Night_Long.AC/DC",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>WinginIt</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set</div>
+<button class='accordion'>1. Gimme Three Steps</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: D A - D E A - D G F# F E - D A D<br>
+C: D A<br>
+</font>
+<br>
+I was cuttin' the rug down at a place called 'The Jug' with a girl named Linda Lou<br>
+When in walked a man with a gun in his hand, he was looking for you know who.<br>
+He said "Hey there fellow with the hair colored yellow, watcha tryin to prove?<br>
+Cuz thats my woman there and I'm a man who cares and this might be all for you"<br>
+(I said "excuse me!")<br>
+<br>
+I was scared and fearing for my life,I was shaking like a leaf on a tree<br>
+Cuz he was lean and mean and big and bad, Lord, a pointing that gun at me<br>
+"Oh wait a minute mister, I didn't even kiss her, don't want no trouble with you<br>
+and I know you don't owe me but I wish you would let me ask one favor from you<br>
+<br>
+&nbsp;&nbsp;Oh, won't you gimme three steps .. mister .. toward the door?<br>
+&nbsp;&nbsp;Gimme three steps .. mister and you'll never see me no more. For sure<br>
+<br>
+Oh, well the crowd cleared away and I began to pray and the water fell on the floor.<br>
+And I'm telling you, son, well it ain't no fun, staring straight down a forty-four.<br>
+Well, he turned and screamed at Linda Lou, and that's the break I was looking for<br>
+and you could hear me screaming a mile away as I was headed out toward the door.<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>2. Ain't Talkin Bout Love</button>
+<div class='panel'>
+I heard the news baby all about your disease<br>
+Yeah, you may have all you want baby<br>
+But I got somethin' you need, oh yeah!<br>
+<br>
+&nbsp;&nbsp;Ain't talkin 'bout love my love is rotten to the core<br>
+&nbsp;&nbsp;Ain't talkin 'bout love just like I told you before<br>
+<br>
+You know you're semi-good lookin, and on the streets again<br>
+Ooh yeah, you think you're really cookin' baby<br>
+You better find yourself a friend, my friend<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I've been to the edge and then I stood and looked down<br>
+&nbsp;&nbsp;&nbsp;&nbsp;You know I lost a lot of friends there, I've got no time to mess around<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mmm, so if you want it, got to bleed for it, baby<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Yeah! Got to, got to bleed, baby..<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Ain't talkin' / Don't wanna / Don't need to / Ain't gonna<br>
+No more! No more! Aah!<br>
+Hey, hey, hey!<br>
+</div>
+
+<button class='accordion'>3. Are You Gonna Be My Girl</button>
+<div class='panel'>
+Go<br>
+<br>
+So one, two, three, take my hand and come with me<br>
+Because you look so fine that I really wanna make you mine<br>
+I say you look so fine that I really wanna make you mine<br>
+<br>
+Oh, four, five, six, c'mon and get your kicks<br>
+Now you don't need the money<br>
+When you look like that do you honey<br>
+<br>
+Big black boots<br>
+Long brown hair<br>
+She's so sweet with her<br>
+Get back stare<br>
+<br>
+Well I could see<br>
+You home with me<br>
+But you were with another man, yeah<br>
+I know we ain't got much to say<br>
+Before I let you get away, yeah<br>
+<br>
+I said, are you gonna be my girl<br>
+<br>
+Well it's one, two, three, take my hand and come with me<br>
+Because you look so fine that I really wanna make you mine<br>
+I say you look so fine that I really wanna make you mine<br>
+<br>
+Oh four, five, six, c'mon and get your kicks<br>
+Now you don't need the money<br>
+With a face like that do ya<br>
+<br>
+Big black boots<br>
+Long brown hair<br>
+She's so sweet with her<br>
+Get back stare<br>
+<br>
+Well I could see<br>
+You home with me<br>
+But you were with another man, yeah<br>
+I know we ain't got much to say<br>
+Before I let you get away, yeah<br>
+<br>
+I said, are you gonna be my girl<br>
+<br>
+Oh yeah<br>
+<br>
+Oh yeah<br>
+<br>
+C'mon<br>
+<br>
+I could see<br>
+You home with me<br>
+But you were with another man, yeah<br>
+I know we ain't got much to say<br>
+Before I let you get away, yeah<br>
+Uh, be my girl<br>
+Be my girl<br>
+Are you gonna be my girl, yeah<br>
+<br>
+</div>
+
+<button class='accordion'>4. Bad Moon Rising</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: D A G D<br>
+C: G D A D G<br>
+</font>
+<br>
+I see the bad moon a-rising, I see trouble on the way<br>
+I see earthquakes and lightning, I see bad times today<br>
+<br>
+&nbsp;&nbsp;Don't go around tonight<br>
+&nbsp;&nbsp;Well, it's bound to take your life<br>
+&nbsp;&nbsp;There's a bad moon on the rise<br>
+<br>
+I hear hurricanes a-blowing, I know the end is coming soon<br>
+I fear rivers overflowing, I hear the voice of rage and ruin<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Hope you got your things together, hope you are quite prepared to die<br>
+Looks like we're in for nasty weather, one eye is taken for an eye<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>5. Blue On Black</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>6. Born On The Bayou</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>7. Break Down</button>
+<div class='panel'>
+It's alright if you love me<br>
+It's alright if you don't<br>
+I'm not afraid of you runnin' away honey I get the feeling you won't<br>
+<br>
+Say there ain't no sense in pretending<br>
+Your eyes give you away<br>
+Something inside you is feeling like I do we said all there is to say<br>
+<br>
+&nbsp;&nbsp;Baby<br>
+&nbsp;&nbsp;Breakdown, go ahead and give it to me<br>
+&nbsp;&nbsp;Breakdown, honey, take me through the night<br>
+&nbsp;&nbsp;(Take me, baby, breakdown, ooh)<br>
+&nbsp;&nbsp;Breakdown, now I'm standin' here, can't you see?<br>
+&nbsp;&nbsp;Breakdown, it's alright<br>
+&nbsp;&nbsp;It's alright, it's alright<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>8. Can't Get Enough</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: C Bb F&nbsp;&nbsp;Bb F<br>
+C: G Bb F&nbsp;&nbsp;Eb - (C F) - G C G<br>
+</font>
+<br>
+Well I take whatever I want and baby I want you<br>
+You give me something I need now tell me I got something for you<br>
+Come on come on come on and do it, come on and do what you do<br>
+<br>
+&nbsp;&nbsp;I can't get enough of your love<br>
+<br>
+Well it's late and I want love, love that's gonna break me in two<br>
+Don't hang me up in your doorway, don't hang me up like you do<br>
+Come on come on come on and do it come on and do what you do<br>
+<br>
+&nbsp;&nbsp;I can't get enough of your love<br>
+<br>
+Solo<br>
+<br>
+&nbsp;&nbsp;I can't get enough of your love<br>
+<br>
+</div>
+
+<button class='accordion'>9. Can't You See</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>10. Cocaine</button>
+<div class='panel'>
+If you want to hang out, you've gotta take her out, cocaine<br>
+If you want to get down, get down on the ground, cocaine<br>
+<br>
+&nbsp;&nbsp;She don't lie, cocaine<br>
+<br>
+If you got that lose, you want to kick them blues, cocaine<br>
+When your day is done, and you want to ride on cocaine<br>
+<br>
+If your day is gone, and you want to ride on, cocaine<br>
+Don't forget this fact, you can't get it back, cocaine<br>
+<br>
+</div>
+
+<button class='accordion'>11. Come Together</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>12. Cumbersome</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>13. Dirty Deeds</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+I: E G E - A E - D E<br>
+V: D E<br>
+C: A G A - E D E<br>
+S: D B (A B) D - E G E - A E - D E<br>
+</font>
+<br>
+If you're havin trouble with the high school head he's givin you the blues<br>
+You wanna graduate but not in his bed, here's what you gotta do<br>
+Pick up the phone I'm always home call me any time<br>
+Just ring 362436 oh I lead a life of crime<br>
+<br>
+&nbsp;&nbsp;Dirty deeds, done dirt cheap x 3<br>
+&nbsp;&nbsp;Dirty deeds and they're done dirt cheap x 2<br>
+<br>
+You've got problems in your life of love, you got a broken heart<br>
+He's double dealin with your best friend, that's when the teardrops start fella<br>
+Pick up the phone I'm here alone, I'll make a social call<br>
+Come right in forget 'bout him we'll have ourselves a ball<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+If you got a lady and you want her gone but you ain't got the guts<br>
+She keeps naggin at you night and day, enough to drive you nuts<br>
+Pick up the phone leave her alone, it's time you made a stand<br>
+For a fee I'm happy to be your back door man hey<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Concrete shoes, cyanide, TNT - Done Dirt Cheap<br>
+Neck ties, contracts, high voltage - Done Dirty Cheap<br>
+Dirty deeds, do anything you want me to<br>
+<br>
+</div>
+
+<button class='accordion'>14. Fortunate Son</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>15. Highway To Hell</button>
+<div class='panel'>
+Livin' easy lovin' free season ticket on a one way ride<br>
+Askin' nothin' leave me be takin' everythin' in my stride<br>
+Don't need reason don't need rhyme ain't nothin' that I'd rather do<br>
+Goin' down party time my friends are gonna be there too<br>
+<br>
+&nbsp;&nbsp;I'm on the highway to hell<br>
+<br>
+No stop signs speed limit nobody's gonna slow me down<br>
+Like a wheel gonna spin it nobody's gonna mess me around<br>
+Hey, Satan payin' my dues playin' in a rockin' band<br>
+Hey, mamma look at me I'm on the way to the promised land<br>
+<br>
+Chorus<br>
+<br>
+Don't stop me<br>
+<br>
+Solo<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>16. Honky Tonk woman</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: G C - G A D - G C - G D G<br>
+C: G D G<br>
+</font>
+<br>
+I met her, just a barroom queen in Memphis<br>
+She tried to make me upstairs for a ride<br>
+She had to carry me right across her shoulder<br>
+Cause I just can't seem to drink her off of my mind<br>
+<br>
+&nbsp;&nbsp;She's a honky tonk woman<br>
+&nbsp;&nbsp;Gimme... the honky tonk girl.<br>
+<br>
+I met her either say in New York City<br>
+I had to put up a one heck of a fight<br>
+The lady said she'd covered me with roses<br>
+She broke my nose and then she broke my mind.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Instrumental<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>17. Living After Midnight</button>
+<div class='panel'>
+&nbsp;&nbsp;Living after midnight rocking to the dawn<br>
+&nbsp;&nbsp;Loving 'til the morning then I'm gone, I'm gone<br>
+<br>
+I took the city 'bout one a.m. Loaded, loaded<br>
+I'm all geared up to score again. Loaded, loaded<br>
+I come alive in the neon light<br>
+That's when I make my moves right<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Got gleaming chrome, reflecting steel, loaded, loaded<br>
+Ready to take on every deal loaded, loaded<br>
+My pulse is racing, hot to take<br>
+And this motor's revved up, fit to break<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm aiming for ya, I'm gonna floor ya<br>
+&nbsp;&nbsp;&nbsp;&nbsp;My body's coming, all night long<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+The air's electric, sparkin' power, loaded, loaded<br>
+I'm getting hotter by the hour, loaded, loaded<br>
+I set my sights and then home in<br>
+The joint starts flying when I begin<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>18. Man In The Box</button>
+<div class='panel'>
+I'm the man in the box buried in my shit<br>
+Won't you come and save me, save me?<br>
+<br>
+&nbsp;&nbsp;Feed my eyes, can you sew them shut?<br>
+&nbsp;&nbsp;Jesus Christ, deny your maker<br>
+&nbsp;&nbsp;He who tries will be wasted<br>
+&nbsp;&nbsp;Feed my eyes, now you've sewn them shut<br>
+<br>
+I'm the dog who gets beat shove my nose in shit<br>
+Won't you come and save me, save me?<br>
+<br>
+Chorus / Solo / Chorus<br>
+</div>
+
+<button class='accordion'>19. Last Dance With Mary Jane</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion'>20. My Own Worst Enemy</button>
+<div class='panel'>
+Can we forget about the things I said when I was drunk?<br>
+I didn't mean to call you that<br>
+I can't remember what was said or what you threw at me please tell me<br>
+<br>
+&nbsp;&nbsp;Please tell me why my car is in the front yard<br>
+&nbsp;&nbsp;And I'm sleeping with my clothes on<br>
+&nbsp;&nbsp;I came in through the window last night<br>
+&nbsp;&nbsp;And you're gone, gone<br>
+<br>
+It's no surprise to me, I am my own worst enemy<br>
+'Cause every now and then, I kick the living shit out of me<br>
+The smoke alarm is going off, and there's a cigarette still burning<br>
+<br>
+Chorus / Solo / Chorus<br>
+<br>
+It's no surprise to me, I am my own worst enemy<br>
+'Cause every now and then, I kick the living shit out of me<br>
+Can we forget about the things I said when I was drunk?<br>
+I didn't mean to call you that<br>
+</div>
+
+<button class='accordion'>21. Mustang Sally</button>
+<div class='panel'>
+Mustang Sally, guess you better slow your Mustang down<br>
+Mustang Sally now baby, guess you better slow your Mustang down<br>
+You been running all over town<br>
+Oh I guess I'll have to put your flat feet on the ground<br>
+<br>
+&nbsp;&nbsp;All you want to do is ride around Sally.. ride Sally ride.. x 3<br>
+&nbsp;&nbsp;One of these early mornings I'm gonna be wiping those weeping eyes<br>
+<br>
+I bought you a brand new Mustang it was nineteen sixty five<br>
+Now you come around signifying a woman you don't wanna let me ride<br>
+Mustang Sally now baby guess you better slow that Mustang down<br>
+You been running all over town<br>
+Oh! I'll have to put your flat feet on the ground<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>22. Sweet Child Of Mine</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: D C G D<br>
+C: A C D<br>
+S: Em C B A - Em G A C D<br>
+</font>
+<br>
+She's got a smile that it seems to me reminds me of childhood memories<br>
+Where everything was as fresh as a bright blue sky<br>
+Now and then when I see her face she takes me away to that special place<br>
+And if I stared too long I'd probably break down and cry<br>
+<br>
+&nbsp;&nbsp;Whoa sweet child of mine / love of mine<br>
+<br>
+She's got eyes of the bluest skies as if they thought of rain<br>
+I hate to look into those eyes and see an ounce of pain<br>
+Her hair reminds me of a warm safe place where as a child I'd hide<br>
+And pray for the thunder and rain to quietly pass me by<br>
+<br>
+&nbsp;&nbsp;Whoa...<br>
+<br>
+Where do we go..<br>
+<br>
+</div>
+
+<button class='accordion'>23. Sweet Home Alabama</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+I: D Cadd9 G ("Boo hoo" F C)<br>
+</font>
+<br>
+Big wheels keep on turning<br>
+Carry me home to see my kin<br>
+Singing songs about the south land<br>
+I miss ole bamy once again and I think it's a sin<br>
+<br>
+Well I heard Mr. Young sing about her<br>
+Well I heard old Neil put her down<br>
+Well I hope Neil Young will remember<br>
+A southern man don't need him around anyhow<br>
+<br>
+&nbsp;&nbsp;Sweet home Alabama where the skies are so blue<br>
+&nbsp;&nbsp;Sweet home Alabama Lord I'm coming home to you<br>
+<br>
+Solo<br>
+<br>
+In Birmingham they love the govnor, boo-hoo<br>
+Now we all did what we could do<br>
+Now Watergate does not bother me<br>
+Does you conscience bother you, tell the truth!<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Riff x 2<br>
+<br>
+Now Muscle Shoals has got the Swappers<br>
+And they've been known to pick a song or two<br>
+Lord they get me off so much<br>
+They pick me up when I'm feeling blue now how bout you?<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>24. Walk This way</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+D|------2---------2----<br>
+A|-0-1-2----0-1-2------<br>
+E|-------------------0-<br>
+</font>
+<br>
+<font style='font-family:courier;'>
+I: Drums x 2, riff x 2<br>
+V: C7 C: C F<br>
+</font>
+<br>
+Backstroke lover always hidin neath the cover, still I talked to your daddy he say,<br>
+He said you ain't seen nothing til you're down on a muffin, then you're sure to be changin your ways.<br>
+I met a cheerleader, was a real young bleeder, all the times I can reminisce<br>
+Cause the best thing lovin with her sister and her cousin only started with a little kiss, like this!<br>
+<br>
+See-saw swingin with the boys in the school and your feet flyin up in the air,<br>
+Singin hey diddle-diddle with the kitty in the middle, you be swingin like you just didn't care<br>
+So I took a big chance at the high school dance with a missy who was ready to play<br>
+Was it me she was foolin cause she knew what she was doin and I know love was here to stay<br>
+<br>
+&nbsp;&nbsp;When she told me to<br>
+&nbsp;&nbsp;Walk this way.. ah, just give me a kiss (solo) like this!<br>
+<br>
+School girl Sadie with the classy, kinda sassy, little skirt climbing way up her knees.<br>
+There was three young ladies in the school gym locker when I noticed they was lookin at me.<br>
+I was a high school loser never made it with a lady till the boys told me something I missed<br>
+Then my next door neighbor with a daughter had a favor so I gave her just a little kiss, like this!<br>
+<br>
+See-saw swingin..<br>
+<br>
+&nbsp;&nbsp;She told me to .. Walk this way.. (solo)<br>
+Riff / outro solo<br>
+<br>
+</div>
+
+<button class='accordion'>25. You Shook Me All Night Long</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: G C G C G D<br>
+C: G C G/B D C G/B<br>
+</font>
+<br>
+She was a fast machine, she kept her motor clean<br>
+She was the best damn woman that I ever seen<br>
+She had the sightless eyes, telling me no lies<br>
+Knockin' me out with those American thighs<br>
+<br>
+Taking more than her share, had me fighting for air,<br>
+She told me to come, but I was already there<br>
+'Cause the walls start shaking, the earth was quaking<br>
+My mind was aching, and we were making it<br>
+<br>
+&nbsp;&nbsp;And you shook me all night long<br>
+&nbsp;&nbsp;Yeah, you shook me all night long<br>
+<br>
+Working double time on the seduction line<br>
+She was one of a kind, she's just mine, all mine<br>
+Wanted no applause, just another course<br>
+Made a meal out of me and come back for more<br>
+<br>
+Had to cool me down to take a-nother round,<br>
+Now I'm back in the ring to take a-nother swing<br>
+Cause the walls were shaking, the earth was quaking<br>
+My mind was aching, and we were making it<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Chorus<br>
+<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
