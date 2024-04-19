@@ -2925,14 +2925,6 @@
     "key": "G",
     "tempo": "158bpm"
   },
-  "Cocaine.Eric_Clapton": {
-    "name": "Cocaine",
-    "artist": "Eric Clapton",
-    "id": "Cocaine.Eric_Clapton",
-    "lyrics": "If you want to hang out, you've gotta take her out, cocaine\nIf you want to get down, get down on the ground, cocaine\n\n  She don't lie, cocaine\n\nIf you got that lose, you want to kick them blues, cocaine\nWhen your day is done, and you want to ride on cocaine\n\nIf your day is gone, and you want to ride on, cocaine\nDon't forget this fact, you can't get it back, cocaine\n",
-    "key": "E",
-    "tempo": "undefined"
-  },
   "Closing_Time.Semisonic": {
     "name": "Closing Time",
     "artist": "Semisonic",
@@ -3325,30 +3317,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Blue_On_Black.Kenny_Wayne_Shepard": {
-    "name": "Blue On Black",
-    "artist": "Kenny Wayne Shepard",
-    "id": "Blue_On_Black.Kenny_Wayne_Shepard",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Born_On_The_Bayou.CCR": {
-    "name": "Born On The Bayou",
-    "artist": "CCR",
-    "id": "Born_On_The_Bayou.CCR",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Can_t_You_See.Marshall_Tucker": {
-    "name": "Can't You See",
-    "artist": "Marshall Tucker",
-    "id": "Can_t_You_See.Marshall_Tucker",
-    "lyrics": "Lyrics",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Come_Together.The_Beatles": {
     "name": "Come Together",
     "artist": "The Beatles",
@@ -3373,20 +3341,60 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Last_Dance_With_Mary_Jane.Tom_Petty": {
-    "name": "Last Dance With Mary Jane",
-    "artist": "Tom Petty",
-    "id": "Last_Dance_With_Mary_Jane.Tom_Petty",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Proud_Mary.CCR": {
     "name": "Proud Mary",
     "artist": "CCR",
     "id": "Proud_Mary.CCR",
     "lyrics": "Lyrics",
     "key": "",
+    "tempo": "Tempo"
+  },
+  "Blue_On_Black.Kenny_Wayne_Shepard": {
+    "name": "Blue On Black",
+    "artist": "Kenny Wayne Shepard",
+    "id": "Blue_On_Black.Kenny_Wayne_Shepard",
+    "lyrics": "V:D C G\nC:(D C G) A G (D C G)\nS: (D C G) (F G)\n\nNight, falls and I'm alone\nskin, yeah, chilled me to the bone\nYou, turned and you ran, oh yeah\nOh, slipped, right from my hand\n \n  Hey, blue on black, tears on a river\n  Push on a shove, it don't mean much\n  Joker on jack, match on a fire\n  Cold on ice, a dead man's touch\n  Whisper on a scream, doesn't change a thing\n  Don't bring you back...   \n  Blue on black, oh yeah, Blue on black...\n \nBlind, oh, now I see\nTruth, lies, and in between\nWrong, can't be undone\nOh, slipped, from the tip of your tongue\n \n  Chorus\n\n    Solo\n \n  Chorus",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Born_On_The_Bayou.CCR": {
+    "name": "Born On The Bayou",
+    "artist": "CCR",
+    "id": "Born_On_The_Bayou.CCR",
+    "lyrics": "E7 - D A\n\nNow, when I was just a little boy standin' to my daddy's knee\nMy poppa said, \"Son, don't let the man get you an'\nDo what he done to me\"\n'Cause he'll get you\n'Cause he'll get you mama\n \nAnd I can remember the fourth of July\nRunnin' through the backwood, bare\nAnd I can still hear my old hound dog barkin'\nChasin' down a hoodoo there\nChasin' down a hoodoo there\n \n  Born on the bayou \n \nWish I was back on the bayou\nRollin' with some Cajun queen\nWishin' I were a fast freight train\nJust a chooglin' on down to New Orleans\n \n  Born on the bayou \n \nAnd I can remember the fourth of July\nRunnin' through the backwood, bare\nAnd I can still hear my old hound dog barkin'\nChasin' down a hoodoo there\nChasin' down a hoodoo there\n \n  Born on the bayou \n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "My_My,_Hey_Hey.Neil_Young": {
+    "name": "My My, Hey Hey",
+    "artist": "Neil Young",
+    "id": "My_My,_Hey_Hey.Neil_Young",
+    "lyrics": "Lyrics",
+    "key": "Gm",
+    "tempo": "Tempo"
+  },
+  "Can_t_You_See.Marshall_Tucker": {
+    "name": "Can't You See",
+    "artist": "Marshall Tucker",
+    "id": "Can_t_You_See.Marshall_Tucker",
+    "lyrics": "D C G D\n \nI'm gonna take a freight train, down at the station Lord, I don't care where it goes\nGonna climb a mountain, the highest mountain,jump off, nobody gonna know\n \n  Can't you see, can't you see, what that woman, she been doin' to me\n\nI'm gonna buy me a ticket now, as far as I can ain't never comin' back\nTake me southbound all the way to Georgia now, till the train run out of track\n \n  Chorus\n\n  Solo\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Cocaine.Eric_Clapton": {
+    "name": "Cocaine",
+    "artist": "Eric Clapton",
+    "id": "Cocaine.Eric_Clapton",
+    "lyrics": "If you want to hang out, you've gotta take her out, cocaine\nIf you want to get down, get down on the ground, cocaine\n\n  She don't lie, cocaine\n\nIf you got that lose, you want to kick them blues, cocaine\nWhen your day is done, and you want to ride on cocaine\n\nIf your day is gone, and you want to ride on, cocaine\nDon't forget this fact, you can't get it back, cocaine\n",
+    "key": "E",
+    "tempo": "undefined"
+  },
+  "Last_Dance_With_Mary_Jane.Tom_Petty": {
+    "name": "Last Dance With Mary Jane",
+    "artist": "Tom Petty",
+    "id": "Last_Dance_With_Mary_Jane.Tom_Petty",
+    "lyrics": "I: Am G  Dsus2   Am   (x4)\nC: Em7 A Em7 A G\n\nShe grew up in an Indiana town had a good-lookin mama who never was around\nBut she grew up tall and she grew up right with them Indiana boys on an Indiana night\n \nWell, she moved down here at the age of eighteen she blew the boys away, was more than they'd seen\nI was introduced and we both started groovin' she said, \"I dig you baby but I got to keep movin'\"\n \n  Last dance with Mary Jane\n  One more time to kill the pain\n  I feel summer creepin' in and I'm\n  Tired of this town again\n \nWell, I don't know, but I've been told you never slow down, you never grow old\nI'm tired of screwing up, I'm tired of going down tired of myself, tired of this town\nOh my my, oh hell yes Honey, put on that party dress\nBuy me a drink, sing me a song, take me as I come 'cause I can't stay long\n \n  Chorus\n\n  Solo\n\nThere's pigeons down on Market Square she's standin' in her underwear\nLookin' down from a hotel room nightfall will be comin' soon\nOh my my, oh hell yes you got to put on that party dress\nIt was too cold to cry when I woke up alone I hit my last number and walked to the road\n\n  Chorus",
+    "key": "undefined",
     "tempo": "Tempo"
   }
 }
