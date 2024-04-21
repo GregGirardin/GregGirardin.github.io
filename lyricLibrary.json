@@ -1965,14 +1965,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "I_Can_t_Go_For_That.Hall&Oates": {
-    "name": "I Can't Go For That",
-    "artist": "Hall&Oates",
-    "id": "I_Can_t_Go_For_That.Hall&Oates",
-    "lyrics": "I: Em7\nV: (Bm7 E - Bm7 G A)\nC: B BM7 B7 E - Em7\n\nEasy, ready, willing, overtime\nWhere does it stop where do you dare me to draw the line\nYou've got the body now you want my soul\nDon't even think about it say no go.\n\n  I'll do anything that you want me to do,\n  And I'll do almost anything, that you want me too\n  But I can't go for that (No can do)\n\nI can't go for being twice as nice\nI can't go for just repeating the same old lives\nUse the body now you want my soul\nDo forget about it say no go.\n\n  Chorus / Solo / Chorus",
-    "key": "Em",
-    "tempo": "undefined"
-  },
   "Tequila_Sunrise.The_Eagles": {
     "name": "Tequila Sunrise",
     "artist": "The Eagles",
@@ -2132,14 +2124,6 @@
     "lyrics": "So no one told you life was gonna be this way\nYour job's a joke, you're broke, your love life's DOA\nIt's like you're always stuck in second gear\nWhen it hasn't been your day, your week, your month\nOr even your year, but\n\n  I'll be there for you (when the rain starts to pour)\n  I'll be there for you (like I've been there before)\n  I'll be there for you, cause you're there for me too\n\nYou're still in bed at ten and work began at eight\nYou've burned your breakfast so far, things are goin great\nYour mother warned you there'd be days like these\nOh, but she didn't tell you when the world has brought\nYou down to your knees that\n\n  Chorus\n\n    No one could ever know me, no one could ever see me\n    Seems you're the only one who knows, what it's like to be me\n    Someone to face the day with, make it through all the rest with\n    Someone I'll always laugh with, even at my worst I'm best with you\n\n  SOLO\n\nIt's like you're always stuck in second gear..\n\n  Chorus\n\n  I'll be there for you x 3\n  Cause you're there for me too",
     "key": "A",
     "tempo": "94bpm"
-  },
-  "Shut_Up_And_Dance.Walk_The_Moon": {
-    "name": "Shut Up And Dance",
-    "artist": "Walk The Moon",
-    "id": "Shut_Up_And_Dance.Walk_The_Moon",
-    "lyrics": "  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night\nThe chemical, physical, kryptonite\nHelpless to the bass and faded light\nOh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks\nMy discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me\nI knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nDeep in her eyes\nI think I see the future\nI realize this is my last chance\nShe took my arm\nI don't know how it happened\nWe took the floor and she said\n\n    Chorus\n",
-    "key": "C#",
-    "tempo": "128bpm"
   },
   "Just_Like_Heaven.The_Cure": {
     "name": "Just Like Heaven",
@@ -3189,14 +3173,6 @@
     "key": "B",
     "tempo": "undefined"
   },
-  "I_Will_Follow.U2": {
-    "name": "I Will Follow",
-    "artist": "U2",
-    "id": "I_Will_Follow.U2",
-    "lyrics": "I was on the outside when you said, you said you needed me\nI was looking at myself, I was blind, I could not see\n\nA boy tries hard to be a man his mother takes him by his hand\nIf he stops to think he starts to cry, oh, why?\n\n  If you walk away, walk away walk away, walk away, I will follow x 2\n\nI was on the inside when they pulled the four walls down\nI was looking through the window, I was lost, I am found\n\n  Chorus\n\n    Your eyes make a circle, I see you when I go in there\n    Your eyes..\n    Y-y-your eyes..\n    Your eyes..\n    Y-y-y-your eyes..\n\n  Chorus x 4\n\n  I will follow\n",
-    "key": "E",
-    "tempo": "155bpm"
-  },
   "I_Will_Survive.Gloria_Gaynor": {
     "name": "I Will Survive",
     "artist": "Gloria Gaynor",
@@ -3404,5 +3380,29 @@
     "lyrics": "E7 -- C A E7\n\nWell take me back down where cool water flows yeah.\nLet me remember things I love\nStoppin at the log where catfish bite\nWalkin along the river road at night\nBarefoot girls dancin in the moonlight\n\nI can hear the bullfrog callin me.\nWonder if my ropes still hangin to the tree.\nLove to kick my feet way down the shallow water.\nShoofly, dragonfly, get back to mother.\nPick up a flat rock, skip it across green river.\n\nUp at codys camp I spent my days, oh,\nWith flat car riders and cross-tie walkers\nOld cody junior took me over,\nSaid, youre gonna find the world is smouldrin.\nAnd if you get lost come on home to green river.",
     "key": "E",
     "tempo": "Tempo"
+  },
+  "Shut_Up_And_Dance.Walk_The_Moon": {
+    "name": "Shut Up And Dance",
+    "artist": "Walk The Moon",
+    "id": "Shut_Up_And_Dance.Walk_The_Moon",
+    "lyrics": "  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night\nThe chemical, physical, kryptonite\nHelpless to the bass and faded light\nOh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks\nMy discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me\nI knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n    Solo\n\nDeep in her eyes\nI think I see the future\nI realize this is my last chance\nShe took my arm\nI don't know how it happened\nWe took the floor and she said\n\n    [DANA, LET IT BREATHE HERE!!!]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n\n    Ooh-hoo, shut up and dance with me\n",
+    "key": "C#",
+    "tempo": "128bpm"
+  },
+  "I_Will_Follow.U2": {
+    "name": "I Will Follow",
+    "artist": "U2",
+    "id": "I_Will_Follow.U2",
+    "lyrics": "I was on the outside when you said, you said you needed me\nI was looking at myself, I was blind, I could not see\n\nA boy tries hard to be a man his mother takes him by his hand\nIf he stops to think he starts to cry, oh, why?\n\n  If you walk away, walk away walk away, walk away, I will follow x 2\n\nI was on the inside when they pulled the four walls down\nI was looking through the window, I was lost, I am found\n\n  Chorus\n\n    Your eyes make a circle, I see you when I go in there\n    Your eyes...\n    Y-y-your eyes...\n    Your eyes...\n    Y-y-y-your eyes...\n    \n    [DANA, LET IT BREATHE HERE!!!]\n\n  Chorus x 4\n\n  I will follow\n",
+    "key": "E",
+    "tempo": "155bpm"
+  },
+  "I_Can_t_Go_For_That.Hall&Oates": {
+    "name": "I Can't Go For That",
+    "artist": "Hall&Oates",
+    "id": "I_Can_t_Go_For_That.Hall&Oates",
+    "lyrics": "I: Em7\nV: (Bm7 E - Bm7 G A)\nC: B BM7 B7 E - Em7\n\n[DANA, LET IT BREATHE HERE!!!]\n\nEasy, ready, willing, overtime\nWhere does it stop where do you dare me to draw the line\nYou've got the body now you want my soul\nDon't even think about it say no go.\n\n  I'll do anything that you want me to do,\n  And I'll do almost anything, that you want me too\n  But I can't go for that (No can do)\n\nI can't go for being twice as nice\nI can't go for just repeating the same old lives\nUse the body now you want my soul\nDo forget about it say no go.\n\n  Chorus / Solo / Chorus\n",
+    "key": "Em",
+    "tempo": "undefined"
   }
 }
