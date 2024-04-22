@@ -3309,14 +3309,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "My_My,_Hey_Hey.Neil_Young": {
-    "name": "My My, Hey Hey",
-    "artist": "Neil Young",
-    "id": "My_My,_Hey_Hey.Neil_Young",
-    "lyrics": "Lyrics",
-    "key": "Gm",
-    "tempo": "Tempo"
-  },
   "Can_t_You_See.Marshall_Tucker": {
     "name": "Can't You See",
     "artist": "Marshall Tucker",
@@ -3404,5 +3396,21 @@
     "lyrics": "I: Em7\nV: (Bm7 E - Bm7 G A)\nC: B BM7 B7 E - Em7\n\n[DANA, LET IT BREATHE HERE!!!]\n\nEasy, ready, willing, overtime\nWhere does it stop where do you dare me to draw the line\nYou've got the body now you want my soul\nDon't even think about it say no go.\n\n  I'll do anything that you want me to do,\n  And I'll do almost anything, that you want me too\n  But I can't go for that (No can do)\n\nI can't go for being twice as nice\nI can't go for just repeating the same old lives\nUse the body now you want my soul\nDo forget about it say no go.\n\n  Chorus / Solo / Chorus\n",
     "key": "Em",
     "tempo": "undefined"
+  },
+  "My_My,_Hey_Hey.Neil_Young": {
+    "name": "My My, Hey Hey",
+    "artist": "Neil Young",
+    "id": "My_My,_Hey_Hey.Neil_Young",
+    "lyrics": "(Gm F EbM7) Bb Dm Gm EbM7\n\nMy my, hey hey\nRock and roll is here to stay\nIt's better to burn out than to fade away\nMy my, hey hey\n\nIt's out of the blue and into the black\nThey give you this but you pay for that\nAnd once you're gone you can never come back\nWhen you're out of the blue and into the black\n\nSolo\n\nThe king is gone but he's not forgotten\nThis is the story of a Johnny Rotten\nIt's better to burn out than it is to rust\nThe king is gone but he's not forgotten\n\nHey hey, my my\nRock and roll can never die\nThere's more to the picture than meets the eye\nHey Hey, my my\n",
+    "key": "Gm",
+    "tempo": "Tempo"
+  },
+  "Hard_To_Handle.Black_Crows": {
+    "name": "Hard To Handle",
+    "artist": "Black Crows",
+    "id": "Hard_To_Handle.Black_Crows",
+    "lyrics": "Lyrics",
+    "key": "B",
+    "tempo": "Tempo"
   }
 }
