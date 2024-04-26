@@ -3309,14 +3309,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "My_My,_Hey_Hey.Neil_Young": {
-    "name": "My My, Hey Hey",
-    "artist": "Neil Young",
-    "id": "My_My,_Hey_Hey.Neil_Young",
-    "lyrics": "Lyrics",
-    "key": "Gm",
-    "tempo": "Tempo"
-  },
   "Can_t_You_See.Marshall_Tucker": {
     "name": "Can't You See",
     "artist": "Marshall Tucker",
@@ -3419,6 +3411,14 @@
     "id": "Hard_To_Handle.Black_Crowes",
     "lyrics": "Lyrics",
     "key": "B",
+    "tempo": "Tempo"
+  },
+  "My_My,_Hey_Hey.Neil_Young": {
+    "name": "My My, Hey Hey",
+    "artist": "Neil Young",
+    "id": "My_My,_Hey_Hey.Neil_Young",
+    "lyrics": "(Gm F EbM) (Bb Dm Gm EbM)\n\nMy my, hey hey\nRock and roll is here to stay\nIt's better to burn out than to fade away\nMy My, hey hey\n\nIt's out of the blue and into the black\nThey give you this but you pay for that\nAnd once you're gone you can never come back\nWhen you're out of the blue and into the black\n\n  Solo\n\nThe king is gone but he's not forgotten\nThis is the story of a Johnny Rotten\nIt's better to burn out, than it is to rust\nThe king is gone but he's not forgotten\n\nHey hey, my my\nRock and roll can never die\nThere's more to the picture than meets the eye\nHey Hey, my my\n",
+    "key": "Gm",
     "tempo": "Tempo"
   }
 }
