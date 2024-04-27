@@ -3221,14 +3221,6 @@
     "key": "B",
     "tempo": "Tempo"
   },
-  "A_Face_In_The_Crowd.Tom_Petty": {
-    "name": "A Face In The Crowd",
-    "artist": "Tom Petty",
-    "id": "A_Face_In_The_Crowd.Tom_Petty",
-    "lyrics": "(Em C) (D Am) Bm Am Em\n\nBefore all of this ever went down\nIn another place, another town\nYou were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, thinking out loud\nA face in the crowd\n\n  Solo\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Mr._Brightside.The_Killers": {
     "name": "Mr. Brightside",
     "artist": "The Killers",
@@ -3325,14 +3317,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "All_That_Heaven_Will_Allow.Bruce_Springsteen": {
-    "name": "All That Heaven Will Allow",
-    "artist": "Bruce Springsteen",
-    "id": "All_That_Heaven_Will_Allow.Bruce_Springsteen",
-    "lyrics": "I: C G/b D\nV: G C G D - G C D - C G - C D G D\nC: (C Em - C D G)\nO: C G/b Am7 C G/b G\n\nI got a dollar in my pocket there ain't a cloud up above.\nI got a picture in a locket that says baby I love you.\nWell if you didn't look then boys then fellas don't go lookin now.\nWell here she comes a-walkin, all that heaven will allow.\n\nSay hey there mister bouncer, now all I wanna dance.\nBut I swear I left my wallet back home in my workin pants.\nC'mon Slim slip me in man. I'll make it up to you somehow.\nI can't be late I got a date with all that heaven will allow.\n\nRain and storm and dark skies, well now they don't mean a thing.\nIf you got a girl that loves you and who wants to wear your ring.\nSo c'mon mister trouble we'll make it through you somehow.\nWe'll fill this house with all the love all that heaven will allow.\n\nNow some may wanna die young man, young and gloriously.\nGet it straight now mister hey buddy that ain't me.\nCause I got something on my mind that sets me straight and walking proud.\nAnd I want all the time all that heaven will allow.\nYeah, I want all the time all that heaven will allow.",
-    "key": "G",
-    "tempo": "undefined"
-  },
   "Are_You_Gonna_Be_My_Girl.Jet": {
     "name": "Are You Gonna Be My Girl",
     "artist": "Jet",
@@ -3420,5 +3404,21 @@
     "lyrics": "(Gm F EbM) (Bb Dm Gm EbM)\n\nMy my, hey hey\nRock and roll is here to stay\nIt's better to burn out than to fade away\nMy My, hey hey\n\nIt's out of the blue and into the black\nThey give you this but you pay for that\nAnd once you're gone you can never come back\nWhen you're out of the blue and into the black\n\n  Solo\n\nThe king is gone but he's not forgotten\nThis is the story of a Johnny Rotten\nIt's better to burn out, than it is to rust\nThe king is gone but he's not forgotten\n\nHey hey, my my\nRock and roll can never die\nThere's more to the picture than meets the eye\nHey Hey, my my\n",
     "key": "Gm",
     "tempo": "Tempo"
+  },
+  "A_Face_In_The_Crowd.Tom_Petty": {
+    "name": "A Face In The Crowd",
+    "artist": "Tom Petty",
+    "id": "A_Face_In_The_Crowd.Tom_Petty",
+    "lyrics": "(Em C) (D Am) Bm Am Em\nB: Em C (D C)\n\nBefore all of this ever went down\nIn another place, another town\nYou were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, thinking out loud\nA face in the crowd\n\n  Bridge\n\nOut of a dream, out of the sky\nInto my heart, into my life\nAnd you were just a face in the crowd\nYou were just a face in the crowd\nOut in the street, walking around\nA face in the crowd",
+    "key": "Em",
+    "tempo": "Tempo"
+  },
+  "All_That_Heaven_Will_Allow.Bruce_Springsteen": {
+    "name": "All That Heaven Will Allow",
+    "artist": "Bruce Springsteen",
+    "id": "All_That_Heaven_Will_Allow.Bruce_Springsteen",
+    "lyrics": "I: C G/b D\nV: G C G D - G C D - C G - C D G D\nC: (C Em - C D G)\nO: C G/b Am7 C G/b G\n\nI got a dollar in my pocket there ain't a cloud up above.\nI got a picture in a locket that says baby I love you.\nWell if you didn't look then boys then fellas don't go lookin now.\nWell here she comes a-walkin, all that heaven will allow.\n\nSay hey there mister bouncer, now all I wanna dance.\nBut I swear I left my wallet back home in my workin pants.\nC'mon Slim slip me in man. I'll make it up to you somehow.\nI can't be late I got a date with all that heaven will allow.\n\n  Rain and storm and dark skies, well now they don't mean a thing.\n  If you got a girl that loves you and who wants to wear your ring.\n  So c'mon mister trouble we'll make it through you somehow.\n  We'll fill this house with all the love all that heaven will allow.\n\nNow some may wanna die young man, young and gloriously.\nGet it straight now mister hey buddy that ain't me.\nCause I got something on my mind that sets me straight and walking proud.\nAnd I want all the time all that heaven will allow.\nYeah, I want all the time all that heaven will allow.",
+    "key": "G",
+    "tempo": "undefined"
   }
 }
