@@ -661,14 +661,6 @@
     "key": "C",
     "tempo": "125"
   },
-  "Juke_Box_Hero.Foreigner": {
-    "name": "Juke Box Hero",
-    "artist": "Foreigner",
-    "id": "Juke_Box_Hero.Foreigner",
-    "lyrics": "V: E D  C: B - E G D E\n\nStandin the rain, with his head hung low\nCouldn't get a ticket, it was a sold out show\nHeard the roar of the crowd, he could picture the scene\nPut his ear to the wall, and like a distant scream\nHe heard one guitar just blew him away\nSaw stars in his eyes, and the very next day\n \nBought a beat up six-string in a second hand store\nDidn't know how to play it but he knew for sure\nThat that one guitar felt good in his hands\nDidn't take long to understand\nJust one guitar slung way down low\nWas a one way ticket, only one way to go\n \n  So he started rockin, ain't never gonna stop\n  Gotta keep on rockin, someday he's gonna make it to the top\n \n  And be a juke box hero (got stars in his eyes)\n  He's a juke box hero\n  He took one guitar\n  Juke box hero, he'll come alive tonight\n \nIn a town without a name, in a heavy downpour\nThought he passed his own shadow by the backstage door\nLike a trip through the past, that day in the rain\nThat one guitar made his whole life change\n\nChorus  /Solo / Chorus\n \ne|-----------------2-2-----|\nB|-----------------3-3-----|\nG|-----------------2-2-----|\nD|-----2-----------0-0-----|\nA|-0h2---------------------|\nE|-------0-0-0-0-0---------|\n",
-    "key": "E",
-    "tempo": "undefined"
-  },
   "Play_That_Funky_Music.Wild_Cherry": {
     "name": "Play That Funky Music",
     "artist": "Wild Cherry",
@@ -2037,30 +2029,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Nothin_But_A_Good_time.Poison": {
-    "name": "Nothin But A Good time",
-    "artist": "Poison",
-    "id": "Nothin_But_A_Good_time.Poison",
-    "lyrics": "Wooh yeah\n\nNow listen\nNot a dime, I can't pay my rent I can barely make it through the week\nSaturday night, I'd like to make my girl but right now, I can't make ends meet, no\n\n  I'm always workin', slavin' every day gotta get a break from that same old, same old\n  I need a chance just to get away If you could hear me think this is what I'd say\n\n  Don't need nothin' but a good time how can I resist\n  Ain't lookin' for nothin' but a good time and it don't get better than this\n\nThey say I spend my money on women and wine but I couldn't tell you where I spent last night\nI'm really sorry about the shape I'm in I just like my fun every now-and-then\n\n  Chorus\n\n    You see I raise a toast to all of us who are breakin' our backs every day\n    If wanting the good life is such a crime lord, then, put me away, yeah\n\n  Chorus\n\ne|--22b-------22b---22b---22b---|--22r---------------------17-|\nb|------------------------------|----------22~-------19/20----|\ng|------------------------------|-----------------------------|\n \ne|--19-17-------17----------------------------------|--------------------|\nb|--------20-19----20-19p17-20-19-17----17----------|--------------------|\ng|-----------------------------------19----18-18p16-|--18~---------------|\n \ne|------------------------|-----------------------|\nb|------------------------|--17b------------------|\ng|--17----17b-14----------|----------17--------0--|\n \ne|------------------------------------------|----------------------|\nb|------------------------------------------|----------------------|\ng|-----------17~-----------17~-----------17/|--18~-----------x--0--|\nd|--19p17---------19p17---------19p17-------|----------------x-----|\na|--------19------------19------------19----|----------------x-----|\ne|------------------------------------------|----------------------|\n \ne|-------------------------------------------|\nb|-------------------------------------------|\ng|-----------------5h7h9-------------6h7h9/--|\nd|-----------4h5h7-------------5h7h9---------|\na|-----4h5h7-------------5h7h9---------------|\ne|--5----------------------------------------|\n \ne|--------17----------------17----------------|\nb|-----------------17----------------17-------|\ng|--17h18----17h18----17h18----17h18----------|\nd|--------------------------------------19~---|\na|--------------------------------------------|\ne|--------------------------------------------|\n \ne|--------------------------------------|------------------------|\nb|--15p14-------17-15-14----17b---17b---|--17~-------------------|\ng|--------16-14----------16-------------|------------14/------0--|\nd|--------------------------------------|------------14/---x--0--|\na|--------------------------------------|------------------x-----|\ne|--------------------------------------|------------------------|\n\ne|------17-----------17-----------17------------------------|\nb|---------20p17--------20p17--------20p17------17h20p17----|\ng|--19b----------19b----------19b----------19------------19b|\nd|----------------------------------------------------------|\na|----------------------------------------------------------|\ne|----------------------------------------------------------|\n \ne|-----------------------------------------------------|\nb|--20p17----20p17----20p17----20p17----17-20p17----17-|\ng|--------19b------19b------19b------19b---------19b---|\nd|-----------------------------------------------------|\na|-----------------------------------------------------|\ne|-----------------------------------------------------|\n \ne|--20-19-17-19-17-----------------------------------------------------|\nb|-----------------20-19p17-17h19p17-17----------------------------20~-|\ng|--------------------------------------19-17-17h19p17-17-16-----------|\nd|---------------------------------------------------------------------|\na|-----------------------------------------------------------19/20-----|\ne|---------------------------------------------------------------------|\n",
-    "key": "E",
-    "tempo": "Tempo"
-  },
-  "Bad_Case_Of_Loving_You.Robert_Palmer": {
-    "name": "Bad Case Of Loving You",
-    "artist": "Robert Palmer",
-    "id": "Bad_Case_Of_Loving_You.Robert_Palmer",
-    "lyrics": "Whoa\n\nA hot summer night, fell like a net\nI've gotta find my baby yet\nI need you, to soothe my head\nAnd turn my blue heart to red\n\n  Doctor Doctor, gimme the news\n  I got a bad case of lovin' you\n  No pill's gonna cure my ill\n  I got a bad case of lovin' you\n\nA pretty face don't make no pretty heart\nI learned that buddy from the start\nYou think I'm cute, a little bit shy\nMama, I ain't that kind of guy\n\n  Chorus\n\nI know you like it, you like it on top\nTell me mamma, are you gonna stop?\n\nYou had me down twenty-one to zip\nSmile of Judas on your lip\nShake my fist, knock on wood\nI got it bad, and I got it good\n\n  Chorus",
-    "key": "E",
-    "tempo": "146bpm"
-  },
-  "Beer_Drinkers.ZZ_Top": {
-    "name": "Beer Drinkers",
-    "artist": "ZZ Top",
-    "id": "Beer_Drinkers.ZZ_Top",
-    "lyrics": "G|---------3-\nD|----30-----\nA|-345--35---\nE|-----------\n\nBlues in G\n \nIf you see me walkin' down the line,\nwith my fav'rite honky tonk in mind,\nwell, I'll be here around suppertime\nwith my can of dinner and a bunch of fine\n \n  Beer drinkers and hell raisers, yeah. \n  Uh, baby, don't you wanna come with me?\n \nThe crowd gets loud when the band gets right\nsteel guitar cryin' through the night.\nYeah, try'n to cover up the corner fight but\nev'rything's cool 'cause they's just tight.\n \n  Chorus\n\n  Solo\n \nThe joint was jumpin like a cat on hot tin.\nLord, I thought the floor was gonna give in.\nSoundin a lot like a House Congressional\ncause we're experimental and professional.\n\n  Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "The_Boys_Are_Back_In_Town.Thin_Lizzy": {
     "name": "The Boys Are Back In Town",
     "artist": "Thin Lizzy",
@@ -2331,14 +2299,6 @@
     "id": "New_Sensation.INXS",
     "lyrics": "Live baby live, now that the day is over\nI got a new sensation in perfect moments\nThat's impossible to refuse\n\nSleep baby sleep, now that the night is over\nAnd the sun comes like a God into our room\nAll perfect light and promises\n\n  Got a hold on you, a new sensation..\n  Right now, it's gonna take you over\n  A new sensation, a new sensation\n\nDream baby dream, of all that's come and going\nAnd you will find out in the end there really is\nThere really is no difference\n\nCry baby cry, when you got to get it out\nI'll be your shoulder you can tell me all\nDon't keep it in ya well, that's the reason why I'm here\n\n  Hey hey, are you ready for a new sensation, a new sensation\n  Right now? gonna take you on a new sensation, a new sensation\n\n    Trumpet! (New sensation)\n\nHate, baby, hate when there's nothing left for you\nYou're only human, what can you do? It'll soon be over\nDon't let your pain take over you\nLove, baby, love it's written all over your face\nThere's nothing better we could do than live forever\nWell, that's all we've got to do\n\n  Hey now I'm gonna take a new sensation, new sensation\n  Right now got a hold on you\n  A new sensation..",
     "key": "E",
-    "tempo": "Tempo"
-  },
-  "Night_Train.Guns_&_Roses": {
-    "name": "Night Train",
-    "artist": "Guns & Roses",
-    "id": "Night_Train.Guns_&_Roses",
-    "lyrics": "Loaded like a freight train, flyin' like an aeroplane\nFeelin' like a space brain one more time tonight\n\nWell I'm a west coast struttin' one bad mother\nGot a rattlesnake suitcase under my arm\nSaid I'm a mean machine been drinkin' gasoline\nAn honey you can make my motor hum\n\nI got one chance left in a nine live cat\nI got a dog eat dog sly smile\nI got a Molotov cocktail with a match to go I smoke my cigarette with style\nAn I can tell you honey you can make my money tonight\n\nWake up late honey put on your clothes\nTake your credit card to the liquor store\nThat's one for you and two for me by tonight, I'll be\n\n  Loaded like a freight train..\n\n  I'm on the night train\n   bottoms up / fill my cup / ready to crash and burn I never learn\n    I love that stuff / I can never get enough / Never to return - no\n\n  Loaded like a freight train...\n\n  I'm on the night train\n    An I'm lookin' for some / So's I can leave this slum\n    And I'm ready to crash an' burn\n\n  Night train\n    Bottoms up / Fill my cup / Whoa yeah\n    Love that stuff / An I can never get enough\n\nRidin' the night train\nI guess, I never learn\nOn the night train float me home\nOh I'm on the night train ridin' the night train\nNever to return night train",
-    "key": "undefined",
     "tempo": "Tempo"
   },
   "No_Excuses.Alice_In_Chains": {
@@ -2723,22 +2683,6 @@
     "id": "Run_Like_Hell.Pink_Floyd",
     "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\n\nE|-10--9---7-5---5-3---5-2--||x2\nB|-10-10---8-7---5-3---5-3--||\nG|-11--9---7-7---6-4---6-2--||\nD|--------------------------||\n\n\"Run\" (F A D) V: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
     "key": "D",
-    "tempo": "Tempo"
-  },
-  "Sound_Of_Madness.Shinedown": {
-    "name": "Sound Of Madness",
-    "artist": "Shinedown",
-    "id": "Sound_Of_Madness.Shinedown",
-    "lyrics": "Yeah I get it, you're an outcast always under attack\nalways coming in last bringing up the past\nNo one owes you anything I think you need a shotgun blast\nA kick in the ass so paranoid watch your back\n\nOh my here we go another loose cannon gone bipolar slipped down, couldn't get much lower\nQuicksand's got no sense of humor I'm still laughing like hell\nYou think that by cryin to me lookin' so sorry, that I'm gonna believe\nYou've been infected by a social disease well then, take your medicine\n\n  I created the sound of madness, wrote the book on pain somehow I'm still here to explain\n  That the darkest hour never comes in the night you can sleep with a gun\n  But when you gonna wake up and fight... for yourself\n\nI'm so sick of this tombstone mentality if there's an afterlife then it'll set you free\nBut I'm not gonna part the seas you're a self-fulfilling prophecy\nYou think that by..\n\n  Chorus\n\n    Solo\n\n  Chorus (quiet) \"when you gonna wake up, when you gonna wake up, and fight...\"\n   \n  Chorus\n\n    when you gonna wake up and fight..\n\n\nD|-6-6--6-5-3-0--3--------------------------6-|\nA|-----------------5----5---5---5---5---5---6-|\nD|--------------------0---0---0---0---0-----6-|\n\nD|-3-----------6-6--6-5-3-0--3--------------6-5-3-0-|\nA|---5\\--5-5------------------5---5---5---5-6-5-3-0-|\nD|------0-0---------------------0---0---0---6-5-3-0-|\n \nC: (Bb5 D5 F5 C5) Ab5\n \nSolo: A5 C5 G5 D5 - A5 C5 G5 Bb5\nB|---------------17--15--17---12--13---15------|\nG|--14--12--14-----------------------------14--|\n",
-    "key": "D",
-    "tempo": "Tempo"
-  },
-  "Name.": {
-    "name": "Name",
-    "artist": "",
-    "id": "Name.",
-    "lyrics": "Lyrics",
-    "key": "",
     "tempo": "Tempo"
   },
   "Ain_t_No_Sunshine.Bill_Withers": {
@@ -3189,14 +3133,6 @@
     "key": "G",
     "tempo": "Tempo"
   },
-  "Only_Time_Will_Tell.Asia": {
-    "name": "Only Time Will Tell",
-    "artist": "Asia",
-    "id": "Only_Time_Will_Tell.Asia",
-    "lyrics": "V: (C G/C C) (Am G/A Am) F Dm E4\nC: (Am Dm/A G Em F) G\n\nYou're leaving now, it's in your eyes\nThere's no disguising it\nIt really comes as no surprise\nTo find that you planned it all along\n \nI see it now, becomes so clear\nYour insincerity\nAnd me all starry eyed\nYou'd think that I would have known by now\n\n  Now, sure as the sun will cross the sky\n  This lie is over\n  Lost like the tears that used to tide me over\n\nOne thing is sure, that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die\n\n Chorus\n \n(Skip these: V1, V2, Chorus)\n\nYou're on your own, inside your room \nYou're claiming victory\nYou were just using me\nAnd there is no one you can use now\n\nOne thing is sure that time will tell\nIf you were wrong\nThe brightest ring a round the moon\nWill darken when I die",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Careless_Whisper.George_Michael": {
     "name": "Careless Whisper",
     "artist": "George Michael",
@@ -3381,14 +3317,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "Bad_Case_Of_Lovin_You.Robert_Palmer": {
-    "name": "Bad Case Of Lovin You",
-    "artist": "Robert Palmer",
-    "id": "Bad_Case_Of_Lovin_You.Robert_Palmer",
-    "lyrics": "E D E (x3)\nV: E D E D E - A B E\nC: E A B E D E\nB A E - A C# B E D E\n\nHot summer night.....fell like a net.\nI gotta find...my baby yet.\nI need you to soothe my head..\nturn my blues heart to red.\n\n  Doctor Doctor, gimme the news..\n  I got a bad case of lovin' you.\n  No pill's gonna cure my ill..I got\n  a bad case of looovvvin' you.\n\nA pretty face...don't make no pretty heart.\nI learned that, buddy....from the start.\nYou think I'm cute..a little bit shy..\nMama, I ain't, that kind of guy.\n\n  Chorus\n\n    I know you like it..you like it on top.\n    tell me Mammmma, are you gonna stop?\n\nYou had me down...twenty-one to zip..\nsmile of Judas on your lip.\nShake my fist...knock on wood..\nI got it bad, and I got it good.\n\n  Chorus",
-    "key": "E",
-    "tempo": "Tempo"
-  },
   "Hard_To_Handle.Black_Crowes": {
     "name": "Hard To Handle",
     "artist": "Black Crowes",
@@ -3420,5 +3348,13 @@
     "lyrics": "I: C G/b D\nV: G C G D - G C D - C G - C D G D\nC: (C Em - C D G)\nO: C G/b Am7 C G/b G\n\nI got a dollar in my pocket there ain't a cloud up above.\nI got a picture in a locket that says baby I love you.\nWell if you didn't look then boys then fellas don't go lookin now.\nWell here she comes a-walkin, all that heaven will allow.\n\nSay hey there mister bouncer, now all I wanna dance.\nBut I swear I left my wallet back home in my workin pants.\nC'mon Slim slip me in man. I'll make it up to you somehow.\nI can't be late I got a date with all that heaven will allow.\n\n  Rain and storm and dark skies, well now they don't mean a thing.\n  If you got a girl that loves you and who wants to wear your ring.\n  So c'mon mister trouble we'll make it through you somehow.\n  We'll fill this house with all the love all that heaven will allow.\n\nNow some may wanna die young man, young and gloriously.\nGet it straight now mister hey buddy that ain't me.\nCause I got something on my mind that sets me straight and walking proud.\nAnd I want all the time all that heaven will allow.\nYeah, I want all the time all that heaven will allow.",
     "key": "G",
     "tempo": "undefined"
+  },
+  "Bad_Case_Of_Lovin_You.Robert_Palmer": {
+    "name": "Bad Case Of Lovin You",
+    "artist": "Robert Palmer",
+    "id": "Bad_Case_Of_Lovin_You.Robert_Palmer",
+    "lyrics": "E D E (x3)\nV: E D E D E - A B E\nC: E A B E D E\nB A E - A C# B E D E\n\nHot summer night.....fell like a net.\nI gotta find...my baby yet.\nI need you to soothe my head..\nturn my blues heart to red.\n\n  Doctor Doctor, gimme the news..\n  I got a bad case of lovin' you.\n  No pill's gonna cure my ill..I got\n  a bad case of looovvvin' you.\n\nA pretty face...don't make no pretty heart.\nI learned that, buddy....from the start.\nYou think I'm cute..a little bit shy..\nMama, I ain't, that kind of guy.\n\n  Chorus\n\n    I know you like it..you like it on top.\n    tell me Mammmma, are you gonna stop?\n\nYou had me down...twenty-one to zip..\nsmile of Judas on your lip.\nShake my fist...knock on wood..\nI got it bad, and I got it good.\n\n  Chorus",
+    "key": "E",
+    "tempo": "Tempo"
   }
 }
