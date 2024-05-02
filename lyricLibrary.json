@@ -114,8 +114,8 @@
     "name": "Mustang Sally",
     "artist": "Wilson Pickett",
     "id": "Mustang_Sally.Wilson_Pickett",
-    "lyrics": "Mustang Sally, guess you better slow your Mustang down\nMustang Sally now baby, guess you better slow your Mustang down\nYou been running all over town\nOh I guess I'll have to put your flat feet on the ground\n\n  All you want to do is ride around Sally.. ride Sally ride.. x 3\n  One of these early mornings I'm gonna be wiping those weeping eyes\n\nI bought you a brand new Mustang it was nineteen sixty five\nNow you come around signifying a woman you don't wanna let me ride\nMustang Sally now baby guess you better slow that Mustang down\nYou been running all over town\nOh! I'll have to put your flat feet on the ground\n\n  Chorus\n",
-    "key": "C",
+    "lyrics": "Lyrics",
+    "key": "",
     "tempo": "Tempo"
   },
   "What_I_Like_About_You.The_Romantics": {
@@ -2761,9 +2761,9 @@
     "name": "Sharp Dressed Man",
     "artist": "ZZ Top",
     "id": "Sharp_Dressed_Man.ZZ_Top",
-    "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to\nSilk suit, black tie (black tie)\nI don't need a reason why\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a sharp-dressed man\n\nGold watch, diamond ring\nI ain't missin' not a single thing\nCufflinks, stick pin\nWhen I step out I'm gonna do you in\n\n  Chorus\n\nTop coat, top hat\nAnd I don't worry 'cause my wallet's fat\nBlack shades, white gloves\nLookin' sharp, lookin' for love\n\n  Chorus",
-    "key": "C",
-    "tempo": "125bpm"
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
   },
   "Sharp_Dressed_Man_(Nickelback_cover).Nickelback": {
     "name": "Sharp Dressed Man (Nickelback cover)",
@@ -3379,6 +3379,70 @@
     "id": "Summer_Wind.Frank_Sinatra",
     "lyrics": "V: C Dm - Dm C - C  F Dm - C Dm G C\nV3 up a step. outtro Em A D\n\nThe summer wind, came blowin' in from across the sea\nIt lingered there to touch your hair and walk with me\nAll summer long we sang a song and then we strolled that golden sand\nTwo sweethearts and the summer wind\n\nLike painted kites, those days and nights, they went flyin' by\nThe world was new beneath a blue umbrella sky\nThen softer than a piper man one day it called to you\nI lost you, I lost you to the summer wind\n\nThe autumn wind and the winter winds, they have come and gone\nAnd still the days, those lonely days, they go on and on\nAnd guess who sighs his lullabies through nights that never end\nMy fickle friend, the summer wind\n\nThe summer wind\nWarm summer wind\nMmm, the summer wind",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Detroit_Rock_City.Kiss": {
+    "name": "Detroit Rock City",
+    "artist": "Kiss",
+    "id": "Detroit_Rock_City.Kiss",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Burning_For_You.BOC": {
+    "name": "Burning For You",
+    "artist": "BOC",
+    "id": "Burning_For_You.BOC",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "We_re_Not_Gonna_Take_It.Twisted_Sister": {
+    "name": "We're Not Gonna Take It",
+    "artist": "Twisted Sister",
+    "id": "We_re_Not_Gonna_Take_It.Twisted_Sister",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Rock_And_Roll.Let_Zeppelin": {
+    "name": "Rock And Roll",
+    "artist": "Let Zeppelin",
+    "id": "Rock_And_Roll.Let_Zeppelin",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Every_Rose_Has_Its_Thorn.Poison": {
+    "name": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "id": "Every_Rose_Has_Its_Thorn.Poison",
+    "lyrics": "Lyrics",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Smoking_In_the_Boys_Room.Motley_Crue": {
+    "name": "Smoking In the Boys Room",
+    "artist": "Motley Crue",
+    "id": "Smoking_In_the_Boys_Room.Motley_Crue",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Nothing_But_A_Good_Time.Poison": {
+    "name": "Nothing But A Good Time",
+    "artist": "Poison",
+    "id": "Nothing_But_A_Good_Time.Poison",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "You_Give_Love_A_Bad_Name.Bon_Jovi": {
+    "name": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "id": "You_Give_Love_A_Bad_Name.Bon_Jovi",
+    "lyrics": "Lyrics",
+    "key": "",
     "tempo": "Tempo"
   }
 }
