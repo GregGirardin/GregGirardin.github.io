@@ -3,9 +3,9 @@
     "name": "Tush",
     "artist": "ZZ Top",
     "id": "Tush.ZZ_Top",
-    "lyrics": "I been up, I been down, take my word, my way around.\nI ain't askin' for much.\nI said, Lord, take me downtown, I'm just lookin' for some tush.\n\nI been bad, I been good, Dallas, Texas, Hollywood...\n\nTake me back way back home, not by myself, not alone...",
-    "key": "G",
-    "tempo": "undefined"
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
   },
   "Rio.Duran_Duran": {
     "name": "Rio",
@@ -749,14 +749,6 @@
     "key": "F",
     "tempo": "Tempo"
   },
-  "Love_Song.The_Cure": {
-    "name": "Love Song",
-    "artist": "The Cure",
-    "id": "Love_Song.The_Cure",
-    "lyrics": "V: Am G F Em    C: F G Am C\n\nWhenever I'm alone with you you make me feel like I am _ again\n  [home, whole] [young, fun]\n\n  However far away I will always love you\n  However long I stay...\n  Whatever words I say..\n  I will always love you\n\nSolo\n\n  [free, clean]\n\nChorus",
-    "key": "Am",
-    "tempo": ""
-  },
   "Sledgehammer.Peter_Gabriel": {
     "name": "Sledgehammer",
     "artist": "Peter Gabriel",
@@ -900,14 +892,6 @@
     "lyrics": "You love her but she loves him\nAnd he loves somebody else you just can't win\nAnd so it goes till the day you die\nThis thing they call love it's gonna make you cry\n\n  I've had the blues the reds and the pinks\n  One thing for sure\n  (Love stinks) Love stinks yeah yeah x 4\n\nTwo by two and side by side\nLove's gonna find you, yes it is you just can't hide\nYou'll hear it call your heart will fall\nThen love will fly it's gone, that's all\n\n  I don't care what any Casanova thinks\n  All I can say is.. love stinks\n\n  Chorus\n\n   Shoo doo wop..\n\n  I've been through diamonds\n  I've been through minks\n  I've been through it all .. Love stinks\n\n  Chorus\n",
     "key": "C",
     "tempo": "90bpm"
-  },
-  "LoveSong.Tesla": {
-    "name": "LoveSong",
-    "artist": "Tesla",
-    "id": "LoveSong.Tesla",
-    "lyrics": "V: (Em Bm) A - Am G Bm D\nC: (G D) Em C D\nO: (G D Em C)  (G D)\n\nSo you think that it's over, that your love has finally reached the end.\nAny time you call, night or day, I'll be right there for you if you need a friend.\nIt's gonna take a little time. Time is sure to mend your broken heart.\nDon't you even worry, pretty darlin'. I know you'll find love again. Yeah.\n\n  Love is all around you.\n  Love is knockin outside your door.\n  Waitin for you is this love made just for two\n  Keep an open heart and you'll find love again, I know.\n \n    Solo\n\n  Chorus\n\n    Love will find a way. Darlin, love is gonna find a way\n    Find its way back to you.\n    Love will find a way. So look around, open your eyes.\n    Love is gonna find a way. Love is gonna, love is gonna find a way.\n    Love will find a way. Love's gonna find a way back to you, yeah,\n \nI know.\n",
-    "key": "Am",
-    "tempo": ""
   },
   "Last_Train_To_Clarksville.The_Monkees": {
     "name": "Last Train To Clarksville",
@@ -3441,6 +3425,78 @@
     "name": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
     "id": "You_Give_Love_A_Bad_Name.Bon_Jovi",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Immigrant_Song.Led_Zeppelin": {
+    "name": "Immigrant Song",
+    "artist": "Led Zeppelin",
+    "id": "Immigrant_Song.Led_Zeppelin",
+    "lyrics": "Lyrics",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Little_Devil.The_Cult": {
+    "name": "Little Devil",
+    "artist": "The Cult",
+    "id": "Little_Devil.The_Cult",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Long_Way_Down.Goo_Goo_Dolls": {
+    "name": "Long Way Down",
+    "artist": "Goo Goo Dolls",
+    "id": "Long_Way_Down.Goo_Goo_Dolls",
+    "lyrics": "Lyrics",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Love_Song.The_Cure": {
+    "name": "Love Song",
+    "artist": "The Cure",
+    "id": "Love_Song.The_Cure",
+    "lyrics": "V: Am G F Em C: F G Am C\n\nWhenever I'm alone with you you make me feel like I am _ again\n[home, whole] [young, fun]\n\n  However far away I will always love you\n  However long I stay...\n  Whatever words I say..\n  I will always love you\n\nSolo\n\n  [free, clean]\n\nChorus",
+    "key": "Am",
+    "tempo": ""
+  },
+  "LoveSong.Tesla": {
+    "name": "LoveSong",
+    "artist": "Tesla",
+    "id": "LoveSong.Tesla",
+    "lyrics": "V: (Em Bm) A - Am G Bm D\nC: (G D) Em C D\nO: (G D Em C) (G D)\n\nSo you think that it's over, that your love has finally reached the end.\nAny time you call, night or day, I'll be right there for you if you need a friend.\nIt's gonna take a little time. Time is sure to mend your broken heart.\nDon't you even worry, pretty darlin'. I know you'll find love again. Yeah.\n\n  Love is all around you.\n  Love is knockin outside your door.\n  Waitin for you is this love made just for two\n  Keep an open heart and you'll find love again, I know.\n\n    Solo\n\n  Chorus\n\n    Love will find a way. Darlin, love is gonna find a way\n    Find its way back to you.\n    Love will find a way. So look around, open your eyes.\n    Love is gonna find a way. Love is gonna, love is gonna find a way.\n    Love will find a way. Love's gonna find a way back to you, yeah,\n\nI know.\n",
+    "key": "Am",
+    "tempo": ""
+  },
+  "I_Wanna_Be_Sedated.The_Ramones": {
+    "name": "I Wanna Be Sedated",
+    "artist": "The Ramones",
+    "id": "I_Wanna_Be_Sedated.The_Ramones",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Animal_I_Have_Become.Three_Days_Grace": {
+    "name": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "id": "Animal_I_Have_Become.Three_Days_Grace",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Ring_Of_Fire.Social_Distortion": {
+    "name": "Ring Of Fire",
+    "artist": "Social Distortion",
+    "id": "Ring_Of_Fire.Social_Distortion",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Flirting_With_Disaster.Molly_Hatchet": {
+    "name": "Flirting With Disaster",
+    "artist": "Molly Hatchet",
+    "id": "Flirting_With_Disaster.Molly_Hatchet",
     "lyrics": "Lyrics",
     "key": "",
     "tempo": "Tempo"
