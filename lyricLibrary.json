@@ -3007,14 +3007,6 @@
     "key": "C",
     "tempo": "undefined"
   },
-  "Destroyer.The_Kinks": {
-    "name": "Destroyer",
-    "artist": "The Kinks",
-    "id": "Destroyer.The_Kinks",
-    "lyrics": "Met a girl called Lola and I took her back to my place\nFeeling guilty, feeling scared, hidden cameras everywhere\nStop! Hold on, stay in control\n\nGirl, I want you here with me but I'm really not as cool as I'd like to be\n'Cause there's a red under my bed and there's a little yellow man in my head\nAnd there's a true blue inside of me\nThat keeps stopping me, touching ya, watching ya, loving ya\n\n  Paranoia, the destroyer x 2\n\nWell I fell asleep, then I woke feeling kinda queer\nLola looked at me and said, \"Ooh, you look so weird\"\nShe said, \"Man, there's really something wrong with you\nOne day you're gonna self-destruct\"\nYou're up, you're down, I can't work you out\nYou get a good thing going, then you blow yourself out\n\n  Silly boy, ya self-destroyer x 2\n\n    Silly boy, you got so much to live for\n    So much to aim for, so much to try for\n    You blowing it all with paranoia\n    You're so insecure, you self-destroyer\n\n  (And it goes like this, here it goes) Paranoia, the destroyer\n  (Here it goes again) Paranoia, the destroyer\n\nDoctor, doctor, help me please, I know you'll understand\nThere's a time device inside of me, I'm a self-destructin' man\nThere's a red under my bed, and there's a little green man in my head\nAnd he said, \"You're not going crazy, you're just a bit sad\n'Cause there's a man in ya, gnawing ya, tearing ya into two\"\n\n  Silly boy, ya self-destroyer\n  Paranoia, the destroyer\n\n    Self-destroyer, wreck your health\n    Destroy your friends, destroy yourself\n    The time device of self-destruction\n    Light the fuse and start eruption\n\n  (Yeah, yeah, it goes like this, here it goes) Paranoia, the destroyer\n  (Here's to paranoia) Paranoia, the destroyer\n  (Hey, hey, here it goes) Paranoia, the destroyer\n  (And it goes like this) Paranoia, the destroyer\n  (And it goes like this)\n",
-    "key": "G",
-    "tempo": "143bpm"
-  },
   "All_Day_And_All_Of_The_Night.The_Kinks": {
     "name": "All Day And All Of The Night",
     "artist": "The Kinks",
@@ -3639,14 +3631,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Kiss_Me_Deadly.Lita_Ford": {
-    "name": "Kiss Me Deadly",
-    "artist": "Lita Ford",
-    "id": "Kiss_Me_Deadly.Lita_Ford",
-    "lyrics": "I went to a party last Saturday night I didn't get laid, I got in a fight, uh, huh\nIt ain't no big thing\nLate for my job and the traffic was bad had to borrow ten bucks from my old man, uh, huh\nit ain't no big thing\n\nI went to a party last Saturday night\nI told you that story, I'd be alright uh, huh\nIt ain't no big thing\n\nBut I know what I like I know I like dancin with you\nAnd I know what you like I know you like dancin with me Yeah, yeah\n\n  Kiss me once kiss me twice\n  C'mon pretty baby, kiss me deadly\n\nHad a few beers, gettin' high sittin', watchin' the time go by, Uh, huh\nIt ain't no big thing\nNothin' to eat and no TV lookin' in the mirror don't get it for me Uh, huh\nIt ain't no big thing\n\nBut I know what I like I know I like dancin' with you\nAnd I know what you like I know you like dancin' with me\n\n  Chorus x 2\n\n    Solo\n\nYou know I like dancin with you dancin with you c'mon\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Wagon_Wheel.Darius_Rucker": {
     "name": "Wagon Wheel",
     "artist": "Darius Rucker",
@@ -3735,14 +3719,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Papa_Don_t_Preach.Madonna": {
-    "name": "Papa Don't Preach",
-    "artist": "Madonna",
-    "id": "Papa_Don_t_Preach.Madonna",
-    "lyrics": "Papa, I know you're going to be upset\nCause I was always your little girl\nBut you should know by now, I'm not a baby\nYou always taught me right from wrong\nI need your help, daddy, please be strong\nI may be young at heart, but I know what I'm saying\n\n  The one you warned me all about\n  The one you said I could do without\n  We're in an awful mess and I don't mean maybe please\n\n    Papa don't preachI'm in trouble, deep\n    Papa don't preach I've been losing sleep\n    But I made up my mind I'm keeping my baby\n    Ooh, I'm gonna keep my baby, mmm\n\nHe says that he's going to marry me\nWe can raise a little family\nMaybe we'll be all right it's a sacrifice\n\n\n  But my friends keep telling me to give it up\n  Saying I'm too young, I ought to live it up\n  What I need right now is some good advice please\n\n    Chorus\n\n      Solo\n\nDaddy, daddy, if you could only see\nJust how good he's been treating me\nYou'd give us your blessing right now\n'Cause we are in love we are in love so please\n\n  Chorus x 2",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "I_Kissed_A_Girl.Katy_Perry": {
     "name": "I Kissed A Girl",
     "artist": "Katy Perry",
@@ -3783,6 +3759,22 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
+  "Papa_Don_t_Preach.Madonna": {
+    "name": "Papa Don't Preach",
+    "artist": "Madonna",
+    "id": "Papa_Don_t_Preach.Madonna",
+    "lyrics": "Papa, I know you're going to be upset\nCause I was always your little girl\nBut you should know by now, I'm not a baby\nYou always taught me right from wrong\nI need your help, daddy, please be strong\nI may be young at heart, but I know what I'm saying\n\n  The one you warned me all about\n  The one you said I could do without\n  We're in an awful mess and I don't mean maybe please\n\n    Papa don't preachI'm in trouble, deep\n    Papa don't preach I've been losing sleep\n    But I made up my mind I'm keeping my baby\n    Ooh, I'm gonna keep my baby, mmm\n\nHe says that he's going to marry me\nWe can raise a little family\nMaybe we'll be all right it's a sacrifice\n\n  But my friends keep telling me to give it up\n  Saying I'm too young, I ought to live it up\n  What I need right now is some good advice please\n\n    Chorus\n\n      Solo\n\nDaddy, daddy, if you could only see\nJust how good he's been treating me\nYou'd give us your blessing right now\nCause we are in love we are in love so please\n\n  Chorus x 2",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Kiss_Me_Deadly.Lita_Ford": {
+    "name": "Kiss Me Deadly",
+    "artist": "Lita Ford",
+    "id": "Kiss_Me_Deadly.Lita_Ford",
+    "lyrics": "I went to a party last Saturday night I didn't get laid, I got in a fight, uh, huh\nIt ain't no big thing\nLate for my job and the traffic was bad had to borrow ten bucks from my old man, uh, huh\nit ain't no big thing\n\nI went to a party last Saturday night I told you that story, I'd be alright uh, huh\nIt ain't no big thing\n\n  But I know what I like I know I like dancin with you\n  And I know what you like I know you like dancin with me Yeah, yeah\n    Kiss me once kiss me twice\n    C'mon pretty baby, kiss me deadly\n\nHad a few beers, gettin' high sittin', watchin' the time go by, Uh, huh\nIt ain't no big thing\nNothin' to eat and no TV lookin' in the mirror don't get it for me Uh, huh\nIt ain't no big thing\n\n  PC + Chorus x 2\n\n    Solo\n\nYou know I like dancin with you dancin with you c'mon\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
   "Break_Stuff.Limp_Bizkit": {
     "name": "Break Stuff",
     "artist": "Limp Bizkit",
@@ -3790,5 +3782,13 @@
     "lyrics": "It's just one of those days when you don't wanna wake up\nEverything is fucked everybody sucks\nYou don't really know why but you wanna justify\nRippin' someone's head off\nNo human contact and if you interact\nYour life is on contract\nYour best bet is to stay away, motherfucker!\nIt's just one of those days\n\n  It's all about the he says/she says bullshit\n  I think you better quit lettin shit slip or you'll be leavin with a fat lip\n  It's all about the he says/she says bullshit\n  I think you better quit talkin' that shit\n\nIt's just one of those days feelin' like a freight train\nFirst one to complain leaves with a blood stain\nDamn right, I'm a maniac you better watch your back cause I'm fuckin' up your program\nAnd if you're stuck up uou're just lucked up\nNext in line to get fucked up\nYour best bet is to stay away, motherfucker!\nIt's just one of those days\n\n  Chorus\n  Punk, so come and get it\n\n    I feel like shit my suggestion is to keep your distance cause right now I'm dangerous\n    We've all felt like shit and been treated like shit\n    All those motherfuckers that want to step up\n    I hope you know I pack a chain saw\n    I'll skin your ass raw\n    And if my day keeps goin' this way\n    I just might break somethin' tonight\n    I pack a chainsaw I'll skin your ass raw\n    And if my day keeps goin' this way\n    I just might break somethin' tonight\n    I pack a chainsaw I'll skin your ass raw\n    And if my day keeps goin' this way\n    I just might break your fuckin' face tonight\n\nGive me somethin' to break\nGive me somethin' to break\nJust give me somethin' to break\nHow 'bout your fuckin' face?\nI hope you know I pack a chainsaw (what?)\nA chainsaw (what?)\nA motherfuckin' chainsaw (what?)\nSo come and get it\n\n  Chorus",
     "key": "undefined",
     "tempo": "Tempo"
+  },
+  "Destroyer.The_Kinks": {
+    "name": "Destroyer",
+    "artist": "The Kinks",
+    "id": "Destroyer.The_Kinks",
+    "lyrics": "Met a girl called Lola and I took her back to my place\nFeeling guilty, feeling scared, hidden cameras everywhere\nStop! Hold on, stay in control\n\nGirl, I want you here with me but I'm really not as cool as I'd like to be\n'Cause there's a red under my bed and there's a little yellow man in my head\nAnd there's a true blue inside of me\nThat keeps stopping me, touching ya, watching ya, loving ya\n\n  Paranoia, the destroyer x 2\n\nWell I fell asleep, then I woke feeling kinda queer\nLola looked at me and said, \"Ooh, you look so weird\"\nShe said, \"Man, there's really something wrong with you\nOne day you're gonna self-destruct\"\nYou're up, you're down, I can't work you out\nYou get a good thing going, then you blow yourself out\n\n  Silly boy, ya self-destroyer x 2\n\n    Silly boy, you got so much to live for\n    So much to aim for, so much to try for\n    You blowing it all with paranoia\n    You're so insecure, you self-destroyer\n\n  (And it goes like this, here it goes) Paranoia, the destroyer\n  (Here it goes again) Paranoia, the destroyer\n\nDoctor, doctor, help me please, I know you'll understand\nThere's a time device inside of me, I'm a self-destructin' man\nThere's a red under my bed, and there's a little green man in my head\nAnd he said, \"You're not going crazy, you're just a bit sad\n'Cause there's a man in ya, gnawing ya, tearing ya into two\"\n\n  Silly boy, ya self-destroyer\n  Paranoia, the destroyer\n\n    Self-destroyer, wreck your health\n    Destroy your friends, destroy yourself\n    The time device of self-destruction\n    Light the fuse and start eruption\n\n  (Yeah, yeah, it goes like this, here it goes) Paranoia, the destroyer\n  (Here's to paranoia) Paranoia, the destroyer\n  (Hey, hey, here it goes) Paranoia, the destroyer\n  (And it goes like this) Paranoia, the destroyer\n  (And it goes like this)\n",
+    "key": "G",
+    "tempo": "143bpm"
   }
 }
