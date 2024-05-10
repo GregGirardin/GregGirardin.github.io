@@ -65,13 +65,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "Zombie.The_Cranberries": {
-    "name": "Zombie",
-    "artist": "The Cranberries",
-    "id": "Zombie.The_Cranberries",
-    "lyrics": "Em C G D/F#\n\nAnother head hangs lowly child is slowly taken\nThe violence caused such silence who are we mistaken\nBut you see it's not me, it's not my family\nIn your head, in your head, they are fighting\nWith their tanks and their bombs and their bombs and their guns\nin your head, in your head, they are crying\n\n  In your head.. zombie\n  What's in your head.. zombie\n\nAnother mother's breaking heart is taking over\nWhen the violence causes silence we must be mistaken\nIt's the same old theme since 1916\nIn your head...\n\nChorus",
-    "key": "Em"
-  },
   "Superstition.Stevie_Wonder": {
     "name": "Superstition",
     "artist": "Stevie Wonder",
@@ -2901,14 +2894,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "I_Hate_Myself.Joan_Jett": {
-    "name": "I Hate Myself",
-    "artist": "Joan Jett",
-    "id": "I_Hate_Myself.Joan_Jett",
-    "lyrics": "G|--9-12-9--7-9---7---7-----7-9-\nD|--9-12-9--7-9---7---7-----7-9-\nA|--7-10-7--5-7---5---5-----5-7-\nE|------------------7---7-------\n\nV: (E A B)  P: (G A) B7  C: E A B\n\nMidnight, gettin uptight, where are you?\nYou said you'd meet me, now it's quarter to two\nI know I'm hangin' but I'm still wantin' you\n\nHey Jack, it's a fact they're talkin' in town\nI turn my back and you're messin' around\nI'm not getting jealous, don't like lookin' like a clown\n\n  I think of you every night and day\n  You took my heart, and you took my pride away\n\n  I hate myself for loving you\n  Can't break free from the the things that you do\n  I wanna walk but I run back to you\n  That's why I hate myself for loving you\n\n(Intro riff x 2)\n\nDaylight, spent the night without you\nBut I've been dreamin' 'bout the lovin' you do\nI'm over being angry 'bout the hell you put me through\n\nHey man, bet you can't treat me right\nYou just don't know what you was missin' last night\nI wanna see you beggin', say, \"Forget it\" just for spite\n\n  Chorus\n\n  Solo\n\nPC / Chorus acapella\nChorus\n\nOut over intro riff\n",
-    "key": "E",
-    "tempo": ""
-  },
   "I_Alone.Live": {
     "name": "I Alone",
     "artist": "Live",
@@ -3413,14 +3398,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Nothing_But_A_Good_Time.Poison": {
-    "name": "Nothing But A Good Time",
-    "artist": "Poison",
-    "id": "Nothing_But_A_Good_Time.Poison",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "You_Give_Love_A_Bad_Name.Bon_Jovi": {
     "name": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
@@ -3516,150 +3493,6 @@
     "lyrics": "When I talk about it, it carries on\nReasons only knew\nWhen I talk about it, Aries or\nTreasons all renew\n\n  Beg me to talk about it\n  I could stand to prove\n  If we can get around it\n  I know that it's true\n\nWell, I talked about it, carried on\nReasons only knew\nBut it's you\nI fell into\n\nWell, I talked about it, carries on\nReasons only knew\nWhen I talk about it, Aries or\nTreasons all renew\n\n  Beg me to talk about it\n  I could stand to prove\n  If we can get around it\n  I know that it's true\n\nWell, I talked about it, put it on\nNever was it true\nBut it's you\nI fell into\n\nWell I talked about it, put it on\nNever was it true\nBut it's you\nI fell into\n\nI fell into\nI fell into\n",
     "key": "C",
     "tempo": "131bpm"
-  },
-  "Poker_Face.Lady_GaGa": {
-    "name": "Poker Face",
-    "artist": "Lady GaGa",
-    "id": "Poker_Face.Lady_GaGa",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Mama_s_Broken_Heart.Miranda_Lambert": {
-    "name": "Mama's Broken Heart",
-    "artist": "Miranda Lambert",
-    "id": "Mama_s_Broken_Heart.Miranda_Lambert",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Fucking_Perfect.Pink": {
-    "name": "Fucking Perfect",
-    "artist": "Pink",
-    "id": "Fucking_Perfect.Pink",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Bitch.Meredith_Brooks": {
-    "name": "Bitch",
-    "artist": "Meredith Brooks",
-    "id": "Bitch.Meredith_Brooks",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Just_A_Girl.No_Doubt": {
-    "name": "Just A Girl",
-    "artist": "No Doubt",
-    "id": "Just_A_Girl.No_Doubt",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Bring_Me_To_Life.Evanescence": {
-    "name": "Bring Me To Life",
-    "artist": "Evanescence",
-    "id": "Bring_Me_To_Life.Evanescence",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Lonely_Is_The_Night.Billy_Squier": {
-    "name": "Lonely Is The Night",
-    "artist": "Billy Squier",
-    "id": "Lonely_Is_The_Night.Billy_Squier",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Call_Me.Blondie": {
-    "name": "Call Me",
-    "artist": "Blondie",
-    "id": "Call_Me.Blondie",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Big_City_Nights.Scorpions": {
-    "name": "Big City Nights",
-    "artist": "Scorpions",
-    "id": "Big_City_Nights.Scorpions",
-    "lyrics": "Lyrics",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
-  "Tell_That_Devil.Jill_Andrews": {
-    "name": "Tell That Devil",
-    "artist": "Jill Andrews",
-    "id": "Tell_That_Devil.Jill_Andrews",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Hit_Me_With_Your_Best_Shot.Pat_Benetar": {
-    "name": "Hit Me With Your Best Shot",
-    "artist": "Pat Benetar",
-    "id": "Hit_Me_With_Your_Best_Shot.Pat_Benetar",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Familiar_Taste_Of_Poison.Halestorm": {
-    "name": "Familiar Taste Of Poison",
-    "artist": "Halestorm",
-    "id": "Familiar_Taste_Of_Poison.Halestorm",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Something_More.Sugarland": {
-    "name": "Something More",
-    "artist": "Sugarland",
-    "id": "Something_More.Sugarland",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Ex_s_And_Oh_s.Ellie_King": {
-    "name": "Ex's And Oh's",
-    "artist": "Ellie King",
-    "id": "Ex_s_And_Oh_s.Ellie_King",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Hot_Stuff.Donna_Summer": {
-    "name": "Hot Stuff",
-    "artist": "Donna Summer",
-    "id": "Hot_Stuff.Donna_Summer",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Gasoline.Halsey": {
-    "name": "Gasoline",
-    "artist": "Halsey",
-    "id": "Gasoline.Halsey",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "I_m_The_Only_One.Melissa_Etheridge": {
-    "name": "I'm The Only One",
-    "artist": "Melissa Etheridge",
-    "id": "I_m_The_Only_One.Melissa_Etheridge",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "All_Jacked_Up.Gretchen_Wilson": {
-    "name": "All Jacked Up",
-    "artist": "Gretchen Wilson",
-    "id": "All_Jacked_Up.Gretchen_Wilson",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
   },
   "Born_To_Be_Wild.Steppenwolf": {
     "name": "Born To Be Wild",
@@ -3786,6 +3619,174 @@
     "artist": "Miley Cyrus",
     "id": "Flowers.Miley_Cyrus",
     "lyrics": "We were good, we were gold\nKinda dream that can't be sold\nWe were right 'til we weren't\nBuilt a home and watched it burn\nMm, I didn't wanna leave you, I didn't wanna lie\nStarted to cry, but then remembered I\n\n  I can buy myself flowers, write my name in the sand\n  Talk to myself for hours, say things you don't understand\n  I can take myself dancing, snd I can hold my own hand\n  Yeah, I can love me better than you can\n\n  Can love me better, I can love me better, baby x 2\n\nPaint my nails cherry-red match the roses that you left\nNo remorse, no regret I forgive every word you said\nOoh, I didn't wanna leave you, baby, I didn't wanna fight\nStarted to cry, but then remembered I\n\n  Chorus\n\n  Can love me better, I can love me better, baby x 4\n\nI didn't wanna leave you, I didn't wanna fight\nStarted to cry, but then remembered I\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Poker_Face.Lady_GaGa": {
+    "name": "Poker Face",
+    "artist": "Lady GaGa",
+    "id": "Poker_Face.Lady_GaGa",
+    "lyrics": "Mum mum mum mah x 4\n\nI wanna hold 'em like they do in Texas, please (Woo)\nFold 'em,  let 'em hit me, raise it, baby, stay with me (I love it)\nLoveGame intuition, play the cards with spades to start\nAnd after he's been hooked, I'll play the one that's on his heart\n\nOh, woah-oh, I'll get him hot, show him what I've got\nOh, woah-oh, I'll get him hot, show him what I've got\n\n  Can't read my, can't read my, no he can't read my poker face\n  (She's got me like nobody)\n\n  P-p-p-poker face, f-f-fuck her face\n\nI wanna roll with him, a hard pair we will be (Woo)\nA little gamblin' is fun when you're with me (I love it, woo)\nRussian roulette is not the same without a gun\nAnd baby, when it's love, if it's not rough, it isn't fun, fun\n\nOh, woah-oh, oh, I'll get him hot, show him what I've got\nOh, woah-oh, oh, I'll get him hot, show him what I've got\n\n  Chorus\n\nI won't tell you that I love you kiss or hug you\n'Cause I'm bluffin' with my muffin\nI'm not lyin', I'm just stunnin' with my love-glue-gunnin'\nJust like a chick in the casino take your bank before I pay you out\nI promise this, promise this check this hand 'cause I'm marvelous\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "I_Hate_Myself.Joan_Jett": {
+    "name": "I Hate Myself",
+    "artist": "Joan Jett",
+    "id": "I_Hate_Myself.Joan_Jett",
+    "lyrics": "G|--9-12-9--7-9---7---7-----7-9-\nD|--9-12-9--7-9---7---7-----7-9-\nA|--7-10-7--5-7---5---5-----5-7-\nE|------------------7---7-------\n\nV: (E A B)  P: (G A) B7  C: E A B\n\nMidnight, gettin uptight, where are you?\nYou said you'd meet me, now it's quarter to two\nI know I'm hangin' but I'm still wantin' you\n\nHey Jack, it's a fact they're talkin' in town\nI turn my back and you're messin' around\nI'm not getting jealous, don't like lookin' like a clown\n\n  I think of you every night and day\n  You took my heart, and you took my pride away\n\n  I hate myself for loving you\n  Can't break free from the the things that you do\n  I wanna walk but I run back to you\n  That's why I hate myself for loving you\n\n(Intro riff x 2)\n\nDaylight, spent the night without you\nBut I've been dreamin' 'bout the lovin' you do\nI'm over being angry 'bout the hell you put me through\n\nHey man, bet you can't treat me right\nYou just don't know what you was missin' last night\nI wanna see you beggin', say, \"Forget it\" just for spite\n\n  Chorus\n\n  Solo\n\nPC / Chorus acapella\nChorus\n\nOut over intro riff\n",
+    "key": "E",
+    "tempo": ""
+  },
+  "Mama_s_Broken_Heart.Miranda_Lambert": {
+    "name": "Mama's Broken Heart",
+    "artist": "Miranda Lambert",
+    "id": "Mama_s_Broken_Heart.Miranda_Lambert",
+    "lyrics": "I cut my bangs with some rusty kitchen scissors\nI screamed his name 'til the neighbors called the cops\nI numbed the pain at the expense of my liver\nDon't know what I did next, all I know, I couldn't stop\n\nWord got around to the barflies and the Baptists\nMy mama's phone started ringin' off the hook\nI can hear her now sayin' she ain't gonna have it\nDon't matter how you feel, it only matters how you look\n\n  Go and fix your makeup girl, it's just a breakup\n  Run and hide your crazy and start actin' like a lady\n  Cause I raised you better, gotta keep it together\n  Even when you fall apart, but this ain't my mama's broken heart\n\nI wish I could be just a little less dramatic\nLike a Kennedy when Camelot went down in flames\nLeave it to me to be holdin' the matches\nWhen the fire trucks show up and there's nobody else to blame\n\nCan't get revenge and keep a spotless reputation\nSometimes revenge is a choice you gotta make\nMy mama came from a softer generation\nWhere you get a grip and bite your lip just to save a little face\n\n  Chorus\n\nPowder your nose, paint your toes line your lips and keep 'em closed\nCross your legs, dot your I's, and never let 'em see you cry\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Fucking_Perfect.Pink": {
+    "name": "Fucking Perfect",
+    "artist": "Pink",
+    "id": "Fucking_Perfect.Pink",
+    "lyrics": "Made a wrong turn once or twice dug my way out, blood and fire\nBad decisions, that's alright, welcome to my silly life\n\nMistreated, misplaced, misunderstood miss No-Way-It's-All-Good\nIt didn't slow me down\nMistaken, always second guessing underestimated, look, I'm still around\n\n  Pretty, pretty, please, don't you ever, ever feel\n  Like you're less than fucking perfect\n  Pretty, pretty, please, if you ever, ever feel\n  Like you're nothing. You're fucking perfect to me\n\nYou're so mean, when you talk about yourself. You were wrong\nChange the voices, change the voices in your head, in your head\nMake them like you instead\n\nSo complicated look how we all make it\nFilled with so much hatred such a tired game\nIt's enough, I've done all I can think of\nChased down all my demons I've seen you do the same\n\n  Chorus\n\n    The whole world's scared, so I swallow the fear\n    The only thing I should be drinking is an ice-cold beer\n    So cool in lying and we try, try, try but we try too hard\n    And it's a waste of my time\n    Done looking for the critics, 'cause they're everywhere\n    They don't like my jeans, they don't get my hair\n    Exchange ourselves and we do it all the time\n    Why do we do that, why do I do that, why do I do that?\n\nYeah! Oh! Oh, pretty, pretty, pretty\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Bitch.Meredith_Brooks": {
+    "name": "Bitch",
+    "artist": "Meredith Brooks",
+    "id": "Bitch.Meredith_Brooks",
+    "lyrics": "I hate the world today\nYou're so good to me, I know, but I can't change\nTried to tell you but you look at me like maybe\nI'm an angel underneath, innocent and sweet\n\nYesterday I cried\nYou must have been relieved to see the softer side\nI can understand how you'd be so confused\nI don't envy you I'm a little bit of everything all rolled into one\n\n  I'm a bitch, I'm a lover, I'm a child, I'm a mother\n  I'm a sinner, I'm a saint, I do not feel ashamed\n  I'm your hell, I'm your dream, I'm nothing in between\n  You know you wouldn't want it any other way\n\nSo take me as I am\nThis may mean you'll have to be a stronger man\nRest assured that when I start to make you nervous\nAnd I'm going to extremes\nTomorrow I will change and today won't mean a thing\n\n  Chorus\n\n  Solo\n\n    Just when you think you got me figured out\n    The season's already changing\n    I think it's cool, you do what you do\n    And don't try to save me\n\n  Chorus\n\n  I'm a bitch, I'm a tease I'm a goddess on my knees\n  When you hurt, when you suffer I'm your angel undercover\n  I've been numb, I'm revived can't say I'm not alive\n  You know I wouldn't want it any other way\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Just_A_Girl.No_Doubt": {
+    "name": "Just A Girl",
+    "artist": "No Doubt",
+    "id": "Just_A_Girl.No_Doubt",
+    "lyrics": "Take this pink ribbon off my eyes\nI'm exposed, and it's no big surprise\nDon't you think I know exactly where I stand?\nThis world is forcing me to hold your hand\n\n  Cause I'm just a girl, oh, little old me\n  Well don't let me out of your sight\n  Oh I'm just a girl, all pretty and petite\n  So don't let me have any rights\n  Oh, I've had it up to here\n\nThe moment that I step outside\nSo many reasons for me to run and hide\nI can't do the little things I hold so dear\nCause it's all those little things that I fear\n\n  Cause I'm just a girl, I'd rather not be\n  Cause they won't let me drive late at night\n  Oh, I'm just a girl, guess I'm some kind of freak\n  Cause they all sit and stare with their eyes\n  Oh, I'm just a girl, take a good look at me\n  Just your typical prototype\n  Oh, I've had it up to here\n\n    Solo\n\n  Oh, am I making myself clear?\n\nI'm just a girl\nI'm just a girl in the world\nThat's all that you'll let me be\n\n  Oh, I'm just a girl, living in captivity\n  Your rule of thumb makes me worrisome\n  Oh, I'm just a girl, what's my destiny?\n  What I've succumbed to is making me numb\n  Oh, I'm just a girl, my apologies\n  What I've become is so burdensome\n  Oh, I'm just a girl, lucky me\n  Twiddle-dum, there's no comparison\n\n  Oh, I've had it up to\n  Oh, I've had it up to\n  Oh, I've had it up to here",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Bring_Me_To_Life.Evanescence": {
+    "name": "Bring Me To Life",
+    "artist": "Evanescence",
+    "id": "Bring_Me_To_Life.Evanescence",
+    "lyrics": "How can you see into my eyes like open doors?\nLeading you down into my core where I've become so numb\nWithout a soul, my spirit's sleeping somewhere cold\nUntil you find it there and lead it back home\n\n  (Wake me up) Wake me up inside\n  (I can't wake up) Wake me up inside\n  (Save me) Call my name and save me from the dark\n  (Wake me up) Bid my blood to run\n  (I can't wake up) Before I come undone\n  (Save me) Save me from the nothing I've become\n\nNow that I know what I'm without\nYou can't just leave me\nBreathe into me and make me real\nBring me to life\n\n  Chorus\n\n    Bring me to life (I've been living a lie, there's nothing inside)\n    Bring me to life\n\n    Frozen inside without your touch\n    Without your love, darling\n    Only you are the life among the dead\n\n  All this time I can't believe I couldn't see\n  Kept in the dark but you were there in front of me\n  I've been sleeping a thousand years it seems\n  Got to open my eyes to everything\n  Without a thought, without a voice, without a soul\n  Don't let me die here there must be something more\n  Bring me to life\n\n  Chorus\n\n    Bring me to life (I've been living a lie, there's nothing inside)\n    Bring me to life\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Lonely_Is_The_Night.Billy_Squier": {
+    "name": "Lonely Is The Night",
+    "artist": "Billy Squier",
+    "id": "Lonely_Is_The_Night.Billy_Squier",
+    "lyrics": "Lonely is the night when you find yourself alone\nYour demons come to light and your mind is not your own\nLonely is the night when there's no one left to call\nYou feel the time is right (say) the writin's on the wall\n\nIt's a high time to fight when the walls are closin' in\nCall it what you like, It's time you got to win\nLonely, lonely, lonely, your spirit's sinkin' down\nYou find you're not the only stranger in this town\n\n  Red lights, green lights, stop 'n go jive\n  Headlines, deadlines jammin' your mind\n  You been stealin' shots from the side\n  Let your feelin's go for a ride\n\nThere's danger out tonight..the man is on the prowl\nGet the dynamite...the boys are set to prowl\nLonely is the night when you hear the voices call\nAre you ready for a fight, do you wanna take it all\n\n  Slowdown, showdown waitin' on line\n  Showtime, no time for changin' your mind\n  Streets are ringin', march to the sound\n  Let your secrets follow you down\n\n    Somebody's watchin' you baby, so much you can do\n    Nobody's stoppin' you baby, from makin' it too\n    One glimpse'll show you now baby, what the music can do\n    One kiss'll show you now baby, it can happen to you\n\n  Solo\n\n  No more sleepin', wastin' our time\n  Midnight creepin's first on our minds\n  No more lazin' round the tv\n  You'll go crazy. come out with me\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Call_Me.Blondie": {
+    "name": "Call Me",
+    "artist": "Blondie",
+    "id": "Call_Me.Blondie",
+    "lyrics": "Color me your color, baby color me your car\nColor me your color, darling, I know who you are\nCome up off your color chart I know where you're comin' from\n\n  Call me (call me) on the line\n  Call me call me any, anytime\n  Call me (call me) my love\n  You can call me any day or night call me\n\nCover me with kisses, baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come, I don't know why cover up love's alibi\n\n  Call me (call me) on the line\n  Call me, call me any, anytime\n  Call me (call me) oh my love\n  When you're ready we can share the wine\n  Call me\n\n    Ooo-oo-oo-oo-oo, he speaks the languages of love\n    Ooo-oo-oo-oo-oo, amore, chiamami, chiamami\n    Ooo-oo-oo-oo-oo, appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n  Solo\n\n  Call me (call me) my love\n  Call me, call me any, anytime\n  Call me (call me) for a ride\n  Call me, call me for some overtime\n  Call me (call me) my love\n  Call me, call me in a sweet design\n  Call me (call me), call me for your lover's lover's alibi\n  Call me (call me) on the line\n  Call me, call me any, anytime\n  Call me (call me)\n  Oh, call me, oo-hoo-hah\n  Call me (call me) my love\n  Call me, call me any, anytime\n",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Big_City_Nights.Scorpions": {
+    "name": "Big City Nights",
+    "artist": "Scorpions",
+    "id": "Big_City_Nights.Scorpions",
+    "lyrics": "When the daylight is falling down into the night\nAnd the sharks try to cut a big piece out of life\nIt feels alright to go out to catch an outrageous thrill\nBut it's more like spinning wheels of fortune\nWhich never stand still\n\n  Big city, big city nights\n  You keep me burning\n  Big city, big city nights\n\nWhen the sunlight is rising up in my eyes\nAnd the long night has left me back at somebody's side\nIt feels alright for a long sweet minute like hours before\nBut it's more like looking out for something\nI can't find anymore\n\n  Chorus\n\nThere is no dream\nThat you can't make true, if you're looking for love\nBut there's no girl\nWho's burning the ice away from my heart\nMaybe tonight!\n\nBig city, big city nights\nYou keep me burning",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Tell_That_Devil.Jill_Andrews": {
+    "name": "Tell That Devil",
+    "artist": "Jill Andrews",
+    "id": "Tell_That_Devil.Jill_Andrews",
+    "lyrics": "Tell that devil to take you back, take you back, take you back\nMy heart went from red to black, red to black, red to black\nCame up from that lake of fire, lake of fire, lake of fire\nOnly had that one desire, one desire\n\n  Got a mouth full of gasoline\n  Don't you bring your mind in me\n  Well I gave you all I got to give\n  I know that ain't no way to live\n  So I told that devil to take you back\n  I told that devil to take you back\n\nYou came around to watch me break, watch me break, watch me break\nJust another soul to take, soul to take, soul to take\n\n  Sweet shot of kerosene\n  When I threw it back, it poisoned me\n  Well I gave you all I got to give\n  I know that ain't no way to live\n  So I told that devil to take you back\n  I told that devil to take you back\n\n    Solo\n\n    Ooooh-ooh...\n\n  You're a sweet shot of kerosene\n  When I threw it back, it poisoned me\n  Cause I gave you all I got to give\n  I know that ain't no way to live\n  So I told that devil to take you back\n  I told that devil to take you back",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Nothing_But_A_Good_Time.Poison": {
+    "name": "Nothing But A Good Time",
+    "artist": "Poison",
+    "id": "Nothing_But_A_Good_Time.Poison",
+    "lyrics": "Now listen\nNot a dime, I can't pay my rent\nI can barely make it through the week\nSaturday night I'd like to make my girl\nbut right now I can't make ends meet\nI'm always working slaving every day\nGotta get away from that same old same old\nI need a chance just to get away\nIf you could hear me think this is what I'd say\n\n  Don't need nothin' but a good time jow can I resist\n  Ain't looking for nothin' but a good time and it don't get better than this\n\nThey say I spend my money on women and wine\nBut I couldn't tell you where I spent last night\nI'm really sorry about the shape I'm in\nI just like my fun every now and then\nI'm always working slaving every day\nGotta get away from that same old same old\nI need a chance just to get away\nIf you could hear me think this is what I'd say\n\n  Chorus\n\n    You see I raise a toast to all of us\n    Who are breaking our backs every day\n    If wanting the good life is such a crime\n    Lord, then put me away\n    Here's to ya\n\n  Solo\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Hit_Me_With_Your_Best_Shot.Pat_Benatar": {
+    "name": "Hit Me With Your Best Shot",
+    "artist": "Pat Benatar",
+    "id": "Hit_Me_With_Your_Best_Shot.Pat_Benatar",
+    "lyrics": "Well you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nThat's OK, lets see how you do it\nPut up your dukes, lets get down to it\n\n  Hit me with your best shot why don't you hit me\n  With your best shot hit me with your best shot, fire away\n\nYou come on with a \"come on\" you don't fight fair\nBut that's OK, see if I care\nKnock me down, it's all in vain\nI'll get right back on my feet again\n\n  Chorus\n\nWell, you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nBefore I put another notch in my lipstick case\nYou better make sure you put me in my place\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Familiar_Taste_Of_Poison.Halestorm": {
+    "name": "Familiar Taste Of Poison",
+    "artist": "Halestorm",
+    "id": "Familiar_Taste_Of_Poison.Halestorm",
+    "lyrics": "Drink the wine, my darling you said\nTake your time and consume all of it\nBut the roses were only to drain my inspiration\nThe promises were spoiled before they left your lips and\n\n  I breathe you in again just to feel you\n  Underneath my skin, holding on to\n  The sweet escape is always laced with a familiar taste of poison\n\nI tell myself that you're no good for me\nI wish you well, but desire never leaves\nI could fight this til the end\nBut maybe I don't want to win\n\n  I breathe you in again just to feel you\n  Underneath my skin, holding on to\n  The sweet escape is always laced with a familiar taste of poison\n\nI don't wanna be saved, I don't wanna be sober\nI want you on my mind,\nIn my dreams behind these eyes\nAnd I won't wake up, no not this time\n\n  I breathe you in again just to feel you\n  Underneath my skin, holding on to\n  The sweet escape is always laced with a familiar taste of poison\n\nA familiar taste of poison\nA familiar taste of poison",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Something_More.Sugarland": {
+    "name": "Something More",
+    "artist": "Sugarland",
+    "id": "Something_More.Sugarland",
+    "lyrics": "Come on\n\nMonday, hard to wake up,\nFill my coffee cup, I'm out the door\nYeah, the freeway's standing still today,\nIt's gonna make me late, and that's for sure\nI'm running out of gas and out of time\nNever gonna make it there by nine\n\n  There's gotta be something more gotta be more than this\n  I need a little less hard time I need a little more bliss\n  I'm gonna take my chances taking a chance, I might\n  Find what I'm looking for, there's gotta be something more\n\nFive years and there's no doubt\nThat I'm burnt out, I've had enough\nSo now boss man, here's my two weeks\nI'll make it short and sweet, so listen up\nI could work my life away, but why?\nI got things to do before I die\n\n  Chorus\n\n    Some believe in destiny, and some believe in fate\n    I believe that happiness is something we create\n    You best believe that I'm not gonna wait\n    Because there's gotta be something more\n\nI get home 7:30, the house is dirty, but it can wait\nYeah, cause right now, I need some downtime to drink some red wine and celebrate\nYeah, Armageddon could be knocking at my door\nBut I ain't gonna answer, that's for sure .. there's gotta be something\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Ex_s_And_Oh_s.Ellie_King": {
+    "name": "Ex's And Oh's",
+    "artist": "Ellie King",
+    "id": "Ex_s_And_Oh_s.Ellie_King",
+    "lyrics": "Well, I had me a boy, turned him into a man\nI showed him all the things that he didn't understand\nWhoa, and then I let him go\n\nNow there's one in California who's been cursing my name\nCause I found me a better lover in the UK\nHey, until I made my getaway\n\n  One, two, three, they gonna run back to me\n  Cause I'm the best baby that they never gotta keep\n  One, two, three, they gonna run back to me\n  They always wanna come, but they never wanna leave\n\n    Ex's and the oh, oh, oh's they haunt me\n    Like ghosts they want me to make 'em all\n    They won't let go ex's and oh's\n\nI had a summer lover down in New Orleans\nKept him warm in the winter, left him frozen in the spring\nMy, my, how the seasons go by\n\nI get high, and I love to get low\nSo the hearts keep breaking, and the heads just roll\nYou know that's how the story goes\n\n Pre Chorus + Chorus x 2\n\n   Solo\n\n  One, two, three, they gonna run back to me\n  Climbing over mountains and a-sailing over seas\n  One, two, three, they gonna run back to me\n  They always wanna come, but they never wanna leave\n\n    Chorus x 2",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Hot_Stuff.Donna_Summer": {
+    "name": "Hot Stuff",
+    "artist": "Donna Summer",
+    "id": "Hot_Stuff.Donna_Summer",
+    "lyrics": "Sittin' here eatin' my heart out waitin\nWaitin' for some lover to call\nDialed about a thousand numbers lately\nAlmost rang the phone off the wall\n\n  Lookin' for some hot stuff baby this evenin\n  I need some hot stuff baby tonight\n  I want some hot stuff baby this evenin\n  Gotta have some hot stuff gotta have some love tonight\n  I need hot stuff I want some hot stuff I need some hot stuff\n\nLookin' for a lover who needs another\nDon't want another night on my own\nWanna share my love with a warm blooded lover\nWanna bring a wild man back home\n\n  Gotta have some hot love baby this evenin\n  I need some hot stuff baby tonight\n  I want some hot stuff baby this evenin\n  Gotta have some lovin hotta have love tonight\n  I need hot stuff, hot love\n  Lookin' for hot love\n\n    Solo\n\n  Hot hot hot stuff..\n\n  How's about some hot stuff baby this evenin\n  I need some hot stuff baby tonight\n  Lookin' for my hot stuff baby this evenin\n  I need some hot stuff baby tonight, yeah-yeah\n  I want some hot stuff this evenin'\n  I want some hot stuff baby tonight",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Gasoline.Halsey": {
+    "name": "Gasoline",
+    "artist": "Halsey",
+    "id": "Gasoline.Halsey",
+    "lyrics": "Are you insane like me? Been in pain like me?\nBought a hundred dollar bottle of champagne like me?\nJust to pour that motherfucker down the drain like me?\nWould you use your water bill to dry the stain like me?\n\nAre you high enough without the Mary Jane like me?\nDo you tear yourself apart to entertain like me?\nDo the people whisper bout you on the train like me?\nSaying that you shouldn't waste your pretty face like me?\n\n  And all the people say\n\n  You can't wake up, this is not a dream\n  You're part of a machine, you are not a human being\n  With your face all made up, living on a screen\n  Low on self esteem, so you run on gasoline\n  Oh, I think there's a flaw in my code\n  Oh, these voices won't leave me alone\n  Well my heart is gold, and my hands are cold\n\nAre you deranged like me? Are you strange like me?\nLighting matches just to swallow up the flame like me?\nDo you call yourself a fucking hurricane like me?\nPointing fingers cause you'll never take the blame like me?\n\n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Zombie.The_Cranberries": {
+    "name": "Zombie",
+    "artist": "The Cranberries",
+    "id": "Zombie.The_Cranberries",
+    "lyrics": "Em C G D/F#\n\nAnother head hangs lowly child is slowly taken\nThe violence caused such silence who are we mistaken\nBut you see it's not me, it's not my family\nIn your head, in your head, they are fighting\nWith their tanks and their bombs and their bombs and their guns\nin your head, in your head, they are crying\n\n  In your head.. zombie\n  What's in your head.. zombie\n\nAnother mother's breaking heart is taking over\nWhen the violence causes silence we must be mistaken\nIt's the same old theme since 1916\nIn your head...\n\n  Chorus",
+    "key": "Em",
+    "tempo": "undefined"
+  },
+  "I_m_The_Only_One.Melissa_Etheridge": {
+    "name": "I'm The Only One",
+    "artist": "Melissa Etheridge",
+    "id": "I_m_The_Only_One.Melissa_Etheridge",
+    "lyrics": "Please, baby, can't you see my mind's a burnin hell\nI got razors a-rippin and tearin and strippin my heart apart as well\nTonight you told me that you ache for something new\nAnd some other woman is looking like somethin that might be good for you\n\n  Go on and hold her 'til the screaming is gone\n  Go on believe her when she tells you nothing's wrong\n\n  But I'm the only one who'll walk across the fire for you\n  I'm the only one who'll drown in my desire for you\n  It's only fear that makes you run the demons that you're hiding from\n  When all your promises are gone, I'm the only one\n\nPlease baby can't you see I'm trying to explain\nI've been here before and I'm locking the door and I'm not going back again\nHer eyes and arms and skin won't make it go away\nYou'll wake up tomorrow and wrestle the sorrow that holds you down today\n\n  PC + Chorus\n\n    Solo\n\n  PC + Chorus x 2",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "All_Jacked_Up.Gretchen_Wilson": {
+    "name": "All Jacked Up",
+    "artist": "Gretchen Wilson",
+    "id": "All_Jacked_Up.Gretchen_Wilson",
+    "lyrics": "Five of the PM rolls around there's a little old joint outside of town\nI only got time for a couple of beers and a jukebox song ringing in my ears\nThe next you know the bartenders pouring\nShots are flowing got me stoning\nAll I really know is that I should be going but I'm soaking up the moment\n\n  I'm all jacked up all jacked up\n  Don't believe I've ever had this much\n  One thing I've learned when you get tore up\n  Time sure flies when you're all jacked up\n\nIt was getting mighty close to nine o'clock\nWhat the hell I have one more shot\nThen I winked at a boy at the end of the bar\nGuess I mighta musta gone a little too far\nCause a big 'ol girl walked outta the blue\nTen foot, two with a bad attitude\nStepped right up and knocked out my tooth\nGuess I had it coming I deserved the due\n\n  'Cause I was all jacked up all jacked up\n  Don't believe I've ever had this much\n  One thing I've learned when you get tore up\n  Don't start no stuff when you're all jacked up\n\n    Solo\n\nDon't have to go home but you can't stay here\nThat's what they said when I got my last beer\nOh my God, it's 2:00 I can't find my keys and my truck's locked\nSo I grabbed a tire tool and I broke my window\nHurt my elbow got me in though\nTwo foot later backed into the light pole\nAll the town folk got a good show\n\n\n  All jacked up all jacked up\n  Don't believe I've ever had this much\n  One thing I've learned when you get tore up\n  Don't drive your truck\n  When you're all jacked up\n\n  Jacked up (All jacked up, all jacked up)\n  Ooh, ooh, ooh\n\n  One thing I've learned when you get tore up\n  Don't start no stuff\n  When you're all jacked up\n\n  One thing I've learned when you get tore up\n  Don't drive your car\n  Don't start no stuff in no bar\n  Hell I wouldn't even tell anybody where you are\n  When you're all jacked up\n\nAll jacked up\nAll jacked up\nAll jacked up\n\nYeah, yeah, yeah, yeah\n",
     "key": "undefined",
     "tempo": "Tempo"
   }
