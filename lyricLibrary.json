@@ -3439,14 +3439,6 @@
     "key": "C",
     "tempo": "131bpm"
   },
-  "Flowers.Miley_Cyrus": {
-    "name": "Flowers",
-    "artist": "Miley Cyrus",
-    "id": "Flowers.Miley_Cyrus",
-    "lyrics": "We were good, we were gold\nKinda dream that can't be sold\nWe were right 'til we weren't\nBuilt a home and watched it burn\nMm, I didn't wanna leave you, I didn't wanna lie\nStarted to cry, but then remembered I\n\n  I can buy myself flowers, write my name in the sand\n  Talk to myself for hours, say things you don't understand\n  I can take myself dancing, snd I can hold my own hand\n  Yeah, I can love me better than you can\n\n  Can love me better, I can love me better, baby x 2\n\nPaint my nails cherry-red match the roses that you left\nNo remorse, no regret I forgive every word you said\nOoh, I didn't wanna leave you, baby, I didn't wanna fight\nStarted to cry, but then remembered I\n\n  Chorus\n\n  Can love me better, I can love me better, baby x 4\n\nI didn't wanna leave you, I didn't wanna fight\nStarted to cry, but then remembered I\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Poker_Face.Lady_GaGa": {
     "name": "Poker Face",
     "artist": "Lady GaGa",
@@ -3534,14 +3526,6 @@
     "lyrics": "Em C G D/F#\n\nAnother head hangs lowly child is slowly taken\nThe violence caused such silence who are we mistaken\nBut you see it's not me, it's not my family\nIn your head, in your head, they are fighting\nWith their tanks and their bombs and their bombs and their guns\nin your head, in your head, they are crying\n\n  In your head.. zombie\n  What's in your head.. zombie\n\nAnother mother's breaking heart is taking over\nWhen the violence causes silence we must be mistaken\nIt's the same old theme since 1916\nIn your head...\n\n  Chorus",
     "key": "Em",
     "tempo": "undefined"
-  },
-  "I_m_The_Only_One.Melissa_Etheridge": {
-    "name": "I'm The Only One",
-    "artist": "Melissa Etheridge",
-    "id": "I_m_The_Only_One.Melissa_Etheridge",
-    "lyrics": "Please, baby, can't you see my mind's a burnin hell\nI got razors a-rippin and tearin and strippin my heart apart as well\nTonight you told me that you ache for something new\nAnd some other woman is looking like somethin that might be good for you\n\n  Go on and hold her 'til the screaming is gone\n  Go on believe her when she tells you nothing's wrong\n\n  But I'm the only one who'll walk across the fire for you\n  I'm the only one who'll drown in my desire for you\n  It's only fear that makes you run the demons that you're hiding from\n  When all your promises are gone, I'm the only one\n\nPlease baby can't you see I'm trying to explain\nI've been here before and I'm locking the door and I'm not going back again\nHer eyes and arms and skin won't make it go away\nYou'll wake up tomorrow and wrestle the sorrow that holds you down today\n\n  PC + Chorus\n\n    Solo\n\n  PC + Chorus x 2",
-    "key": "undefined",
-    "tempo": "Tempo"
   },
   "Born_To_Be_Wild.Steppenwolf": {
     "name": "Born To Be Wild",
@@ -3803,8 +3787,24 @@
     "name": "Tennessee Whiskey",
     "artist": "Chris Stapleton",
     "id": "Tennessee_Whiskey.Chris_Stapleton",
-    "lyrics": "A -----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE -0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\n'Cause there's nothing like your love to get me high\n\n  Chorus\n\n[Instrumental]\n\n  Chorus\n",
+    "lyrics": "A -----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE -0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\n'Cause there's nothing like your love to get me high\n\n  Chorus\n\n    Solo\n\n  Chorus\n",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "Flowers.Miley_Cyrus": {
+    "name": "Flowers",
+    "artist": "Miley Cyrus",
+    "id": "Flowers.Miley_Cyrus",
+    "lyrics": "CM7\nV: (Am Dm G C) Am Dm E7\nC: (Am Dm G C /b) F E7 Am\n\nWe were good, we were gold, kinda dream that can't be sold\nWe were right til we weren't, built a home and watched it burn\n  Mm, I didn't wanna leave you, I didn't wanna lie\n  Started to cry, but then remembered I\n\n    I can buy myself flowers, write my name in the sand\n    Talk to myself for hours, say things you don't understand\n    I can take myself dancing, snd I can hold my own hand\n    Yeah, I can love me better than you can\n    Can love me better, I can love me better, baby x 2\n\nPaint my nails cherry-red match the roses that you left\nNo remorse, no regret I forgive every word you said\n  Ooh, I didn't wanna leave you, baby, I didn't wanna fight\n  Started to cry, but then remembered I\n\n    Chorus\n\n  I didn't wanna leave you, I didn't wanna fight\n  Started to cry, but then remembered I\n\n    Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "I_m_The_Only_One.Melissa_Etheridge": {
+    "name": "I'm The Only One",
+    "artist": "Melissa Etheridge",
+    "id": "I_m_The_Only_One.Melissa_Etheridge",
+    "lyrics": "V: G\nC: (Am D) (G F Em) (Am C F C G)\nS: (F G)\n\nPlease, baby, can't you see my mind's a burnin hell\nI got razors a-rippin and tearin and strippin my heart apart as well\nTonight you told me that you ache for something new\nAnd some other woman is looking like somethin that might be good for you\n\n  Go on and hold her 'til the screaming is gone\n  Go on believe her when she tells you nothing's wrong\n\n  But I'm the only one who'll walk across the fire for you\n  I'm the only one who'll drown in my desire for you\n  It's only fear that makes you run the demons that you're hiding from\n  When all your promises are gone, I'm the only one\n\nPlease baby can't you see I'm trying to explain\nI've been here before and I'm locking the door and I'm not going back again\nHer eyes and arms and skin won't make it go away\nYou'll wake up tomorrow and wrestle the sorrow that holds you down today\n\n  PC + Chorus\n\n    Solo\n\n  PC + Chorus x 2",
+    "key": "G",
     "tempo": "Tempo"
   }
 }
