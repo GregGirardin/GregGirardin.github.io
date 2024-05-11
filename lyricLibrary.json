@@ -3615,14 +3615,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Tennessee_Whiskey.Chris_Stapleton": {
-    "name": "Tennessee Whiskey",
-    "artist": "Chris Stapleton",
-    "id": "Tennessee_Whiskey.Chris_Stapleton",
-    "lyrics": "Used to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\n'Cause there's nothing like your love to get me high\n\n  Chorus\n\n[Instrumental]\n\n  Chorus\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "I_Kissed_A_Girl.Katy_Perry": {
     "name": "I Kissed A Girl",
     "artist": "Katy Perry",
@@ -3805,6 +3797,14 @@
     "id": "Bitch.Meredith_Brooks",
     "lyrics": "I: A E D\nV: (A E D) F#m Bm D\nC: A E Bm D - A E F#m D\nB: (E F#m D)\n\nI hate the world today\nYou're so good to me, I know, but I can't change\nTried to tell you but you look at me like maybe\nI'm an angel underneath, innocent and sweet\n\nYesterday I cried\nYou must have been relieved to see the softer side\nI can understand how you'd be so confused\nI don't envy you I'm a little bit of everything all rolled into one\n\n  I'm a bitch, I'm a lover, I'm a child, I'm a mother\n  I'm a sinner, I'm a saint, I do not feel ashamed\n  I'm your hell, I'm your dream, I'm nothing in between\n  You know you wouldn't want it any other way\n\nSo take me as I am\nThis may mean you'll have to be a stronger man\nRest assured that when I start to make you nervous\nAnd I'm going to extremes\nTomorrow I will change and today won't mean a thing\n\n  Chorus\n\n  Solo\n\n    Just when you think you got me figured out\n    The season's already changing\n    I think it's cool, you do what you do\n    And don't try to save me\n\n  Chorus\n\n  I'm a bitch, I'm a tease I'm a goddess on my knees\n  When you hurt, when you suffer I'm your angel undercover\n  I've been numb, I'm revived can't say I'm not alive\n  You know I wouldn't want it any other way\n",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Tennessee_Whiskey.Chris_Stapleton": {
+    "name": "Tennessee Whiskey",
+    "artist": "Chris Stapleton",
+    "id": "Tennessee_Whiskey.Chris_Stapleton",
+    "lyrics": "A -----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE -0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\n'Cause there's nothing like your love to get me high\n\n  Chorus\n\n[Instrumental]\n\n  Chorus\n",
+    "key": "A",
     "tempo": "Tempo"
   }
 }
