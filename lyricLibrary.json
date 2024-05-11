@@ -3751,14 +3751,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Everybody_Talks.Neon_Trees": {
-    "name": "Everybody Talks",
-    "artist": "Neon Trees",
-    "id": "Everybody_Talks.Neon_Trees",
-    "lyrics": "V: (D G) A\nC: D G A G - D F# G A D\nB: G D G A\nS: D\n\nHey, baby, won't you look my way?\nI can be your new addiction\nHey, baby, what you gotta say?\nAll you're giving me is fiction\n\nI'm a sorry sucker and this happens all the time\nI found out that everybody talks\n\n  It started with a whisper and that was when I kissed her\n  And then she made my lips hurt I could hear the chit-chat\n  Take me to your love shack mama's always gotta back-track\n  When everybody talks back\n\nHey honey, you could be my drug\nYou could be my new prescription\nToo much could be an overdose\nAll this trash talk make me itchin\nOh my, my, shit everybody talks..\n\n  Chorus\n\n    Never thought I'd live to see the day (ooh-ah)\n    When everybody's words got in the way, oh!\n\n  Solo\n\nHey sugar, show me all your love\nAll you're giving me is friction\nHey sugar, what you gotta say?\n\n  Chorus\n\nEverybody talks, everybody talks (oh-oh)\nEverybody talks, everybody talks (oh-oh)\nEverybody talks, everybody talks back\nIt started with a whisper (everybody talks, everybody talks, oh-oh)\nAnd that was when I kissed her (everybody talks, everybody talks, oh-oh)",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Fuckin_Perfect.Pink": {
     "name": "Fuckin Perfect",
     "artist": "Pink",
@@ -3805,6 +3797,14 @@
     "id": "Something_More.Sugarland",
     "lyrics": "I: E B A B E\nV: (E B C#m A) (B A)\nC: (E B A) (C#m B A F#m A)\nB: (A B) (E B A)\n\nCome on\n\nMonday, hard to wake up, fill my coffee cup, I'm out the door\nYeah, the freeway's standing still today, it's gonna make me late, and that's for sure\nI'm running out of gas and out of time\nNever gonna make it there by nine\n\n  There's gotta be something more gotta be more than this\n  I need a little less hard time I need a little more bliss\n  I'm gonna take my chances taking a chance, I might\n  Find what I'm looking for, there's gotta be something more\n\nFive years and there's no doubt that I'm burnt out, I've had enough\nSo now boss man, here's my two weeks I'll make it short and sweet, so listen up\nI could work my life away, but why?\nI got things to do before I die\n\n  Chorus\n\n    Some believe in destiny, and some believe in fate\n    I believe that happiness is something we create\n    You best believe that I'm not gonna wait\n    Because there's gotta be something more\n\nI get home 7:30, the house is dirty, but it can wait\nYeah, cause right now, I need some downtime to drink some red wine and celebrate\nYeah, Armageddon could be knocking at my door\nBut I ain't gonna answer, that's for sure .. there's gotta be something\n\n  Chorus",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Everybody_Talks.Neon_Trees": {
+    "name": "Everybody Talks",
+    "artist": "Neon Trees",
+    "id": "Everybody_Talks.Neon_Trees",
+    "lyrics": "V: (D G) A\nC: D G A G - D F# G A D\nB: G D G A\nS: D\n\nHey, baby, won't you look my way? I can be your new addiction\nHey, baby, what you gotta say? All you're giving me is fiction\nI'm a sorry sucker and this happens all the time\nI found out that everybody talks\n\n  It started with a whisper and that was when I kissed her\n  And then she made my lips hurt I could hear the chit chat\n  Take me to your love shack mama's always gotta backtrack\n  When everybody talks back\n\nHey honey, you could be my drug you could be my new prescription\nToo much could be an overdose all this trash talk make me itchin\nOh my, my, shit everybody talks.. too much\n\n  Chorus\n\n    Never thought I'd live to see the day (ooh-ah)\n    When everybody's words got in the way, oh!\n\n  Solo\n\nHey sugar, show me all your love\nAll you're giving me is friction\nHey sugar, what you gotta say?\n\n  Chorus\n\nEverybody talks, everybody talks (oh-oh)\nEverybody talks, everybody talks (oh-oh)\nEverybody talks, everybody talks back\nIt started with a whisper (everybody talks, everybody talks, oh-oh)\nAnd that was when I kissed her (everybody talks, everybody talks, oh-oh)",
+    "key": "D",
     "tempo": "Tempo"
   }
 }
