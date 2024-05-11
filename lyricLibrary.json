@@ -3767,14 +3767,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Call_Me.Blondie": {
-    "name": "Call Me",
-    "artist": "Blondie",
-    "id": "Call_Me.Blondie",
-    "lyrics": "Color me your color, baby color me your car\nColor me your color, darling, I know who you are\nCome up off your color chart I know where you're comin' from\n\n  Call me (call me) on the line\n  Call me call me any, anytime\n  Call me (call me) my love\n  You can call me any day or night call me\n\nCover me with kisses, baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come, I don't know why cover up love's alibi\n\n  Call me (call me) on the line\n  Call me, call me any, anytime\n  Call me (call me) oh my love\n  When you're ready we can share the wine\n  Call me\n\n    Ooo-oo-oo-oo-oo, he speaks the languages of love\n    Ooo-oo-oo-oo-oo, amore, chiamami, chiamami\n    Ooo-oo-oo-oo-oo, appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n  Solo\n\n  Call me (call me) my love\n  Call me, call me any, anytime\n  Call me (call me) for a ride\n  Call me, call me for some overtime\n  Call me (call me) my love\n  Call me, call me in a sweet design\n  Call me (call me), call me for your lover's lover's alibi\n  Call me (call me) on the line\n  Call me, call me any, anytime\n  Call me (call me)\n  Oh, call me, oo-hoo-hah\n  Call me (call me) my love\n  Call me, call me any, anytime\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Bitch.Meredith_Brooks": {
     "name": "Bitch",
     "artist": "Meredith Brooks",
@@ -3805,6 +3797,14 @@
     "id": "I_m_The_Only_One.Melissa_Etheridge",
     "lyrics": "V: G\nC: (Am D) (G F Em) (Am C F C G)\nS: (F G)\n\nPlease, baby, can't you see my mind's a burnin hell\nI got razors a-rippin and tearin and strippin my heart apart as well\nTonight you told me that you ache for something new\nAnd some other woman is looking like somethin that might be good for you\n\n  Go on and hold her 'til the screaming is gone\n  Go on believe her when she tells you nothing's wrong\n\n  But I'm the only one who'll walk across the fire for you\n  I'm the only one who'll drown in my desire for you\n  It's only fear that makes you run the demons that you're hiding from\n  When all your promises are gone, I'm the only one\n\nPlease baby can't you see I'm trying to explain\nI've been here before and I'm locking the door and I'm not going back again\nHer eyes and arms and skin won't make it go away\nYou'll wake up tomorrow and wrestle the sorrow that holds you down today\n\n  PC + Chorus\n\n    Solo\n\n  PC + Chorus x 2",
     "key": "G",
+    "tempo": "Tempo"
+  },
+  "Call_Me.Blondie": {
+    "name": "Call Me",
+    "artist": "Blondie",
+    "id": "Call_Me.Blondie",
+    "lyrics": "I: Dm [G F][F C]\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A\n\nColor me your color, baby color me your car\nColor me your color, darling, I know who you are\nCome up off your color chart I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses, baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come, I don't know why cover up love's alibi\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo, he speaks the languages of love\n    Ooo, amore, chiamami, chiamami\n    Ooo, appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n  Solo\n\n  Call me my love\n  Call me, call me any, anytime\n  Call me for a ride\n  Call me, call me for some overtime\n  Call me my love\n  Call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line\n  Call me, call me any, anytime\n  Call me\n  Oh, call me, oo-hoo-hah\n  Call me my love\n  Call me, call me any, anytime\n",
+    "key": "Dm",
     "tempo": "Tempo"
   }
 }
