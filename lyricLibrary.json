@@ -3719,14 +3719,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Shut_Up_And_Dance.Walk_The_Moon": {
-    "name": "Shut Up And Dance",
-    "artist": "Walk The Moon",
-    "id": "Shut_Up_And_Dance.Walk_The_Moon",
-    "lyrics": "  Oh don't you dare look back just keep your eyes on me\n\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night\nThe chemical, physical, kryptonite\nHelpless to the bass and faded light\nOh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks\nMy discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me\nI knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n    Solo\n\nDeep in her eyes\nI think I see the future\nI realize this is my last chance\nShe took my arm\nI don't know how it happened\nWe took the floor and she said\n\n    [DANA, LET IT BREATHE HERE!!!]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n\n    Ooh-hoo, shut up and dance with me\n",
-    "key": "C#",
-    "tempo": "128bpm"
-  },
   "Something_More.Sugarland": {
     "name": "Something More",
     "artist": "Sugarland",
@@ -3806,5 +3798,13 @@
     "lyrics": "I: Dm [G F][F C]\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A\n\nColor me your color, baby color me your car\nColor me your color, darling, I know who you are\nCome up off your color chart I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses, baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come, I don't know why cover up love's alibi\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo, he speaks the languages of love\n    Ooo, amore, chiamami, chiamami\n    Ooo, appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n  Solo\n\n  Call me my love\n  Call me, call me any, anytime\n  Call me for a ride\n  Call me, call me for some overtime\n  Call me my love\n  Call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line\n  Call me, call me any, anytime\n  Call me\n  Oh, call me, oo-hoo-hah\n  Call me my love\n  Call me, call me any, anytime\n",
     "key": "Dm",
     "tempo": "Tempo"
+  },
+  "Shut_Up_And_Dance.Walk_The_Moon": {
+    "name": "Shut Up And Dance",
+    "artist": "Walk The Moon",
+    "id": "Shut_Up_And_Dance.Walk_The_Moon",
+    "lyrics": "I: C# arp  Verse: C# octaves\nP: C# F# - Bbm C# G# F# - C# F# - G# \nC: C# F# Bbm G#\nS: Bbm C# F# G#\n\n  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night the chemical, physical, kryptonite\nHelpless to the bass and faded light, oh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks my discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me, I knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n      Solo\n\n  Deep in her eyes I think I see the future\n  I realize this is my last chance\n  She took my arm I don't know how it happened\n  We took the floor and she said\n\n    Intro Arpeggio [LET IT BREATHE HERE]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n",
+    "key": "C#",
+    "tempo": "128bpm"
   }
 }
