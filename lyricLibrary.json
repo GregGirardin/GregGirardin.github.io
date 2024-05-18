@@ -3583,14 +3583,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "So_What.Pink": {
-    "name": "So What",
-    "artist": "Pink",
-    "id": "So_What.Pink",
-    "lyrics": "Na na na na..\n\nI guess I just lost my husband I don't know where he went\nSo I'm gonna drink my money I'm not gonna pay his rent (nope)\nI got a brand new attitude and I'm gonna wear it tonight\nI wanna get in trouble I wanna start a fight\nNa na na na na na na I wanna start a fight\nNa na na na na na na I wanna start a fight\n\n  So, so what? I'm still a rock star\n  I got my rock moves and I don't need you\n  And guess what? I'm having more fun\n  And now that we're done I'm gonna show you tonight\n  I'm alright, I'm just fine\n  And you're a tool \n  So, so what?\n  I am a rock star I got my rock moves and I don't want you tonight\n\n(Uh check my flow, uh)\n\nThe waiter just took my table and gave it to Jessica Simps (shit!)\nI guess I'll go sit with drum boy at least he'll know how to hit (oops!)\nWhat if this song's on the radio then somebody's gonna die (ha ha)\nI'm gonna get in trouble my ex will start a fight\nNa na na na na na na he's gonna start a fight (huh)\nNa na na na na na na we're all gonna get in a fight!\n\n  Chorus\n\n    You weren't there you never were\n    You want it all but that's not fair\n    I gave you life I gave my all\n    You weren't there you let me fall\n\n  Chorus\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Folsom_Prison_Blues.Johnny_Cash": {
     "name": "Folsom Prison Blues",
     "artist": "Johnny Cash",
@@ -3821,6 +3813,14 @@
     "id": "Here_For_The_Party.Gretchen_Wilson",
     "lyrics": "D|------0--------0---------0--------------\nA|----------0-3----------------0-3-3-2-0---\nD|-0-0--------------3-0-0-----------------\n\nV: D (D C) G A\nC: D C G/B D\nB: G A\n\nI'm an eight-ball shooting double fisted drinking son-of-a-gun\nI wear my jeans a little tight just to watch the little boys come undone\nI'm here for the beer and the ball busting band\nGonna get a little crazy just because I can\n\n  You know I'm here for the party\n  And I ain't leaving till they throw me out\n  Gonna have a little fun gonna get me some\n  You know I'm here, I'm here for the party\n\nI may not be a ten but the boys say I clean up good\nAnd if I gave em half a chance for some rowdy romance you know they would\nI've been waiting all week just to have a good time\nSo bring on them cowboys and their pick up lines\n\n  Chorus\n\n    Solo\n\n    Don't want no purple hooter shooter\n    Just some Jack on the rocks\n    Don't mind me if I start that trashy talk\n\n  Chorus x 2",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "So_What.Pink": {
+    "name": "So What",
+    "artist": "Pink",
+    "id": "So_What.Pink",
+    "lyrics": "F# Pent riff (A C#m F#m D)\n\nNa na na na..\n\nI guess I just lost my husband I don't know where he went\nSo I'm gonna drink my money I'm not gonna pay his rent (nope)\nI got a brand new attitude and I'm gonna wear it tonight\nI wanna get in trouble I wanna start a fight\nNa na na na na na na I wanna start a fight\nNa na na na na na na I wanna start a fight\n\n  So, so what? I'm still a rock star\n  I got my rock moves and I don't need you\n  And guess what? I'm having more fun\n  And now that we're done I'm gonna show you tonight\n  I'm alright, I'm just fine\n  And you're a tool \n  So, so what?\n  I am a rock star I got my rock moves and I don't want you tonight\n\n(Uh check my flow, uh)\n\nThe waiter just took my table and gave it to Jessica Simps (shit!)\nI guess I'll go sit with drum boy at least he'll know how to hit (oops!)\nWhat if this song's on the radio then somebody's gonna die (ha ha)\nI'm gonna get in trouble my ex will start a fight\nNa na na na na na na he's gonna start a fight (huh)\nNa na na na na na na we're all gonna get in a fight!\n\n  Chorus\n\n    You weren't there you never were\n    You want it all but that's not fair\n    I gave you life I gave my all\n    You weren't there you let me fall\n\n  Chorus\n",
+    "key": "A",
     "tempo": "Tempo"
   }
 }
