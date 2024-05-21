@@ -3456,14 +3456,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Bring_Me_To_Life.Evanescence": {
-    "name": "Bring Me To Life",
-    "artist": "Evanescence",
-    "id": "Bring_Me_To_Life.Evanescence",
-    "lyrics": "How can you see into my eyes like open doors?\nLeading you down into my core where I've become so numb\nWithout a soul, my spirit's sleeping somewhere cold\nUntil you find it there and lead it back home\n\n  (Wake me up) Wake me up inside\n  (I can't wake up) Wake me up inside\n  (Save me) Call my name and save me from the dark\n  (Wake me up) Bid my blood to run\n  (I can't wake up) Before I come undone\n  (Save me) Save me from the nothing I've become\n\nNow that I know what I'm without\nYou can't just leave me\nBreathe into me and make me real\nBring me to life\n\n  Chorus\n\n    Bring me to life (I've been living a lie, there's nothing inside)\n    Bring me to life\n\n    Frozen inside without your touch\n    Without your love, darling\n    Only you are the life among the dead\n\n  All this time I can't believe I couldn't see\n  Kept in the dark but you were there in front of me\n  I've been sleeping a thousand years it seems\n  Got to open my eyes to everything\n  Without a thought, without a voice, without a soul\n  Don't let me die here there must be something more\n  Bring me to life\n\n  Chorus\n\n    Bring me to life (I've been living a lie, there's nothing inside)\n    Bring me to life\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Lonely_Is_The_Night.Billy_Squier": {
     "name": "Lonely Is The Night",
     "artist": "Billy Squier",
@@ -3823,5 +3815,13 @@
     "lyrics": "Hey\n\nWhat I like about you, you hold me tight\nTell me I'm the only one wanna come over tonight, yeah\n\nKeep on whispering in my ear\nTell me all the things that I wanna hear\n'Cause it's true\nThat's what I like about you\n\nWhat I like about you, you really know how to dance\nWhen you go up, down, jump around think about true romance, yeah\n\nKeep on..\n\nWhat I like about you you keep me warm at night\nNever wanna let you go know you make me feel all right, yeah\n\nKeep on...",
     "key": "E",
     "tempo": "undefined"
+  },
+  "Bring_Me_To_Life.Evanescence": {
+    "name": "Bring Me To Life",
+    "artist": "Evanescence",
+    "id": "Bring_Me_To_Life.Evanescence",
+    "lyrics": "I: Em C  V: E5\nC: E5 G5 D5 E5 - (C5 D5 E5)\nV: E F# G B - A5 G5 F#5, A5 G5 B5\nI: E5\n\nHow can you see into my eyes like open doors?\nLeading you down into my core where I've become so numb\nWithout a soul, my spirit's sleeping somewhere cold\nUntil you find it there and lead it back home (2/4)\n\n  (Wake me up)      Wake me up inside\n  (I can't wake up) Wake me up inside\n  (Save me)         Call my name and save me from the dark\n  (Wake me up)      Bid my blood to run\n  (I can't wake up) Before I come undone\n  (Save me)         Save me from the nothing I've become\n\nNow that I know what I'm without\nYou can't just leave me\nBreathe into me and make me real\nBring me to life (4/4)\n\n  Chorus +\n\n  Bring me to life (I've been living a lie, there's nothing inside)\n  Bring me to life\n\n    Frozen inside without your touch\n    Without your love, darling\n    Only you are the life among the dead\n\n      All this time I can't believe I couldn't see\n      Kept in the dark but you were there in front of me\n      I've been sleeping a thousand years it seems\n      Got to open my eyes to everything\n      Without a thought, without a voice, without a soul\n      Don't let me die here there must be something more\n      Bring me to life\n\n  Chorus + 'Bring me to life'\n",
+    "key": "Em",
+    "tempo": "Tempo"
   }
 }
