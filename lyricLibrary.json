@@ -3552,14 +3552,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "I_Kissed_A_Girl.Katy_Perry": {
-    "name": "I Kissed A Girl",
-    "artist": "Katy Perry",
-    "id": "I_Kissed_A_Girl.Katy_Perry",
-    "lyrics": "This was never the way I planned, not my intention\nI got so brave, drink in hand, lost my discretion\nIt's not what I'm used to, just wanna try you on\nI'm curious for you, caught my attention\n\n  I kissed a girl and I liked it\n  The taste of her cherry chapstick\n  I kissed a girl just to try it\n  I hope my boyfriend don't mind it\n  It felt so wrong it felt so right\n  Don't mean I'm in love tonight\n  I kissed a girl and I liked it, I liked it\n\nNo, I don't even know your name, it doesn't matter\nYou're my experimental game, just human nature\nIt's not what good girls do, not how they should behave\nMy head gets so confused, hard to obey\n\n  Chorus\n\nUs girls we are so magical\nSoft skin, red lips, so kissable\nHard to resist, so touchable\nToo good to deny it\nAin't no big deal, it's innocent\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Communication_Breakdown.Led_Zeppelin": {
     "name": "Communication Breakdown",
     "artist": "Led Zeppelin",
@@ -3830,6 +3822,14 @@
     "id": "Here_For_The_Party.Gretchen_Wilson",
     "lyrics": "D|-----0-----0-------0------------\nA|-------0-3-----------0-3-3-2-0--\nD|-0-0---------3-0-0--------------\n\nV: D (D C) G A\nC: D C G/B D\nB: G A\n\nI'm an eight-ball shooting double fisted drinking son-of-a-gun\nI wear my jeans a little tight just to watch the little boys come undone\nI'm here for the beer and the ball busting band\nGonna get a little crazy just because I can\n\n  You know I'm here for the party\n  And I ain't leaving till they throw me out\n  Gonna have a little fun gonna get me some\n  You know I'm here, I'm here for the party\n\nI may not be a ten but the boys say I clean up good\nAnd if I gave em half a chance for some rowdy romance you know they would\nI've been waiting all week just to have a good time\nSo bring on them cowboys and their pick up lines\n\n  Chorus\n\n    Solo\n\n    Don't want no purple hooter shooter just some Jack on the rocks\n    Don't mind me if I start that trashy talk\n\n  Chorus .. break (I I) .. Chorus",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "I_Kissed_A_Girl.Katy_Perry": {
+    "name": "I Kissed A Girl",
+    "artist": "Katy Perry",
+    "id": "I_Kissed_A_Girl.Katy_Perry",
+    "lyrics": "V: Am C Dm F E\nB: (F E Am G) Dm\n\nThis was never the way I planned, not my intention\nI got so brave, drink in hand, lost my discretion\nIt's not what I'm used to, just wanna try you on\nI'm curious for you, caught my attention\n\n  I kissed a girl and I liked it the taste of her cherry chapstick\n  I kissed a girl just to try it I hope my boyfriend don't mind it\n  It felt so wrong it felt so right don't mean I'm in love tonight\n  I kissed a girl and I liked it, I liked it\n\nNo, I don't even know your name, it doesn't matter\nYou're my experimental game, just human nature\nIt's not what good girls do, not how they should behave\nMy head gets so confused, hard to obey\n\n  Chorus\n\n    Us girls we are so magical, soft skin, red lips, so kissable\n    Hard to resist, so touchable too good to deny it\n    Ain't no big deal it's innocent\n\n  Chorus",
+    "key": "Am",
     "tempo": "Tempo"
   }
 }
