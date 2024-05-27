@@ -3472,14 +3472,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Nothing_But_A_Good_Time.Poison": {
-    "name": "Nothing But A Good Time",
-    "artist": "Poison",
-    "id": "Nothing_But_A_Good_Time.Poison",
-    "lyrics": "Now listen\nNot a dime, I can't pay my rent\nI can barely make it through the week\nSaturday night I'd like to make my girl\nbut right now I can't make ends meet\nI'm always working slaving every day\nGotta get away from that same old same old\nI need a chance just to get away\nIf you could hear me think this is what I'd say\n\n  Don't need nothin' but a good time jow can I resist\n  Ain't looking for nothin' but a good time and it don't get better than this\n\nThey say I spend my money on women and wine\nBut I couldn't tell you where I spent last night\nI'm really sorry about the shape I'm in\nI just like my fun every now and then\nI'm always working slaving every day\nGotta get away from that same old same old\nI need a chance just to get away\nIf you could hear me think this is what I'd say\n\n  Chorus\n\n    You see I raise a toast to all of us\n    Who are breaking our backs every day\n    If wanting the good life is such a crime\n    Lord, then put me away\n    Here's to ya\n\n  Solo\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Familiar_Taste_Of_Poison.Halestorm": {
     "name": "Familiar Taste Of Poison",
     "artist": "Halestorm",
@@ -3830,6 +3822,14 @@
     "id": "I_Kissed_A_Girl.Katy_Perry",
     "lyrics": "V: Am C Dm F E\nB: (F E Am G) Dm\n\nThis was never the way I planned, not my intention\nI got so brave, drink in hand, lost my discretion\nIt's not what I'm used to, just wanna try you on\nI'm curious for you, caught my attention\n\n  I kissed a girl and I liked it the taste of her cherry chapstick\n  I kissed a girl just to try it I hope my boyfriend don't mind it\n  It felt so wrong it felt so right don't mean I'm in love tonight\n  I kissed a girl and I liked it, I liked it\n\nNo, I don't even know your name, it doesn't matter\nYou're my experimental game, just human nature\nIt's not what good girls do, not how they should behave\nMy head gets so confused, hard to obey\n\n  Chorus\n\n    Us girls we are so magical, soft skin, red lips, so kissable\n    Hard to resist, so touchable too good to deny it\n    Ain't no big deal it's innocent\n\n  Chorus",
     "key": "Am",
+    "tempo": "Tempo"
+  },
+  "Nothing_But_A_Good_Time.Poison": {
+    "name": "Nothing But A Good Time",
+    "artist": "Poison",
+    "id": "Nothing_But_A_Good_Time.Poison",
+    "lyrics": "Now listen\nNot a dime, I can't pay my rent I can barely make it through the week\nSaturday night I'd like to make my girl but right now I can't make ends meet\nI'm always working slaving every day gotta get away from that same old same old\nI need a chance just to get away if you could hear me think this is what I'd say\n\n  Don't need nothin' but a good time jow can I resist\n  Ain't looking for nothin' but a good time and it don't get better than this\n\nThey say I spend my money on women and wine but I couldn't tell you where I spent last night\nI'm really sorry about the shape I'm in I just like my fun every now and then\nI'm always working slaving every day gotta..\n\n  Chorus\n\n    You see I raise a toast to all of us who are breaking our backs every day\n    If wanting the good life is such a crime, Lord, then put me away\n    Here's to ya\n\n  Solo\n\n  Chorus",
+    "key": "A",
     "tempo": "Tempo"
   }
 }
