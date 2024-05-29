@@ -1720,14 +1720,6 @@
     "key": "Em",
     "tempo": "106"
   },
-  "Kickstart_My_Heart.Motley_Crue": {
-    "name": "Kickstart My Heart",
-    "artist": "Motley Crue",
-    "id": "Kickstart_My_Heart.Motley_Crue",
-    "lyrics": "When I get high I get high on speed top fuel funny car's a drug for me\nMy heart, my heart, kick start my heart\nAlways got the cops coming after me custom-built bike doing 103\nMy heart, my heart kick start my heart\n\n  Oh, are you ready girls? Oh, are you ready now?\n  Whoa, yeah kick start my heart, give it a start,whoa, yeah, baby\n  Whoa, yeah kick start my heart, hope it never stops\n  Whoa, yeah, baby, yeah\n\nSkydive naked from an aeroplane or a lady with a body from outer space\nMy heart, my heart kick start my heart\nSay I got trouble, trouble in my eyes I'm just looking for another good time\nMy heart, my heart kick start my heart\n\n  Chorus\n\n    When we started this band all we needed, needed was a laugh\n    Years gone by, I'd say we've kicked some ass\n    When I'm enraged or hittin' the stage adrenaline rushing through my veins\n    And I'd say we're still kickin' ass\n\n    I say, ooh ah, kick start my heart\n    I hope it never stops\n    And to think, we did all of this to rock\n\n  Chorus\n\n  Okay boys, let's rock the house",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Fat_Bottom_Girls.Queen": {
     "name": "Fat Bottom Girls",
     "artist": "Queen",
@@ -3830,6 +3822,54 @@
     "id": "Nothing_But_A_Good_Time.Poison",
     "lyrics": "Now listen\nNot a dime, I can't pay my rent I can barely make it through the week\nSaturday night I'd like to make my girl but right now I can't make ends meet\nI'm always working slaving every day gotta get away from that same old same old\nI need a chance just to get away if you could hear me think this is what I'd say\n\n  Don't need nothin' but a good time jow can I resist\n  Ain't looking for nothin' but a good time and it don't get better than this\n\nThey say I spend my money on women and wine but I couldn't tell you where I spent last night\nI'm really sorry about the shape I'm in I just like my fun every now and then\nI'm always working slaving every day gotta..\n\n  Chorus\n\n    You see I raise a toast to all of us who are breaking our backs every day\n    If wanting the good life is such a crime, Lord, then put me away\n    Here's to ya\n\n  Solo\n\n  Chorus",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "I_Won_t_Forget_You.Poison": {
+    "name": "I Won't Forget You",
+    "artist": "Poison",
+    "id": "I_Won_t_Forget_You.Poison",
+    "lyrics": "Lyrics",
+    "key": "",
+    "tempo": "Tempo"
+  },
+  "Get_Back.Beatles": {
+    "name": "Get Back",
+    "artist": "Beatles",
+    "id": "Get_Back.Beatles",
+    "lyrics": "A D A G D\n\nJojo was a man who thought he was a loner\nBut he knew it wouldn't last.\nJojo left his home in Tucson, Arizona\nFor some California grass.\n\n  Get back, get back, get back to where you once belonged x 2\n  Get back Jojo\n\nSweet Loretta Martin thought she was a woman\nBut she was another man\nAll the girls around her say she's got it coming\nBut she gets it while she can\n\n  Chorus\n  Get back Loretta. go home\n\nGet back Lorettam your mommy's waiting for you\nWearing her high-heel shoes\nAnd her low-neck sweater\nGet on home Loretta\nGet back, get back.\nGet back to where you once belonged.\n",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Fast_Car.Tracy_Chapman": {
+    "name": "Fast Car",
+    "artist": "Tracy Chapman",
+    "id": "Fast_Car.Tracy_Chapman",
+    "lyrics": "V: D A F#m E\nC: D A F#m E - (D F#m E) D E\n\nYou got a fast car I want a ticket to anywhere\nMaybe we make a deal, maybe together we can get somewhere\nAny place is better, starting from zero, got nothing to lose\nMaybe we'll make something, me, myself, I got nothing to prove\n\nYou got a fast car I got a plan to get us outta here\nI been working at the convenience store managed to save just a little bit of money\nWon't have to drive too far, just across the border and into the city\nYou and I can both get jobs, finally see what it means to be living\n\nSee, my old man's got a problem, he lives with a bottle, that's the way it is\nHe says his body's too old for workin, his body's too young to look like his\nWhen mama went off and left him she wanted more from life than he could give\nI said, \"Somebody's gotta take care of him\", I quit school and that's what I did\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n\n  So I remember when we were drivin', drivin' in your car\n  Speed so fast, I felt like I was drunk\n  City lights lay out before us and your arm felt nice wrapped round my shoulder\n  And I had a feeling that I belonged\n  I had a feeling I could be someone be someone\n\nYou got a fast car we go cruisin', entertain ourselves\nYou still ain't got a job and I work in a market as a checkout girl\nI know things will get better you'll find work and I'll get promoted\nAnd we'll move out of the shelter, buy a bigger house and live in the suburbs\n\n  Chorus\n\nYou got a fast car I got a job that pays all our bills\nYou stay out drinkin late at the bar see more of your friends than you do of your kids\nI'd always hoped for better thought maybe together, you and me'd find it\nI got no plans, I ain't going nowhere so take your fast car and keep on drivin\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n",
+    "key": "D",
+    "tempo": "Tempo"
+  },
+  "Wait.White_Lion": {
+    "name": "Wait",
+    "artist": "White Lion",
+    "id": "Wait.White_Lion",
+    "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (Bb5 F#5)\nC: D A G A - D A Em A - D A G A - D A C G Bb F A\n\nE|5-5-3-3-1-|-----------\nB|7-5-5-4-3-|--5-5-3-3-\nG|7-6-5-4-3-|--6-0-2-2-\nD|0---------|--7-7-4-3--\nA|----------|--0--------\nE|----------|-----------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin' like it was before\n'Cause I won't let that feelin' walk out through the door\nI said wait, just a moment and try once more\n'Cause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait I never had a chance to love you\n    Wait, wait if only our love could show you\n    Wait, wait I never want to be without you\n    Wait, wait no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Kickstart_My_Heart.Motley_Crue": {
+    "name": "Kickstart My Heart",
+    "artist": "Motley Crue",
+    "id": "Kickstart_My_Heart.Motley_Crue",
+    "lyrics": "When I get high I get high on speed top fuel funny car's a drug for me\nMy heart, my heart, kick start my heart\nAlways got the cops coming after me custom-built bike doing 103\nMy heart, my heart kick start my heart\n\n  Oh, are you ready girls? Oh, are you ready now?\n  Whoa, yeah kick start my heart, give it a start,whoa, yeah, baby\n  Whoa, yeah kick start my heart, hope it never stops\n  Whoa, yeah, baby, yeah\n\nSkydive naked from an aeroplane or a lady with a body from outer space\nMy heart, my heart kick start my heart\nSay I got trouble, trouble in my eyes I'm just looking for another good time\nMy heart, my heart kick start my heart\n\n  Chorus\n\n    When we started this band all we needed, needed was a laugh\n    Years gone by, I'd say we've kicked some ass\n    When I'm enraged or hittin' the stage adrenaline rushing through my veins\n    And I'd say we're still kickin' ass\n\n    I say, ooh ah, kick start my heart\n    I hope it never stops\n    And to think, we did all of this to rock\n\n  Chorus\n\n  Okay boys, let's rock the house",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Patience.Guns_&_Roses": {
+    "name": "Patience",
+    "artist": "Guns & Roses",
+    "id": "Patience.Guns_&_Roses",
+    "lyrics": "V: C G A D\nC: C G C Em - C G D\n3: (D /F# G) F G D\n\nShed a tear 'cause I'm missin' you, I'm still alright to smile\nGirl, I think about you every day now\nWas a time when I wasn't sure but you set my mind at ease\nThere is no doubt you're in my heart now\n\n  Said, woman, take it slow and it'll work itself out fine\n  All we need is just a little patience\n  Said, sugar, make it slow and we'll come together fine\n  All we need is just a little patience.\n\nI sit here on the stairs 'cause I'd rather be alone\nIf I can't have you right now, I'll wait, dear\nSometimes I get so tense but I can't speed up the time\nBut you know, love, there's one more thing to consider\n\n  Said, woman, take it slow and things will be just fine\n  You and I'll just use a little patience\n  Said, sugar, take the time 'cause the lights are shinin' bright\n  You and I've got what it takes to make it, we won't fake it\n  Oh, I'll never break it 'cause I can't take it\n\n  Solo\n\nLittle patience, mm, yeah, ooh, yeah\nNeed a little patience, yeah\nJust a little patience, yeah\nSome more patience\n\nI've been walkin' the streets tonight just tryin' to get it right\nIt's hard to see with so many around  you know I don't like bein' stuck in the crowd\nAnd the streets don't change, but maybe the names\nI ain't got time for the game 'cause I need you yeah-yeah, but I need you \nOoh, I need you, Oh, I need you, Oooh, this time ",
+    "key": "C",
     "tempo": "Tempo"
   }
 }
