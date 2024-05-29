@@ -3304,14 +3304,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Every_Rose_Has_Its_Thorn.Poison": {
-    "name": "Every Rose Has Its Thorn",
-    "artist": "Poison",
-    "id": "Every_Rose_Has_Its_Thorn.Poison",
-    "lyrics": "Lyrics",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Smoking_In_the_Boys_Room.Motley_Crue": {
     "name": "Smoking In the Boys Room",
     "artist": "Motley Crue",
@@ -3824,14 +3816,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "I_Won_t_Forget_You.Poison": {
-    "name": "I Won't Forget You",
-    "artist": "Poison",
-    "id": "I_Won_t_Forget_You.Poison",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Get_Back.Beatles": {
     "name": "Get Back",
     "artist": "Beatles",
@@ -3870,6 +3854,30 @@
     "id": "Patience.Guns_&_Roses",
     "lyrics": "V: C G A D\nC: C G C Em - C G D\n3: (D /F# G) F G D\n\nShed a tear 'cause I'm missin' you, I'm still alright to smile\nGirl, I think about you every day now\nWas a time when I wasn't sure but you set my mind at ease\nThere is no doubt you're in my heart now\n\n  Said, woman, take it slow and it'll work itself out fine\n  All we need is just a little patience\n  Said, sugar, make it slow and we'll come together fine\n  All we need is just a little patience.\n\nI sit here on the stairs 'cause I'd rather be alone\nIf I can't have you right now, I'll wait, dear\nSometimes I get so tense but I can't speed up the time\nBut you know, love, there's one more thing to consider\n\n  Said, woman, take it slow and things will be just fine\n  You and I'll just use a little patience\n  Said, sugar, take the time 'cause the lights are shinin' bright\n  You and I've got what it takes to make it, we won't fake it\n  Oh, I'll never break it 'cause I can't take it\n\n  Solo\n\nLittle patience, mm, yeah, ooh, yeah\nNeed a little patience, yeah\nJust a little patience, yeah\nSome more patience\n\nI've been walkin' the streets tonight just tryin' to get it right\nIt's hard to see with so many around  you know I don't like bein' stuck in the crowd\nAnd the streets don't change, but maybe the names\nI ain't got time for the game 'cause I need you yeah-yeah, but I need you \nOoh, I need you, Oh, I need you, Oooh, this time ",
     "key": "C",
+    "tempo": "Tempo"
+  },
+  "Every_Rose_Has_Its_Thorn.Poison": {
+    "name": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "id": "Every_Rose_Has_Its_Thorn.Poison",
+    "lyrics": "V: (G C) D C\nC: (G C) G D C G\nB: Em D C G\n\nWe both lie silently still in the dead of the night\nAlthough we both lie close together we feel miles apart inside\nWas it something I said or something I did?\nDid my words not come out right?\nThough I tried not to hurt you, though I tried\nBut I guess that's why they say\n\n  Every rose has its thorn\n  Just like every night has its dawn\n  Just like every cowboy sings a sad, sad song\n  Every rose has its thorn, yeah, it does\n\nI listen to our favorite song playing on the radio\nHear the DJ say, \"Love's a game of easy come and easy go\"\nBut I wonder, does he know? Has he ever felt like this?\nAnd I know that you'd be here right now\nIf I could have let you know somehow, I guess\n\n  Chorus\n\n    Though it's been a while now\n    I can still feel so much pain\n    Like a knife that cuts you, the wound heals\n    But the scar, that scar remains\n\nI know I could have saved a love that night if I'd known what to say\nInstead of making love we both made our separate ways\nAnd now I hear you found somebody new and that I never meant that much to you\nTo hear that tears me up inside\nAnd to see you cuts me like a knife, I guess\n\n  Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Name.undefined": {
+    "name": "Name",
+    "artist": "undefined",
+    "id": "Name.undefined",
+    "lyrics": "Lyrics",
+    "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "I_Won_t_Forget_You.Poison": {
+    "name": "I Won't Forget You",
+    "artist": "Poison",
+    "id": "I_Won_t_Forget_You.Poison",
+    "lyrics": "V: (Em D C Bm) Am C D\nC: G C Em D\nB: Am C D\n\nLate at night I close my eyes and think of how things could have been\nAnd when I look back I remember some words you had said to me\nIt's better to have lost at love\nThen never to have loved at all\n\n  I won't forget you baby, even though I could\n  I won't forget you baby, even though I should\n\nSometimes in my head I can still see pictures of you\nAnd I laugh to myself when I think of all those crazy things that we used to do\nAlthough miles come between us just between you and me\n\n  Chorus\n\n    I should let you fade away but that just wouldn't be me\n\nSolo\n\nAlthough miles come between us just between you and me\n\n  Chorus",
+    "key": "G",
     "tempo": "Tempo"
   }
 }
