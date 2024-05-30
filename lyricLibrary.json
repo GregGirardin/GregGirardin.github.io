@@ -1,12 +1,4 @@
 {
-  "Tush.ZZ_Top": {
-    "name": "Tush",
-    "artist": "ZZ Top",
-    "id": "Tush.ZZ_Top",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Rio.Duran_Duran": {
     "name": "Rio",
     "artist": "Duran Duran",
@@ -3544,14 +3536,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Tennessee_Whiskey.Chris_Stapleton": {
-    "name": "Tennessee Whiskey",
-    "artist": "Chris Stapleton",
-    "id": "Tennessee_Whiskey.Chris_Stapleton",
-    "lyrics": "A -----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE -0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\n'Cause there's nothing like your love to get me high\n\n  Chorus\n\n    Solo\n\n  Chorus\n",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "I_m_The_Only_One.Melissa_Etheridge": {
     "name": "I'm The Only One",
     "artist": "Melissa Etheridge",
@@ -3879,5 +3863,21 @@
     "lyrics": "[Guitar Intro]\n\nHey, uh huh..\n\nWhat I like about you, you hold me tight\nTell me I'm the only one wanna come over tonight, yeah\n\n  Keep on whispering in my ear\n  Tell me all the things that I wanna hear cause it's true\n  That's what I like about you\n\nWhat I like about you, you really know how to dance\nWhen you go up, down, jump around think about true romance, yeah\n\n  Keep on..\n\n[Solo]\n\nWhat I like about you you keep me warm at night\nNever wanna let you go, know you make me feel all right, yeah\n\n  Keep on...",
     "key": "E",
     "tempo": "undefined"
+  },
+  "Tennessee_Whiskey.Chris_Stapleton": {
+    "name": "Tennessee Whiskey",
+    "artist": "Chris Stapleton",
+    "id": "Tennessee_Whiskey.Chris_Stapleton",
+    "lyrics": "A|-----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE|-0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\nCause there's nothing like your love to get me high\n\n  Chorus\n\n    Solo\n\n  Chorus\n",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Tush.ZZ_Top": {
+    "name": "Tush",
+    "artist": "ZZ Top",
+    "id": "Tush.ZZ_Top",
+    "lyrics": "I been up, I been down, take my word, my way around\nI ain't asking for much\nI said, Lord, take me downtown\nI'm just looking for some tush\n\nI been bad, I been good, Dallas, Texas, Hollywood...\n\n  Solo\n\nTake me back, way back home, not by myself, not alone...\n",
+    "key": "G",
+    "tempo": "Tempo"
   }
 }
