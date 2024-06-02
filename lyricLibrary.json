@@ -3528,14 +3528,6 @@
     "key": "G",
     "tempo": "Tempo"
   },
-  "Rolling_In_The_Deep.Adele": {
-    "name": "Rolling In The Deep",
-    "artist": "Adele",
-    "id": "Rolling_In_The_Deep.Adele",
-    "lyrics": "V: C5 G5 Bb5 G5 Bb5 \nP: Ab Bb Gm Ab - Bb Gm G\nC: Cm Bb Ab Bb \n\nThere's a fire starting in my heart,\nReaching a fever pitch, and it's bringing me out the dark\nFinally, I can see you crystal clear\nGo ahead and sell me out, and I'll lay your shit bare\n\nSee how I'll leave with every piece of you\nDon't underestimate the things that I will do\nThere's a fire starting in my heart\nReaching a fever pitch, and it's bringing me out the dark\n\n  The scars of your love, remind me of us\n  They keep me thinking that we almost had it all\n  The scars of your love, they leave me breathless\n  I can't help feeling...\n\n    We could have had it all... (You're gonna wish you, never had met me)...\n    Rolling in the deep (Tears are gonna fall, rolling in the deep)\n    You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)\n    And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)\n\nBaby, I have no story to be told,\nBut I've heard one on you. Now I'm gonna make your head burn\nThink of me in the depths of your despair\nMake a home down there, as mine sure won't be shared\n\n  Pre\n\n    Chorus\n",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Don_t_You_Want_Me.Human_League": {
     "name": "Don't You Want Me",
     "artist": "Human League",
@@ -3878,6 +3870,22 @@
     "id": "Poker_Face.Lady_GaGa",
     "lyrics": "D|-6-6----------|-6-6--4-4----|\nA|-------6-6----|----7--------|\nE|----4-4---4-4-|-----7---2-2-| C: G#m E B F#\n\nMum mum mum mah x 4\n\nI wanna hold 'em like they do in Texas, please (Woo)\nFold 'em, let 'em hit me, raise it, baby, stay with me (I love it)\nLoveGame intuition, play the cards with spades to start\nAnd after he's been hooked, I'll play the one that's on his heart\n\nOh, woah-oh, I'll get him hot show him what I've got x 2\n\n  Can't read my, can't read my, no he can't read my poker face\n  (She's got me like nobody) x 2\n\n  P-p-p-poker face, f-f-fuck her face\n\nI wanna roll with him, a hard pair we will be (Woo)\nA little gamblin' is fun when you're with me (I love it, woo)\nRussian roulette is not the same without a gun\nAnd baby when it's love, if it's not rough it isn't fun, fun\n\nOh, woah-oh, oh, I'll get him hot, show him what I've got\n\n  Chorus\n\n  I won't tell you that I love you kiss or hug you\n  Cause I'm bluffin' with my muffin\n  I'm not lyin', I'm just stunnin' with my love-glue-gunnin'\n  Just like a chick in the casino take your bank before I pay you out\n  I promise this, promise this check this hand 'cause I'm marvelous\n\n  Chorus",
     "key": "G#m",
+    "tempo": "Tempo"
+  },
+  "Called_Out_In_The_Dark.Snow_Patrol": {
+    "name": "Called Out In The Dark",
+    "artist": "Snow Patrol",
+    "id": "Called_Out_In_The_Dark.Snow_Patrol",
+    "lyrics": "V: C Am E F\nC: Am G F Am G\n\nIt's like we just can't help ourselves\nCause we don't know how to back down\nWe were called out to the streets\nWe were called into the towns\n\nHow the heavens they opened up\nLike arms of dazzling gold\nWith our rain-washed histories\nWell, we do not need to be told\n\n  Show me now, show me the arms aloft\n  Every eye trained on a different side\n  This magic, this drunken Semaphore, and I\n\n    We are listening and we're not blind\n    This is your life, this is your time x 2\n\nI was called out in the dark\nBy a choir of beautiful cheats\nAnd as the kids took back the parks\nYou and I were left with the streets.\n\n  P\n  C x 4",
+    "key": "C",
+    "tempo": "Tempo"
+  },
+  "Rolling_In_The_Deep.Adele": {
+    "name": "Rolling In The Deep",
+    "artist": "Adele",
+    "id": "Rolling_In_The_Deep.Adele",
+    "lyrics": "V: C5 G5 Bb5 G5 Bb5 \nP: Ab Bb Gm Ab - Bb Gm G\nC: Cm Bb Ab Bb \n\nThere's a fire starting in my heart,\nReaching a fever pitch, and it's bringing me out the dark\nFinally, I can see you crystal clear\nGo ahead and sell me out, and I'll lay your shit bare\n\nSee how I'll leave with every piece of you\nDon't underestimate the things that I will do\nThere's a fire starting in my heart\nReaching a fever pitch, and it's bringing me out the dark\n\n  The scars of your love, remind me of us\n  They keep me thinking that we almost had it all\n  The scars of your love, they leave me breathless\n  I can't help feeling...\n\n    We could have had it all... (You're gonna wish you, never had met me)...\n    Rolling in the deep (Tears are gonna fall, rolling in the deep)\n    You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)\n    And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)\n\nBaby, I have no story to be told,\nBut I've heard one on you. Now I'm gonna make your head burn\nThink of me in the depths of your despair\nMake a home down there, as mine sure won't be shared\n\n  Pre\n\n    Chorus\n",
+    "key": "C",
     "tempo": "Tempo"
   }
 }
