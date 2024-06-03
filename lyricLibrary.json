@@ -616,14 +616,6 @@
     "key": "E",
     "tempo": ""
   },
-  "Paranoid.Black_Sabbath": {
-    "name": "Paranoid",
-    "artist": "Black Sabbath",
-    "id": "Paranoid.Black_Sabbath",
-    "lyrics": "Finished with my woman 'cause she couldn't help me with my mind\npeople think I'm insane because I am frowning all the time\nAll day long I think of things but nothing seems to satisfy\nThink I'll lose my mind if I don't find something to pacify\n\n  Can you help me occupy my brain?\n\nI need someone to show me the things in life that I can't find\nI can't see the things that make true happiness, I must be blind\n\nMake a joke and I will sigh and you will laugh and I will cry\nHappiness I cannot feel and love to me is so unreal\n\nAnd so as you hear these words telling you now of my state\nI tell you to enjoy life I wish I could but it's too late\n\nG|-7h9--7h9--7h9------7h9-----7h9-|\nD|-7h9--7h9--7h9--7h9-----7h9-----|\nA|-7----7----7--------------------|\nE|--------------------------------|\n\nEm D G D\n",
-    "key": "E",
-    "tempo": "undefined"
-  },
   "Rough_Boy.ZZ_Top": {
     "name": "Rough Boy",
     "artist": "ZZ Top",
@@ -2240,14 +2232,6 @@
     "key": "G",
     "tempo": "98"
   },
-  "All_Right_Now.Free": {
-    "name": "All Right Now",
-    "artist": "Free",
-    "id": "All_Right_Now.Free",
-    "lyrics": "e|--5---------5------------------5-|\nB|--5-----3---5-----3-3---3-3-3--5-|\nG|--2-----2---2-----0-0---2-2-2--2-|\nD|--2-----4---2-----4-4---4-4-4--2-|\nA|--0---0-----0---0--------------0-|\nE|---------------------------------|\n\ne|------------------------------------|\nB|------------------------------------|\nG|--9--9--9-----------7~----7-7~-/-9--|\nD|--7--7--7-----------5~----4-4~-/-7--|\nA|-----------9-7----------------------|\nE|------------------------------------|\n\nV: A D A  D D D  A\nC: A D7 A G D7 A\n\nThere she stood in the street, smiling from her head to her feet,\nI said hey, what is this? Now baby maybe, maybe she's in need of a kiss.\nI said hey, what's your name baby? Maybe we can see things the same,\nNow don't you wait or hesitate, let's move before they raise the parking rate, oh!\n\n  All right now, Baby it's all right now,\n\nI took her home to my place watching ev'ry move on her face,\nShe said look, what's your game, baby? are you tryin' to put me in shame?\nI said slow, don't go so fast, don't you think that love can last?\nShe said love, Lord above, now you're tryin' to trick me in love.\n\n  Chorus",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "All_The_Small_Things.Blink_182": {
     "name": "All The Small Things",
     "artist": "Blink 182",
@@ -3792,14 +3776,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Get_Back.Beatles": {
-    "name": "Get Back",
-    "artist": "Beatles",
-    "id": "Get_Back.Beatles",
-    "lyrics": "A D A G D\n\nJojo was a man who thought he was a loner\nBut he knew it wouldn't last.\nJojo left his home in Tucson, Arizona\nFor some California grass.\n\n  Get back, get back, get back to where you once belonged x 2\n  Get back Jojo\n\nSweet Loretta Martin thought she was a woman\nBut she was another man\nAll the girls around her say she's got it coming\nBut she gets it while she can\n\n  Chorus\n  Get back Loretta, go home\n\nGet back Lorettam your mommy's waiting for you\nWearing her high-heel shoes\nAnd her low-neck sweater\nGet on home Loretta\nGet back, get back.\nGet back to where you once belonged.\n",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "Poker_Face.Lady_GaGa": {
     "name": "Poker Face",
     "artist": "Lady GaGa",
@@ -3856,14 +3832,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "Wait.White_Lion": {
-    "name": "Wait",
-    "artist": "White Lion",
-    "id": "Wait.White_Lion",
-    "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (B5 F#5)\nC: D A G A - D A Em A - D A G A - D A C G Bb F A\n\nE|5-5-3-3-1-|-----------\nB|7-5-5-4-3-|--5-5-3-3-\nG|7-6-5-4-3-|--6-0-2-2-\nD|0---------|--7-7-4-3--\nA|----------|--0--------\nE|----------|-----------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin' like it was before\n'Cause I won't let that feelin' walk out through the door\nI said wait, just a moment and try once more\n'Cause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait I never had a chance to love you\n    Wait, wait if only our love could show you\n    Wait, wait I never want to be without you\n    Wait, wait no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "Panama.Van_Halen": {
     "name": "Panama",
     "artist": "Van Halen",
@@ -3880,11 +3848,43 @@
     "key": "G",
     "tempo": "Tempo"
   },
+  "All_Right_Now.Free": {
+    "name": "All Right Now",
+    "artist": "Free",
+    "id": "All_Right_Now.Free",
+    "lyrics": "e|--5---------5------------------5-|\nB|--5-----3---5-----3-3---3-3-3--5-|\nG|--2-----2---2-----0-0---2-2-2--2-|\nD|--2-----4---2-----4-4---4-4-4--2-|\nA|--0---0-----0---0--------------0-|\nE|---------------------------------|\n\nG|-9-9-9-----7~---7-7--9-|\nD|-7-7-7-----5~---4-4--7-|\nA|-------9-7-------------|\nE|-----------------------|\n\nV: A D A D D D A\nC: A D7 A G D7 A\n\nThere she stood in the street smiling from her head to her feet\nI said 'hey what is this?' Now baby maybe, maybe she's in need of a kiss.\nI said 'hey, what's your name baby? Maybe we can see things the same'\nNow don't you wait or hesitate, let's move before they raise the parking rate, oh!\n\n  All right now, baby it's all right now\n\nI took her home to my place watching evry move on her face\nShe said 'look what's your game, baby? are you tryin' to put me in shame?'\nI said 'slow, don't go so fast, don't you think that love can last?'\nShe said 'Love, Lord above, now you're tryin to trick me in love'\n\n  Chorus\n\nSolo\n\n  Chorus",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Wait.White_Lion": {
+    "name": "Wait",
+    "artist": "White Lion",
+    "id": "Wait.White_Lion",
+    "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (B5 F#5)\nC: D A G A - D A Em A - D A G A - [D A C G Bb F A]\n\nE|5-5-3-3-1-|---------\nB|7-5-5-4-3-|-5-5-3-3-\nG|7-6-5-4-3-|-6-0-2-2-\nD|0---------|-7-7-4-3-\nA|----------|-0-------\nE|----------|---------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin like it was before\nCause I won't let that feelin walk out through the door\nI said wait, just a moment and try once more\nCause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait, I never had a chance to love you\n    Wait, wait, if only our love could show you\n    Wait, wait, I never want to be without you\n    Wait, wait, no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Get_Back.Beatles": {
+    "name": "Get Back",
+    "artist": "Beatles",
+    "id": "Get_Back.Beatles",
+    "lyrics": "A D A G D\n\nJojo was a man who thought he was a loner but he knew it wouldn't last\nJojo left his home in Tucson, Arizona for some California grass.\n\n  Get back, get back, get back to where you once belonged x 2\n  Get back Jojo\n\nSolo\n\n  Chorus\n\nSweet Loretta Martin thought she was a woman but she was another man\nAll the girls around her say she's got it comin, but she gets it while she can\n\n  Chorus\n\n  Get back Loretta, go home\n\nGet back Loretta your mommy's waiting for you\nWearing her high-heel shoes, and her low-neck sweater\nGet on home Loretta\nGet back, get back.\nGet back to where you once belonged.\n",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Paranoid.Black_Sabbath": {
+    "name": "Paranoid",
+    "artist": "Black Sabbath",
+    "id": "Paranoid.Black_Sabbath",
+    "lyrics": "Finished with my woman 'cause she couldn't help me with my mind\npeople think I'm insane because I am frowning all the time\nAll day long I think of things but nothing seems to satisfy\nThink I'll lose my mind if I don't find something to pacify\n\n  Can you help me occupy my brain?\n\nI need someone to show me the things in life that I can't find\nI can't see the things that make true happiness, I must be blind\n\nMake a joke and I will sigh and you will laugh and I will cry\nHappiness I cannot feel and love to me is so unreal\n\nAnd so as you hear these words telling you now of my state\nI tell you to enjoy life I wish I could but it's too late\n\nG|-7h9--7h9--7h9------7h9-----7h9-|\nD|-7h9--7h9--7h9--7h9-----7h9-----|\nA|-7----7----7--------------------|\nE|--------------------------------|\n\nEm D G D\n",
+    "key": "E",
+    "tempo": "undefined"
+  },
   "Patience.Guns_&_Roses": {
     "name": "Patience",
     "artist": "Guns & Roses",
     "id": "Patience.Guns_&_Roses",
-    "lyrics": "V: C G A D\nC: C G C Em - C G D\n3: (D /F# G) F G D\n\nShed a tear cause I'm missin' you, I'm still alright to smile\nGirl I think about you every day now\nWas a time when I wasn't sure but you set my mind at ease\nThere is no doubt you're in my heart now\n\n  Said, woman, take it slow and it'll work itself out fine\n  All we need is just a little patience\n  Said, sugar, make it slow and we'll come together fine\n  All we need is just a little patience.\n\nI sit here on the stairs cause I'd rather be alone\nIf I can't have you right now, I'll wait, dear\nSometimes I get so tense but I can't speed up the time\nBut you know, love, there's one more thing to consider\n\n  Said, woman, take it slow and things will be just fine\n  You and I'll just use a little patience\n  Said, sugar, take the time 'cause the lights are shinin bright\n  You and I've got what it takes to make it, we won't fake it\n  Oh, I'll never break it 'cause I can't take it\n\n  Solo\n\nLittle patience, mm, yeah, ooh, yeah\nNeed a little patience, yeah\nJust a little patience, yeah\nSome more patience\n\nI've been walkin the streets tonight just tryin' to get it right\nIt's hard to see with so many around  you know I don't like bein' stuck in the crowd\nAnd the streets don't change, but maybe the names\nI ain't got time for the game 'cause I need you yeah-yeah, but I need you \nOoh, I need you, Oh, I need you, Oooh, this time ",
+    "lyrics": "I: V + C\nV: (C G A D)\nC: C G C Em - C G D\n3: (D /F# G) F G D\n\nShed a tear cause I'm missin you, I'm still alright to smile\nGirl I think about you every day now\nWas a time when I wasn't sure but you set my mind at ease\nThere is no doubt you're in my heart now\n\n  Said woman take it slow and it'll work itself out fine\n  All we need is just a little patience\n  Said sugar make it slow and we'll come together fine\n  All we need is just a little patience.... ooh yeah\n\nI sit here on the stairs cause I'd rather be alone\nIf I can't have you right now, I'll wait dear\nSometimes I get so tense but I can't speed up the time\nBut you know, love there's one more thing to consider\n\n  Said, woman, take it slow and things will be just fine\n  You and I'll just use a little patience\n  Said, sugar take the time cause the lights are shinin bright\n  You and I've got what it takes to make it... we won't fake it\n  Oh, I'll never break it 'cause I can't take it\n\nSolo over Chorus... hold D (whistle)\n\nLittle patience, mm, yeah, ooh, yeah\nNeed a little patience, yeah\nJust a little patience, yeah\nSome more patience\n\nI've been walkin the streets tonight just tryin' to get it right\nIt's hard to see with so many around  you know I don't like bein' stuck in the crowd\nAnd the streets don't change, but maybe the names\nI ain't got time for the game 'cause I need you yeah-yeah, but I need you \nOoh, I need you, Oh, I need you, Oooh, this time ",
     "key": "C",
     "tempo": "Tempo"
   }
