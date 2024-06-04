@@ -3168,14 +3168,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Like_A_Stone.Audioslave": {
-    "name": "Like A Stone",
-    "artist": "Audioslave",
-    "id": "Like_A_Stone.Audioslave",
-    "lyrics": "On a cobweb afternoon, in a room full of emptiness\nBy a freeway, I confess I was lost in the pages\nOf a book full of death, reading how we'll die alone\nAnd if we're good, we'll lay to rest anywhere we wanna go\n\n  In your house, I long to be\n  Room by room, patiently\n  I'll wait for you there like a stone\n  I'll wait for you there alone\n\nAnd on my deathbed, I will pray to the gods and the angels\nLike a pagan to anyone who will take me to heaven\nTo a place I recall, I was there so long ago\nThe sky was bruised, the wine was bled, and there you led me on\n\n  Chorus\n\n    Solo\n\nAnd on I read until the day was gone\nAnd I sat in regret of all the things I've done\nFor all that I've blessed and all that I've wronged\nIn dreams until my death, I will wander on\n\n  Chorus\n",
-    "key": "G",
-    "tempo": "108bpm"
-  },
   "Comfortably_Numb.Pink_Floyd": {
     "name": "Comfortably Numb",
     "artist": "Pink Floyd",
@@ -3616,14 +3608,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Shut_Up_And_Dance.Walk_The_Moon": {
-    "name": "Shut Up And Dance",
-    "artist": "Walk The Moon",
-    "id": "Shut_Up_And_Dance.Walk_The_Moon",
-    "lyrics": "I: C# arp  Verse: C# octaves\nP: C# F# - Bbm C# G# F# - C# F# - G# \nC: C# F# Bbm G#\nS: Bbm C# F# G#\n\n  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night the chemical, physical, kryptonite\nHelpless to the bass and faded light, oh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks my discothèque Juliet, teenage dream\nI felt it in my chest as she looked at me, I knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n      Solo\n\n  Deep in her eyes I think I see the future\n  I realize this is my last chance\n  She took my arm I don't know how it happened\n  We took the floor and she said\n\n    Intro Arpeggio [LET IT BREATHE HERE]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n",
-    "key": "C#",
-    "tempo": "128bpm"
-  },
   "All_Jacked_Up.Gretchen_Wilson": {
     "name": "All Jacked Up",
     "artist": "Gretchen Wilson",
@@ -3887,5 +3871,21 @@
     "lyrics": "I: V + C\nV: (C G A D)\nC: C G C Em - C G D\n3: (D /F# G) F G D\n\nShed a tear cause I'm missin you, I'm still alright to smile\nGirl I think about you every day now\nWas a time when I wasn't sure but you set my mind at ease\nThere is no doubt you're in my heart now\n\n  Said woman take it slow and it'll work itself out fine\n  All we need is just a little patience\n  Said sugar make it slow and we'll come together fine\n  All we need is just a little patience.... ooh yeah\n\nI sit here on the stairs cause I'd rather be alone\nIf I can't have you right now, I'll wait dear\nSometimes I get so tense but I can't speed up the time\nBut you know, love there's one more thing to consider\n\n  Said, woman, take it slow and things will be just fine\n  You and I'll just use a little patience\n  Said, sugar take the time cause the lights are shinin bright\n  You and I've got what it takes to make it... we won't fake it\n  Oh, I'll never break it 'cause I can't take it\n\nSolo over Chorus... hold D (whistle)\n\nLittle patience, mm, yeah, ooh, yeah\nNeed a little patience, yeah\nJust a little patience, yeah\nSome more patience\n\nI've been walkin the streets tonight just tryin' to get it right\nIt's hard to see with so many around  you know I don't like bein' stuck in the crowd\nAnd the streets don't change, but maybe the names\nI ain't got time for the game 'cause I need you yeah-yeah, but I need you \nOoh, I need you, Oh, I need you, Oooh, this time ",
     "key": "C",
     "tempo": "Tempo"
+  },
+  "Like_A_Stone.Audioslave": {
+    "name": "Like A Stone",
+    "artist": "Audioslave",
+    "id": "Like_A_Stone.Audioslave",
+    "lyrics": "  Intro (instrumental)\n\nOn a cobweb afternoon, in a room full of emptiness\nBy a freeway, I confess I was lost in the pages\nOf a book full of death, reading how we'll die alone\nAnd if we're good, we'll lay to rest anywhere we wanna go\n\n  In your house, I long to be\n  Room by room, patiently\n  I'll wait for you there like a stone\n  I'll wait for you there alone\n\nAnd on my deathbed, I will pray to the gods and the angels\nLike a pagan to anyone who will take me to heaven\nTo a place I recall, I was there so long ago\nThe sky was bruised, the wine was bled, and there you led me on\n\n  Chorus\n\n    Solo\n\nAnd on I read until the day was gone\nAnd I sat in regret of all the things I've done\nFor all that I've blessed and all that I've wronged\nIn dreams until my death, I will wander on\n\n  Chorus\n",
+    "key": "G",
+    "tempo": "108bpm"
+  },
+  "Shut_Up_And_Dance.Walk_The_Moon": {
+    "name": "Shut Up And Dance",
+    "artist": "Walk The Moon",
+    "id": "Shut_Up_And_Dance.Walk_The_Moon",
+    "lyrics": "I: C# arp  Verse: C# octaves\nP: C# F# - Bbm C# G# F# - C# F# - G# \nC: C# F# Bbm G#\nS: Bbm C# F# G#\n\n  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night the chemical, physical, kryptonite\nHelpless to the bass and faded light, oh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks my discotheque Juliet, teenage dream\nI felt it in my chest as she looked at me, I knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n      Solo\n\n  Deep in her eyes I think I see the future\n  I realize this is my last chance\n  She took my arm I don't know how it happened\n  We took the floor and she said\n\n    Intro Arpeggio [LET IT BREATHE HERE]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n",
+    "key": "C#",
+    "tempo": "128bpm"
   }
 }
