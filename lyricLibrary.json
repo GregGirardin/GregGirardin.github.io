@@ -1472,14 +1472,6 @@
     "key": "Em",
     "tempo": "104"
   },
-  "Old_Time_Rock_and_Roll.Bob_Seger": {
-    "name": "Old Time Rock and Roll",
-    "artist": "Bob Seger",
-    "id": "Old_Time_Rock_and_Roll.Bob_Seger",
-    "lyrics": "I - IV - V\n\nJust take those old records off the shelf\nI'll sit and listen to them by myself\nToday's music ain't got the same soul\nI like that old time rock and roll\n \nDon't try to take me to a disco\nYou'll never even get me out on the floor\nIn ten minutes I'll be late for the door\nI like that old time rock and roll\n \n  Still like that old time rock and roll\n  That kind of music just soothes the soul\n  I reminisce about the days of gold\n  With that old time rock and roll\n \nWon't go to hear them play a tango\nI'd rather hear some blues and funky old soul\nThere's only one sure way to get me to go\nStart playing old time rock and roll\n \nCall me a relic, call me what you will\nSay I'm old fashioned, say I'm over the hill\nToday's music ain't got the same soul\nI like that old time rock and roll\n \n  Chorus\n",
-    "key": "F#",
-    "tempo": "Tempo"
-  },
   "Rebel_Yell.Billy_Idol": {
     "name": "Rebel Yell",
     "artist": "Billy Idol",
@@ -3872,20 +3864,28 @@
     "key": "C#",
     "tempo": "128bpm"
   },
-  "I_Won_t_Forget_You.Poison": {
-    "name": "I Won't Forget You",
-    "artist": "Poison",
-    "id": "I_Won_t_Forget_You.Poison",
-    "lyrics": "V: (Em D C Bm) Am C D\n\nC: (G C Em D) G\nB: Am C D\n\nLate at night I close my eyes and think of how things could have been\nAnd when I look back I remember some words you had said to me\nIt's better to have lost at love then never to have loved at all\n\n  I won't forget you baby, even though I [could | should]\n\nSometimes in my head I can still see pictures of you\nAnd I laugh to myself when I think of all those crazy things that we used to do\nAlthough miles come between us, just between you and me\n\n  Chorus\n\n    I should let you fade away but that just wouldn't be me .. oh baby\n\nSolo over Chorus\n\n    Although miles come between us just between you and me\n\n  Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Wait.White_Lion": {
     "name": "Wait",
     "artist": "White Lion",
     "id": "Wait.White_Lion",
     "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (B5 F#5)\nC: D A G A - D A Em A - D A G A - [D A C G Bb F A]\n\nE|5-5-3-3-1-|---------\nB|7-5-5-4-3-|-5-5-3-3-\nG|7-6-5-4-3-|-6-0-2-2-\nD|0---------|-7-7-4-3-\nA|----------|-0-------\nE|----------|---------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin like it was before\nCause I won't let that feelin walk out through the door\nI said wait, just a moment and try once more\nCause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait, I never had a chance to love you\n    Wait, wait, if only our love could show you\n    Wait, wait, I never want to be without you\n    Wait, wait, no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "I_Won_t_Forget_You.Poison": {
+    "name": "I Won't Forget You",
+    "artist": "Poison",
+    "id": "I_Won_t_Forget_You.Poison",
+    "lyrics": "V: (Em D C Bm) Am C D\nC: (G C Em D) G\nB: Am C D\n\nLate at night I close my eyes and think of how things could have been\nAnd when I look back I remember some words you had said to me\nIt's better to have lost at love then never to have loved at all\n\n  I won't forget you baby, even though I [could | should]\n\nSometimes in my head I can still see pictures of you\nAnd I laugh to myself when I think of all those crazy things that we used to do\nAlthough miles come between us, just between you and me\n\n  Chorus\n\n    I should let you fade away but that just wouldn't be me .. oh baby\n\nSolo over Chorus\n\n    Although miles come between us just between you and me\n\n  Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Old_Time_Rock_and_Roll.Bob_Seger": {
+    "name": "Old Time Rock and Roll",
+    "artist": "Bob Seger",
+    "id": "Old_Time_Rock_and_Roll.Bob_Seger",
+    "lyrics": "I - IV - V (orig F#)\n\nJust take those old records off the shelf\nI'll sit and listen to them by myself\nToday's music ain't got the same soul\nI like that old time rock and roll\n \nDon't try to take me to a disco\nYou'll never even get me out on the floor\nIn ten minutes I'll be late for the door\nI like that old time rock and roll\n \n  Still like that old time rock and roll\n  That kind of music just soothes the soul\n  I reminisce about the days of gold\n  With that old time rock and roll\n \nWon't go to hear them play a tango\nI'd rather hear some blues and funky old soul\nThere's only one sure way to get me to go\nStart playing old time rock and roll\n \nCall me a relic, call me what you will\nSay I'm old fashioned, say I'm over the hill\nToday's music ain't got the same soul\nI like that old time rock and roll\n \n  Chorus\n",
+    "key": "F#",
     "tempo": "Tempo"
   }
 }
