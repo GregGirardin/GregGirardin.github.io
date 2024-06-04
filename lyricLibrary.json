@@ -3824,27 +3824,11 @@
     "key": "E",
     "tempo": "144"
   },
-  "I_Won_t_Forget_You.Poison": {
-    "name": "I Won't Forget You",
-    "artist": "Poison",
-    "id": "I_Won_t_Forget_You.Poison",
-    "lyrics": "V: (Em D C Bm) Am C D\nC: G C Em D\nB: Am C D\n\nLate at night I close my eyes and think of how things could have been\nAnd when I look back I remember some words you had said to me\nIt's better to have lost at love then never to have loved at all\n\n  I won't forget you baby, even though I could\n  I won't forget you baby, even though I should\n\nSometimes in my head I can still see pictures of you\nAnd I laugh to myself when I think of all those crazy things that we used to do\nAlthough miles come between us, just between you and me\n\n  Chorus\n\n    I should let you fade away but that just wouldn't be me .. oh baby\n\nSolo\n\n    Although miles come between us just between you and me\n\n  Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "All_Right_Now.Free": {
     "name": "All Right Now",
     "artist": "Free",
     "id": "All_Right_Now.Free",
     "lyrics": "e|--5---------5------------------5-|\nB|--5-----3---5-----3-3---3-3-3--5-|\nG|--2-----2---2-----0-0---2-2-2--2-|\nD|--2-----4---2-----4-4---4-4-4--2-|\nA|--0---0-----0---0--------------0-|\nE|---------------------------------|\n\nG|-9-9-9-----7~---7-7--9-|\nD|-7-7-7-----5~---4-4--7-|\nA|-------9-7-------------|\nE|-----------------------|\n\nV: A D A D D D A\nC: A D7 A G D7 A\n\nThere she stood in the street smiling from her head to her feet\nI said 'hey what is this?' Now baby maybe, maybe she's in need of a kiss.\nI said 'hey, what's your name baby? Maybe we can see things the same'\nNow don't you wait or hesitate, let's move before they raise the parking rate, oh!\n\n  All right now, baby it's all right now\n\nI took her home to my place watching evry move on her face\nShe said 'look what's your game, baby? are you tryin' to put me in shame?'\nI said 'slow, don't go so fast, don't you think that love can last?'\nShe said 'Love, Lord above, now you're tryin to trick me in love'\n\n  Chorus\n\nSolo\n\n  Chorus",
-    "key": "A",
-    "tempo": "Tempo"
-  },
-  "Wait.White_Lion": {
-    "name": "Wait",
-    "artist": "White Lion",
-    "id": "Wait.White_Lion",
-    "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (B5 F#5)\nC: D A G A - D A Em A - D A G A - [D A C G Bb F A]\n\nE|5-5-3-3-1-|---------\nB|7-5-5-4-3-|-5-5-3-3-\nG|7-6-5-4-3-|-6-0-2-2-\nD|0---------|-7-7-4-3-\nA|----------|-0-------\nE|----------|---------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin like it was before\nCause I won't let that feelin walk out through the door\nI said wait, just a moment and try once more\nCause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait, I never had a chance to love you\n    Wait, wait, if only our love could show you\n    Wait, wait, I never want to be without you\n    Wait, wait, no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
     "key": "A",
     "tempo": "Tempo"
   },
@@ -3887,5 +3871,21 @@
     "lyrics": "I: C# arp  Verse: C# octaves\nP: C# F# - Bbm C# G# F# - C# F# - G# \nC: C# F# Bbm G#\nS: Bbm C# F# G#\n\n  Oh don't you dare look back just keep your eyes on me\n  I said, you're holding back she said, \"shut up and dance with me\"\n  This woman is my destiny she said, \"Ooh-hoo, shut up and dance with me\"\n\nWe were victims of the night the chemical, physical, kryptonite\nHelpless to the bass and faded light, oh, we were bound to get together\nBound to get together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\nA backless dress and some beat up sneaks my discotheque Juliet, teenage dream\nI felt it in my chest as she looked at me, I knew we were bound to be together\nBound to be together\n\n  She took my arm, I don't know how it happened\n  We took the floor and she said\n\n    Chorus\n\n      Solo\n\n  Deep in her eyes I think I see the future\n  I realize this is my last chance\n  She took my arm I don't know how it happened\n  We took the floor and she said\n\n    Intro Arpeggio [LET IT BREATHE HERE]\n\n    Chorus x 2\n\n    Ooh-hoo, shut up and dance with me\n",
     "key": "C#",
     "tempo": "128bpm"
+  },
+  "I_Won_t_Forget_You.Poison": {
+    "name": "I Won't Forget You",
+    "artist": "Poison",
+    "id": "I_Won_t_Forget_You.Poison",
+    "lyrics": "V: (Em D C Bm) Am C D\n\nC: (G C Em D) G\nB: Am C D\n\nLate at night I close my eyes and think of how things could have been\nAnd when I look back I remember some words you had said to me\nIt's better to have lost at love then never to have loved at all\n\n  I won't forget you baby, even though I [could | should]\n\nSometimes in my head I can still see pictures of you\nAnd I laugh to myself when I think of all those crazy things that we used to do\nAlthough miles come between us, just between you and me\n\n  Chorus\n\n    I should let you fade away but that just wouldn't be me .. oh baby\n\nSolo over Chorus\n\n    Although miles come between us just between you and me\n\n  Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Wait.White_Lion": {
+    "name": "Wait",
+    "artist": "White Lion",
+    "id": "Wait.White_Lion",
+    "lyrics": "I: D A C G Bb F A\nV: A A7 D/A Dm9/A\nP: Bm /A Em G - Bm /A Em (B5 F#5)\nC: D A G A - D A Em A - D A G A - [D A C G Bb F A]\n\nE|5-5-3-3-1-|---------\nB|7-5-5-4-3-|-5-5-3-3-\nG|7-6-5-4-3-|-6-0-2-2-\nD|0---------|-7-7-4-3-\nA|----------|-0-------\nE|----------|---------\n\nWait, wait, I never had a chance to love you\nNow I only want to say I love you one more time\n\nWait, just a moment before our love will die\nCause I must know the reason why we say goodbye\nWait, just a moment and tell me why\nCause I can show you lovin' that you won't deny\n\nI said wait, and show your lovin like it was before\nCause I won't let that feelin walk out through the door\nI said wait, just a moment and try once more\nCause babe, I need to hold you like I did before\n\n  So if you go away, I know that I will follow\n  Cause there's a place inside my heart that tells me\n  Hold out, hold out, hold out, oh baby\n\n    Wait, wait, I never had a chance to love you\n    Wait, wait, if only our love could show you\n    Wait, wait, I never want to be without you\n    Wait, wait, no, I never had a chance to love you\n    Now I only want to say I love you one more time\n\nSolo over Verse\n\n  So if you go away..\n\n    Chorus",
+    "key": "A",
+    "tempo": "Tempo"
   }
 }
