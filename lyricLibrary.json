@@ -3424,14 +3424,6 @@
     "key": "G",
     "tempo": "143bpm"
   },
-  "Something_More.Sugarland": {
-    "name": "Something More",
-    "artist": "Sugarland",
-    "id": "Something_More.Sugarland",
-    "lyrics": "I: E B A B E\nV: (E B C#m A) (B A)\nC: (E B A) (C#m B A F#m A)\nB: (A B) (E B A)\n\nCome on\n\nMonday, hard to wake up, fill my coffee cup, I'm out the door\nYeah, the freeway's standing still today, it's gonna make me late, and that's for sure\nI'm running out of gas and out of time\nNever gonna make it there by nine\n\n  There's gotta be something more gotta be more than this\n  I need a little less hard time I need a little more bliss\n  I'm gonna take my chances taking a chance, I might\n  Find what I'm looking for, there's gotta be something more\n\nFive years and there's no doubt that I'm burnt out, I've had enough\nSo now boss man, here's my two weeks I'll make it short and sweet, so listen up\nI could work my life away, but why?\nI got things to do before I die\n\n  Chorus\n\n    Some believe in destiny, and some believe in fate\n    I believe that happiness is something we create\n    You best believe that I'm not gonna wait\n    Because there's gotta be something more\n\nI get home 7:30, the house is dirty, but it can wait\nYeah, cause right now, I need some downtime to drink some red wine and celebrate\nYeah, Armageddon could be knocking at my door\nBut I ain't gonna answer, that's for sure .. there's gotta be something\n\n  Chorus",
-    "key": "E",
-    "tempo": "Tempo"
-  },
   "Ex_s_And_Oh_s.Ellie_King": {
     "name": "Ex's And Oh's",
     "artist": "Ellie King",
@@ -3886,6 +3878,14 @@
     "id": "Old_Time_Rock_and_Roll.Bob_Seger",
     "lyrics": "I - IV - V (orig F#)\n\nJust take those old records off the shelf\nI'll sit and listen to them by myself\nToday's music ain't got the same soul\nI like that old time rock and roll\n \nDon't try to take me to a disco\nYou'll never even get me out on the floor\nIn ten minutes I'll be late for the door\nI like that old time rock and roll\n \n  Still like that old time rock and roll\n  That kind of music just soothes the soul\n  I reminisce about the days of gold\n  With that old time rock and roll\n \nWon't go to hear them play a tango\nI'd rather hear some blues and funky old soul\nThere's only one sure way to get me to go\nStart playing old time rock and roll\n \nCall me a relic, call me what you will\nSay I'm old fashioned, say I'm over the hill\nToday's music ain't got the same soul\nI like that old time rock and roll\n \n  Chorus\n",
     "key": "F#",
+    "tempo": "Tempo"
+  },
+  "Something_More.Sugarland": {
+    "name": "Something More",
+    "artist": "Sugarland",
+    "id": "Something_More.Sugarland",
+    "lyrics": "I: E B A B E\nV: (E B C#m A) (B A)\nC: (E B A) (C#m B A F#m A)\nB: (A B) (E B A)\n\nCome on\n\nMonday, hard to wake up, fill my coffee cup, I'm out the door\nYeah, the freeway's standing still today, it's gonna make me late, and that's for sure\nI'm running out of gas and out of time\nNever gonna make it there by nine\n\n  There's gotta be something more gotta be more than this\n  I need a little less hard time I need a little more bliss\n  I'm gonna take my chances taking a chance, I might\n  Find what I'm looking for, there's gotta be something more\n\nFive years and there's no doubt that I'm burnt out, I've had enough\nSo now boss man, here's my two weeks I'll make it short and sweet, so listen up\nI could work my life away, but why?\nI got things to do before I die\n\n  Chorus\n\n    Some believe in destiny, and some believe in fate\n    I believe that happiness is something we create\n    You best believe that I'm not gonna wait\n    Because there's gotta be something more\n\nI get home 7:30, the house is dirty, but it can wait\nYeah, cause right now, I need some downtime to drink some red wine and celebrate\nYeah, Armageddon could be knocking at my door\nBut I ain't gonna answer, that's for sure\nthere's gotta be something *** gotta be something ***\n\n  Chorus",
+    "key": "E",
     "tempo": "Tempo"
   }
 }
