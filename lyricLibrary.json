@@ -3560,14 +3560,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Call_Me.Blondie": {
-    "name": "Call Me",
-    "artist": "Blondie",
-    "id": "Call_Me.Blondie",
-    "lyrics": "I: Dm [G F][F C]\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n",
-    "key": "Dm",
-    "tempo": "Tempo"
-  },
   "Everything_she_wants.George_Michael": {
     "name": "Everything she wants",
     "artist": "George Michael",
@@ -3886,6 +3878,14 @@
     "id": "Something_More.Sugarland",
     "lyrics": "I: E B A B E\nV: (E B C#m A) (B A)\nC: (E B A) (C#m B A F#m A)\nB: (A B) (E B A)\n\nCome on\n\nMonday, hard to wake up, fill my coffee cup, I'm out the door\nYeah, the freeway's standing still today, it's gonna make me late, and that's for sure\nI'm running out of gas and out of time\nNever gonna make it there by nine\n\n  There's gotta be something more gotta be more than this\n  I need a little less hard time I need a little more bliss\n  I'm gonna take my chances taking a chance, I might\n  Find what I'm looking for, there's gotta be something more\n\nFive years and there's no doubt that I'm burnt out, I've had enough\nSo now boss man, here's my two weeks I'll make it short and sweet, so listen up\nI could work my life away, but why?\nI got things to do before I die\n\n  Chorus\n\n    Some believe in destiny, and some believe in fate\n    I believe that happiness is something we create\n    You best believe that I'm not gonna wait\n    Because there's gotta be something more\n\nI get home 7:30, the house is dirty, but it can wait\nYeah, cause right now, I need some downtime to drink some red wine and celebrate\nYeah, Armageddon could be knocking at my door\nBut I ain't gonna answer, that's for sure\nthere's gotta be something *** gotta be something ***\n\n  Chorus",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Call_Me.Blondie": {
+    "name": "Call Me",
+    "artist": "Blondie",
+    "id": "Call_Me.Blondie",
+    "lyrics": "I: Dm [G F][F C]\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n\ne|--7---------------------------------|---------------|\nb|----10p8-7~---10--8-7--10--8-7--7---|----0----0--0h2|\ng|---------------------------------7--|-0h2--0h2------|\nD|----------------------------------9-|---------------|\n\ne|-7~~--------14~~~--17--15-14--17--15-|14~~~~---|\nb|-----10p8-7--------------------------|----15---|\ng|-------------------------------------|------16~|\n\ne|-17~~15/13-13~~~-----------------|--------------|\nb|----------------10-11-13--10-11--|13~~~-11p10---|\ng|---------------------------------|-----------12~|\n\ne|----------------------------10h12h|13--12h13p12-10---|\nb|------------------10h13h15--------|------------------|\ng|-10~~~--10h12h14------------------|------------------|\n\ne|-10--12-13~~~-12h13p12-10~~~-----------------------------12~-|\nb|---------------------------13--12~~--12h13h15--12h13h15------|\ng|-------------------------------------------------------------|",
+    "key": "Dm",
     "tempo": "Tempo"
   }
 }
