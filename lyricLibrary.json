@@ -3208,14 +3208,6 @@
     "key": "Dm",
     "tempo": "Tempo"
   },
-  "Fastest_Girl_In_Town.Miranda_Lambert": {
-    "name": "Fastest Girl In Town",
-    "artist": "Miranda Lambert",
-    "id": "Fastest_Girl_In_Town.Miranda_Lambert",
-    "lyrics": "V: (F# E B)\nC: A E F# - A E B - (F# E B)\n\nYou've got the bullets I've got the gun\nI've got a hankering for getting into something\nI hit the bottle, you hit the gas\nI heard your 65 can really haul some ass\n\nI'm feeling frisky, you're feeling good\nI guess the whiskey is doing what it should\nI got the cigarettes you've got a lighter\nAnd when the sun goes down we'll start a little fire\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby? I like 'em crazy\n\nMy reputation follows me around\nJust makes me wanna give them more to talk about\nLet's go to town for a little while\nI'll be wearing nothing but a tattoo and a smile\n\n  Chorus\n\n    Solo\n\nI see the blue lights, we better run\nThrow out the bottle and I'll hide the gun\nIf he pulls us over, I'll turn on the charm\nYou'll be in the slammer and I'll be on his arm\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby?\n  Well, I told you I was crazy\n  No, I ain't nobody's baby\n  Hey!\n\nHe's got the bullets, he's got a gun\nI got the hankering for getting into something",
-    "key": "F#",
-    "tempo": "Tempo"
-  },
   "Flowers.Miley_Cyrus": {
     "name": "Flowers",
     "artist": "Miley Cyrus",
@@ -3887,5 +3879,13 @@
     "lyrics": "I: F#m A E, F# D E\nC:(F#m D) (A E F#m)\nS: (F# E D B A [F# / E])\n\nCrazy, but that's how it goes, millions of people living as foes\nMaybe, it's not too late, to learn how to love, and forget how to hate\n  Mental wounds not healing life's a bitter shame\n  I'm goin off the rails on a crazy train\n\nI've listened to preachers, I've listened to fools I've watched all the dropouts who make their own rules\nOne person conditioned to rule and control, the media sells it and you live the role\n  Mental wounds still screaming driving me insane...\n\n    I know that things are going wrong for me\n    You gotta listen to my words, yeah\n\n  Solo\n\nHeirs of a cold war that's what we've become, inheriting troubles I'm mentally numb\nCrazy, I just cannot bear I'm living with something that just isn't fair\n  Mental wounds not healing, who and what's to blame...",
     "key": "F#m",
     "tempo": "138"
+  },
+  "Fastest_Girl_In_Town.Miranda_Lambert": {
+    "name": "Fastest Girl In Town",
+    "artist": "Miranda Lambert",
+    "id": "Fastest_Girl_In_Town.Miranda_Lambert",
+    "lyrics": "V: (F# E B)\nC: A E F# - A E B - (F# E B)\n\nYou've got the bullets I've got the gun\nI've got a hankering for getting into something\nI hit the bottle, you hit the gas\nI heard your 65 can really haul some ass (+ 2/4)\n\nI'm feeling frisky, you're feeling good\nI guess the whiskey is doing what it should\nI got the cigarettes you've got a lighter\nAnd when the sun goes down we'll start a little fire\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby? I like 'em crazy\n\nMy reputation follows me around\nJust makes me wanna give them more to talk about\nLet's go to town for a little while\nI'll be wearing nothing but a tattoo and a smile\n\n  Chorus\n\n    Solo\n\nI see the blue lights, we better run\nThrow out the bottle and I'll hide the gun\nIf he pulls us over, I'll turn on the charm\nYou'll be in the slammer and I'll be on his arm\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town (XTRA measure)\n  Ain't you baby?\n  Well, I told you I was crazy\n  No, I ain't nobody's baby\n  Hey!\n\nHe's got the bullets, he's got a gun\nI got the hankering for getting into something",
+    "key": "F#",
+    "tempo": "Tempo"
   }
 }
