@@ -2776,14 +2776,6 @@
     "key": "C",
     "tempo": "131bpm"
   },
-  "Mama_s_Broken_Heart.Miranda_Lambert": {
-    "name": "Mama's Broken Heart",
-    "artist": "Miranda Lambert",
-    "id": "Mama_s_Broken_Heart.Miranda_Lambert",
-    "lyrics": "I cut my bangs with some rusty kitchen scissors\nI screamed his name 'til the neighbors called the cops\nI numbed the pain at the expense of my liver\nDon't know what I did next, all I know, I couldn't stop\n\nWord got around to the barflies and the Baptists\nMy mama's phone started ringin' off the hook\nI can hear her now sayin' she ain't gonna have it\nDon't matter how you feel, it only matters how you look\n\n  Go and fix your makeup girl, it's just a breakup\n  Run and hide your crazy and start actin' like a lady\n  Cause I raised you better, gotta keep it together\n  Even when you fall apart, but this ain't my mama's broken heart\n\nI wish I could be just a little less dramatic\nLike a Kennedy when Camelot went down in flames\nLeave it to me to be holdin' the matches\nWhen the fire trucks show up and there's nobody else to blame\n\nCan't get revenge and keep a spotless reputation\nSometimes revenge is a choice you gotta make\nMy mama came from a softer generation\nWhere you get a grip and bite your lip just to save a little face\n\n  Chorus\n\nPowder your nose, paint your toes line your lips and keep 'em closed\nCross your legs, dot your I's, and never let 'em see you cry\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Tell_That_Devil.Jill_Andrews": {
     "name": "Tell That Devil",
     "artist": "Jill Andrews",
@@ -2837,14 +2829,6 @@
     "artist": "Jax",
     "id": "Victoria_s_Secret.Jax",
     "lyrics": "God I wish somebody would have told me\nWhen I was younger that all bodies aren't the same\nPhotoshop itty-bitty models on magazine covers\nTold me I was overweight I stopped eating, what a bummer\nCan't have carbs and a hot girl summer\nIf I could go back and tell myself when I was younger, I'd say, psst\n\n  I know Victoria's secret and girl you wouldn't believe\n  She's an old man who lives in Ohio making money off of girls like me\n  Cashing in on body issues selling skin and bones with big boobs\n  I know Victoria's secret\n  She was made up by a dude (dude)\n  Victoria was made up by a dude (dude)\n  Victoria was made up by a dude\n\nI wish somebody would've told me that thighs of thunder meant normal human thighs\nThe fucking pressure I was under to lose my appetite\nAnd fight the cellulite with hunger games like every night\nIf I could go back and tell myself when I was younger, I'd say, hey dummy\n\n  Chorus / acapella / Chorus\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
-  "Celebrity_Skin.Hole": {
-    "name": "Celebrity Skin",
-    "artist": "Hole",
-    "id": "Celebrity_Skin.Hole",
-    "lyrics": "Oh, make me over I'm all I wanna be\nA walking study in demonology\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, so glad you could make it now\n\nOh, look at my face, my name is \"Might-Have-Been\"\nMy name is \"Never Was\", my name's forgotten\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup it's too early for that dress\n    Wilted and faded somewhere in Hollywood I'm glad I came here with your pound of flesh\n    No second billing 'cause you're a star now hh, Cinderella, they aren't sluts like you\n    Beautiful garbage, beautiful dresses, can you stand up or will you just fall down?\n\nYou better watch out oh, what you wish for\nIt better be worth it so much to die for\n\nHey, so glad you could make it\nYeah, now you've really made it\nHey, there's only us left now\n\n    When I wake up in my makeup have you ever felt so used up as this?\n    It's all so sugarless, hooker, waitress, model, actress, oh, just go nameless\n    Honeysuckle, she's full of poison she obliterated everything she kissed\n    Now she's fading somewhere in Hollywood I'm glad I came here with your pound of flesh\n\nYou want a part of me?\nWell, I'm not selling cheap\nNo, I'm not selling cheap\n",
     "key": "undefined",
     "tempo": "Tempo"
   },
@@ -3886,6 +3870,22 @@
     "id": "Fastest_Girl_In_Town.Miranda_Lambert",
     "lyrics": "V: (F# E B)\nC: A E F# - A E B - (F# E B)\n\nYou've got the bullets I've got the gun\nI've got a hankering for getting into something\nI hit the bottle, you hit the gas\nI heard your 65 can really haul some ass (+ 2/4)\n\nI'm feeling frisky, you're feeling good\nI guess the whiskey is doing what it should\nI got the cigarettes you've got a lighter\nAnd when the sun goes down we'll start a little fire\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby? I like 'em crazy\n\nMy reputation follows me around\nJust makes me wanna give them more to talk about\nLet's go to town for a little while\nI'll be wearing nothing but a tattoo and a smile\n\n  Chorus\n\n    Solo\n\nI see the blue lights, we better run\nThrow out the bottle and I'll hide the gun\nIf he pulls us over, I'll turn on the charm\nYou'll be in the slammer and I'll be on his arm\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town (XTRA measure)\n  Ain't you baby?\n  Well, I told you I was crazy\n  No, I ain't nobody's baby\n  Hey!\n\nHe's got the bullets, he's got a gun\nI got the hankering for getting into something",
     "key": "F#",
+    "tempo": "Tempo"
+  },
+  "Celebrity_Skin.Hole": {
+    "name": "Celebrity Skin",
+    "artist": "Hole",
+    "id": "Celebrity_Skin.Hole",
+    "lyrics": "V: (A C#5 F#5)\nC: (D A) F#5 B D\nB: (A D) F#m\n\nOh, make me over I'm all I wanna be\nA walking study in demonology\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, so glad you could make it now\n\nOh, look at my face, my name is \"Might-Have-Been\"\nMy name is \"Never Was\", my name's forgotten\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup it's too early for that dress\n    Wilted and faded somewhere in Hollywood I'm glad I came here with your pound of flesh\n    No second billing 'cause you're a star now oh Cinderella, they aren't sluts like you\n    Beautiful garbage, beautiful dresses, can you stand up or will you just fall down?\n\nYou better watch out oh, what you wish for\nIt better be worth it so much to die for\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup have you ever felt so used up as this?\n    It's all so sugarless, hooker, waitress, model, actress, oh, just go nameless\n    Honeysuckle, she's full of poison she obliterated everything she kissed\n    Now she's fading somewhere in Hollywood I'm glad I came here with your pound of flesh\n\nYou want a part of me?\nWell, I'm not selling cheap\nNo, I'm not selling cheap\n",
+    "key": "A",
+    "tempo": "Tempo"
+  },
+  "Mama_s_Broken_Heart.Miranda_Lambert": {
+    "name": "Mama's Broken Heart",
+    "artist": "Miranda Lambert",
+    "id": "Mama_s_Broken_Heart.Miranda_Lambert",
+    "lyrics": "Em - B7\n\nI cut my bangs with some rusty kitchen scissors\nI screamed his name 'til the neighbors called the cops\nI numbed the pain at the expense of my liver\nDon't know what I did next, all I know, I couldn't stop\n\nWord got around to the barflies and the Baptists\nMy mama's phone started ringin' off the hook\nI can hear her now sayin' she ain't gonna have it\nDon't matter how you feel, it only matters how you look\n\n  Go and fix your makeup girl, it's just a breakup\n  Run and hide your crazy and start actin' like a lady\n  Cause I raised you better, gotta keep it together\n  Even when you fall apart, but this ain't my mama's broken heart\n\nI wish I could be just a little less dramatic\nLike a Kennedy when Camelot went down in flames\nLeave it to me to be holdin' the matches\nWhen the fire trucks show up and there's nobody else to blame\n\nCan't get revenge and keep a spotless reputation\nSometimes revenge is a choice you gotta make\nMy mama came from a softer generation\nWhere you get a grip and bite your lip just to save a little face\n\n  Chorus\n\nPowder your nose, paint your toes line your lips and keep 'em closed\nCross your legs, dot your I's, and never let 'em see you cry [Break]\n\n  Chorus",
+    "key": "Em",
     "tempo": "Tempo"
   }
 }
