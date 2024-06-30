@@ -1956,7 +1956,7 @@
     "name": "For the Summer",
     "artist": "Ray Lamontangue",
     "id": "For_the_Summer.Ray_Lamontangue",
-    "lyrics": "I: B F#m A\nV: B F#m A E\nC: (A E) B F#m E D\nO: (B F#m) E D B\n\nRollin' through these hills I've known I'd be coming\nThere ain't a man alive that likes to be alone\nIt's been a while since I seen my lady smile\nHave I been have I been away so long\n\n  I'm tired..\n  Can I come home for the summer I could slow down for a little while\n  Get back to lovin each other leave all those long and lonesome miles behind\n\nThrough the years I have learned some things worth the tellin\nAnd you'd be right in guessin that each and every lesson they were hard won\n\n  Chorus\n\nYou'll follow her, wherever she goes\nYou love her, and you just wanted to know\nThat you'll follow her, you'll find a way\nCause you love her and you just wanted to know",
+    "lyrics": "I: B F#m A\nV: B F#m A E\nC: (A E) B F#m E D\nO: (B F#m) E D B\n\nRollin' through these hills I've known I'd be coming\nThere ain't a man alive that likes to be alone\nIt's been a while since I seen my lady smile\nHave I been have I been away so long\n\n  I'm tired..\n  Can I come home for the summer I could slow down for a little while\n  Get back to lovin each other leave all those long and lonesome miles behind\n\nThrough the years I have learned some things worth the tellin\nAnd you'd be right in guessin that each and every lesson they were hard won\n\n  Chorus\n\nYou'll follow her, wherever she goes\nYou love her, and you just want her to know\nThat you'll follow her, you'll find a way\nCause you love her and you just want her to know",
     "key": "B",
     "tempo": "undefined"
   },
@@ -2831,14 +2831,6 @@
     "lyrics": "V: (Em7 A7) Em7 A7 Bb-dim, Em7 A7 Em7 -- B7\n\nIn the cool of the evening, when everything is getting kind of groovy,\nI call you up, and ask you if you'd like to go with me and see a movie,\nFirst you say no, you've got some plans for the night,\nThen you stop, and say... alright,\nLove is kinda crazy with a spooky little girl like you!\n\nYou always keep me guessing, I never seem to know what you are thinking,\nAnd if a feller looks at you, it's for sure your little eye will be awinking,\nI get confused, cause I don't know where I stand,\nAnd then you smile, and hold my hand,\nLove is kinda crazy..\n\nHarmonica D\n\nIf you decide, someday, to stop this little game that you are playing,\nI'm gonna tell you the only thing my heart is dying to be saying,\nJust like a ghost, you've been haunting my dreams,\nSo I'll propose... on Halloween,\nLove is kinda crazy...",
     "key": "Em",
     "tempo": "undefined"
-  },
-  "Pony.Ginuine": {
-    "name": "Pony",
-    "artist": "Ginuine",
-    "id": "Pony.Ginuine",
-    "lyrics": "I'm just a bachelor I'm looking for a partner\nSomeone who knows how to ride without even falling off\nGotta be compatible takes me to my limits\nGirl when I break you off, I promise that you won't wanna get off\n\n  If you're horny, let's do it, ride it, my pony\n  My saddle's waitin, come and jump on it x 2\n\nSitting here flossing peeping your steelo\nJust once if I have the chance the things I would do to you\nYou and your body, every single portion\nSend chills up and down your spine juices flowing down your vine\n\n  Chorus\n\nIf we're gonna get nasty baby first we'll show and tell\nTill I reach your pony tail lurk all over and through you baby\nUntil we reach the stream you'll be on my jockey team\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
   },
   "Break_Stuff.Limp_Bizkit": {
     "name": "Break Stuff",
@@ -3894,6 +3886,14 @@
     "id": "Dixiland_Delight.Alabama",
     "lyrics": "I: G D Em C G D Cm G\nV: (G D Em C) Em D Em C G D Cm G\nC: D Em C - G D - Em C Em C Cm G\n\nRollin down-a backwoods Tennessee byway one arm on the wheel\nHoldin my lover with the other a sweet, soft Southern thrill\nWorked hard all week got a little jingle on a Tennessee Saturday night\nCouldn't feel better I'm together with my Dixieland Delight\n\n  Spend my dollar park in a holler neath the mountain moonlight\n  Hold her up tight make a little lovin\n  A little turtle- dovin' on a mason-Dixon night\n  Fits my life, oh, so right. My Dixieland De- -light\n\nWhite-tail buck deer munchin on clover Red-tail hawk sittin on a limb\nChubby old groundhog croakin bullfrog Free as a feelin in the wind\nHomegrown country girl gonna give me a whirl on a Tennessee Saturday night\nLucky as a seven livin in heaven with my Dixieland Delight\n\n  Chorus",
     "key": "G",
+    "tempo": "Tempo"
+  },
+  "Pony.Ginuine": {
+    "name": "Pony",
+    "artist": "Ginuine",
+    "id": "Pony.Ginuine",
+    "lyrics": "D A G - G C D\n\nI'm just a bachelor I'm looking for a partner\nSomeone who knows how to ride without even falling off\nGotta be compatible takes me to my limits\nGirl when I break you off, I promise that you won't wanna get off\n\n  If you're horny, let's do it, ride it, my pony\n  My saddle's waitin, come and jump on it x 2\n\nSitting here flossing peeping your steelo\nJust once if I have the chance the things I would do to you\nYou and your body, every single portion\nSend chills up and down your spine juices flowing down your vine\n\n  Chorus\n\nIf we're gonna get nasty baby first we'll show and tell\nTill I reach your pony tail lurk all over and through you baby\nUntil we reach the stream you'll be on my jockey team\n\n  Chorus",
+    "key": "D",
     "tempo": "Tempo"
   }
 }
