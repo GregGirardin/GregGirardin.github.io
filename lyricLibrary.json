@@ -2648,14 +2648,6 @@
     "key": "B",
     "tempo": "127bpm"
   },
-  "Summer_Wind.Frank_Sinatra": {
-    "name": "Summer Wind",
-    "artist": "Frank Sinatra",
-    "id": "Summer_Wind.Frank_Sinatra",
-    "lyrics": "V: C Dm - Dm C - C  F Dm - C Dm G C\nV3 up a step. outtro Em A D\n\nThe summer wind, came blowin' in from across the sea\nIt lingered there to touch your hair and walk with me\nAll summer long we sang a song and then we strolled that golden sand\nTwo sweethearts and the summer wind\n\nLike painted kites, those days and nights, they went flyin' by\nThe world was new beneath a blue umbrella sky\nThen softer than a piper man one day it called to you\nI lost you, I lost you to the summer wind\n\nThe autumn wind and the winter winds, they have come and gone\nAnd still the days, those lonely days, they go on and on\nAnd guess who sighs his lullabies through nights that never end\nMy fickle friend, the summer wind\n\nThe summer wind\nWarm summer wind\nMmm, the summer wind",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Detroit_Rock_City.Kiss": {
     "name": "Detroit Rock City",
     "artist": "Kiss",
@@ -3360,14 +3352,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Hand_in_my_pocket.Alanis_Morisette": {
-    "name": "Hand in my pocket",
-    "artist": "Alanis Morisette",
-    "id": "Hand_in_my_pocket.Alanis_Morisette",
-    "lyrics": "D - C G D\n\nI'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah\nI'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby\n\n  And what it all comes down to is that everything's gonna be fine\n  Cause I got one hand in my pocket and the other one is givin a high five\n\nI feel drunk but I'm sober I'm young and I'm underpaid. I'm dying but I'm workin yeah\nI care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby\n\n  . is that everything's gonna be quite alright\n  . and the other one is flickin a cigarette\n\n  Solo\n\nI'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby\nI'm sad but I'm laughin I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby\n\n  . is that no one's really got it figured out just yet\n  . and the other one is playin the piano\n  . yeah is that everything is just fine\n  . and the other one is hailing a taxi cab\n\n  Solo",
-    "key": "D",
-    "tempo": "undefined"
-  },
   "Hard_To_Handle.Black_Crowes": {
     "name": "Hard To Handle",
     "artist": "Black Crowes",
@@ -3894,6 +3878,22 @@
     "id": "Pony.Ginuine",
     "lyrics": "D A G - G C D\n\nI'm just a bachelor I'm looking for a partner\nSomeone who knows how to ride without even falling off\nGotta be compatible takes me to my limits\nGirl when I break you off, I promise that you won't wanna get off\n\n  If you're horny, let's do it, ride it, my pony\n  My saddle's waitin, come and jump on it x 2\n\nSitting here flossing peeping your steelo\nJust once if I have the chance the things I would do to you\nYou and your body, every single portion\nSend chills up and down your spine juices flowing down your vine\n\n  Chorus\n\nIf we're gonna get nasty baby first we'll show and tell\nTill I reach your pony tail lurk all over and through you baby\nUntil we reach the stream you'll be on my jockey team\n\n  Chorus",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "Hand_in_my_pocket.Alanis_Morisette": {
+    "name": "Hand in my pocket",
+    "artist": "Alanis Morisette",
+    "id": "Hand_in_my_pocket.Alanis_Morisette",
+    "lyrics": "D - C G D\n\nI'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah\nI'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby\n\n  And what it all comes down to, is that everything's gonna be fine\n  Cause I've got one hand in my pocket and the other one is givin a high five\n\nI feel drunk but I'm sober I'm young and I'm underpaid. I'm tired but I'm workin yeah\nI care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby\n\n  . is that everything's gonna be quite alright\n  . and the other one's flickin a cigarette\n\n  Solo\n\n  . is that I haven't got it figured out just yet\n  . and the other one's givin a peace sign\n\nI'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby\nI'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby\n\n  And what it oil boils down to, is that no one's really got it figured out just yet\n  . and the other one is playin a piano\n  And what it all comes down to my friends, is that everything is just fine fine fine\n  . and the other one's hailing a taxi cab\n\n  Solo",
+    "key": "D",
+    "tempo": "undefined"
+  },
+  "Summer_Wind.Frank_Sinatra": {
+    "name": "Summer Wind",
+    "artist": "Frank Sinatra",
+    "id": "Summer_Wind.Frank_Sinatra",
+    "lyrics": "V: C Dm  - Dm C  - C  F Dm  - C Dm G C\n2: D Em  - Em D  - D  G Em  - D Em A D\n3: E F#m - F#m E - E  A F#m - E F#m B E\n\nThe summer wind, came blowin' in from across the sea\nIt lingered there to touch your hair and walk with me\nAll summer long we sang a song and then we strolled that golden sand\nTwo sweethearts and the summer wind\n\nLike painted kites, those days and nights, they went flyin' by\nThe world was new beneath a blue umbrella sky\nThen softer than a piper man one day it called to you\nI lost you, I lost you to the summer wind\n\nThe autumn wind and the winter winds, they have come and gone\nAnd still the days, those lonely days, they go on and on\nAnd guess who sighs his lullabies through nights that never end\nMy fickle friend, the summer wind\n\nThe summer wind\nWarm summer wind\nMmm, the summer wind",
+    "key": "C",
     "tempo": "Tempo"
   }
 }
