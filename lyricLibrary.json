@@ -1408,14 +1408,6 @@
     "key": "F#m",
     "tempo": "undefined"
   },
-  "Wrapped_Around_Your_Finger.The_Police": {
-    "name": "Wrapped Around Your Finger",
-    "artist": "The Police",
-    "id": "Wrapped_Around_Your_Finger.The_Police",
-    "lyrics": "V: Am - Em\nC: (G FM7) Em Dm7\n\nYou consider me the young apprentice caught between the Scylla and Charibdes\nHypnotized by you if I should linger staring at the ring around your finger\nI have only come here seeking knowledge things they would not teach me of in college\nI can see the destiny you sold turned into a shining band of gold\n\n  I'll be wrapped around your finger\n\nMephistopheles is not your name but I know what you're up to just the same\nI will listen hard to your tuition and you will see it come to it's fruition\n\n  Chorus\n\nDevil and the deep blue sea behind me banish in the air you'll never find me\nI will turn your face to alabaster then you'll find your servant is your master\n\n  And you'll be..",
-    "key": "Am",
-    "tempo": "undefined"
-  },
   "Working_For_The_Weekend.Loverboy": {
     "name": "Working For The Weekend",
     "artist": "Loverboy",
@@ -3895,5 +3887,21 @@
     "lyrics": "D - C G D\n\nI'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah\nI'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby\n\n  And what it all comes down to, is that everything's gonna be fine\n  Cause I've got one hand in my pocket and the other one is givin a high five\n\nI feel drunk but I'm sober I'm young and I'm underpaid. I'm tired but I'm workin yeah\nI care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby\n\n  . is that everything's gonna be quite alright\n  . and the other one's flickin a cigarette\n\n  Solo\n\n  . is that I haven't got it figured out just yet\n  . and the other one's givin a peace sign\n\nI'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby\nI'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby\n\n  And what it all boils down to, is that no one's really got it figured out just yet\n  . and the other one is playin a piano\n  And what it all comes down to my friends, is that everything is just fine fine fine\n  . and the other one's hailing a taxi cab\n\n  Solo",
     "key": "D",
     "tempo": "undefined"
+  },
+  "Wrapped_Around_Your_Finger.The_Police": {
+    "name": "Wrapped Around Your Finger",
+    "artist": "The Police",
+    "id": "Wrapped_Around_Your_Finger.The_Police",
+    "lyrics": "V: Am - Em\nC: (G FM7) Em Dm7\n\nYou consider me the young apprentice caught between the Scylla and Charibdes\nHypnotized by you if I should linger staring at the ring around your finger\nI have only come here seeking knowledge things they would not teach me of in college\nI can see the destiny you sold turned into a shining band of gold\n\n  I'll be wrapped around your finger\n\nMephistopheles is not your name but I know what you're up to just the same\nI will listen hard to your tuition and you will see it come to it's fruition\n\n  Chorus\n\nDevil and the deep blue sea behind me banish in the air you'll never find me\nI will turn your face to alabaster then you'll find your servant is your master\n\n  And you'll be..",
+    "key": "Am",
+    "tempo": "undefined"
+  },
+  "Tea_In_The_Sahara.The_Police": {
+    "name": "Tea In The Sahara",
+    "artist": "The Police",
+    "id": "Tea_In_The_Sahara.The_Police",
+    "lyrics": "I: C#m  V: F#m A   C: E A\n\nMy sisters and I have one wish before we die\nAnd it may sound strange as if our minds are deranged\nPlease don't ask us why beneath the sheltering sky\nWe have this strange obsession, you have the means in your possession\n\n  Tea in the Sahara with you\n\nThe young man agreed he would satisfy their need\nSo they danced for his pleasure with a joy you could not measure\nThey wait for him here the same place every year\nBeneath the sheltering sky across the desert he would fly\n\n  Tea in the Sahara with you\n\nThey would climb a high dune they would pray to the moon\nBut he'd never return so the sisters would burn\nAs their eyes searched the land with their cups still full of sand\n\n  Tea in the Sahara with you\n",
+    "key": "F#m",
+    "tempo": "Tempo"
   }
 }
