@@ -976,14 +976,6 @@
     "key": "B",
     "tempo": "undefined"
   },
-  "Feelin_Alright.Joe_Cocker": {
-    "name": "Feelin Alright",
-    "artist": "Joe Cocker",
-    "id": "Feelin_Alright.Joe_Cocker",
-    "lyrics": "C - F\n\nSeems I got to have a change of scene\nCause every night I have the strangest dreams\nImprisoned by the way it could've been\nLeft here on my own or so it seems\nI got to leave before I start to scream\nBut someone's locked the door and took the key\n\n  Feelin' alright. Not feelin' too good myself.\n\nBoy you sure took me for one big ride\nEven now I sit and wonder why\nAnd when I think of you I start to cry\nI just can't waste the time I must keep dry\nGot to stop believin' in all your lies\nCause I got to much to do before I die\n\nDon't get too lost in all I say\nIf half the time I really felt that way\nThat was then and now it's today\nCan't get off yet and so I'm here to stay\nBefore someone comes along and takes my place\nWith a different name and yes a different face",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Fly_Like_an_Eagle.Steve_Miller_Band": {
     "name": "Fly Like an Eagle",
     "artist": "Steve Miller Band",
@@ -3903,5 +3895,13 @@
     "lyrics": "I: C#m  V: F#m A   C: E A\n\nMy sisters and I have one wish before we die\nAnd it may sound strange as if our minds are deranged\nPlease don't ask us why beneath the sheltering sky\nWe have this strange obsession, you have the means in your possession\n\n  Tea in the Sahara with you\n\nThe young man agreed he would satisfy their need\nSo they danced for his pleasure with a joy you could not measure\nThey wait for him here the same place every year\nBeneath the sheltering sky across the desert he would fly\n\n  Tea in the Sahara with you\n\nThey would climb a high dune they would pray to the moon\nBut he'd never return so the sisters would burn\nAs their eyes searched the land with their cups still full of sand\n\n  Tea in the Sahara with you\n",
     "key": "F#m",
     "tempo": "Tempo"
+  },
+  "Feelin_Alright.Joe_Cocker": {
+    "name": "Feelin Alright",
+    "artist": "Joe Cocker",
+    "id": "Feelin_Alright.Joe_Cocker",
+    "lyrics": "I - IV\n\nSeems I got to have a, change of scene\nEvery night I have, the strangest dreams\nImprisoned by the way it, could've been\nLeft here on my own or, so it seems\nI got to leave before I, start to scream\nBut someone's locked the door and, took the key\n\n  Feelin' alright. Not feelin' too good myself.\n\nBoy you sure took me, for one big ride\nEven now I sit, and I wonder why\nAnd when I think of you I start myself to cry\nI just can't waste the time, I must keep dry\nGot to stop believing, in all your lies\nCause I got to much to do before I die\n\nDon't get too lost, in all I say\nYeah but at the time you know I really, felt that way\nThat was then and now you know, it's today\nCan't get off yet and so I'm here to stay\nTill someone comes along and, takes my place\nWith a different name, and yes a different face",
+    "key": "C",
+    "tempo": "undefined"
   }
 }
