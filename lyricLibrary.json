@@ -3504,14 +3504,6 @@
     "key": "E",
     "tempo": "undefined"
   },
-  "Here_For_The_Party.Gretchen_Wilson": {
-    "name": "Here For The Party",
-    "artist": "Gretchen Wilson",
-    "id": "Here_For_The_Party.Gretchen_Wilson",
-    "lyrics": "D|-----0-----0-------0------------| V: D (D C) G A\nA|-------0-3-----------0-3-3-2-0--| C: D C G/B D\nD|-0-0---------3-0-0--------------|\n\nI'm an eight-ball shooting double fisted drinking son-of-a-gun\nI wear my jeans a little tight just to watch the little boys come undone\nI'm here for the beer and the ball busting band\nGonna get a little crazy just because I can\n\n  You know I'm here for the party\n  And I ain't leaving till they throw me out\n  Gonna have a little fun gonna get me some\n  You know I'm here, I'm here for the party\n\nI may not be a ten but the boys say I clean up good\nAnd if I gave em half a chance for some rowdy romance you know they would\nI've been waiting all week just to have a good time\nSo bring on them cowboys and their pick up lines\n\n  Chorus\n\n    Solo\n\nDon't want no purple hooter shooter just some Jack on the rocks\nDon't mind me if I start that trashy talk [Measure]\n\n  Chorus [break]\n  I... I...\n  Chorus",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Just_What_I_Needed.The_Cars": {
     "name": "Just What I Needed",
     "artist": "The Cars",
@@ -3910,6 +3902,14 @@
     "id": "Gasoline.Seether",
     "lyrics": "Last night I saw that beauty queen watched her paint her face on\nI wanna be that magazine that she bases life on\nI wanna waste her monthly blood wanna get some on my love\nWanna get some gasoline and burn the house down\n\n  She's got nothing to say\n  She's got bills to pay\n  She's got no one to hate\n  Except for me\n\nLast night I saw that beauty queen she's getting high on Revlon\nI wanna be that magazine that she wastes her life on\nI wanna waste her monthly blood...\n\n  Chorus\n\n  Bridge\n\nWhen I saw that beauty queen watched her paint her face on\nI wanna be the one unclean that she wipes her ass on\nWanna waste her monthly blood..\n\n  She's got nothing to say\n  She's got bills to pay\n  She's got no one to hate\n  Except for me\n\n  She's got nothing but shame\n  She takes pills for pain\n  She's got no one to blame\n  Except for me\n  For me",
     "key": "undefined",
+    "tempo": "Tempo"
+  },
+  "Here_For_The_Party.Gretchen_Wilson": {
+    "name": "Here For The Party",
+    "artist": "Gretchen Wilson",
+    "id": "Here_For_The_Party.Gretchen_Wilson",
+    "lyrics": "D|-----0-----0-------0------------| V: D (D C) G A\nA|-------0-3-----------0-3-3-2-0--| C: D C G/B D\nD|-0-0---------3-0-0--------------|\n\nI'm an eight-ball shooting double fisted drinking son-of-a-gun\nI wear my jeans a little tight just to watch the little boys come undone\nI'm here for the beer and the ball busting band\nGonna get a little crazy just because I can\n\n  You know I'm here for the party\n  And I ain't leaving till they throw me out\n  Gonna have a little fun gonna get me some\n  You know I'm here, I'm here for the party\n\nI may not be a ten but the boys say I clean up good\nAnd if I gave em half a chance for some rowdy romance you know they would\nI've been waiting all week just to have a good time\nSo bring on them cowboys and their pick up lines\n\n  Chorus\n\n    Solo\n\nDon't want no purple hooter shooter just some Jack on the rocks\nDon't mind me if I start that trashy talk [Measure]\n\n  Chorus/quiet [break]\n  I... I...\n  Chorus",
+    "key": "D",
     "tempo": "Tempo"
   }
 }
