@@ -2760,14 +2760,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Gasoline.Halsey": {
-    "name": "Gasoline",
-    "artist": "Halsey",
-    "id": "Gasoline.Halsey",
-    "lyrics": "Are you insane like me? Been in pain like me?\nBought a hundred dollar bottle of champagne like me?\nJust to pour that motherfucker down the drain like me?\nWould you use your water bill to dry the stain like me?\n\nAre you high enough without the Mary Jane like me?\nDo you tear yourself apart to entertain like me?\nDo the people whisper bout you on the train like me?\nSaying that you shouldn't waste your pretty face like me?\n\n  And all the people say\n\n  You can't wake up, this is not a dream\n  You're part of a machine, you are not a human being\n  With your face all made up, living on a screen\n  Low on self esteem, so you run on gasoline\n  Oh, I think there's a flaw in my code\n  Oh, these voices won't leave me alone\n  Well my heart is gold, and my hands are cold\n\nAre you deranged like me? Are you strange like me?\nLighting matches just to swallow up the flame like me?\nDo you call yourself a fucking hurricane like me?\nPointing fingers cause you'll never take the blame like me?\n\n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Zombie.The_Cranberries": {
     "name": "Zombie",
     "artist": "The Cranberries",
@@ -3910,6 +3902,14 @@
     "id": "Valerie.Amy_Winehouse",
     "lyrics": "(E F#m) - (A G#m) B\n\nWell, sometimes, I go out by myself and I look across the water\nAnd I think of all the things, what you're doin'\nAnd in my head, I paint a picture\n\nSince I've come on home well my body's been a mess\nAnd I've missed your ginger hair and the way you like to dress\nWon't you come on over? Stop makin' a fool out of me\n\n  Why don't you come on over, Valerie?\n  Valerie, yeah\n\nDid you have to go to jail? Put your house on up for sale?\nDid you get a good lawyer?\nI hope you didn't catch a tan, I hope you'll find the right man\nWho'll fix it for you\n\nAnd are you shoppin' anywhere? Changed the colour of your hair?\nAnd are you busy?\nAnd did you have to pay that fine that you were dodgin' all the time?\nAre you still dizzy?\n\nSince I've come on home..\n\n  Chorus\n\nV1",
     "key": "E",
+    "tempo": "Tempo"
+  },
+  "Gasoline.Seether": {
+    "name": "Gasoline",
+    "artist": "Seether",
+    "id": "Gasoline.Seether",
+    "lyrics": "Last night I saw that beauty queen watched her paint her face on\nI wanna be that magazine that she bases life on\nI wanna waste her monthly blood wanna get some on my love\nWanna get some gasoline and burn the house down\n\n  She's got nothing to say\n  She's got bills to pay\n  She's got no one to hate\n  Except for me\n\nLast night I saw that beauty queen she's getting high on Revlon\nI wanna be that magazine that she wastes her life on\nI wanna waste her monthly blood...\n\n  Chorus\n\n  Bridge\n\nWhen I saw that beauty queen watched her paint her face on\nI wanna be the one unclean that she wipes her ass on\nWanna waste her monthly blood..\n\n  She's got nothing to say\n  She's got bills to pay\n  She's got no one to hate\n  Except for me\n\n  She's got nothing but shame\n  She takes pills for pain\n  She's got no one to blame\n  Except for me\n  For me",
+    "key": "undefined",
     "tempo": "Tempo"
   }
 }
