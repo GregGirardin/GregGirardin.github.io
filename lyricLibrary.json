@@ -3704,14 +3704,6 @@
     "key": "Em",
     "tempo": "112"
   },
-  "Poker_Face.Lady_GaGa": {
-    "name": "Poker Face",
-    "artist": "Lady GaGa",
-    "id": "Poker_Face.Lady_GaGa",
-    "lyrics": "D|-6-6----------|-6-6-2-4-4----| 125bpm (First To 11 version)\nA|-------6-6----|------2-------|\nE|----4-4---4-4-|----------2-2-| C: G#m E B F#\n\nMum mum mum mah x 4\n\nI wanna hold 'em like they do in Texas, please (Woo)\nFold 'em, let 'em hit me, raise it, baby, stay with me (I love it)\nLoveGame intuition, play the cards with spades to start\nAnd after he's been hooked, I'll play the one that's on his heart\n\nOh, woah-oh, I'll get him hot show him what I've got x 2\n\n  Can't read my, can't read my, no he can't read my poker face\n  (She's got me like nobody) x 2\n\n  P-p-p-poker face, f-f-fuck her face\n\nI wanna roll with him, a hard pair we will be (Woo)\nA little gamblin' is fun when you're with me (I love it, woo)\nRussian roulette is not the same without a gun\nAnd baby when it's love, if it's not rough it isn't fun, fun\n\nOh, woah-oh, oh, I'll get him hot, show him what I've got\n\n  Chorus\n\n  I won't tell you that I love you kiss or hug you\n  Cause I'm bluffin' with my muffin\n  I'm not lyin', I'm just stunnin' with my love-glue-gunnin'\n  Just like a chick in the casino take your bank before I pay you out\n  I promise this, promise this check this hand 'cause I'm marvelous\n\n  Chorus",
-    "key": "G#m",
-    "tempo": "125"
-  },
   "Shut_Up_And_Dance.Walk_The_Moon": {
     "name": "Shut Up And Dance",
     "artist": "Walk The Moon",
@@ -3943,5 +3935,13 @@
     "lyrics": "V: Bm G6 Asus2 - Bm Em F#m - 99/198 bpm\n\nI took a walk around the world to ease my troubled mind\nI left my body lying somewhere in the sands of time\nI watched the world float to the dark side of the moon\nAnd I feel there is nothing I can do, oh yeah\n\nI watched the world float to the dark side of the moon\nAfter all I knew it had to be something to do with you\nI really don't mind what happens now and then\nAs long as you'll be my friend at the end\n\n  If I go crazy then will you still call me Superman?\n  If I'm alive and well will you be there a holding my hand?\n  I'll keep you by my side with my superhuman might\n  Kryptonite\n\nYou called me strong, you called me weak, but still your secrets I will keep\nYou took for granted all the times I never let you down\nYou stumbled in and bumped your head if not for me then you'd be dead\nI picked you up and put you back on solid ground\n\n  Chorus\n\n  Solo\n\nBreak\nChorus (mellow) + Chorus + Solo\n",
     "key": "Bm",
     "tempo": "99"
+  },
+  "Poker_Face.Lady_GaGa": {
+    "name": "Poker Face",
+    "artist": "Lady GaGa",
+    "id": "Poker_Face.Lady_GaGa",
+    "lyrics": "D|-6-6----------|-6-6-2-4-4----| 125bpm (First To 11 version)\nA|-------6-6----|------2-------|\nE|----4-4---4-4-|----------2-2-| C: G#m E B F#\n\nMum mum mum mah x 4\n\nI wanna hold 'em like they do in Texas, please (Woo)\nFold 'em, let 'em hit me, raise it, baby, stay with me (I love it)\nLoveGame intuition, play the cards with spades to start\nAnd after he's been hooked, I'll play the one that's on his heart\n\n  Oh, woah-oh, I'll get him hot show him what I've got x 2\n  Can't read my... no he can't read my poker face (She's got me like nobody) x 2\n  P-p-p-poker face.. P-p-p-poker face x 2\n\nI wanna roll with him, a hard pair we will be (Woo)\nA little gamblin' is fun when you're with me (I love it, woo)\nRussian roulette is not the same without a gun\nAnd baby when it's love, if it's not rough it isn't fun, fun\n\n  Chorus\n\n    I won't tell you that I love you kiss or hug you\n    Cause I'm bluffin' with my muffin\n    I'm not lyin', I'm just stunnin' with my love-glue-gunnin'\n    Just like a chick in the casino take your bank before I pay you out\n    I promise this, promise this check this hand 'cause I'm marvelous\n \n  Can't read my.. x 4\n  P-p-poker.. x 4\n\nOutro G#m riff x 4\n",
+    "key": "G#m",
+    "tempo": "125"
   }
 }
