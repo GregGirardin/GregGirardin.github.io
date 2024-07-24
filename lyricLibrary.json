@@ -1520,14 +1520,6 @@
     "key": "Am",
     "tempo": "undefined"
   },
-  "Lucky_Man.ELP": {
-    "name": "Lucky Man",
-    "artist": "ELP",
-    "id": "Lucky_Man.ELP",
-    "lyrics": "V: G D   C: Am Em D\n\nHe had white horses and ladies by the score\nAll dressed in satin and waiting by the door\n\n  Ooh, what a lucky man he was\n\nWhite lace and feathers they made up his bed\nA gold covered mattress on which he was laid\n\nHe went to fight wars for his country and his king\nOf his honor and his glory the people would sing\n\nA bullet had found him his blood ran as he cried\nNo money could save him so he laid down and he died\n",
-    "key": "D",
-    "tempo": "?"
-  },
   "And_I_Love_Her.The_Beatles": {
     "name": "And I Love Her",
     "artist": "The Beatles",
@@ -1870,14 +1862,6 @@
     "id": "Untitled.The_Cure",
     "lyrics": "(D C) (G C)\nG|-2-4-----\nD|-0---4-2-\nA|-------3-\n\nD|-4-2-0-----2-\nA|-----2--2--3-\n\nHopelessly drift in the eyes of the ghost again\nDown on my knees and my hands in the air again\nPushing my face in the memory of you again\nBut I never know if it's real never know how I wanted to feel\n\nNever quite said what I wanted to say to you\nNever quite managed the words to explain to you\nNever quite knew how to make them believable\nAnd now the time has gone, another time undone\n\n  V2\n\nHopelessly fighting the devil futility\nFeeling the monster climb deeper inside of me\nFeeling him gnawing my heart away hungrily\nI'll never lose this pain. Never dream of you again\n",
     "key": "D",
-    "tempo": "undefined"
-  },
-  "For_the_Summer.Ray_Lamontangue": {
-    "name": "For the Summer",
-    "artist": "Ray Lamontangue",
-    "id": "For_the_Summer.Ray_Lamontangue",
-    "lyrics": "I: B F#m A\nV: B F#m A E\nC: (A E) B F#m E D\nO: (B F#m) E D B\n\nRollin' through these hills I've known I'd be coming\nThere ain't a man alive that likes to be alone\nIt's been a while since I seen my lady smile\nHave I been have I been away so long\n\n  I'm tired..\n  Can I come home for the summer I could slow down for a little while\n  Get back to lovin each other leave all those long and lonesome miles behind\n\nThrough the years I have learned some things worth the tellin\nAnd you'd be right in guessin that each and every lesson they were hard won\n\n  Chorus\n\nYou'll follow her, wherever she goes\nYou love her, and you just want her to know\nThat you'll follow her, you'll find a way\nCause you love her and you just want her to know",
-    "key": "B",
     "tempo": "undefined"
   },
   "Too_Hot_To_Handle.UFO": {
@@ -3528,14 +3512,6 @@
     "key": "C",
     "tempo": "Tempo"
   },
-  "Hand_in_my_pocket.Alanis_Morisette": {
-    "name": "Hand in my pocket",
-    "artist": "Alanis Morisette",
-    "id": "Hand_in_my_pocket.Alanis_Morisette",
-    "lyrics": "D - C G D\n\nI'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah\nI'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby\n\n  And what it all comes down to, is that everything's gonna be fine\n  Cause I've got one hand in my pocket and the other one is givin a high five\n\nI feel drunk but I'm sober I'm young and I'm underpaid. I'm tired but I'm workin yeah\nI care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby\n\n  . is that everything's gonna be quite alright\n  . and the other one's flickin a cigarette\n\n  Solo\n\n  . is that I haven't got it figured out just yet\n  . and the other one's givin a peace sign\n\nI'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby\nI'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby\n\n  And what it all boils down to, is that no one's really got it figured out just yet\n  . and the other one is playin a piano\n  And what it all comes down to my friends, is that everything is just fine fine fine\n  . and the other one's hailing a taxi cab\n\n  Solo",
-    "key": "D",
-    "tempo": "undefined"
-  },
   "Wrapped_Around_Your_Finger.The_Police": {
     "name": "Wrapped Around Your Finger",
     "artist": "The Police",
@@ -3943,5 +3919,29 @@
     "lyrics": "D|-6-6----------|-6-6-2-4-4----| 125bpm (First To 11 version)\nA|-------6-6----|------2-------|\nE|----4-4---4-4-|----------2-2-| C: G#m E B F#\n\nMum mum mum mah x 4\n\nI wanna hold 'em like they do in Texas, please (Woo)\nFold 'em, let 'em hit me, raise it, baby, stay with me (I love it)\nLoveGame intuition, play the cards with spades to start\nAnd after he's been hooked, I'll play the one that's on his heart\n\n  Oh, woah-oh, I'll get him hot show him what I've got x 2\n  Can't read my... no he can't read my poker face (She's got me like nobody) x 2\n  P-p-p-poker face.. P-p-p-poker face x 2\n\nI wanna roll with him, a hard pair we will be (Woo)\nA little gamblin' is fun when you're with me (I love it, woo)\nRussian roulette is not the same without a gun\nAnd baby when it's love, if it's not rough it isn't fun, fun\n\n  Chorus\n\n    I won't tell you that I love you kiss or hug you\n    Cause I'm bluffin' with my muffin\n    I'm not lyin', I'm just stunnin' with my love-glue-gunnin'\n    Just like a chick in the casino take your bank before I pay you out\n    I promise this, promise this check this hand 'cause I'm marvelous\n \n  Can't read my.. x 4\n  P-p-poker.. x 4\n\nOutro G#m riff x 4\n",
     "key": "G#m",
     "tempo": "125"
+  },
+  "Lucky_Man.ELP": {
+    "name": "Lucky Man",
+    "artist": "ELP",
+    "id": "Lucky_Man.ELP",
+    "lyrics": "V: G D   C: Am Em D\n\nHarmonica: Am\n\nHe had white horses and ladies by the score\nAll dressed in satin and waiting by the door\n\n  Ooh, what a lucky man he was\n\nWhite lace and feathers they made up his bed\nA gold covered mattress on which he was laid\n\nHe went to fight wars for his country and his king\nOf his honor and his glory the people would sing\n\nA bullet had found him his blood ran as he cried\nNo money could save him so he laid down and he died\n",
+    "key": "D",
+    "tempo": "?"
+  },
+  "For_the_Summer.Ray_Lamontangue": {
+    "name": "For the Summer",
+    "artist": "Ray Lamontangue",
+    "id": "For_the_Summer.Ray_Lamontangue",
+    "lyrics": "I: B F#m A\nV: B F#m A E\nC: (A E) B F#m E D\nO: (B F#m) E D B\n\nHarmonica: E\n\nRollin' through these hills I've known I'd be coming\nThere ain't a man alive that likes to be alone\nIt's been a while since I seen my lady smile\nHave I been have I been away so long\n\n  I'm tired..\n  Can I come home for the summer I could slow down for a little while\n  Get back to lovin each other leave all those long and lonesome miles behind\n\nThrough the years I have learned some things worth the tellin\nAnd you'd be right in guessin that each and every lesson they were hard won\n\n  Chorus\n\nYou'll follow her, wherever she goes\nYou love her, and you just want her to know\nThat you'll follow her, you'll find a way\nCause you love her and you just want her to know\n",
+    "key": "B",
+    "tempo": "undefined"
+  },
+  "Hand_in_my_pocket.Alanis_Morisette": {
+    "name": "Hand in my pocket",
+    "artist": "Alanis Morisette",
+    "id": "Hand_in_my_pocket.Alanis_Morisette",
+    "lyrics": "D - C G D\n\nHarmonica: G\n\nI'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah\nI'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby\n\n  And what it all comes down to, is that everything's gonna be fine\n  Cause I've got one hand in my pocket and the other one is givin a high five\n\nI feel drunk but I'm sober I'm young and I'm underpaid. I'm tired but I'm workin yeah\nI care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby\n\n  . is that everything's gonna be quite alright\n  . and the other one's flickin a cigarette\n\n  Solo\n\n  . is that I haven't got it figured out just yet\n  . and the other one's givin a peace sign\n\nI'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby\nI'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby\n\n  And what it all boils down to, is that no one's really got it figured out just yet\n  . and the other one is playin a piano\n  And what it all comes down to my friends, is that everything is just fine fine fine\n  . and the other one's hailing a taxi cab\n\n  Solo\n",
+    "key": "D",
+    "tempo": "undefined"
   }
 }
