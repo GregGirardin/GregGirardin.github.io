@@ -2488,14 +2488,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Born_On_The_Bayou.CCR": {
-    "name": "Born On The Bayou",
-    "artist": "CCR",
-    "id": "Born_On_The_Bayou.CCR",
-    "lyrics": "E7 - D A\n\nNow, when I was just a little boy standin' to my daddy's knee\nMy poppa said, \"Son, don't let the man get you an'\nDo what he done to me\"\n'Cause he'll get you\n'Cause he'll get you mama\n \nAnd I can remember the fourth of July\nRunnin' through the backwood, bare\nAnd I can still hear my old hound dog barkin'\nChasin' down a hoodoo there\nChasin' down a hoodoo there\n \n  Born on the bayou \n \nWish I was back on the bayou\nRollin' with some Cajun queen\nWishin' I were a fast freight train\nJust a chooglin' on down to New Orleans\n \n  Born on the bayou \n \nAnd I can remember the fourth of July\nRunnin' through the backwood, bare\nAnd I can still hear my old hound dog barkin'\nChasin' down a hoodoo there\nChasin' down a hoodoo there\n \n  Born on the bayou \n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Can_t_You_See.Marshall_Tucker": {
     "name": "Can't You See",
     "artist": "Marshall Tucker",
@@ -3943,5 +3935,21 @@
     "lyrics": "F# Pent riff (A C#m F#m D)  B: A  - 126bpm\n\nNa na na na..\n\nI guess I just lost my husband I don't know where he went\nSo I'm gonna drink my money I'm not gonna pay his rent (nope)\nI got a brand new attitude and I'm gonna wear it tonight\nI wanna get in trouble I wanna start a fight\nNa na na na na na na I wanna start a fight x 2\n\n  So, so what? I'm still a rock star\n  I got my rock moves and I don't need you\n  And guess what? I'm having more fun\n  And now that we're done I'm gonna show you tonight\n  I'm alright, I'm just fine, and you're a tool \n  So, so what?\n  I am a rock star I got my rock moves and I don't want you tonight\n\n(Uh check my flow, uh)\n\nThe waiter just took my table and gave it to Jessica Simps (shit!)\nI guess I'll go sit with drum boy at least he'll know how to hit (oops!)\nWhat if this song's on the radio then somebody's gonna die (ha ha)\nI'm gonna get in trouble my ex will start a fight\nNa na na na na na na he's gonna start a fight (huh)\nNa na na na na na na we're all gonna get in a fight!\n\n  Chorus\n\n[2 Meas]\n\n    You weren't there you never were you want it all but that's not fair\n    I gave you life I gave my all you weren't there you let me fall\n\n  Chorus x 2\n\n  Riff",
     "key": "A",
     "tempo": "126"
+  },
+  "Born_On_The_Bayou.CCR": {
+    "name": "Born On The Bayou",
+    "artist": "CCR",
+    "id": "Born_On_The_Bayou.CCR",
+    "lyrics": "E7 - D A\n\nNow, when I was just a little boy standin' to my daddy's knee\nMy poppa said, \"Son, don't let the man get you an do what he done to me\"\n'Cause he'll get you\n'Cause he'll get you mama\n \nAnd I can remember the fourth of July\nRunnin' through the backwood, bare\nAnd I can still hear my old hound dog barkin'\nChasin' down a hoodoo there x 2\n \n  Born on the bayou \n \nWish I was back on the bayou\nRollin' with some Cajun queen\nWishin' I were a fast freight train\nJust a chooglin' on down to New Orleans\n \n  Born on the bayou \n \nAnd I can remember the fourth of July...\n \n  Born on the bayou \n",
+    "key": "E",
+    "tempo": "Tempo"
+  },
+  "Baby_Blue.Badfinger": {
+    "name": "Baby Blue",
+    "artist": "Badfinger",
+    "id": "Baby_Blue.Badfinger",
+    "lyrics": "G|---------------|-----2----------2----|\nD|-----2-0-------|---4----------2------|\nA|-2-4-----4-2-0-|-5------5---4-----4--|\nE|---------------|---------------------|\n\nI: A A4\nV: (E D - G D A) - E Bm D\nB: C#m F#m Bm  G D A\nS: (C G D A)\n\nGuess I got what I deserve kept you waiting there too long my love\nAll that time without a word did't know you'd think that I'd forget\nOr I´d regret, the special love I have for you my baby blue\n\nAll the days became so long did you really think I'd do you wrong?\nDixie when I let you go thought you'd realized I would know\nI would show, the special love I have for you my baby blue\n\n  What can I do what can I say except I want you by my side\n  How can I show you show me a way\n  Don't you know the times I´ve tried\n\n    Solo\n\nGuess that's all I have to say except the feeling just grows stronger every day\nJust one thing before I go take good care baby let me know\nLet it flow, the special love you've had for me my dixie dear\n",
+    "key": "E",
+    "tempo": "Tempo"
   }
 }
