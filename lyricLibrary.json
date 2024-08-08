@@ -2360,14 +2360,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Dreams.Fleetwood_Mac": {
-    "name": "Dreams",
-    "artist": "Fleetwood Mac",
-    "id": "Dreams.Fleetwood_Mac",
-    "lyrics": "V: (F G)\n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Solo\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
-    "key": "F",
-    "tempo": "undefined"
-  },
   "We_Can_Work_It_Out.The_Beatles": {
     "name": "We Can Work It Out",
     "artist": "The Beatles",
@@ -3967,5 +3959,21 @@
     "lyrics": "C/D 10x1098x   Bb/D 10x81011x     G/D xx0433\n \nI: Dm C/D Bb/D C/D\nV: (Dm Bb F C) Bb\nC: (F Bb C) Bb\n \nI've been lonely, I've been waiting for you\nI'm pretending and that's all I can do\nThe love I'm sending ain't making it through to your heart\n\nYou've been hiding, never letting it show\nAlways trying to keep it under control\nYou got it down and you're well on the way to the top\nBut there's something that you forgot\n\n  What about love don't you want someone to care about you\n  What about love don't let it slip away\n  What about love I only want to share it with you\n  You might need it someday\n \nI can't tell you what you're feeling inside\nI can't sell you what you don't want to buy\nSomething's missing and you got to\nLook back on your life\nYou know something here just ain't right\n \n  Chorus",
     "key": "Dm",
     "tempo": "Tempo"
+  },
+  "Dreams.Fleetwood_Mac": {
+    "name": "Dreams",
+    "artist": "Fleetwood Mac",
+    "id": "Dreams.Fleetwood_Mac",
+    "lyrics": "V: (F G) 120bpm\nB: (Am F G)\n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
+    "key": "F",
+    "tempo": "120"
+  },
+  "You_Oughta_Know.Alanis_Morisette": {
+    "name": "You Oughta Know",
+    "artist": "Alanis Morisette",
+    "id": "You_Oughta_Know.Alanis_Morisette",
+    "lyrics": "V:(F#m B) C: (F# E A B) B: (B4 B) 108bpm\n\nI want you to know that I'm happy for you\nI wish nothing but the best for you both\nAn older version of me is she perverted like me?\nWould she go down on you in a theatre?\nDoes she speak eloquently? and would she have your baby?\nI'm sure she'd make a really excellent mother\n\n  Cause the love that you gave that we made\n  Wasn't able to make it enough for you to be open wide, no\n  And every time you speak her name does she know how you told me\n  You'd hold me until you died? 'Til you died, but you're still alive\n\n    And I'm here to remind you of the mess you left when you went away\n    It's not fair to deny me of the cross I bear that you gave to me\n    You, you, you oughta know\n\nYou seem very well, things look peaceful\nI'm not quite as well, I thought you should know\nDid you forget about me Mr. Duplicity?\nI hate to bug you in the middle of dinner\nIt was a slap in the face how quickly I was replaced\nAnd are you thinkin' of me when you fuck her?\n\n  PC + C\n\n  Break\n\n  Cause the joke that you laid in the bed that was me\n  And I'm not gonna fade as soon as you close your eyes\n  And you know it\n\n  And every time I scratch my nails\n  Down someone else's back I hope you feel it\n  Well, can you feel it?\n\n C x 2",
+    "key": "F#m",
+    "tempo": "108"
   }
 }
