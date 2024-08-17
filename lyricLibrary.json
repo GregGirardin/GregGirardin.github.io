@@ -3983,5 +3983,21 @@
     "lyrics": "We don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeacher, leave them kids alone\n\nHey! Teacher! Leave them kids alone!\n\n  All in all, it's just another brick in the wall\n  All in all, you're just another brick in the wall\n\nWe don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeachers, leave them kids alone\n\nHey! Teacher! Leave us kids alone!\n\n  All in all, you're just another brick in the wall\n  All in all, you're just another brick in the wall\n\nSolo\n",
     "key": "C",
     "tempo": "104bpm"
+  },
+  "Whole_Lotta_Love.Led_Zeppelin": {
+    "name": "Whole Lotta Love",
+    "artist": "Led Zeppelin",
+    "id": "Whole_Lotta_Love.Led_Zeppelin",
+    "lyrics": "Lyrics",
+    "key": "E",
+    "tempo": "Tempo"
+  },
+  "Unskinny_Bop.Poison": {
+    "name": "Unskinny Bop",
+    "artist": "Poison",
+    "id": "Unskinny_Bop.Poison",
+    "lyrics": "Lyrics",
+    "key": "A",
+    "tempo": "Tempo"
   }
 }
