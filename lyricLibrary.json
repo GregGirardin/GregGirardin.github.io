@@ -3952,14 +3952,6 @@
     "key": "Dm",
     "tempo": "Tempo"
   },
-  "Dreams.Fleetwood_Mac": {
-    "name": "Dreams",
-    "artist": "Fleetwood Mac",
-    "id": "Dreams.Fleetwood_Mac",
-    "lyrics": "V: (F G) 120bpm\nB: (Am F G)\n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
-    "key": "F",
-    "tempo": "120"
-  },
   "You_Oughta_Know.Alanis_Morisette": {
     "name": "You Oughta Know",
     "artist": "Alanis Morisette",
@@ -4015,5 +4007,13 @@
     "lyrics": "V:(F# G) A C D A\nB: (E A)\nO: (E A)\n\nOne pill makes you larger and one pill makes you small\nand the ones that mother gives you don't do anything at all\nGo ask Alice when she's ten feet tall\n\nAnd if you go chasing rabbits and you know you're going to fall\nTell 'em a hookah-smoking caterpillar has given you the call\nCall Alice when she was just small\n\n  When the men on the chessboard get up and tell you where to go\n  and you've just had some kind of mushroom and your mind is moving low\n\nGo ask Alice, I think she'll know\nWhen logic and proportion have fallen sloppy dead\nand the white knight is talking backwards and the red queen's off with her head\nRemember what the Dormouse said\n\nFeed your head! Feed your head!",
     "key": "F#",
     "tempo": "Tempo"
+  },
+  "Dreams.Fleetwood_Mac": {
+    "name": "Dreams",
+    "artist": "Fleetwood Mac",
+    "id": "Dreams.Fleetwood_Mac",
+    "lyrics": "V: (F G)    or (C D)      120bpm\nB: (Am G F)    (Em D C) \n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
+    "key": "F",
+    "tempo": "120"
   }
 }
