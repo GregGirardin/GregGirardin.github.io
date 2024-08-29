@@ -2448,14 +2448,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Come_Together.The_Beatles": {
-    "name": "Come Together",
-    "artist": "The Beatles",
-    "id": "Come_Together.The_Beatles",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Cumbersome.7M3": {
     "name": "Cumbersome",
     "artist": "7M3",
@@ -4015,5 +4007,13 @@
     "lyrics": "V: (F G)    or (C D)      120bpm\nB: (Am G F)    (Em D C) \n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
     "key": "F",
     "tempo": "120"
+  },
+  "Come_Together.The_Beatles": {
+    "name": "Come Together",
+    "artist": "The Beatles",
+    "id": "Come_Together.The_Beatles",
+    "lyrics": "V: D A G   C: Bm G A D\n \nHere come old flattop he come grooving up slowly he got\njoo-joo eyeball he one holy roller he got\nhair down to his knee\nGot to be a joker he just do what he please\n \nHe wear no shoeshine he got toe-jam football he got\nmonkey finger he shoot Coca-Cola he say\nI know you, you know me\nOne thing I can tell you is you got to be free\n\n  Come together right noooow over me\n\nHe bag production he got walrus gumboot he got\nOno sideboard he one spinal cracker he got\nfeet down below his knee\nHold you in his armchair you can feel his disease\n\n  Come together right noooow over me\n\nHe roller-coaster he got early warning he got\nmuddy water he one mojo filter he say\nOne and one and one is three\nGot to be good-looking 'cause he's so hard to see",
+    "key": "Dm",
+    "tempo": "Tempo"
   }
 }
