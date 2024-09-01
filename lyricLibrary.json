@@ -1688,14 +1688,6 @@
     "key": "C#",
     "tempo": "139bpm"
   },
-  "Safety_Dance.Men_Without_Hats": {
-    "name": "Safety Dance",
-    "artist": "Men Without Hats",
-    "id": "Safety_Dance.Men_Without_Hats",
-    "lyrics": "",
-    "key": "undefined",
-    "tempo": ""
-  },
   "Mexican_Radio.Wall_Of_Voodoo": {
     "name": "Mexican Radio",
     "artist": "Wall Of Voodoo",
@@ -3560,14 +3552,6 @@
     "key": "Gm",
     "tempo": "undefined"
   },
-  "What_s_up.4_Non_Blondes": {
-    "name": "What's up",
-    "artist": "4 Non Blondes",
-    "id": "What_s_up.4_Non_Blondes",
-    "lyrics": "G Am C\n\nTwenty-five years and my life is still\nTrying to get up that great big hill of hope for a destination\nI realized quickly when I knew I should\nThat the world was made up of this brotherhood of man, for whatever that means\n \nAnd so I cry sometimes when I'm lying in bed\nJust to get it all out, what's in my head and I am feeling a little peculiar\nAnd so I wake in the morning and I step outside\nand I take a deep breath and I get real high and I scream at the top of my lungs \"What's going on?\"\n \n  And I said \"Hey..\" I said \"Hey, what's going on?\"\n\nOoh, Ooh Ooh\n \nAnd I try, oh my God do I try, I try all the time, in this institution\nAnd I pray, oh my god do I pray I pray every single day for a revolution\n \nV2 + Chorus + V1\n",
-    "key": "G",
-    "tempo": "undefined"
-  },
   "Bad_Things.Jace_Everett": {
     "name": "Bad Things",
     "artist": "Jace Everett",
@@ -4015,5 +3999,21 @@
     "lyrics": "V: D A G   C: Bm G A D\n \nHere come old flattop he come grooving up slowly he got\njoo-joo eyeball he one holy roller he got\nhair down to his knee\nGot to be a joker he just do what he please\n \nHe wear no shoeshine he got toe-jam football he got\nmonkey finger he shoot Coca-Cola he say\nI know you, you know me\nOne thing I can tell you is you got to be free\n\n  Come together right noooow over me\n\nHe bag production he got walrus gumboot he got\nOno sideboard he one spinal cracker he got\nfeet down below his knee\nHold you in his armchair you can feel his disease\n\n  Come together right noooow over me\n\nHe roller-coaster he got early warning he got\nmuddy water he one mojo filter he say\nOne and one and one is three\nGot to be good-looking 'cause he's so hard to see",
     "key": "Dm",
     "tempo": "Tempo"
+  },
+  "What_s_up.4_Non_Blondes": {
+    "name": "What's up",
+    "artist": "4 Non Blondes",
+    "id": "What_s_up.4_Non_Blondes",
+    "lyrics": "G Am C\n\nTwenty-five years and my life is still\nTrying to get up that great big hill of hope for a destination\nI realized quickly when I knew I should\nThat the world was made up of this brotherhood of man, for whatever that means\n \nAnd so I cry sometimes when I'm lying in bed\nJust to get it all out, what's in my head and I am feeling a little peculiar\nAnd so I wake in the morning and I step outside\nand I take a deep breath and I get real high and I scream at the top of my lungs \"What's going on?\"\n \n  And I said \"Hey..\" I said \"Hey, what's going on?\"\n\nOoh, Ooh Ooh\n \nAnd I try, oh my God do I try, I try all the time, in this institution\nAnd I pray, oh my god do I pray I pray every single day for a revolution\n \nV2 + Chorus + V1\n",
+    "key": "G",
+    "tempo": "135"
+  },
+  "Safety_Dance.Men_Without_Hats": {
+    "name": "Safety Dance",
+    "artist": "Men Without Hats",
+    "id": "Safety_Dance.Men_Without_Hats",
+    "lyrics": "V: C (Bb F) C G - F Bb Eb Ab\nC: (F Bb Eb Ab) C G\nB: D A C G\n\nWe can dance if we want to we can leave your friends behind\n'Cause your friends don't dance and if they don't dance\nWell, they're no friends of mine\nWe can go where want to, a place where they will never find\nAnd we can act like we come from out of this world\nLeave the real one far behind\nAnd we can dance! (Dansez!)\n\nWe can dance if we want to the night is young and so am I\nWe can dress real neat from our hearts to our feet\nAnd surprise them with the victory cry\nWe can act if we want to, if we don't nobody will\nAnd you can act real rude and totally removed\nAnd I can act like an imbecile\n\n  We can dance, we can dance everything's out of control\n  We can dance, we can dance we're doing it from port to port\n  We can dance, we can dance everybody look at your hands\n  We can dance, we can dance everybody's takin' the chance, yeah!\n \n    Safety dance!\n \nWe can dance if we want to the night is young and so am I\nAs long as we abuse it, never gonna lose it\nEverything will work out right!\nWe can dance if we want to\nWe can leave your friends behind\n'Cause your friends don't dance and if they don't dance\nWell, they're no friends of mine\n\n[Chorus]\nF             Bb\nWe can dance, we can dance\nEb                     Ab\nEverything's out of control\nF             Bb\nWe can dance, we can dance\n      Eb                    Ab\nWe're doing it from port to port\nF             Bb\nWe can dance, we can dance\nEb                     Ab\nEverybody look at your hands\nF             Bb\nWe can dance, we can dance\nEb                     Ab         C  G\nEverybody's takin' the chance, yeah!\n \n Safety dance.",
+    "key": "C",
+    "tempo": "100"
   }
 }
