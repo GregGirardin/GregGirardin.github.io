@@ -712,14 +712,6 @@
     "key": "Em",
     "tempo": ""
   },
-  "Lean_On_Me.Bill_Withers": {
-    "name": "Lean On Me",
-    "artist": "Bill Withers",
-    "id": "Lean_On_Me.Bill_Withers",
-    "lyrics": "V: C F C Em G - C F C G C    B: C G C\n\nSometimes in our lives we all have pain we all have sorrow\nBut if we are wise we know that there's always tomorrow\n\n  Lean on me, when you're not strong and I'll be your friend I'll help you carry on\n  For it won't be long til I'm gonna need somebody to lean on\n\nPlease swallow your pride if I have things you need to borrow\nFor no one can fill those of your needs that you won't let show\n\n    So just call on me brother, when you need a hand\n    We all need somebody to lean on\n    I just might have a problem that you'd understand\n    We all need somebody to lean on\n\n  Lean on me, when you're not strong and I'll be your friend I'll help you carry on\n  For it won't be long til I'm gonna need somebody to lean on\n\n    So just call on me brother, when you need a hand...\n\nIf there is a load you have to bear that you can't carry\nI'm right up the road, I'll share your load if you just call me\ncall me...",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Love_Stinks.J._Geils_Band": {
     "name": "Love Stinks",
     "artist": "J. Geils Band",
@@ -4015,5 +4007,13 @@
     "lyrics": "Bm9 E13\n\nHarmonica: A, 3rd position\n\nHolding back the years thinking of the fear I've had so long\nWhen somebody hears listen to the fear that's gone\nStrangled by the wishes of pater hoping for the arms of mater\nGet to me the sooner or later\n\n  I'll keep holding on\n\nHolding back the years chance for me to escape from all I've known\nHolding back the tears cause nothing here has grown\nI've wasted all my tears wasted all those years\nAnd nothing had the chance to be good nothing ever could yeah\n\n  Chorus\n\nI've wasted..\n\nChorus\n",
     "key": "Bm",
     "tempo": "undefined"
+  },
+  "Lean_On_Me.Bill_Withers": {
+    "name": "Lean On Me",
+    "artist": "Bill Withers",
+    "id": "Lean_On_Me.Bill_Withers",
+    "lyrics": "V: C F C Em G - C F C G C\nB: C G C\n\nSometimes in our lives we all have pain we all have sorrow\nBut if we are wise we know that there's always tomorrow\n\n  Lean on me, when you're not strong and I'll be your friend I'll help you carry on\n  For it won't be long til I'm gonna need somebody to lean on\n\nPlease swallow your pride if I have things you need to borrow\nFor no one can fill those of your needs that you won't let show\n\n    So just call on me brother, when you need a hand\n    We all need somebody to lean on\n    I just might have a problem that you'd understand\n    We all need somebody to lean on\n\nLean on me, when you're not strong and I'll be your friend I'll help you carry on\nFor it won't be long til I'm gonna need somebody to lean on\n\n    So just call on me brother, when you need a hand...\n\nIf there is a load you have to bear that you can't carry\nI'm right up the road, I'll share your load if you just call me\ncall me...",
+    "key": "C",
+    "tempo": "75"
   }
 }
