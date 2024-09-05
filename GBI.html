@@ -6,18 +6,25 @@
       "name": "Set 1",
       "songs": [
         {
+          "name": "Lucky Man",
+          "artist": "ELP",
+          "id": "Lucky_Man.ELP",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
           "name": "No Woman No Cry",
           "artist": "Bob Marley",
           "id": "No_Woman_No_Cry.Bob_Marley",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "We Can Work It Out",
           "artist": "The Beatles",
           "id": "We_Can_Work_It_Out.The_Beatles",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Dreams",
@@ -34,18 +41,11 @@
           "medley": false
         },
         {
-          "name": "Lucky Man",
-          "artist": "ELP",
-          "id": "Lucky_Man.ELP",
-          "css_highlight": false,
-          "medley": false
-        },
-        {
           "name": "Stuck in the middle with you",
           "artist": "Steelers Wheel",
           "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Water of Love",
@@ -141,7 +141,7 @@
           "artist": "Sublime",
           "id": "What_I_got.Sublime",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Hand in my pocket",
@@ -155,14 +155,14 @@
           "artist": "Kenny Rodgers",
           "id": "The_Gambler.Kenny_Rodgers",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Kashmir",
           "artist": "Led Zeppelin",
           "id": "Kashmir.Led_Zeppelin",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Norwegian Wood",
@@ -576,7 +576,31 @@
 <button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
 <button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
 <hr><div class='setname'>Set 1</div>
-<button class='accordion'>1. No Woman No Cry</button>
+<button class='accordion'>1. Lucky Man</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: G D&nbsp;&nbsp;&nbsp;C: Am Em D<br>
+</font>
+<br>
+Harmonica: Am<br>
+<br>
+He had white horses and ladies by the score<br>
+All dressed in satin and waiting by the door<br>
+<br>
+&nbsp;&nbsp;Ooh, what a lucky man he was<br>
+<br>
+White lace and feathers they made up his bed<br>
+A gold covered mattress on which he was laid<br>
+<br>
+He went to fight wars for his country and his king<br>
+Of his honor and his glory the people would sing<br>
+<br>
+A bullet had found him his blood ran as he cried<br>
+No money could save him so he laid down and he died<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>2. No Woman No Cry</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: C C/B Am F - C F C<br>
@@ -601,7 +625,7 @@ My feet is my only carriage so I've got to push on through, but while I'm gone<b
 Chorus / V1<br>
 </div>
 
-<button class='accordion'>2. We Can Work It Out</button>
+<button class='accordion css_medleyCont'>3. We Can Work It Out</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: (C Bb C) F C F G<br>
@@ -628,7 +652,7 @@ We can work it out<br>
 Verse<br>
 </div>
 
-<button class='accordion'>3. Dreams</button>
+<button class='accordion css_medleyEnd'>4. Dreams</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: (F G)&nbsp;&nbsp;&nbsp;&nbsp;or (C D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120bpm<br>
@@ -659,7 +683,7 @@ And what you lost, and what you had, ooh what you lost<br>
 &nbsp;&nbsp;Chorus x 2<br>
 </div>
 
-<button class='accordion css_highlight'>4. What You Won't Do</button>
+<button class='accordion css_highlight'>5. What You Won't Do</button>
 <div class='panel'>
 CM7 B7 Em A7 (CM F7 Em A7)<br>
 <br>
@@ -685,31 +709,7 @@ I can't believe the things I do for you<br>
 &nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion'>5. Lucky Man</button>
-<div class='panel'>
-<font style='font-family:courier;'>
-V: G D&nbsp;&nbsp;&nbsp;C: Am Em D<br>
-</font>
-<br>
-Harmonica: Am<br>
-<br>
-He had white horses and ladies by the score<br>
-All dressed in satin and waiting by the door<br>
-<br>
-&nbsp;&nbsp;Ooh, what a lucky man he was<br>
-<br>
-White lace and feathers they made up his bed<br>
-A gold covered mattress on which he was laid<br>
-<br>
-He went to fight wars for his country and his king<br>
-Of his honor and his glory the people would sing<br>
-<br>
-A bullet had found him his blood ran as he cried<br>
-No money could save him so he laid down and he died<br>
-<br>
-</div>
-
-<button class='accordion'>6. Stuck in the middle with you</button>
+<button class='accordion css_medleyStart'>6. Stuck in the middle with you</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V:D G D - A C G - D&nbsp;&nbsp;&nbsp;&nbsp;B:(G7 D) A7<br>
@@ -737,7 +737,7 @@ Clowns to the left..<br>
 V1<br>
 </div>
 
-<button class='accordion'>7. Water of Love</button>
+<button class='accordion css_medleyEnd'>7. Water of Love</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 I: D C G Am C - D C G D<br>
@@ -1039,9 +1039,8 @@ Chorus<br>
 <button class='accordion'>18. Summer Wind</button>
 <div class='panel'>
 <font style='font-family:courier;'>
-V: C Dm&nbsp;&nbsp;- Dm C&nbsp;&nbsp;- C&nbsp;&nbsp;F Dm&nbsp;&nbsp;- C Dm G C<br>
-2: D Em&nbsp;&nbsp;- Em D&nbsp;&nbsp;- D&nbsp;&nbsp;G Em&nbsp;&nbsp;- D Em A D<br>
-3: E F#m - F#m E - E&nbsp;&nbsp;A F#m - E F#m B E<br>
+I: F C<br>
+V: C Dm - Dm C - C C7 F Dm - C Dm G C<br>
 </font>
 <br>
 The summer wind, came blowin' in from across the sea<br>
@@ -1054,6 +1053,8 @@ The world was new beneath a blue umbrella sky<br>
 Then softer than a piper man one day it called to you<br>
 I lost you, I lost you to the summer wind<br>
 <br>
+&nbsp;&nbsp;Intro<br>
+<br>
 The autumn wind and the winter winds, they have come and gone<br>
 And still the days, those lonely days, they go on and on<br>
 And guess who sighs his lullabies through nights that never end<br>
@@ -1065,7 +1066,7 @@ Mmm, the summer wind<br>
 </div>
 
 <hr><div class='setname'>Set 2</div>
-<button class='accordion'>1. What I got</button>
+<button class='accordion css_medleyStart'>1. What I got</button>
 <div class='panel'>
 D G - 95bpm<br>
 <br>
@@ -1090,7 +1091,7 @@ Let the lovin' come back to me<br>
 Chorus<br>
 </div>
 
-<button class='accordion'>2. Hand in my pocket</button>
+<button class='accordion css_medleyEnd'>2. Hand in my pocket</button>
 <div class='panel'>
 D - C G D<br>
 <br>
@@ -1125,7 +1126,7 @@ I'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty,
 <br>
 </div>
 
-<button class='accordion'>3. The Gambler</button>
+<button class='accordion css_medleyStart'>3. The Gambler</button>
 <div class='panel'>
 D (G D) [G A / A D]<br>
 <br>
@@ -1162,7 +1163,7 @@ But in his final words I found an ace that I could keep.<br>
 &nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion'>4. Kashmir</button>
+<button class='accordion css_medleyCont'>4. Kashmir</button>
 <div class='panel'>
 Oh let the sun beat down upon my face, stars to fill my dream<br>
 I am a traveler of both time and space, to be where I have been<br>
@@ -1200,7 +1201,7 @@ Riff B x 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ooh, yeah-yeah, ooh, yeah-yeah, when I'm down...<br>
 </div>
 
-<button class='accordion'>5. Norwegian Wood</button>
+<button class='accordion css_medleyEnd'>5. Norwegian Wood</button>
 <div class='panel'>
 D C D - Dm G Dm Em A A7<br>
 <br>

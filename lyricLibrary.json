@@ -3440,14 +3440,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Summer_Wind.Frank_Sinatra": {
-    "name": "Summer Wind",
-    "artist": "Frank Sinatra",
-    "id": "Summer_Wind.Frank_Sinatra",
-    "lyrics": "V: C Dm  - Dm C  - C  F Dm  - C Dm G C\n2: D Em  - Em D  - D  G Em  - D Em A D\n3: E F#m - F#m E - E  A F#m - E F#m B E\n\nThe summer wind, came blowin' in from across the sea\nIt lingered there to touch your hair and walk with me\nAll summer long we sang a song and then we strolled that golden sand\nTwo sweethearts and the summer wind\n\nLike painted kites, those days and nights, they went flyin' by\nThe world was new beneath a blue umbrella sky\nThen softer than a piper man one day it called to you\nI lost you, I lost you to the summer wind\n\nThe autumn wind and the winter winds, they have come and gone\nAnd still the days, those lonely days, they go on and on\nAnd guess who sighs his lullabies through nights that never end\nMy fickle friend, the summer wind\n\nThe summer wind\nWarm summer wind\nMmm, the summer wind",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Wrapped_Around_Your_Finger.The_Police": {
     "name": "Wrapped Around Your Finger",
     "artist": "The Police",
@@ -4007,6 +3999,14 @@
     "lyrics": "Bm9 E13\n\nHarmonica: A, 3rd position\n\nHolding back the years thinking of the fear I've had so long\nWhen somebody hears listen to the fear that's gone\nStrangled by the wishes of pater hoping for the arms of mater\nGet to me the sooner or later\n\n  I'll keep holding on\n\nHolding back the years chance for me to escape from all I've known\nHolding back the tears cause nothing here has grown\nI've wasted all my tears wasted all those years\nAnd nothing had the chance to be good nothing ever could yeah\n\n  Chorus\n\nI've wasted..\n\nChorus\n",
     "key": "Bm",
     "tempo": "undefined"
+  },
+  "Summer_Wind.Frank_Sinatra": {
+    "name": "Summer Wind",
+    "artist": "Frank Sinatra",
+    "id": "Summer_Wind.Frank_Sinatra",
+    "lyrics": "I: F C\nV: C Dm - Dm C - C C7 F Dm - C Dm G C\n\nThe summer wind, came blowin' in from across the sea\nIt lingered there to touch your hair and walk with me\nAll summer long we sang a song and then we strolled that golden sand\nTwo sweethearts and the summer wind\n\nLike painted kites, those days and nights, they went flyin' by\nThe world was new beneath a blue umbrella sky\nThen softer than a piper man one day it called to you\nI lost you, I lost you to the summer wind\n\n  Intro\n\nThe autumn wind and the winter winds, they have come and gone\nAnd still the days, those lonely days, they go on and on\nAnd guess who sighs his lullabies through nights that never end\nMy fickle friend, the summer wind\n\nThe summer wind\nWarm summer wind\nMmm, the summer wind",
+    "key": "C",
+    "tempo": "Tempo"
   },
   "Lean_On_Me.Bill_Withers": {
     "name": "Lean On Me",
