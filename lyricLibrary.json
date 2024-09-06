@@ -3872,14 +3872,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Kashmir.Led_Zeppelin": {
-    "name": "Kashmir",
-    "artist": "Led Zeppelin",
-    "id": "Kashmir.Led_Zeppelin",
-    "lyrics": "Oh let the sun beat down upon my face, stars to fill my dream\nI am a traveler of both time and space, to be where I have been\nTo sit with elders of the gentle race, this world has seldom seen\nThey talk of days for which they sit and wait, and all will be revealed\n\n  Riff B x 2\n\nTalk and song from tongues of lilting grace, sounds caress my ear\nNot a word I heard could I relate, the story was quite clear\nWhoah..\n\n  Riff B x 2 \n\n    Gm - A\n    All I see turns to brown, as the sun burns the ground\n    And my eyes, fill with sand, as I scan this wasted land\n    Trying to find, trying to find where I've been\n\nOh, pilot of the storm who leaves no trace, like thoughts inside a dream\nHeed the path that led me to that place, yellow desert stream\nMy Shangri-La beneath the summer moon, I will return again\nSure as the dust that floats high in June, when movin' through Kashmir\n\n  Riff B x 2\n\nOh, father of the four winds fill my sails, across the sea of years\nWith no provision but an open face, along the straits of fear\nOhh ooh\n\nRiff B x 2\n\n    When I'm on, when I'm on my way, yeah\n    When I see, when I see the way, you stay, yeah\n    Ooh, yeah-yeah, ooh, yeah-yeah, when I'm down...",
-    "key": "D",
-    "tempo": "80"
-  },
   "What_About_Love.Heart": {
     "name": "What About Love",
     "artist": "Heart",
@@ -4015,5 +4007,13 @@
     "lyrics": "V: C F C Em G - C F C G C\nB: C G C\n\nSometimes in our lives we all have pain we all have sorrow\nBut if we are wise we know that there's always tomorrow\n\n  Lean on me, when you're not strong and I'll be your friend I'll help you carry on\n  For it won't be long til I'm gonna need somebody to lean on\n\nPlease swallow your pride if I have things you need to borrow\nFor no one can fill those of your needs that you won't let show\n\n    So just call on me brother, when you need a hand\n    We all need somebody to lean on\n    I just might have a problem that you'd understand\n    We all need somebody to lean on\n\nLean on me, when you're not strong and I'll be your friend I'll help you carry on\nFor it won't be long til I'm gonna need somebody to lean on\n\n    So just call on me brother, when you need a hand...\n\nIf there is a load you have to bear that you can't carry\nI'm right up the road, I'll share your load if you just call me\ncall me...",
     "key": "C",
     "tempo": "75"
+  },
+  "Kashmir.Led_Zeppelin": {
+    "name": "Kashmir",
+    "artist": "Led Zeppelin",
+    "id": "Kashmir.Led_Zeppelin",
+    "lyrics": "Oh let the sun beat down upon my face, stars to fill my dream\nI am a traveler of both time and space, to be where I have been\nTo sit with elders of the gentle race, this world has seldom seen\nThey talk of days for which they sit and wait, and all will be revealed\n\n  Riff B x 2\n\nTalk and song from tongues of lilting grace, sounds caress my ear\nNot a word I heard could I relate, the story was quite clear\nWhoah..\n\n  Riff B x 2 \n\n    Gm - A\n    All I see turns to brown, as the sun burns the ground\n    And my eyes, fill with sand, as I scan this wasted land\n    Trying to find, trying to find where I've been\n",
+    "key": "D",
+    "tempo": "80"
   }
 }
