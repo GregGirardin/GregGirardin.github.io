@@ -2184,14 +2184,6 @@
     "key": "C#",
     "tempo": "110bpm"
   },
-  "Parachute.Chris_Stapleton": {
-    "name": "Parachute",
-    "artist": "Chris Stapleton",
-    "id": "Parachute.Chris_Stapleton",
-    "lyrics": "V: Em7 G D Cadd9\nB: D C9\n\nG|---7-9---9\\11-9-7---|---------------------|\nD|-9----------------9-|-----5-7---7\\9-7-5---| x2\nA|--------------------|-5h7---------------7-|\nE|--------------------|---------------------|\n\nStreet lights along the highway throwing shadows in the dark\nAnd the memories keep on turning to the rhythm of a broken heart\n\n  You only need a roof when it’s raining\n  You only need a fire when it’s cold\n  You only need a drink when the whiskey\n  Is the only thing you have left to hold\n  Sun comes up and goes back down\n  And falling feels like flying till you hit the ground\n  Say the word and I’ll be there for you\n  Baby, I will be your parachute\n  \nThere’s a song that I remember I never learned to play\nAnd a lifetime of forgotten words I never got to say\n \n  Chorus\n \n    Solo\n\n    If you think you’re going down\n    Just know I will be around\n \n  Chorus",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Save_Your_Love.Great_White": {
     "name": "Save Your Love",
     "artist": "Great White",
@@ -3432,14 +3424,6 @@
     "key": "G",
     "tempo": "Tempo"
   },
-  "Pony.Ginuine": {
-    "name": "Pony",
-    "artist": "Ginuine",
-    "id": "Pony.Ginuine",
-    "lyrics": "D A G - G C D\n\nI'm just a bachelor I'm looking for a partner\nSomeone who knows how to ride without even falling off\nGotta be compatible takes me to my limits\nGirl when I break you off, I promise that you won't wanna get off\n\n  If you're horny, let's do it, ride it, my pony\n  My saddle's waitin, come and jump on it x 2\n\nSitting here flossing peeping your steelo\nJust once if I have the chance the things I would do to you\nYou and your body, every single portion\nSend chills up and down your spine juices flowing down your vine\n\n  Chorus\n\nIf we're gonna get nasty baby first we'll show and tell\nTill I reach your pony tail lurk all over and through you baby\nUntil we reach the stream you'll be on my jockey team\n\n  Chorus",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Wrapped_Around_Your_Finger.The_Police": {
     "name": "Wrapped Around Your Finger",
     "artist": "The Police",
@@ -4015,5 +3999,29 @@
     "lyrics": "Oh let the sun beat down upon my face, stars to fill my dream\nI am a traveler of both time and space, to be where I have been\nTo sit with elders of the gentle race, this world has seldom seen\nThey talk of days for which they sit and wait, and all will be revealed\n\n  Riff B x 2\n\nTalk and song from tongues of lilting grace, sounds caress my ear\nNot a word I heard could I relate, the story was quite clear\nWhoah..\n\n  Riff B x 2 \n\n    Gm - A\n    All I see turns to brown, as the sun burns the ground\n    And my eyes, fill with sand, as I scan this wasted land\n    Trying to find, trying to find where I've been\n",
     "key": "D",
     "tempo": "80"
+  },
+  "Funkytown.Lipps_Inc": {
+    "name": "Funkytown",
+    "artist": "Lipps Inc",
+    "id": "Funkytown.Lipps_Inc",
+    "lyrics": "C / C Bb C - G\nCm7\n\nGotta make a move to a town that's right for me.\nTown to keep me movin',keep me groovin' with some energy.\nWell, I talk about it, talk about it, talk about it,\ntalk about it..talk about, talk about, talk about movin'.\n\nGotta move on.. x 3\n\nWon't you take me to....Funkytown? x 4\n",
+    "key": "C",
+    "tempo": "Tempo"
+  },
+  "Pony.Ginuine": {
+    "name": "Pony",
+    "artist": "Ginuine",
+    "id": "Pony.Ginuine",
+    "lyrics": "C G F - Bb\n\nI'm just a bachelor I'm looking for a partner\nSomeone who knows how to ride without even falling off\nGotta be compatible takes me to my limits\nGirl when I break you off, I promise that you won't wanna get off\n\n  If you're horny, let's do it, ride it, my pony\n  My saddle's waitin, come and jump on it x 2\n\nSitting here flossing peeping your steelo\nJust once if I have the chance the things I would do to you\nYou and your body, every single portion\nSend chills up and down your spine juices flowing down your vine\n\n  Chorus\n\nIf we're gonna get nasty baby first we'll show and tell\nTill I reach your pony tail lurk all over and through you baby\nUntil we reach the stream you'll be on my jockey team\n\n  Chorus",
+    "key": "C",
+    "tempo": "Tempo"
+  },
+  "Parachute.Chris_Stapleton": {
+    "name": "Parachute",
+    "artist": "Chris Stapleton",
+    "id": "Parachute.Chris_Stapleton",
+    "lyrics": "V: Em7 G D Cadd9\nB: D C9\n\nG|---7-9---9\\11-9-7---|---------------------|\nD|-9----------------9-|-----5-7---7\\9-7-5---| x2\nA|--------------------|-5h7---------------7-|\nE|--------------------|---------------------|\n\nStreet lights along the highway throwing shadows in the dark\nAnd the memories keep on turning to the rhythm of a broken heart\n\n  You only need a roof when it’s raining\n  You only need a fire when it’s cold\n  You only need a drink when the whiskey\n  Is the only thing you have left to hold\n  Sun comes up and goes back down\n  And falling feels like flying till you hit the ground\n  Say the word and I’ll be there for you\n  Baby, I will be your parachute\n  \nThere’s a song that I remember I never learned to play\nAnd a lifetime of forgotten words I never got to say\n \n  Chorus\n \n    Solo\n\n    If you think you’re going down\n    Just know I will be around\n \n  Chorus",
+    "key": "undefined",
+    "tempo": "Tempo"
   }
 }
