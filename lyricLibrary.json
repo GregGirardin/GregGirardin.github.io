@@ -3928,14 +3928,6 @@
     "key": "F",
     "tempo": "120"
   },
-  "Come_Together.The_Beatles": {
-    "name": "Come Together",
-    "artist": "The Beatles",
-    "id": "Come_Together.The_Beatles",
-    "lyrics": "V: D A G   C: Bm G A D\n \nHere come old flattop he come grooving up slowly he got\njoo-joo eyeball he one holy roller he got\nhair down to his knee\nGot to be a joker he just do what he please\n \nHe wear no shoeshine he got toe-jam football he got\nmonkey finger he shoot Coca-Cola he say\nI know you, you know me\nOne thing I can tell you is you got to be free\n\n  Come together right noooow over me\n\nHe bag production he got walrus gumboot he got\nOno sideboard he one spinal cracker he got\nfeet down below his knee\nHold you in his armchair you can feel his disease\n\n  Come together right noooow over me\n\nHe roller-coaster he got early warning he got\nmuddy water he one mojo filter he say\nOne and one and one is three\nGot to be good-looking 'cause he's so hard to see",
-    "key": "Dm",
-    "tempo": "Tempo"
-  },
   "What_s_up.4_Non_Blondes": {
     "name": "What's up",
     "artist": "4 Non Blondes",
@@ -4030,6 +4022,14 @@
     "id": "Brick_House.The_Commodores",
     "lyrics": "  She's a brick house\n  She's mighty mighty, just lettin it all hang out\n  That lady's stacked and that's a fact ain't holding nothing back\n  Well put-together, everybody knows this is how the story goes\n\nShe knows she got everything that a woman needs to get a man\nHow can she lose with the stuff she use 36, 24, 36 oh what a winning hand\n\n  ... Yeah, she's the one, the only one, built like an amazon\n\nThe clothes she wears, her sexy ways make an old man wish for younger days\nShe knows she's built and knows how to please\nSure enough to knock a strong man to his knees\n\n  ... The lady's stacked and that's a fact ain't holding nothing back\n\n    Shake it down, shake it down now \n\n  ... Yeah, she's the one, the only one, built like an amazon, yeah\n\n    Shake it down..",
     "key": "Am",
+    "tempo": "Tempo"
+  },
+  "Come_Together.The_Beatles": {
+    "name": "Come Together",
+    "artist": "The Beatles",
+    "id": "Come_Together.The_Beatles",
+    "lyrics": "V: D A G   C: Bm G A D\n \nHere come old flattop he come grooving up slowly he got\njoo-joo eyeball he one holy roller he got\nhair down to his knee\nGot to be a joker he just do what he please\n \nHe wear no shoeshine he got toe-jam football he got\nmonkey finger he shoot Coca-Cola he say\nI know you, you know me\nOne thing I can tell you is you got to be free\n\n  Come together right noow over me\n\nHe bag production he got walrus gumboot he got\nOno sideboard he one spinal cracker he got\nfeet down below his knee\nHold you in his armchair you can feel his disease\n\n  Come together right now over me\n\n   Solo\n\nHe roller-coaster he got early warning he got\nmuddy water he one mojo filter he say\nOne and one and one is three\nGot to be good-looking 'cause he's so hard to see",
+    "key": "Dm",
     "tempo": "Tempo"
   }
 }

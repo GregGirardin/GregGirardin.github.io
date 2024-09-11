@@ -6,6 +6,13 @@
       "name": "1",
       "songs": [
         {
+          "name": "Folsom Prison Blues",
+          "artist": "Johnny Cash",
+          "id": "Folsom_Prison_Blues.Johnny_Cash",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
           "name": "Hit Me With Your Best Shot",
           "artist": "Pat Benatar",
           "id": "Hit_Me_With_Your_Best_Shot.Pat_Benatar",
@@ -38,13 +45,6 @@
           "artist": "Amy Winehouse",
           "id": "Valerie.Amy_Winehouse",
           "css_highlight": false,
-          "medley": true
-        },
-        {
-          "name": "Folsom Prison Blues",
-          "artist": "Johnny Cash",
-          "id": "Folsom_Prison_Blues.Johnny_Cash",
-          "css_highlight": false,
           "medley": false
         },
         {
@@ -73,7 +73,7 @@
           "artist": "Lipps Inc",
           "id": "Funkytown.Lipps_Inc",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Brick House",
@@ -113,12 +113,19 @@
           "artist": "Bryan Adams",
           "id": "Summer_Of__69.Bryan_Adams",
           "css_highlight": false,
-          "medley": false
+          "medley": true
         },
         {
           "name": "Nothing But A Good Time",
           "artist": "Poison",
           "id": "Nothing_But_A_Good_Time.Poison",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Everybody Wants You",
+          "artist": "Billy Squier",
+          "id": "Everybody_Wants_You.Billy_Squier",
           "css_highlight": false,
           "medley": false
         },
@@ -155,20 +162,6 @@
           "artist": "Jill Andrews",
           "id": "Tell_That_Devil.Jill_Andrews",
           "css_highlight": false,
-          "medley": true
-        },
-        {
-          "name": "Everybody Wants You",
-          "artist": "Billy Squier",
-          "id": "Everybody_Wants_You.Billy_Squier",
-          "css_highlight": false,
-          "medley": true
-        },
-        {
-          "name": "I Kissed A Girl",
-          "artist": "Katy Perry",
-          "id": "I_Kissed_A_Girl.Katy_Perry",
-          "css_highlight": false,
           "medley": false
         },
         {
@@ -196,6 +189,13 @@
           "name": "Poker Face",
           "artist": "Lady GaGa",
           "id": "Poker_Face.Lady_GaGa",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "I Kissed A Girl",
+          "artist": "Katy Perry",
+          "id": "I_Kissed_A_Girl.Katy_Perry",
           "css_highlight": false,
           "medley": false
         },
@@ -574,7 +574,35 @@
 <button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
 <button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
 <hr><div class='setname'>1</div>
-<button class='accordion css_medleyStart'>1. Hit Me With Your Best Shot</button>
+<button class='accordion'>1. Folsom Prison Blues</button>
+<div class='panel'>
+I hear the train a comin it's rolling round the bend<br>
+And I ain't seen the sunshine since I don't know when<br>
+I'm stuck in Folsom Prison, and time keeps draggin on<br>
+But that train keeps a rollin on down to San Antone<br>
+<br>
+When I was just a baby my mama told me "Son<br>
+always be a good boy, don't ever play with guns"<br>
+But I shot a man in Reno just to watch him die<br>
+When I hear that whistle blowing, I hang my head and cry<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+I bet there's rich folks eating from a fancy dining car<br>
+They're probably drinkin coffee and smoking big cigars<br>
+Well I know I had it coming, I know I can't be free<br>
+But those people keep a movin and that's what tortures me<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Well if they freed me from this prison if that railroad train was mine<br>
+I bet I'd move it on a little farther down the line<br>
+Far from Folsom Prison, that's where I want to stay<br>
+And I'd let that lonesome whistle blow my blues away<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>2. Hit Me With Your Best Shot</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 C: E A C#m B - E A C#m B A B - 128bpm<br>
@@ -606,7 +634,7 @@ You better make sure you put me in my place<br>
 &nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion css_medleyEnd'>2. I Hate Myself</button>
+<button class='accordion css_medleyEnd'>3. I Hate Myself</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 G|--9-12-9--7-9---7---7-----7-9-| V:(E A B)&nbsp;&nbsp;&nbsp;&nbsp;117bpm<br>
@@ -650,7 +678,7 @@ I wanna see you beggin', say, "Forget it" just for spite<br>
 <br>
 </div>
 
-<button class='accordion css_medleyStart'>3. Lonely Is The Night</button>
+<button class='accordion css_medleyStart'>4. Lonely Is The Night</button>
 <div class='panel'>
 86bpm<br>
 <br>
@@ -693,7 +721,7 @@ Are you ready for a fight, do you wanna take it all<br>
 <br>
 </div>
 
-<button class='accordion css_medleyCont'>4. Hand in my pocket</button>
+<button class='accordion css_medleyCont'>5. Hand in my pocket</button>
 <div class='panel'>
 D - C G D<br>
 <br>
@@ -728,7 +756,7 @@ I'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty,
 <br>
 </div>
 
-<button class='accordion css_medleyCont'>5. Valerie</button>
+<button class='accordion css_medleyEnd'>6. Valerie</button>
 <div class='panel'>
 (E F#m) - (A G#m) B - 106bpm<br>
 <br>
@@ -756,34 +784,6 @@ Are you still dizzy?<br>
  PC + C<br>
 <br>
 V1 + PC + C<br>
-</div>
-
-<button class='accordion css_medleyEnd'>6. Folsom Prison Blues</button>
-<div class='panel'>
-I hear the train a comin it's rolling round the bend<br>
-And I ain't seen the sunshine since I don't know when<br>
-I'm stuck in Folsom Prison, and time keeps draggin on<br>
-But that train keeps a rollin on down to San Antone<br>
-<br>
-When I was just a baby my mama told me "Son<br>
-always be a good boy, don't ever play with guns"<br>
-But I shot a man in Reno just to watch him die<br>
-When I hear that whistle blowing, I hang my head and cry<br>
-<br>
-&nbsp;&nbsp;Solo<br>
-<br>
-I bet there's rich folks eating from a fancy dining car<br>
-They're probably drinkin coffee and smoking big cigars<br>
-Well I know I had it coming, I know I can't be free<br>
-But those people keep a movin and that's what tortures me<br>
-<br>
-&nbsp;&nbsp;Solo<br>
-<br>
-Well if they freed me from this prison if that railroad train was mine<br>
-I bet I'd move it on a little farther down the line<br>
-Far from Folsom Prison, that's where I want to stay<br>
-And I'd let that lonesome whistle blow my blues away<br>
-<br>
 </div>
 
 <button class='accordion css_medleyStart'>7. Fastest Girl In Town</button>
@@ -912,7 +912,7 @@ Wanna share my love with a warm blooded lover wanna bring a wild man back home<b
 <br>
 </div>
 
-<button class='accordion css_medleyEnd'>10. Funkytown</button>
+<button class='accordion css_medleyCont'>10. Funkytown</button>
 <div class='panel'>
 C / C Bb C - G<br>
 Cm7<br>
@@ -928,7 +928,7 @@ Won't you take me to....Funkytown? x 4<br>
 <br>
 </div>
 
-<button class='accordion css_highlight'>11. Brick House</button>
+<button class='accordion css_highlight css_medleyEnd'>11. Brick House</button>
 <div class='panel'>
 &nbsp;&nbsp;She's a brick house<br>
 &nbsp;&nbsp;She's mighty mighty, just lettin it all hang out<br>
@@ -1048,7 +1048,7 @@ And what you lost, and what you had, ooh what you lost<br>
 </div>
 
 <hr><div class='setname'>2</div>
-<button class='accordion'>1. Summer Of '69</button>
+<button class='accordion css_medleyStart'>1. Summer Of '69</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: D A&nbsp;&nbsp;&nbsp;&nbsp;C: (Bm A D G)&nbsp;&nbsp;&nbsp;&nbsp;B: (F Bb C Bb)<br>
@@ -1086,7 +1086,7 @@ It was the summer of '69, oh, yeah. Me and my baby in '69, oh.<br>
 It was the summer, the summer, the summer of '69, yeah.<br>
 </div>
 
-<button class='accordion'>2. Nothing But A Good Time</button>
+<button class='accordion css_medleyCont'>2. Nothing But A Good Time</button>
 <div class='panel'>
 Now listen<br>
 Not a dime, I can't pay my rent I can barely make it through the week<br>
@@ -1112,7 +1112,42 @@ I'm always working slaving every day gotta..<br>
 &nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion'>3. Kiss Me Deadly</button>
+<button class='accordion css_medleyEnd'>3. Everybody Wants You</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+B|-----5-5-------5-5-------5-----------5-5--| 131bpm<br>
+G|--0--2-2----0--2-2----0--2--5--2--0--2-2--|<br>
+</font>
+<br>
+<font style='font-family:courier;'>
+I: riff&nbsp;&nbsp;V: G D&nbsp;&nbsp;&nbsp;C: E G A - E G D&nbsp;&nbsp;&nbsp;B: D Ex3 ~A<br>
+</font>
+<br>
+You see em comin at you every night strung on pretension, they fall for you at first sight<br>
+You know their business, you think it's a bore, they make you restless it's nothin' you ain't seen before<br>
+&nbsp;&nbsp;Get around town, spend your time on the run you never let down, say you do it for fun<br>
+&nbsp;&nbsp;Never miss a play, though you make quite a few you give it all away - everybody wants you<br>
+<br>
+You crave attention, you can never say "no" throw your affections any way the wind blows<br>
+You always make it you're on top of the scene you sell the copy like the cover of a magazine<br>
+&nbsp;&nbsp;Puttin on the eyes til there's nobody else you never realize what you do to yourself<br>
+&nbsp;&nbsp;The things that they see make the daily reviews you never get free - everybody wants you<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Everybody knows you, everybody snows you<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Everybody leads you, needs you, bleeds you<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+(Extra riff)<br>
+<br>
+Nights of confusion and impossible dreams days at the mirror patchin up around the seams<br>
+You got your glory you paid for it all you take your pension in loneliness and alcohol<br>
+&nbsp;&nbsp;Say goodbye to conventional ways you can't escape the hours you lose track of the days<br>
+&nbsp;&nbsp;The more you understand seems the more like you do you never get away... everybody wants you<br>
+<br>
+</div>
+
+<button class='accordion'>4. Kiss Me Deadly</button>
 <div class='panel'>
 156bpm<br>
 <br>
@@ -1143,7 +1178,7 @@ You know I like dancin with you dancin with you c'mon<br>
 &nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion css_medleyStart'>4. Mama's Broken Heart</button>
+<button class='accordion css_medleyStart'>5. Mama's Broken Heart</button>
 <div class='panel'>
 Em - B7 112bpm<br>
 <br>
@@ -1182,7 +1217,7 @@ Where you get a grip and bite your lip just to save a little face<br>
 [4 measure outro]<br>
 </div>
 
-<button class='accordion css_medleyEnd'>5. Ex's And Oh's</button>
+<button class='accordion css_medleyEnd'>6. Ex's And Oh's</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: Em B7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140bpm<br>
@@ -1228,7 +1263,7 @@ You know that's how the story goes<br>
 3 Measure out<br>
 </div>
 
-<button class='accordion css_medleyStart'>6. Black Velvet</button>
+<button class='accordion css_medleyStart'>7. Black Velvet</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: Em&nbsp;&nbsp;&nbsp;P: B A G D&nbsp;&nbsp;&nbsp;C: Am D - Am F C - Am D - C7 B7 Em - 91bpm<br>
@@ -1267,7 +1302,7 @@ Mama's baby's in the heart of every school girl<br>
 &nbsp;&nbsp;Chorus x 2<br>
 </div>
 
-<button class='accordion css_medleyCont'>7. Tell That Devil</button>
+<button class='accordion css_medleyEnd'>8. Tell That Devil</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: Em&nbsp;&nbsp;C: (G A Em) - C G D A Em&nbsp;&nbsp;S: (Em D A/C# C) 94bpm<br>
@@ -1300,78 +1335,7 @@ Just another soul to take...<br>
 &nbsp;&nbsp;You're a sweet shot of kerosene..<br>
 </div>
 
-<button class='accordion css_medleyCont'>8. Everybody Wants You</button>
-<div class='panel'>
-<font style='font-family:courier;'>
-B|-----5-5-------5-5-------5-----------5-5--| 131bpm<br>
-G|--0--2-2----0--2-2----0--2--5--2--0--2-2--|<br>
-</font>
-<br>
-<font style='font-family:courier;'>
-I: riff&nbsp;&nbsp;V: G D&nbsp;&nbsp;&nbsp;C: E G A - E G D&nbsp;&nbsp;&nbsp;B: D Ex3 ~A<br>
-</font>
-<br>
-You see em comin at you every night strung on pretension, they fall for you at first sight<br>
-You know their business, you think it's a bore, they make you restless it's nothin' you ain't seen before<br>
-&nbsp;&nbsp;Get around town, spend your time on the run you never let down, say you do it for fun<br>
-&nbsp;&nbsp;Never miss a play, though you make quite a few you give it all away - everybody wants you<br>
-<br>
-You crave attention, you can never say "no" throw your affections any way the wind blows<br>
-You always make it you're on top of the scene you sell the copy like the cover of a magazine<br>
-&nbsp;&nbsp;Puttin on the eyes til there's nobody else you never realize what you do to yourself<br>
-&nbsp;&nbsp;The things that they see make the daily reviews you never get free - everybody wants you<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Everybody knows you, everybody snows you<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Everybody leads you, needs you, bleeds you<br>
-<br>
-&nbsp;&nbsp;Solo<br>
-<br>
-(Extra riff)<br>
-<br>
-Nights of confusion and impossible dreams days at the mirror patchin up around the seams<br>
-You got your glory you paid for it all you take your pension in loneliness and alcohol<br>
-&nbsp;&nbsp;Say goodbye to conventional ways you can't escape the hours you lose track of the days<br>
-&nbsp;&nbsp;The more you understand seems the more like you do you never get away... everybody wants you<br>
-<br>
-</div>
-
-<button class='accordion css_medleyEnd'>9. I Kissed A Girl</button>
-<div class='panel'>
-<font style='font-family:courier;'>
-V: Am B C Dm F E - 130bpm<br>
-B: (F Em Am G) Dm<br>
-</font>
-<br>
-[Drums 2 Measures]<br>
-<br>
-This was never the way I planned, not my intention<br>
-I got so brave, drink in hand, lost my discretion<br>
-It's not what I'm used to, just wanna try you on<br>
-I'm curious for you, caught my attention<br>
-<br>
-&nbsp;&nbsp;I kissed a girl and I liked it the taste of her cherry chapstick<br>
-&nbsp;&nbsp;I kissed a girl just to try it I hope my boyfriend don't mind it<br>
-&nbsp;&nbsp;It felt so wrong it felt so right don't mean I'm in love tonight<br>
-&nbsp;&nbsp;I kissed a girl and I liked it, I liked it<br>
-<br>
-[2 Measures]<br>
-<br>
-No, I don't even know your name, it doesn't matter<br>
-You're my experimental game, just human nature<br>
-It's not what good girls do, not how they should behave<br>
-My head gets so confused, hard to obey<br>
-<br>
-&nbsp;&nbsp;Chorus<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Us girls we are so magical.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Soft skin, red lips, so kissable<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Hard to resist, so touchable too good to deny it<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Ain't no big deal it's innocent<br>
-<br>
-&nbsp;&nbsp;Chorus<br>
-</div>
-
-<button class='accordion css_medleyStart'>10. I Will Survive</button>
+<button class='accordion css_medleyStart'>9. I Will Survive</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 V: Am Dm G C F B E E7<br>
@@ -1411,7 +1375,7 @@ But now I'm saving all my lovin' for someone who's lovin' me<br>
 <br>
 </div>
 
-<button class='accordion css_medleyEnd'>11. Flowers</button>
+<button class='accordion css_medleyEnd'>10. Flowers</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 I: CM7 - 118bpm<br>
@@ -1443,7 +1407,7 @@ No remorse, no regret I forgive every word you said<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Chorus<br>
 </div>
 
-<button class='accordion'>12. Papa Don't Preach</button>
+<button class='accordion'>11. Papa Don't Preach</button>
 <div class='panel'>
 144bpm<br>
 <br>
@@ -1483,7 +1447,7 @@ Cause we are in love we are in love so please<br>
 &nbsp;&nbsp;Chorus x 2<br>
 </div>
 
-<button class='accordion'>13. Poker Face</button>
+<button class='accordion'>12. Poker Face</button>
 <div class='panel'>
 <font style='font-family:courier;'>
 D|-6-6----------|-6-6-2-4-4----| 125bpm (First To 11 version)<br>
@@ -1520,6 +1484,42 @@ And baby when it's love, if it's not rough it isn't fun, fun<br>
 <br>
 Outro G#m riff x 4<br>
 <br>
+</div>
+
+<button class='accordion'>13. I Kissed A Girl</button>
+<div class='panel'>
+<font style='font-family:courier;'>
+V: Am B C Dm F E - 130bpm<br>
+B: (F Em Am G) Dm<br>
+</font>
+<br>
+[Drums 2 Measures]<br>
+<br>
+This was never the way I planned, not my intention<br>
+I got so brave, drink in hand, lost my discretion<br>
+It's not what I'm used to, just wanna try you on<br>
+I'm curious for you, caught my attention<br>
+<br>
+&nbsp;&nbsp;I kissed a girl and I liked it the taste of her cherry chapstick<br>
+&nbsp;&nbsp;I kissed a girl just to try it I hope my boyfriend don't mind it<br>
+&nbsp;&nbsp;It felt so wrong it felt so right don't mean I'm in love tonight<br>
+&nbsp;&nbsp;I kissed a girl and I liked it, I liked it<br>
+<br>
+[2 Measures]<br>
+<br>
+No, I don't even know your name, it doesn't matter<br>
+You're my experimental game, just human nature<br>
+It's not what good girls do, not how they should behave<br>
+My head gets so confused, hard to obey<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Us girls we are so magical.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Soft skin, red lips, so kissable<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hard to resist, so touchable too good to deny it<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ain't no big deal it's innocent<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
 </div>
 
 <button class='accordion css_medleyStart'>14. Play That Funky Music</button>
@@ -1927,14 +1927,16 @@ monkey finger he shoot Coca-Cola he say<br>
 I know you, you know me<br>
 One thing I can tell you is you got to be free<br>
 <br>
-&nbsp;&nbsp;Come together right noooow over me<br>
+&nbsp;&nbsp;Come together right noow over me<br>
 <br>
 He bag production he got walrus gumboot he got<br>
 Ono sideboard he one spinal cracker he got<br>
 feet down below his knee<br>
 Hold you in his armchair you can feel his disease<br>
 <br>
-&nbsp;&nbsp;Come together right noooow over me<br>
+&nbsp;&nbsp;Come together right now over me<br>
+<br>
+&nbsp;&nbsp;&nbsp;Solo<br>
 <br>
 He roller-coaster he got early warning he got<br>
 muddy water he one mojo filter he say<br>
