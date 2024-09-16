@@ -944,22 +944,6 @@
     "key": "E",
     "tempo": "undefined"
   },
-  "Friday_I_m_In_Love.The_Cure": {
-    "name": "Friday I'm In Love",
-    "artist": "The Cure",
-    "id": "Friday_I_m_In_Love.The_Cure",
-    "lyrics": "Key: Cm\n\nI don't care if Monday's blue, Tuesday's gray and Wednesday too\nThursday I don't care about you it's Friday, I'm in love\nMonday you can fall apart, Tuesday, Wednesday, break my heart\nOh, Thursday doesn't even start, it's Friday, I'm in love\n\n  Saturday wait, and Sunday always comes too late\n  But Friday never hesitate\n\nI don't care if Monday's black, Tuesday, Wednesday, heart attack\nThursday never looking back it's Friday, I'm in love\n\n  Solo\n\nMonday you can hold your head Tuesday, Wednesday, stay in bed\nOr Thursday watch the walls instead It's Friday, I'm in love\n\n  Saturday wait..\n\n   Dressed up to the eyes it's a wonderful surprise\n   To see your shoes and your spirits rise\n   Throwing out your frown and just smiling at the sound\n   And as sleek as a shriek spinning 'round and 'round\n   Always take a big bite it's such a gorgeous sight\n   To see you eat in the middle of the night\n   You can never get enough, enough of this stuff\n   It's Friday, I'm in love\n\nVerse 1",
-    "key": "Cm",
-    "tempo": "136bpm"
-  },
-  "Good.Better_Than_Ezra": {
-    "name": "Good",
-    "artist": "Better Than Ezra",
-    "id": "Good.Better_Than_Ezra",
-    "lyrics": "Looking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
-    "key": "G",
-    "tempo": "110bpm"
-  },
   "God_Put_A_Smile_Upon_Your_Face.Coldplay": {
     "name": "God Put A Smile Upon Your Face",
     "artist": "Coldplay",
@@ -1624,14 +1608,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Don_t_Change.INXS": {
-    "name": "Don't Change",
-    "artist": "INXS",
-    "id": "Don_t_Change.INXS",
-    "lyrics": "I'm standing here on the ground the sky above won't fall down \nSee no evil in all directions \nResolution of happiness things have been dark for too long\n\n  Don't change for you, don't change a thing for me x 2\n\nI found a love that I had lost it was gone for too long \nHear no evil in all directions \nExecution of bitterness message received loud and clear\n\n  Don't change for you, don't change a thing for me x 2\n\n    Solo\n\nVerse 1\n\n  Don't change for you, don't change a thing for me x 3\n\nOutro\n\n  Don't change\n  Don't change\n",
-    "key": "A",
-    "tempo": "164bpm"
-  },
   "Oh_Sherrie.Steve_Perry": {
     "name": "Oh Sherrie",
     "artist": "Steve Perry",
@@ -2071,14 +2047,6 @@
     "lyrics": "I: (Ab Bb) V1: (B F# E B) (E F# B) C: B G#m F# E\n\nMother told me, yes, she told me That I'd meet girls like you\nShe also told me, \"Stay away You'll never know what you'll catch\"\nJust the other day I heard Of a soldier's falling off\nSome Indonesian junk That's going 'round\n\n  Mommy's alright daddy's alright. They just seem a little weird\n  Surrender Surrender, but don't give yourself away\n\nI: (A B)\n\nFather says, \"Your mother's right she's really up on things\nBefore we married, Mommy served in the WACS in the Philippines\"\nNow, I had heard the WACs recruited Old maids for the war\nBut mommy isn't one of those I've known her all these years\n\n  Chorus\n\nI: (A B)\n\nV: (C G F C)\nWhatever happened to all this season's losers of the year?\nEvery time I got to thinking where'd they disappear?\nBut when I woke up, Mom and Dad are rolling on the couch\nRolling numbers, rock and rollin' got my KISS records out\n\n  Chorus (C Am G F)\n\nAway.. (C F C G)\n\n  Surrender, surrender (Mommy's alright, Daddy's alright)\n  But don't give yourself away\n  Surrender, surrender (Mommy's alright, Daddy's alright)\n  But don't give yourself away\n\n  repeat outro again 2x",
     "key": "E",
     "tempo": "134bpm"
-  },
-  "Sex_On_Fire.Kings_Of_Leon": {
-    "name": "Sex On Fire",
-    "artist": "Kings Of Leon",
-    "id": "Sex_On_Fire.Kings_Of_Leon",
-    "lyrics": "Lay where you're laying, don't make a sound\nI know they're watching, they're watching\nAll the commotion, the kiddie-like play\nIt has people talking, talking\n\n  You, your sex is on fire\n\nThe dark of the alley, the breaking of day\nHead while I'm driving, I'm driving\nSoft lips are open, them knuckles are pale\nFeels like you're dying, you're dying\n\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\nHot as a fever, rattle of bones\nI could just taste it, taste it\nIf this not forever, if this just tonight\nOh we're still the greatest, the greatest, the greatest\n\n  You, your sex is on fire\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\n  And you, your sex is on fire\n  Consumed, with what's just transpired",
-    "key": "A",
-    "tempo": "153bpm"
   },
   "Sex_Type_Thing.STP": {
     "name": "Sex Type Thing",
@@ -4047,5 +4015,37 @@
     "lyrics": "(A7 D) (G A) G D\nV: (D A7 D G A G A G) - Bm Esus4 E - G Bm A D A\nS:  F#m Bm F#m Bm F#m C G C G A7 D\n\nGive a little bit, give a little bit of your love to me\nI'll Give a little bit, I'll give a little bit of my love to you\nThere's so much that we need to share\nSend a smile and show you care\n\nI'll give a little bit, I'll give a little bit of my life for you\nSo give a little bit, give a little bit of your time to me\nSee the man with the lonely eyes\nOh, Take his hand, you'll be surprised\n\nGive a little bit, give a little bit of your love to me\nGive a little bit, I'll give a little bit of my life to you\nNow's the time that we need to share\nSo find yourself, we're on our way back home\n...oh going home\n.. don't you need, don't you need to feel at home\n.. oh yeah, we gotta sing\n",
     "key": "A",
     "tempo": "Tempo"
+  },
+  "Friday_I_m_In_Love.The_Cure": {
+    "name": "Friday I'm In Love",
+    "artist": "The Cure",
+    "id": "Friday_I_m_In_Love.The_Cure",
+    "lyrics": "V: (D G D A - Bm G D A)\nC: G A Bm G D A\nB: (Bm C D A)\n\nI don't care if Monday's blue, Tuesday's gray and Wednesday too\nThursday I don't care about you it's Friday, I'm in love\nMonday you can fall apart, Tuesday, Wednesday, break my heart\nOh, Thursday doesn't even start, it's Friday, I'm in love\n\n  Saturday wait, and Sunday always comes too late\n  But Friday never hesitate\n\nI don't care if Monday's black, Tuesday, Wednesday, heart attack\nThursday never looking back it's Friday, I'm in love\n\n  Solo\n\nMonday you can hold your head Tuesday, Wednesday, stay in bed\nOr Thursday watch the walls instead It's Friday, I'm in love\n\n  Saturday wait..\n\n   Dressed up to the eyes it's a wonderful surprise\n   To see your shoes and your spirits rise\n   Throwing out your frown and just smiling at the sound\n   And as sleek as a shriek spinning 'round and 'round\n   Always take a big bite it's such a gorgeous sight\n   To see you eat in the middle of the night\n   You can never get enough, enough of this stuff\n   It's Friday, I'm in love\n\nVerse 1",
+    "key": "D",
+    "tempo": "136bpm"
+  },
+  "Sex_On_Fire.Kings_Of_Leon": {
+    "name": "Sex On Fire",
+    "artist": "Kings Of Leon",
+    "id": "Sex_On_Fire.Kings_Of_Leon",
+    "lyrics": "E C#m A\n\nLay where you're laying, don't make a sound\nI know they're watching, they're watching\nAll the commotion, the kiddie-like play\nIt has people talking, talking\n\n  You, your sex is on fire\n\nThe dark of the alley, the breaking of day\nHead while I'm driving, I'm driving\nSoft lips are open, them knuckles are pale\nFeels like you're dying, you're dying\n\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\nHot as a fever, rattle of bones\nI could just taste it, taste it\nIf this not forever, if this just tonight\nOh we're still the greatest, the greatest, the greatest\n\n  You, your sex is on fire\n  You, your sex is on fire\n  Consumed, with what's just transpired\n\n  And you, your sex is on fire\n  Consumed, with what's just transpired",
+    "key": "E",
+    "tempo": "153bpm"
+  },
+  "Don_t_Change.INXS": {
+    "name": "Don't Change",
+    "artist": "INXS",
+    "id": "Don_t_Change.INXS",
+    "lyrics": "V: A /G# F#m - Bm D A - A /G# F#m\nC: (Bm D Bm D A)\nO: (F#m E D)\n\nI'm standing here on the ground the sky above won't fall down \nSee no evil in all directions \nResolution of happiness things have been dark for too long\n\n  Don't change for you, don't change a thing for me x 2\n\nI found a love that I had lost it was gone for too long \nHear no evil in all directions \nExecution of bitterness message received loud and clear\n\n  Don't change for you, don't change a thing for me x 2\n\n    Solo\n\nVerse 1\n\n  Don't change for you, don't change a thing for me x 3\n\nOutro\n\n  Don't change\n  Don't change\n",
+    "key": "A",
+    "tempo": "164bpm"
+  },
+  "Good.Better_Than_Ezra": {
+    "name": "Good",
+    "artist": "Better Than Ezra",
+    "id": "Good.Better_Than_Ezra",
+    "lyrics": "V: G D Em C\nS: A E F#m D\n\nLooking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
+    "key": "G",
+    "tempo": "110bpm"
   }
 }
