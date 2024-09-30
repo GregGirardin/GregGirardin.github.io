@@ -2320,14 +2320,6 @@
     "key": "C",
     "tempo": "Tempo"
   },
-  "Only_The_Lonely.The_Motels": {
-    "name": "Only The Lonely",
-    "artist": "The Motels",
-    "id": "Only_The_Lonely.The_Motels",
-    "lyrics": "V: G Em C D\nC: D C G\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Careless_Whisper.George_Michael": {
     "name": "Careless Whisper",
     "artist": "George Michael",
@@ -4047,5 +4039,21 @@
     "lyrics": "V: G D Em C\nS: A E F#m D\n\nLooking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
     "key": "G",
     "tempo": "110bpm"
+  },
+  "Only_The_Lonely.The_Motels": {
+    "name": "Only The Lonely",
+    "artist": "The Motels",
+    "id": "Only_The_Lonely.The_Motels",
+    "lyrics": "V: G Em C    C: D C G [D Am C]\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
+    "key": "G",
+    "tempo": "Tempo"
+  },
+  "Shooting_Star.Bad_Company": {
+    "name": "Shooting Star",
+    "artist": "Bad Company",
+    "id": "Shooting_Star.Bad_Company",
+    "lyrics": "I: A E D\nV: (A E G A) (D E)\nC: (D A E) G D E\nS: F# E B\n\nJohnny was a schoolboy, when he heard his first Beatles song.\nLove Me Do, I think it was, and from there it didn't take him long.\nGot himself a guitar, used to play every night\nNow he's in a rock 'n' roll outfit, and everything's alright.\nDon't you know?\n\nJohnny told his Mama, \"Hey, Mama, I'm goin' away.\nI'm gonna hit the big time, gonna be a big star someday\".\nMama came to the door, with a teardrop in her eye.\nJohnny said, \"don't cry, Mama, smile and wave goodbye\".\nDon't you know? Yeah..\n\n  Don't you know that you are a shooting star?\n  Don't you know? Don't you know?\n  Don't you know that you are a shooting star?\n  And all the world will love you just as long, as long as you are.\n\nJohnny made a record, went straight up to number one.\nSuddenly everyone loved, to hear him sing his song\nWatchin' the world go by, surprisin' it goes so fast\nJohnny looked around him and said, \"well, I made the big-time at last\".\nDon't you know?\n\n  Chorus / Solo / Chorus\n\nJohnny died one night, died in his bed.\nBottle of whisky, sleeping tablets by his head.\nJohnny's life passed him by, like a warm summer day.\nIf you listen to the wind, you can still hear him play.\n\nNa na na na...",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
