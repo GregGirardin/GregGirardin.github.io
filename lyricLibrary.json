@@ -1992,14 +1992,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "My_Sharona.The_Knack": {
-    "name": "My Sharona",
-    "artist": "The Knack",
-    "id": "My_Sharona.The_Knack",
-    "lyrics": "Ooh, my little pretty one, my pretty one\nWhen you gonna give me some time, Sharona?\nOoh, you make my motor run, my motor run\nGun it comin' off of the line, Sharona\n\n  Never gonna stop, give it up, such a dirty mind\n  I always get it up for the touch of the younger kind\n  My, my, my, ay, ah, woh!\n  M-m-m-my Sharona\n\nCome a little closer, hon, a-will you, hon?\nClose enough to look in my eyes, Sharona\nKeep it in a mystery, you're kissing me\nRunning down the length of my thighs, Sharona\n\n  Chorus\n  M-m-m-my Sharona x 2\n\n    Bridge\n\nWhen you gonna give to me, g-give to me?\nIs it just a matter of time, Sharona?\nIs it d-d-destiny, d-destiny?\nOr is it just a game in my mind, Sharona?\n\n  Chorus\n  M-m-m-m-m-m-m-my, my, my, ay, ah, woh!\n  M-m-m-my Sharona x 4\n\n Solo\n\nOooohaa, my Sharona x 3\n",
-    "key": "G",
-    "tempo": "148bpm"
-  },
   "Run_Like_Hell.Pink_Floyd": {
     "name": "Run Like Hell",
     "artist": "Pink Floyd",
@@ -4063,5 +4055,13 @@
     "lyrics": "F#m A D A /G#\n\nMy baby want a Birkin she's been tellin' me all night long\nGasoline and groceries, the list goes on and on\nThis 9 to 5 ain't workin', why the hell do I work so hard?\nI can't worry 'bout my problems, I can't take 'em when I'm gone\n\n  One, here comes the two, to the three, to the four\n  Tell 'em \"Bring another round\", we need plenty more\n  Two steppin' on the table, she don't need a dance floor\n  Oh my, good Lord\n\n  Someone pour me up a double shot of whiskey\n  They know me and Jack Daniels got a history\n  Therе's a party downtown, near 5th Street\n  Everybody at the bar gеttin' tipsy\n\nI been Boozey since I left, I ain't changin' for a check\nTell my ma, I ain't forget (Oh, Lord, uh)\nWoke up drunk at 10 a.m., we gon' do this shit again\nTell your girl to bring a friend (Oh, Lord)\n\n  PC + C\n\n  One, here comes the two, to the three, to the four\n  When it's last call and they kick us out the door\n  It's gettin' kind of late but the ladies want some more\n  Oh my, good Lord (Tell 'em drink some more)\n\n  Chorus x 2",
     "key": "A",
     "tempo": "Tempo"
+  },
+  "My_Sharona.The_Knack": {
+    "name": "My Sharona",
+    "artist": "The Knack",
+    "id": "My_Sharona.The_Knack",
+    "lyrics": "Ooh, my little pretty one, my pretty one\nWhen you gonna give me some time, Sharona?\nOoh, you make my motor run, my motor run\nGun it comin' off of the line, Sharona\n\n  Never gonna stop, give it up, such a dirty mind\n  I always get it up for the touch of the younger kind\n  My, my, my, ay, ah, woh!\n  M-m-m-my Sharona\n\nCome a little closer, hon, a-will you, hon?\nClose enough to look in my eyes, Sharona\nKeep it in a mystery, you're kissing me\nRunning down the length of my thighs, Sharona\n\n  Never gonna stop, give it up, such a dirty mind\n  I always get it up for the touch of the younger kind\n  My, my, my, ay, ah, woh!\n  M-m-m-my Sharona\n  M-m-m-my Sharona\n\n    Bridge\n\nWhen you gonna give to me, g-give to me?\nIs it just a matter of time, Sharona?\nIs it d-d-destiny, d-destiny?\nOr is it just a game in my mind, Sharona?\n\n  Never gonna stop, give it up, such a dirty mind\n  I always get it up for the touch of the younger kind\n  M-m-m-m-m-m-m-my, my, my, ay, ah, woh!\n  M-m-m-m-m-m-m-my, my, my, ay, ah, woh!\n  M-m-m-my Sharona\n  M-m-m-my Sharona\n  M-m-m-my Sharona\n  M-m-m-my Sharona\n\n Solo\n\nOooohaa, my Sharona\nOooohaa, my Sharona\nOooohaa, my Sharona!\n",
+    "key": "G",
+    "tempo": "148bpm"
   }
 }
