@@ -2024,14 +2024,6 @@
     "key": "F#",
     "tempo": "136bpm"
   },
-  "Broken_Wings.Mr_Mister": {
-    "name": "Broken Wings",
-    "artist": "Mr Mister",
-    "id": "Broken_Wings.Mr_Mister",
-    "lyrics": "V: G#m F# C#\nC: C#m B A\nS: F#m A E D C#m\n\nBaby, don't understand\nwhy we can't just hold on to each other's hands\nThis time might be the last if fear\nunless I make it all too clear I need you so ooh\n \n  Take these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear the voices sing\n  The book of love will open up and let us in.\n  Take these broken wings\n \nBaby, I think tonight we can take\nwhat was wrong and make it right.\nBaby it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Ch\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Surrender.Cheap_Trick": {
     "name": "Surrender",
     "artist": "Cheap Trick",
@@ -4048,14 +4040,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Tipsy.Shaboozey": {
-    "name": "Tipsy",
-    "artist": "Shaboozey",
-    "id": "Tipsy.Shaboozey",
-    "lyrics": "F#m A D A /G#\n\nMy baby want a Birkin she's been tellin' me all night long\nGasoline and groceries, the list goes on and on\nThis 9 to 5 ain't workin', why the hell do I work so hard?\nI can't worry 'bout my problems, I can't take 'em when I'm gone\n\n  One, here comes the two, to the three, to the four\n  Tell 'em \"Bring another round\", we need plenty more\n  Two steppin' on the table, she don't need a dance floor\n  Oh my, good Lord\n\n  Someone pour me up a double shot of whiskey\n  They know me and Jack Daniels got a history\n  Therе's a party downtown, near 5th Street\n  Everybody at the bar gеttin' tipsy\n\nI been Boozey since I left, I ain't changin' for a check\nTell my ma, I ain't forget (Oh, Lord, uh)\nWoke up drunk at 10 a.m., we gon' do this shit again\nTell your girl to bring a friend (Oh, Lord)\n\n  PC + C\n\n  One, here comes the two, to the three, to the four\n  When it's last call and they kick us out the door\n  It's gettin' kind of late but the ladies want some more\n  Oh my, good Lord (Tell 'em drink some more)\n\n  Chorus x 2",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "My_Sharona.The_Knack": {
     "name": "My Sharona",
     "artist": "The Knack",
@@ -4071,5 +4055,21 @@
     "lyrics": "  Intro\n\nWhen I read your letter, I couldn't believe that you're gone\nI dialed your number, but no one answered the phone\n\nI asked your friends to tell me if they knew where you were\nThey said they thought that you were ill\n\n  Break (instrumental)\n\nI hired a detective to try and find out where you are\nHe managed to trace you, he said you were living in France\n\nA watchman saw you climb into someone else's car\nAnd drive off laughing in the night\n\n  Why didn't you tell me?\n  Not leave me this way\n  Ooh, you could've told me\n  Not waited for so long\n\nI tried to forget you, but I found myself walking the street\nI went to the doctor and he gave me something to sleep\n\nI sent you telegrams, but you haven't answered one\nYour mother told me, I best leave you well alone\nI hope you're satisfied, now you've done this thing to me\nI hope you're pleased with what you've done\n\n  Why didn't you tell me?\n  Not leave me this way\n  Ooh, you could've told me\n  Not waited for so long\n\n(For so long) I never realized just exactly who you are\n(For so long) I never realized the girl I had before\n(For so long) I hope you're satisfied, you won't hear from me again\n(For so long) I hope you're pleased with what you've done\n\n  Why didn't you tell me?\n  Not leave me this way\n  Ooh, you could've told me\n  Not waited for so long\n\n  Outro\n",
     "key": "C",
     "tempo": "127bpm"
+  },
+  "Tipsy.Shaboozey": {
+    "name": "Tipsy",
+    "artist": "Shaboozey",
+    "id": "Tipsy.Shaboozey",
+    "lyrics": "Am C F C/B\n\nMy baby want a Birkin she's been tellin' me all night long\nGasoline and groceries, the list goes on and on\nThis 9 to 5 ain't workin', why the hell do I work so hard?\nI can't worry 'bout my problems, I can't take 'em when I'm gone\n\n  One, here comes the two, to the three, to the four\n  Tell 'em \"Bring another round\", we need plenty more\n  Two steppin' on the table, she don't need a dance floor\n  Oh my, good Lord\n\n  Someone pour me up a double shot of whiskey\n  They know me and Jack Daniels got a history\n  Therе's a party downtown, near 5th Street\n  Everybody at the bar gеttin tipsy\n\nI been Boozey since I left, I ain't changin' for a check\nTell my ma, I ain't forget (Oh, Lord, uh)\nWoke up drunk at 10 a.m., we gon' do this shit again\nTell your girl to bring a friend (Oh, Lord)\n\n  PC + C\n\n  One, here comes the two, to the three, to the four\n  When it's last call and they kick us out the door\n  It's gettin' kind of late but the ladies want some more\n  Oh my, good Lord (Tell 'em drink some more)\n\n  Chorus x 2",
+    "key": "Am",
+    "tempo": "Tempo"
+  },
+  "Broken_Wings.Mr_Mister": {
+    "name": "Broken Wings",
+    "artist": "Mr Mister",
+    "id": "Broken_Wings.Mr_Mister",
+    "lyrics": "V: Em D A\nC: Am G F\n\nBaby, don't understand\nwhy we can't just hold on to each other's hands\nThis time might be the last if fear\nunless I make it all too clear I need you so ooh\n \n  Take these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear the voices sing\n  The book of love will open up and let us in.\n  Take these broken wings\n \nBaby, I think tonight we can take\nwhat was wrong and make it right.\nBaby it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Ch\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
+    "key": "Em",
+    "tempo": "Tempo"
   }
 }
