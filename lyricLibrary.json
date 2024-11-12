@@ -4136,14 +4136,6 @@
     "key": "E",
     "tempo": "84bpm"
   },
-  "I_Want_You_To_Want_Me.Cheap_Trick": {
-    "name": "I Want You To Want Me",
-    "artist": "Cheap Trick",
-    "id": "I_Want_You_To_Want_Me.Cheap_Trick",
-    "lyrics": "I: (drums x 4) A   G D A\n1: A F#m D           <- \"I want you..\"\n2: F#m B G [A | F#m] <- \"I'd shine up..\"\n3: A E F#m D         <- \"Didn't I..\"\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\nI want you to want me I need you to need me\nI'd love you to love me\n  I'd shine up my old brown shoes I'd put on a brand new shirt\n  I'd get home early from work If you'd say that you love me\n    Didn't I, didn't I, didn't I see you cryin...\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n  I'd shine up..\n    Didn't I...\n\n    Solo (3)\n\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\n    Solo #2\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n\nI want you to want me..\n\nIntro\n",
-    "key": "A",
-    "tempo": "undefined"
-  },
   "Devil_Inside.INXS": {
     "name": "Devil Inside",
     "artist": "INXS",
@@ -4151,5 +4143,13 @@
     "lyrics": "Here come the woman with the look in her eye\nRaised on leather with flesh on her mind\nWords as weapons sharper than knives\nMakes you wonder how the other half die\nHow the other half die\nMakes you wonder, wonder, wonder\n\nHere come the man with the look in his eye\nFed on nothing but full of pride\nLook at them go, look at them kick\nMakes you wonder how the other half live\n\n  Devil inside the devil inside\n  Every single one of us the devil inside (x 2)\n\n  Break\n\nHere come the world with the look in its eye\nFuture uncertain but certainly slight\nLook at the faces listen to the bells\nIt's hard to believe we need a place called hell\nA place called hell\n\n  Chorus\n\n  Break\n\n  Solo\n\nHere comes the woman with the look in her eye\nShe's raised on leather with flesh on her mind\nWords are weapons sharper than knives\nMakes you wonder how the other half die\n\n  Chorus x 4\n\nThe devil inside yeah, yeah, yeah\n",
     "key": "C",
     "tempo": "151 bpm"
+  },
+  "I_Want_You_To_Want_Me.Cheap_Trick": {
+    "name": "I Want You To Want Me",
+    "artist": "Cheap Trick",
+    "id": "I_Want_You_To_Want_Me.Cheap_Trick",
+    "lyrics": "I: (drums x 4) A   G D A\n1: A F#m D           <- \"I want you..\"\n2: F#m B G [A | F#m] <- \"I'd shine up..\"\n3: A E F#m D         <- \"Didn't I..\"\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\nI want you to want me I need you to need me\nI'd love you to love me\n  I'd shine up my old brown shoes I'd put on a brand new shirt\n  I'd get home early from work If you'd say that you love me\n    Didn't I, didn't I, didn't I see you cryin...\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n  I'd shine up..\n    Didn't I...\n\n    Solo (3)\n\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\n    Solo\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n\nI want you to want me..\n\nIntro\n",
+    "key": "A",
+    "tempo": "undefined"
   }
 }
