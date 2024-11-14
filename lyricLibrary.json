@@ -304,14 +304,6 @@
     "key": "E",
     "tempo": "undefined"
   },
-  "Pride.U2": {
-    "name": "Pride",
-    "artist": "U2",
-    "id": "Pride.U2",
-    "lyrics": "V: G C F D - G Bb C   Orig: E A D B - E G A\n\nOne man come in the name of love, one man come and go\nOne man come he to justify, one man to overthrow\n\n  In the name of love, what more in the name of love?\n\nOne man caught on a barbed wire fence, one man he resist\nOne man washed up on an empty beach, one man betrayed with a kiss\n\n  Chorus / Solo\n\nEarly morning, April 4 a shot rings out in the Memphis sky\nFree at last, they took your life they could not take your pride\n\n  Chorus\n",
-    "key": "E",
-    "tempo": "undefined"
-  },
   "Take_On_Me.A-ha": {
     "name": "Take On Me",
     "artist": "A-ha",
@@ -4151,5 +4143,13 @@
     "lyrics": "I: (drums x 4) A   G D A\n1: A F#m D           <- \"I want you..\"\n2: F#m B G [A | F#m] <- \"I'd shine up..\"\n3: A E F#m D         <- \"Didn't I..\"\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\nI want you to want me I need you to need me\nI'd love you to love me\n  I'd shine up my old brown shoes I'd put on a brand new shirt\n  I'd get home early from work If you'd say that you love me\n    Didn't I, didn't I, didn't I see you cryin...\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n  I'd shine up..\n    Didn't I...\n\n    Solo (3)\n\n    Feelin all alone without a friend you know you feel like dyin\n    Oh, didn't I, didn't I, didn't I see you cryin\n\n    Solo\n\nI want you to want me I need you to need me\nI'd love you to love me I'm beggin you to beg me\n\nI want you to want me..\n\nIntro\n",
     "key": "A",
     "tempo": "undefined"
+  },
+  "Pride.U2": {
+    "name": "Pride",
+    "artist": "U2",
+    "id": "Pride.U2",
+    "lyrics": "B E A F#m\n\nOne man come in the name of love, one man come and go\nOne man come he to justify, one man to overthrow\n\n  In the name of love, what more in the name of love?\n\nOne man caught on a barbed wire fence, one man he resist\nOne man washed up on an empty beach, one man betrayed with a kiss\n\n  Chorus / Solo\n\nEarly morning, April 4 a shot rings out in the Memphis sky\nFree at last, they took your life they could not take your pride\n\n  Chorus\n",
+    "key": "B Mix",
+    "tempo": "106"
   }
 }
