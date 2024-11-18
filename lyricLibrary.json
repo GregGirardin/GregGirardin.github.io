@@ -3992,14 +3992,6 @@
     "key": "G",
     "tempo": "110bpm"
   },
-  "Only_The_Lonely.The_Motels": {
-    "name": "Only The Lonely",
-    "artist": "The Motels",
-    "id": "Only_The_Lonely.The_Motels",
-    "lyrics": "V: G Em C    C: D C G [D Am C]\n\nWe walked the loneliest mile we smiled without any style\nWe kiss altogether wrong no intention\nWe lied about each others drinks we lived without each other thinking\nWhat anyone would do without me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on here we go, hold on to nothin' we know\nI feel so lonely way up here\nYou mention the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Shooting_Star.Bad_Company": {
     "name": "Shooting Star",
     "artist": "Bad Company",
@@ -4151,5 +4143,13 @@
     "lyrics": "B E A F#m\n\nOne man come in the name of love, one man come and go\nOne man come he to justify, one man to overthrow\n\n  In the name of love, what more in the name of love?\n\nOne man caught on a barbed wire fence, one man he resist\nOne man washed up on an empty beach, one man betrayed with a kiss\n\n  Chorus / Solo\n\nEarly morning, April 4 a shot rings out in the Memphis sky\nFree at last, they took your life they could not take your pride\n\n  Chorus\n",
     "key": "B Mix",
     "tempo": "106"
+  },
+  "Only_The_Lonely.The_Motels": {
+    "name": "Only The Lonely",
+    "artist": "The Motels",
+    "id": "Only_The_Lonely.The_Motels",
+    "lyrics": "V: G Em C    C: D C G [D Am C]\n\nWe walked, the loneliest mile, we smiled, without any style\nWe kiss altogether wrong, no intention\nWe lied, about each others drinks, we lived, without each other thinking\nWhat anyone would do without, me and you\n\n  It's like I told you only the lonely can play\n\nSo hold on, here we go. Hold on, to nothin' we know\nI feel so lonely, way up here\nYou mention, the time we were together\nSo long ago, well I don't remember all I know is that it makes me feel good now\n\n  Chorus / Solo / Chorus",
+    "key": "G",
+    "tempo": "Tempo"
   }
 }
