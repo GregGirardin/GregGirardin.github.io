@@ -691,9 +691,9 @@ function generateLibraryHTML()
                  onblur="if(this.value==''){this.value='${defaultTempo}';}">`;
 
     var lyrics = editSong.lyrics;
-    lyrics = lyrics ? lyrics.replace( /\n/g, "<br>" ) : "";
+    lyrics = lyrics != defaultLyrics ? lyrics.replace( /\n/g, "<br>" ) : "";
     tmpHtml += "<br><div contenteditable='true' id='editSongLyrics' class='css_editSong' \
-                value='" + lyrics + "' data-plchldr='" + defaultLyrics + "'></div>\
+                data-plchldr='" + defaultLyrics + "'>" + lyrics.replaceAll( '"', "&quot;" ) + "</div>\
                 <style>[id='editSongLyrics']:empty:not(:focus):before {content:attr(data-plchldr)}</style>";
 
     var elem = document.getElementById( 'multiuse' ); // edit in the multiuse panel on the left
