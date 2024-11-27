@@ -457,11 +457,9 @@ function saveSongEdits()
     key = "";
   
   var tempo = document.getElementById( "editSongTempo" ).value;
+  var lyrics = document.getElementById( "editSongLyrics" ).innerText;
 
-  // Prune HTML formatting by taking innerText. Still leaves extra newlines.
-  var foo = document.getElementById( "editSongLyrics" ).innerText;
-
-  editSong = new LibrarySong( name, artist, key, foo, tempo );
+  editSong = new LibrarySong( name, artist, key, lyrics, tempo );
   if( editSong.id != "." ) // That's the default name when adding, don't add.
   {
     // Check for a change before setting libEditedFlag.
@@ -559,20 +557,6 @@ function toggleLibViewMode()
   elem.innerHTML = viewMode;
 
   generateLibraryHTML();
-}
-
-var allowLyricHTML = false;
-
-// Allow or prune HTML in edited lyrics. When pasting you end up with whatever HTML formatting
-// that gets included. Usually it's just a harmless waste of space but it could affect the display.
-// Pruning it also makes lyricLibrary.json cleaner.
-// You may want to keep it if you're adding italics, bold, etc to the lyrics.
-function togLyricHTML()
-{
-  allowLyricHTML = !allowLyricHTML;
-  
-  var elem = document.getElementById( "togLyricHTML" );
-  elem.innerHTML = allowLyricHTML ? "Allow HTML" : "Prune HTML";
 }
 
 //////////////// ////////////////
@@ -1193,12 +1177,6 @@ Songs are added to the Clipboard from the Library and cut from the set list when
 Songs that are part of a medley can be indicated with 'Medley' mode.<br>
 Songs can be highlighted in red with 'Highlight' mode.<br>
 <br>
-A custom lyric library can be created with 'New' in the Library pane.
-Add songs to the library with '+'. Edit existing songs with 'Edit'. To allow
-HTML in the lyrics change 'HTML' to 'Allow', else 'Prune'.
-When a library is opened it is merged with the existing library.
-A library can be specified by appending "?library=http://x.y.z/???.json" to this URL.
-Delete songs from the library with 'Delete'. <br>
 
 */}.toString().slice( 14, -3 ) + "</" + "script> </" + "body> </html>" ); // little hack because certain tags confuse the browser.
   break;
