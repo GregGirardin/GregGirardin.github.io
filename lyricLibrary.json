@@ -1968,14 +1968,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Run_Like_Hell.Pink_Floyd": {
-    "name": "Run Like Hell",
-    "artist": "Pink Floyd",
-    "id": "Run_Like_Hell.Pink_Floyd",
-    "lyrics": "G|---------------------------------||\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------||\n\nE|-10--9---7-5---5-3---5-2--||x2\nB|-10-10---8-7---5-3---5-3--||\nG|-11--9---7-7---6-4---6-2--||\nD|--------------------------||\n\n\"Run\" (F A D) V: E F E C B E\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise.\nWith your button down lips and your roller blind eyes.\nWith your empty smile and your hungry heart.\nFeel the bile rising from your guilty past.\nWith your nerves in tatters when the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Bark_At_The_Moon.Ozzy_Osbourne": {
     "name": "Bark At The Moon",
     "artist": "Ozzy Osbourne",
@@ -4183,5 +4175,13 @@
     "lyrics": "Hey\nHey\nHey\n\nWhen you look you see right through me\nCut the rope, fell to my knees\nBorn and broken every single time\nAlways keep me under finger\nThat's the spot where you run to me\nMight see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n\nHey\nHey\nHey\n\nWhen you seek me, you destroy me\nRape my mind and smell the poppies\nBorn and bloodied every single time\nAlways keep me under finger\nThat's the spot where you might linger\nBut I see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n  Like holy water\n  It only burns you faster than you'll ever dry\n  This time, with me\n\nWhen you look you see right through me\nCut the rope, fell to my knees\nBorn and Bloodied\nEvery single time\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n  Like holy water\n  It only burns you faster than you'll ever dry\n  This time, with me\n\nHey\nHey\nHey\n",
     "key": "G",
     "tempo": "141bpm"
+  },
+  "Run_Like_Hell.Pink_Floyd": {
+    "name": "Run Like Hell",
+    "artist": "Pink Floyd",
+    "id": "Run_Like_Hell.Pink_Floyd",
+    "lyrics": "G|---------------------------------|\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------|\n\nE|-10--9---7-5---5-3---5-2-|\nB|-10-10---8-7---5-3---5-3-|\nG|-11--9---7-7---6-4---6-2-|\nD|-------------------------|\n\nV: E F E C B E\n\"Run\" (F A D)\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise\nWith your button down lips and your roller blind eyes\nWith your empty smile and your hungry heart\nFeel the bile rising from your guilty past\nWith your nerves in tatters as the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.\n\n  Riff\n\n  Run..\n\nYou better run all day and run all night\nAnd keep your dirty feelings deep inside\nAnd if you're taking your girlfriend out tonight\nYou better park the car well out of sight\nCos if they catch you in the backseat trying to pick her locks\nThey're gonna send you back to mother in a cardboard box\nYou better run.\n\n  Solo",
+    "key": "D",
+    "tempo": "Tempo"
   }
 }
