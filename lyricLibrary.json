@@ -1584,14 +1584,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Oh_Sherrie.Steve_Perry": {
-    "name": "Oh Sherrie",
-    "artist": "Steve Perry",
-    "id": "Oh_Sherrie.Steve_Perry",
-    "lyrics": "I: F C/F (xx3553) F (xx3565)\n : Bb9 (xx8768) Bb(xx8766) /A Gm F\n : F C/F F - Ab/F Eb/F Gm/F F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \nOh I must've been a dreamer \nAnd I must've been someone else \nAnd we should've been over \n\n  Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \nBut you know that there's a fever \nOh that you'll never find nowhere else \nCan't you feel it burnin' - on-and-on \n \n  Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "In_your_eyes.Peter_Gabriel": {
     "name": "In your eyes",
     "artist": "Peter Gabriel",
@@ -4052,7 +4044,7 @@
     "name": "Name",
     "artist": "",
     "id": "Name.",
-    "lyrics": "Lyrics",
+    "lyrics": "",
     "key": "",
     "tempo": "Tempo"
   },
@@ -4182,6 +4174,14 @@
     "id": "Run_Like_Hell.Pink_Floyd",
     "lyrics": "G|---------------------------------|\nD|--0-0-0-0-0--3-5-0-0-0-0-0-------|\n\nE|-10--9---7-5---5-3---5-2-|\nB|-10-10---8-7---5-3---5-3-|\nG|-11--9---7-7---6-4---6-2-|\nD|-------------------------|\n\nV: E F E C B E\n\"Run\" (F A D)\n \n  Run, Run..\n\nYou better make your face up in your favorite disguise\nWith your button down lips and your roller blind eyes\nWith your empty smile and your hungry heart\nFeel the bile rising from your guilty past\nWith your nerves in tatters as the cockleshell shatters\nAnd the hammers batter down the door.\nYou'd better run.\n\n  Riff\n\n  Run..\n\nYou better run all day and run all night\nAnd keep your dirty feelings deep inside\nAnd if you're taking your girlfriend out tonight\nYou better park the car well out of sight\nCos if they catch you in the backseat trying to pick her locks\nThey're gonna send you back to mother in a cardboard box\nYou better run.\n\n  Solo",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "Oh_Sherrie.Steve_Perry": {
+    "name": "Oh Sherrie",
+    "artist": "Steve Perry",
+    "id": "Oh_Sherrie.Steve_Perry",
+    "lyrics": "I: F C F  F Bb Bb/A Gm7 F C\n : F C F  Ab/F Eb/F Gm/F F\n\nG|-32202--5-\nD|-33333--5-\nA|-11111--3-\n\nV: - Dm Bbadd9 C/D Dm\nC: F C/F F   Fm7 Eb   Bb6 F\n\nYou should've been gone knowing how I made you feel\nAnd I should've been gone after all your words of steel \n  Oh I must've been a dreamer \n  And I must've been someone else \n  And we should've been over \n\n    Oh Sherrie, our love holds on, holds on\n\nBut I want to let go you'll go on hurtin' me \nYou'd be better off alone if I'm not who you thought I'd be \n  But you know that there's a fever \n  Oh that you'll never find nowhere else \n  Can't you feel it burnin' - on-and-on \n \n    Chorus\n  Solo\n\nBut I should've been gone long ago, far away \nAnd you should've been gone now I know just why you stay \n \n  Chorus\n  Solo",
+    "key": "F",
     "tempo": "Tempo"
   }
 }
