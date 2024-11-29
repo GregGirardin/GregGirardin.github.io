@@ -457,8 +457,7 @@ function saveSongEdits()
     key = "";
   
   var tempo = document.getElementById( "editSongTempo" ).value;
-  var lyrics = document.getElementById( "editSongLyrics" ).innerText;
-
+  var lyrics = document.getElementById( "editSongLyrics" ).innerHTML; // strips some formatting but allows some HTML edits, bold, italics
   editSong = new LibrarySong( name, artist, key, lyrics, tempo );
   if( editSong.id != "." ) // That's the default name when adding, don't add.
   {
