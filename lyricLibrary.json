@@ -4224,14 +4224,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Second_Chance.Shinedown": {
-    "name": "Second Chance",
-    "artist": "Shinedown",
-    "id": "Second_Chance.Shinedown",
-    "lyrics": "",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "More_Human_Than_Human.White_Zombie": {
     "name": "More Human Than Human",
     "artist": "White Zombie",
@@ -4312,14 +4304,6 @@
     "key": "C",
     "tempo": "Tempo"
   },
-  "I_Hate_Everything_About_You.Three_Days_Grace": {
-    "name": "I Hate Everything About You",
-    "artist": "Three Days Grace",
-    "id": "I_Hate_Everything_About_You.Three_Days_Grace",
-    "lyrics": "<div>V: (F#m D) E D</div><div>C: F#m D A E</div><div>B: D E F#m E F#m</div><div><br></div><div><div>G|---4-6-- ----4-6-&nbsp;&nbsp;</div><div>D|---4-6-- ----4-6-</div><div>A|-------- --0-----</div><div>E|-2------ 0-------</div></div><div><br></div><div><div>D|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div><div>A|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div><div>D|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div></div><div><br></div><div>Every time we lay awake after every hit we take.</div><div>Every feeling that I get, but I haven't missed you yet.</div><div>Every roomate kept awake, by every sigh and scream we make.</div><div>All the feelings that I get, but I still don't miss you yet.</div><div>Only when I start to think about it...</div><div>&nbsp;</div><div>&nbsp; I hate everything about you, why do I love you? x 2</div><div>&nbsp;</div><div>Every time we lay awake after every hit we take.</div><div>Every feeling that I get, but I haven't missed you yet.</div><div>Only when I start to think about it...</div><div>&nbsp;</div><div>&nbsp; &nbsp;Chorus</div><div>&nbsp;</div><div>Only when I start to think about you I know</div><div>Only when you start to think about me do you know...</div><div>&nbsp;</div><div>&nbsp; I hate everything about you, why do I love you?</div><div>&nbsp; You hate everything about me, why do you love me?</div><div>&nbsp; I hate you hate I hate you love me</div><div>&nbsp; I hate everything about you, why do I love you?</div>",
-    "key": "F#m",
-    "tempo": "Tempo"
-  },
   "Higher_.Creed": {
     "name": "Higher ",
     "artist": "Creed",
@@ -4374,6 +4358,22 @@
     "id": "My_Sacrifice.Creed",
     "lyrics": "<div>V: D Bm G</div><div>C: D A/C# Bm G</div><div><br></div><div>Hello my friend we meet again, it's been a while</div><div>where should we begin? Feels like forever</div><div>Within my heart are memories, a perfect love that you</div><div>gave to me! Oh I remember.</div><div><br></div><div>&nbsp; When you are with me I'm free, I'm careless, I believe</div><div>&nbsp; Above all the others we'll fly, this brings tears</div><div>&nbsp; to my eyes, my sacrifice.</div><div><br></div><div>We've seen our shares of ups and downs oh,</div><div>How quickly life can turn around, in an instant</div><div>It feels so good to reunite, within yourself and</div><div>within your mind, Let's find peace there.</div><div><br></div><div>&nbsp; Chorus</div><div>&nbsp; Bridge</div><div><br></div><div>I just want to say hello again x2</div><div><br></div><div>&nbsp; Chorus</div><div>&nbsp; Bridge</div><div><br></div><div>I just want to say hello again.</div><div>I just want to say hello again, my sacrifice.</div>",
     "key": "D",
+    "tempo": "Tempo"
+  },
+  "Second_Chance.Shinedown": {
+    "name": "Second Chance",
+    "artist": "Shinedown",
+    "id": "Second_Chance.Shinedown",
+    "lyrics": "<div>V: Cm&nbsp; Eb5 Ab</div><div>P: Bb Cm Ab Eb Eb/D - Bb Cm F</div><div>C: (Cm Eb F Ab)&nbsp;</div><div>B: (F Ab Eb5 Bb)</div><div><br></div><div>My eyes are open wide and by the way I made it through the day</div><div>I watched the world outside, by the way, I'm leaving out today</div><div>&nbsp;</div><div>&nbsp; Well, I just saw Hailye's Comet she waved said why you always running in place?</div><div>&nbsp; Even the man in the moon disappears somewhere in the Stratosphere</div><div>&nbsp;&nbsp;</div><div>&nbsp; &nbsp; Tell my mother, tell my father I've done the best I can</div><div>&nbsp; &nbsp; To make them realise this is my life I hope they understand</div><div>&nbsp; &nbsp; I'm not angry, I'm just saying... sometimes goodbye is a second chance</div><div>&nbsp;</div><div>Please don't cry One tear for me I'm not afraid of what I have to say</div><div>This is my one and only voice so listen close, it's only for today</div><div><br></div><div>&nbsp; PC + C</div><div>&nbsp;</div><div>&nbsp; &nbsp; Here's my chance</div><div>&nbsp; &nbsp; This is my chance</div><div><br></div><div>&nbsp; Chorus</div>",
+    "key": "Cm",
+    "tempo": "Tempo"
+  },
+  "I_Hate_Everything_About_You.Three_Days_Grace": {
+    "name": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "id": "I_Hate_Everything_About_You.Three_Days_Grace",
+    "lyrics": "<div>V: (F#m D) E D</div><div>C: F#m D A E</div><div>B: D E F#m E F#m</div><div><br></div><div>G|---4-6-- ----4-6-&nbsp;&nbsp;</div><div>D|---4-6-- ----4-6-</div><div>A|-------- --0-----</div><div>E|-2------ 0-------</div><div><br></div><div>D|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div><div>A|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div><div>D|--4-4--0-0--7-7-77--7-22222--4-4-44-4-0-0-00---2-2-22--7-6--</div><div><br></div><div>Every time we lay awake after every hit we take.</div><div>Every feeling that I get, but I haven't missed you yet.</div><div>Every roomate kept awake, by every sigh and scream we make.</div><div><br></div><div>All the feelings that I get, but I still don't miss you yet.</div><div>Only when I start to think about it...</div><div>&nbsp;</div><div>&nbsp;I hate everything about you, why do I love you? x 2</div><div><br></div><div>Every time we lay awake after every hit we take.</div><div><br></div><div>Every feeling that I get, but I haven't missed you yet.</div><div>Only when I start to think about it...</div><div>&nbsp;</div><div>&nbsp; &nbsp;Chorus</div><div>&nbsp;</div><div>Only when I start to think about you I know</div><div>Only when you start to think about me do you know...</div><div>&nbsp;</div><div>&nbsp; I hate everything about you, why do I love you?</div><div>&nbsp; You hate everything about me, why do you love me?</div><div>&nbsp; I hate you hate I hate you love me</div><div>&nbsp; I hate everything about you, why do I love you?</div>",
+    "key": "F#m",
     "tempo": "Tempo"
   }
 }
