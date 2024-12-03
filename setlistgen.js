@@ -1337,7 +1337,9 @@ function saveSetlist()
   setFile += "<title>" + curSetList.name + "</title>\n";
   setFile += htmlConstStrings( 0 );
 
-  var ffState = false; // Fixed Font state
+  var ffState = false; // Fixed Font state. Note that this doesn't work anymore since we don't strip out the HTML in the lyrics.
+                       // We can no longer parse lines (terminated by \n) and detect tablature based on a : or | in column 1.
+                       // leave it in for now in case I switch back to innerText
   // Songs
   for( var setIndex = 0;setIndex < curSetList.sets.length - 1;setIndex++ ) // Note that we don't render the clipboard set
   {

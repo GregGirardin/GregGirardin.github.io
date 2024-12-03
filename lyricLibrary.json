@@ -4336,14 +4336,6 @@
     "key": "Cm",
     "tempo": "Tempo"
   },
-  "Harder_To_Breathe.Maroon_5": {
-    "name": "Harder To Breathe",
-    "artist": "Maroon 5",
-    "id": "Harder_To_Breathe.Maroon_5",
-    "lyrics": "<div>D|-----------|-----------|-----------|------------2-4-|</div><div>A|-2-4-------|-2-4-------|-2-4-------|-2-4----2-4-----|</div><div>E|-----------|-------4---|-----------|------4---------|</div><div><br></div><div>Bsus2 C#sus2 - (C#m G# B F#) C#m G# C#m</div><div>&nbsp;</div><div>How dare you say that my behavior is unacceptable</div><div>So condescending unnecessarily critical</div><div>I have the tendency of getting very physical</div><div>So watch your step 'cause if I do you'll need a miracle</div><div>&nbsp;</div><div>You drain me dry and make me wonder why I'm even here</div><div>This Double Vision I was seeing is finally clear</div><div>You want to stay but you know very well I want you gone</div><div>Not fit to fuckin' tread the ground that I'm walking on</div><div><br></div><div>&nbsp; When it gets cold outside and you got nobody to love</div><div>&nbsp; You'll understand what I mean when I say there's no way we're gonna give up</div><div>&nbsp; Is there anyone out there 'cause it's getting harder and harder to breathe x 2</div><div>&nbsp;</div><div>What you are doing is screwing things up inside my head</div><div>You should know better you never listened to a word I said</div><div>Clutching your pillow and writhing in a naked sweat</div><div>Hoping somebody someday will do you like I did</div><div><br></div><div>&nbsp; Chorus</div><div>&nbsp;</div><div>&nbsp; &nbsp; Does it kill? Does it burn?</div><div>&nbsp; &nbsp; Is it painful to learn that it's me that has all the control?</div><div>&nbsp; &nbsp; Does it thrill? Does it sting?</div><div>&nbsp; &nbsp; When you feel what I bring</div><div>&nbsp; &nbsp; And you wish that you had me to hold</div><div><br></div><div>&nbsp; Chorus</div>",
-    "key": "C#m",
-    "tempo": "Tempo"
-  },
   "I_Hate_Everything_About_You.Three_Days_Grace": {
     "name": "I Hate Everything About You",
     "artist": "Three Days Grace",
@@ -4374,6 +4366,14 @@
     "id": "American_Idiot.Green_Day",
     "lyrics": "<div>I: A D G D A [G | Bb]</div><div>C: D A E A</div><div>&nbsp;</div><div>Don't wanna be an American idiot.</div><div>Don't want a nation under the new media.</div><div>And can you hear the sound of hysteria?</div><div>The subliminal mindfuck America.</div><div>&nbsp;</div><div>&nbsp; Welcome to a new kind of tension.</div><div>&nbsp; All across the alien nation.</div><div>&nbsp; Everything isn't meant to be okay.</div><div>&nbsp; Television dreams of tomorrow.</div><div>&nbsp; We're not the ones who're meant to follow.</div><div>&nbsp; For that's enough to argue.</div><div><br></div><div>Well maybe I'm the faggot America.</div><div>I'm not a part of a redneck agenda.</div><div>Now everybody do the propaganda.</div><div>And sing along in the age of paranoia.</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>[Instrumental]</div><div><br></div><div>[Bridge]</div><div>D&nbsp; &nbsp; &nbsp;A&nbsp; &nbsp; &nbsp;E&nbsp; &nbsp; &nbsp;A</div><div>D&nbsp; &nbsp; &nbsp;A&nbsp; &nbsp; &nbsp;E&nbsp; &nbsp; &nbsp;A</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A</div><div><br></div><div>Don't wanna be an American idiot.</div><div>One nation controlled by the media.</div><div>Information nation of hysteria.</div><div>It's calling out to idiot America.</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>[Outro]</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A G</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A Bb</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A G</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A N.C.</div>",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "Harder_To_Breathe.Maroon_5": {
+    "name": "Harder To Breathe",
+    "artist": "Maroon 5",
+    "id": "Harder_To_Breathe.Maroon_5",
+    "lyrics": "<div>D|--------|--------|--------|------------2-4-|</div><div>A|-2-4----|-2-4----|-2-4----|-2-4----2-4-----|</div><div>E|--------|------4-|--------|------4---------|</div><div><br></div><div>Bsus2 C#sus2 - (C#m G# B F#) C#m G# C#m</div><div>&nbsp;</div><div>How dare you say that my behavior is unacceptable</div><div>So condescending unnecessarily critical</div><div>I have the tendency of getting very physical</div><div>So watch your step 'cause if I do you'll need a miracle</div><div>&nbsp;</div><div>You drain me dry and make me wonder why I'm even here</div><div>This Double Vision I was seeing is finally clear</div><div>You want to stay but you know very well I want you gone</div><div>Not fit to fuckin' tread the ground that I'm walking on</div><div><br></div><div>&nbsp; When it gets cold outside and you got nobody to love</div><div>&nbsp; You'll understand what I mean when I say there's no way we're gonna give up</div><div>&nbsp; Is there anyone out there 'cause it's getting harder and harder to breathe x 2</div><div>&nbsp;</div><div>What you are doing is screwing things up inside my head</div><div>You should know better you never listened to a word I said</div><div>Clutching your pillow and writhing in a naked sweat</div><div>Hoping somebody someday will do you like I did</div><div><br></div><div>&nbsp; Chorus</div><div>&nbsp;</div><div>&nbsp; &nbsp; Does it kill? Does it burn?</div><div>&nbsp; &nbsp; Is it painful to learn that it's me that has all the control?</div><div>&nbsp; &nbsp; Does it thrill? Does it sting?</div><div>&nbsp; &nbsp; When you feel what I bring</div><div>&nbsp; &nbsp; And you wish that you had me to hold</div><div><br></div><div>&nbsp; Chorus</div>",
+    "key": "C#m",
     "tempo": "Tempo"
   }
 }
