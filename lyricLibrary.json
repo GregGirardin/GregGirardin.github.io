@@ -4168,14 +4168,6 @@
     "key": "Dm",
     "tempo": "Tempo"
   },
-  "If_You_Could_Only_See.Tonic": {
-    "name": "If You Could Only See",
-    "artist": "Tonic",
-    "id": "If_You_Could_Only_See.Tonic",
-    "lyrics": "<div>&nbsp; If you could only see the way she loves me</div><div>&nbsp; Then maybe you would understand</div><div>&nbsp; Why I feel this way about our love and what I must do</div><div>&nbsp; If you could only see how blue her eyes can be when she says</div><div>&nbsp; When she says she loves me</div><div><br></div><div>Well, you got your reasons and you've got your lies</div><div>And you got your manipulations they cut me down to size</div><div>Sayin' you know, but you don't You give your love, but you won't</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>Seems the road less traveled shows happiness unraveled</div><div>And you gotta take a little dirt to keep what you love</div><div>That's what you gotta do</div><div><br></div><div>Sayin' you know, but you don't you give your love, but you won't</div><div>You're stretchin' out your arms to somethin' that's just not there</div><div>Sayin' you love where you stand give your heart when you can</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>&nbsp; Solo</div><div><br></div><div>You're sayin' you know, but you don't you give your love, but you won't</div><div>(But you won't)</div><div>Sayin' you love where you stand give your heart when you can</div><div><br></div><div>&nbsp; Chorus</div>",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Down_With_The_Sickness.Disturbed": {
     "name": "Down With The Sickness",
     "artist": "Disturbed",
@@ -4374,6 +4366,14 @@
     "id": "Harder_To_Breathe.Maroon_5",
     "lyrics": "<div>D|--------|--------|--------|------------2-4-|</div><div>A|-2-4----|-2-4----|-2-4----|-2-4----2-4-----|</div><div>E|--------|------4-|--------|------4---------|</div><div><br></div><div>Bsus2 C#sus2 - (C#m G# B F#) C#m G# C#m</div><div>&nbsp;</div><div>How dare you say that my behavior is unacceptable</div><div>So condescending unnecessarily critical</div><div>I have the tendency of getting very physical</div><div>So watch your step 'cause if I do you'll need a miracle</div><div>&nbsp;</div><div>You drain me dry and make me wonder why I'm even here</div><div>This Double Vision I was seeing is finally clear</div><div>You want to stay but you know very well I want you gone</div><div>Not fit to fuckin' tread the ground that I'm walking on</div><div><br></div><div>&nbsp; When it gets cold outside and you got nobody to love</div><div>&nbsp; You'll understand what I mean when I say there's no way we're gonna give up</div><div>&nbsp; Is there anyone out there 'cause it's getting harder and harder to breathe x 2</div><div>&nbsp;</div><div>What you are doing is screwing things up inside my head</div><div>You should know better you never listened to a word I said</div><div>Clutching your pillow and writhing in a naked sweat</div><div>Hoping somebody someday will do you like I did</div><div><br></div><div>&nbsp; Chorus</div><div>&nbsp;</div><div>&nbsp; &nbsp; Does it kill? Does it burn?</div><div>&nbsp; &nbsp; Is it painful to learn that it's me that has all the control?</div><div>&nbsp; &nbsp; Does it thrill? Does it sting?</div><div>&nbsp; &nbsp; When you feel what I bring</div><div>&nbsp; &nbsp; And you wish that you had me to hold</div><div><br></div><div>&nbsp; Chorus</div>",
     "key": "C#m",
+    "tempo": "Tempo"
+  },
+  "If_You_Could_Only_See.Tonic": {
+    "name": "If You Could Only See",
+    "artist": "Tonic",
+    "id": "If_You_Could_Only_See.Tonic",
+    "lyrics": "<div>C: Am C G /F</div><div>Am Em G F</div><div>V: (Am F D) Am C G</div><div><br></div><div>&nbsp; If you could only see the way she loves me</div><div>&nbsp; Then maybe you would understand</div><div>&nbsp; Why I feel this way about our love and what I must do</div><div>&nbsp; If you could only see how blue her eyes can be when she says</div><div>&nbsp; When she says she loves me</div><div><br></div><div>Well you got your reasons and you've got your lies</div><div>And you got your manipulations they cut me down to size</div><div>Sayin' you know, but you don't You give your love, but you won't</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>Seems the road less traveled shows happiness unraveled</div><div>And you gotta take a little dirt to keep what you love</div><div>That's what you gotta do</div><div><br></div><div>Sayin' you know, but you don't you give your love, but you won't</div><div>You're stretchin' out your arms to somethin' that's just not there</div><div>Sayin' you love where you stand give your heart when you can</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>&nbsp; Solo</div><div><br></div><div>You're sayin' you know, but you don't you give your love, but you won't</div><div>Sayin' you love where you stand give your heart when you can</div><div><br></div><div>&nbsp; Chorus</div>",
+    "key": "D",
     "tempo": "Tempo"
   }
 }
