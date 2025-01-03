@@ -3776,14 +3776,6 @@
     "key": "F#",
     "tempo": "Tempo"
   },
-  "Dreams.Fleetwood_Mac": {
-    "name": "Dreams",
-    "artist": "Fleetwood Mac",
-    "id": "Dreams.Fleetwood_Mac",
-    "lyrics": "V: (F G)    or (C D)      120bpm\nB: (Am G F)    (Em D C) \n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
-    "key": "F",
-    "tempo": "120"
-  },
   "What_s_up.4_Non_Blondes": {
     "name": "What's up",
     "artist": "4 Non Blondes",
@@ -4382,6 +4374,30 @@
     "id": "All_This_Time.Sting",
     "lyrics": "<div>V: (G Em9 D4 C) D4 G/B Dsus4</div><div>C: Em&nbsp; A7 C9 D4 G Em9 G C</div><div><br></div><div>I looked out across the river today,</div><div>I saw a city in the fog and an old church tower where the seagulls play,</div><div>I saw the sad shire horses walking home in the sodium light</div><div>I saw two priests on the ferry October geese on a cold winter's night</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly, to the sea.</div><div><br></div><div>Two priests came round our house tonight</div><div>One young, one old, to offer prayers for the dying to serve the final rites,</div><div>One to learn, one to teach, which way the cold wind blows</div><div>Fussing and flapping in priestly black like a murder of crows</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly to the sea.</div><div>&nbsp; If i had my way, take a boat from the river</div><div>&nbsp; And i'd bury the old man, I'd bury him at sea</div><div><br></div><div>Blessed are the poor, for they shall inherit the earth</div><div>Better to be poor than a fat man in the eye of the needle</div><div>And as these words were spoken I swear I hear he old man laughing,</div><div>\"What good is a used up world, and how could it be worth having\"</div><div><br></div><div>&nbsp; And all this time the river flowed endlessly like a silent tear</div><div>&nbsp; And all this time the river flowed Father, if Jesus exists,</div><div>&nbsp; Then how come he never lived here.</div><div><br></div><div>&nbsp; &nbsp;(Modulate up a step)</div><div><br></div><div>The teachers told us, the Romans built this place</div><div>They built a wall and a temple, and an edge of the empire garrison town,</div><div>They lived and they died, they prayed to their gods</div><div>But the stone gods did not make a sound</div><div>And their empire crumbled, 'til all that was left were the stones the workmen found</div><div><br></div><div>&nbsp; And all this time the river flowed in the falling light of northern sun</div><div>&nbsp; If I had my way I'd take a boat from the river</div><div>&nbsp; Men go crazy in congregations but they only get better one by one</div><div><br></div><div>One by one.</div><div>I looked out across</div>",
     "key": "G",
+    "tempo": "Tempo"
+  },
+  "Torn.Natalie_Imbruglia": {
+    "name": "Torn",
+    "artist": "Natalie Imbruglia",
+    "id": "Torn.Natalie_Imbruglia",
+    "lyrics": "<div>F F4 F F2</div><div><br></div><div>V: (F Am Bb)</div><div>P: Dm C Am C</div><div>C: (F C Dm Bb)</div><div>B: Dm Bb - Dm F C</div><div>&nbsp;</div><div>I thought I saw a man brought to life</div><div>He was warm, he came around like he was dignified</div><div>He showed me what it was to cry</div><div>Well you couldn't be that man I adored</div><div>You don't seem to know seem to care what your heart is for</div><div>But I don't know him anymore</div><div>&nbsp;&nbsp;</div><div>&nbsp; There's nothing where he used to lie</div><div>&nbsp; My conversation has run dry</div><div>&nbsp; That's what's going on</div><div>&nbsp; Nothing's fine I'm torn</div><div><br></div><div>&nbsp; &nbsp; I'm all out of faith, this is how I feel</div><div>&nbsp; &nbsp; I'm cold and I am shamed, lying naked on the floor</div><div>&nbsp; &nbsp; Illusion never changed, into something real</div><div>&nbsp; &nbsp; I'm wide awake and I can see, the perfect sky is torn</div><div>&nbsp; &nbsp; You're a little late, I'm already torn</div><div>&nbsp;</div><div>So I guess the fortune teller's right</div><div>I should have seen just what was there and not some holy light</div><div>But you crawl beneath my veins and now</div><div>&nbsp;</div><div>&nbsp; I don't care, I have no luck</div><div>&nbsp; I don't miss it all that much</div><div>&nbsp; There's just so many things</div><div>&nbsp; That I can't touch I'm torn</div><div>&nbsp;</div><div>&nbsp; &nbsp; Chorus</div><div>&nbsp;</div><div>&nbsp; &nbsp; &nbsp; Torn... Oooh</div><div>&nbsp;</div><div>&nbsp; &nbsp; There's nothing where he used to lie</div><div>&nbsp; &nbsp; My inspiration has run dry</div><div>&nbsp; &nbsp; That's what's going on</div><div>&nbsp; &nbsp; Nothing's right I'm torn</div><div>&nbsp;</div><div>&nbsp; &nbsp; &nbsp; Chorus 3</div><div>&nbsp;</div><div>Dm&nbsp; &nbsp;C</div><div>Torn...&nbsp; (much wailing)</div><div>&nbsp;</div><div>Ooh...</div>",
+    "key": "F",
+    "tempo": "Tempo"
+  },
+  "Dreams.Fleetwood_Mac": {
+    "name": "Dreams",
+    "artist": "Fleetwood Mac",
+    "id": "Dreams.Fleetwood_Mac",
+    "lyrics": "V: (F G)&nbsp; &nbsp; or (C D)&nbsp; &nbsp; &nbsp; 120bpm<br>B: (Am G F)&nbsp; &nbsp; (Em D C)&nbsp;<br><br>Now here you go again you say you want your freedom well who am I to keep you down?<br>It's only right that you should play the way you feel it<br>But listen carefully to the sound<br>Of your loneliness, like a heartbeat drives you mad<br>In the stillness of remembering what you had<br>And what you lost, and what you had, and what you lost<br><br>&nbsp; Oh thunder only happens when it's raining<br>&nbsp; Players only love you when they're playing<br>&nbsp; Women they will come and they will go<br>&nbsp; When the rain washes you clean you'll know, you'll know<br><br>&nbsp; &nbsp; Break<br><br>Now here I go again I see your crystal visions, I keep my visions to myself<br>It's only me who wants to wrap around you dreams and<br>Have you any dreams you'd like to sell<br>Dreams of loneliness like a heartbeat drives you mad<br>In the stillness of remembering what you had<br>And what you lost, and what you had, ooh what you lost<br><br>&nbsp; Chorus x 2",
+    "key": "F",
+    "tempo": "120"
+  },
+  "DreamsCB.Cranberries": {
+    "name": "DreamsCB",
+    "artist": "Cranberries",
+    "id": "DreamsCB.Cranberries",
+    "lyrics": "<div>V: E A B</div><div>B: G C</div><div>&nbsp;</div><div>Oh my life is changing every day, every possible way</div><div>oh my dreams it's never quite as it seems, never quite as it seems</div><div>I know I felt like this before but now I'm feeling it even more because it came from you</div><div>Then I open up and see the person falling here is me, a different way to be</div><div>&nbsp;</div><div>&nbsp; Ah la ya</div><div>&nbsp;</div><div>I want more, impossible to ignore, impossible to ignore</div><div>They'll come true, impossible not to do, impossible not to do</div><div>And now I tell you openly you have my heart so don't hurt me, you're what I couldn't find</div><div>A totally amazing mind so understanding and so kind you're everything to me</div><div>&nbsp;</div><div>Oh, my life is changing every day, in every possible way</div><div>And oh my dreams it's never quite as it seems cause you're a dream to me, dream to me</div><div><br></div><div>&nbsp; Ah, la-a-la-ah, la la la</div>",
+    "key": "E",
     "tempo": "Tempo"
   }
 }
