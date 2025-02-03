@@ -3296,14 +3296,6 @@
     "key": "Am",
     "tempo": "undefined"
   },
-  "Tea_In_The_Sahara.The_Police": {
-    "name": "Tea In The Sahara",
-    "artist": "The Police",
-    "id": "Tea_In_The_Sahara.The_Police",
-    "lyrics": "I: C#m  V: F#m A   C: E A\n\nMy sisters and I have one wish before we die\nAnd it may sound strange as if our minds are deranged\nPlease don't ask us why beneath the sheltering sky\nWe have this strange obsession, you have the means in your possession\n\n  Tea in the Sahara with you\n\nThe young man agreed he would satisfy their need\nSo they danced for his pleasure with a joy you could not measure\nThey wait for him here the same place every year\nBeneath the sheltering sky across the desert he would fly\n\n  Tea in the Sahara with you\n\nThey would climb a high dune they would pray to the moon\nBut he'd never return so the sisters would burn\nAs their eyes searched the land with their cups still full of sand\n\n  Tea in the Sahara with you\n",
-    "key": "F#m",
-    "tempo": "Tempo"
-  },
   "Feelin_Alright.Joe_Cocker": {
     "name": "Feelin Alright",
     "artist": "Joe Cocker",
@@ -4438,6 +4430,14 @@
     "id": "How_much_I_feel.Ambrosia",
     "lyrics": "<div>I: Amaj7&nbsp; Emaj7 E - Amaj7&nbsp; B11&nbsp; &nbsp;E</div><div>V: (Amaj7 F#m7 B11 Emaj7 E)</div><div>P: C#m7 F#7&nbsp; B B/A B/G# B/F#&nbsp; Amaj7/E&nbsp; E</div><div>C: (Amaj7 B11 Emaj7) AM7 G#7 C#m7 (B F#m7 G#7 C#m7)</div><div>B: (C#m7 G#m7 F#m7 G#m7 G#/C)</div><div>&nbsp; &nbsp; Amaj7 G#7sus4 G#7</div><div>&nbsp; &nbsp; C#m G#/C B</div><div>&nbsp; &nbsp; F#/A# F#m7 G#7 C#m7</div><div>&nbsp; &nbsp; B F#m7 G#7 Amaj7 Emaj7 E</div><div><br></div><div>I don't know how this whole business started</div><div>Of you thinkin' that I had been untrue</div><div>But if you think that we'd be better parted</div><div>It's gonna hurt me but I'll break away from you</div><div><br></div><div>&nbsp; Well just give me the sign and I will be gone</div><div>&nbsp;</div><div>&nbsp; &nbsp; That's how much I feel, feel for you baby</div><div>&nbsp; &nbsp; How much I need, I need your touch</div><div>&nbsp; &nbsp; How much I live, I live for your lovin'</div><div>&nbsp; &nbsp; That's how much, that's how much</div><div>&nbsp; &nbsp; That's how much, that's how much</div><div>&nbsp;</div><div>I sleep alone and late at night I'm dreamin'</div><div>Of the togetherness that seems to be leavin' me, oh no</div><div>I'd give it all and then I'd give some more</div><div>If you would only love me like you had before</div><div><br></div><div>&nbsp; Take hold of my hand, all will be forgiven</div><div>&nbsp;</div><div>&nbsp; &nbsp; Chorus</div><div>&nbsp;</div><div>&nbsp; &nbsp; So you try, try to stay in the middle,</div><div>&nbsp; &nbsp; and then you cry, well you cry just a little</div><div>&nbsp; &nbsp; Then you both realize, just how foolish you've been</div><div>&nbsp; &nbsp; And you try to make amends but you're better off as friends</div><div>&nbsp; &nbsp; Cause that's how much, that's how much</div><div>&nbsp; &nbsp; That's how much, that's how much</div><div>&nbsp;</div><div>How's your life been goin' on?</div><div>I've got a wife now years we've been goin' strong, oh no</div><div>There's just something that I've got to say</div><div>Sometimes when we make love I still can see your face</div><div>&nbsp;</div><div>&nbsp; Just try to recall when we were as one</div><div>&nbsp;&nbsp;</div><div>&nbsp; &nbsp; Chorus</div>",
     "key": "A",
+    "tempo": "Tempo"
+  },
+  "Tea_In_The_Sahara.The_Police": {
+    "name": "Tea In The Sahara",
+    "artist": "The Police",
+    "id": "Tea_In_The_Sahara.The_Police",
+    "lyrics": "I: C#m&nbsp; V: F#m A&nbsp; &nbsp;C: E A B<br><br>My sisters and I have one wish before we die<br>And it may sound strange as if our minds are deranged<br>Please don't ask us why beneath the sheltering sky<br>We have this strange obsession, you have the means in your possession<br><br>&nbsp; Tea in the Sahara with you<br><br>The young man agreed he would satisfy their need<br>So they danced for his pleasure with a joy you could not measure<br>They wait for him here the same place every year<br>Beneath the sheltering sky across the desert he would fly<br><br>&nbsp; Tea in the Sahara with you<div><br></div><div>&nbsp; &nbsp; Intro<br><br><div>The sky turned to black, would he ever come back?</div>They would climb a high dune they would pray to the moon<br>But he'd never return so the sisters would burn<br>As their eyes searched the land with their cups still full of sand<br><br>&nbsp; Tea in the Sahara with you<br></div>",
+    "key": "F#m",
     "tempo": "Tempo"
   }
 }
