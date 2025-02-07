@@ -457,7 +457,8 @@ function saveSongEdits()
     key = "";
   
   var tempo = document.getElementById( "editSongTempo" ).value;
-  var lyrics = document.getElementById( "editSongLyrics" ).innerHTML; // strips some formatting but allows some HTML edits, bold, italics
+  //var lyrics = document.getElementById( "editSongLyrics" ).innerHTML; // strips some formatting but allows some HTML edits, bold, italics
+  var lyrics = document.getElementById( "editSongLyrics" ).innerText;
   editSong = new LibrarySong( name, artist, key, lyrics, tempo );
   if( editSong.id != "." ) // That's the default name when adding, don't add.
   {
@@ -1337,9 +1338,9 @@ function saveSetlist()
   setFile += "<title>" + curSetList.name + "</title>\n";
   setFile += htmlConstStrings( 0 );
 
-  var ffState = false; // Fixed Font state. Note that this doesn't work anymore since we don't strip out the HTML in the lyrics.
-                       // We can no longer parse lines (terminated by \n) and detect tablature based on a : or | in column 1.
-                       // leave it in for now in case I switch back to innerText
+  var ffState = false; // Fixed Font state. Note that this only works if I grab 'innerText' from the lyric pane
+                       // but that causes some annyonying editing issues with extra lines.
+                       // If I grab 'innerHTML' it fixes the editing problems but can't detect tablature based on a : or | in column 1.
   // Songs
   for( var setIndex = 0;setIndex < curSetList.sets.length - 1;setIndex++ ) // Note that we don't render the clipboard set
   {

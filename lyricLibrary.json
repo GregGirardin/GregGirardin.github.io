@@ -760,14 +760,6 @@
     "key": "Am",
     "tempo": "137"
   },
-  "Stuck_in_the_middle_with_you.Steelers_Wheel": {
-    "name": "Stuck in the middle with you",
-    "artist": "Steelers Wheel",
-    "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
-    "lyrics": "V:D G D - A C G - D    B:(G7 D) A7\n\nWell I don't know why I came here tonight I got the feeling that something ain't right\nI'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs\n  Clowns to the left of me, jokers to the right, here I am stuck in the middle with you.\n\nYes I'm stuck in the middle with you and I'm wondering what it is I should do\nIt's so hard to keep this smile from my face losing control, yeah, I'm all over the place..\n  Clowns to the left..\n\n    Well you started out with nothing and you're proud that you're a self made man\n    And your friends they all come crawlin slap you on the back and say please, please\n\nTrying to make some sense of it all but I can see that it makes no sense at all\nIs it cool to go to sleep on the floor cause I don't think that I can take anymore.\nClowns to the left..\n\n  Solo\n\n    Well you started out with nothing..\n\nV1",
-    "key": "D",
-    "tempo": "undefined"
-  },
   "Under_the_Milky_Way.The_Church": {
     "name": "Under the Milky Way",
     "artist": "The Church",
@@ -4376,14 +4368,6 @@
     "key": "F",
     "tempo": "Tempo"
   },
-  "Dreams.Fleetwood_Mac": {
-    "name": "Dreams",
-    "artist": "Fleetwood Mac",
-    "id": "Dreams.Fleetwood_Mac",
-    "lyrics": "V: (F G)&nbsp; &nbsp; or (C D)&nbsp; &nbsp; &nbsp; 120bpm<br>B: (Am G F)&nbsp; &nbsp; (Em D C)&nbsp;<br><br>Now here you go again you say you want your freedom well who am I to keep you down?<br>It's only right that you should play the way you feel it<br>But listen carefully to the sound<br>Of your loneliness, like a heartbeat drives you mad<br>In the stillness of remembering what you had<br>And what you lost, and what you had, and what you lost<br><br>&nbsp; Oh thunder only happens when it's raining<br>&nbsp; Players only love you when they're playing<br>&nbsp; Women they will come and they will go<br>&nbsp; When the rain washes you clean you'll know, you'll know<br><br>&nbsp; &nbsp; Break<br><br>Now here I go again I see your crystal visions, I keep my visions to myself<br>It's only me who wants to wrap around you dreams and<br>Have you any dreams you'd like to sell<br>Dreams of loneliness like a heartbeat drives you mad<br>In the stillness of remembering what you had<br>And what you lost, and what you had, ooh what you lost<br><br>&nbsp; Chorus x 2",
-    "key": "F",
-    "tempo": "120"
-  },
   "DreamsCB.Cranberries": {
     "name": "DreamsCB",
     "artist": "Cranberries",
@@ -4439,5 +4423,21 @@
     "lyrics": "I: C#m&nbsp; V: F#m A&nbsp; &nbsp;C: E A B<br><br>My sisters and I have one wish before we die<br>And it may sound strange as if our minds are deranged<br>Please don't ask us why beneath the sheltering sky<br>We have this strange obsession, you have the means in your possession<br><br>&nbsp; Tea in the Sahara with you<br><br>The young man agreed he would satisfy their need<br>So they danced for his pleasure with a joy you could not measure<br>They wait for him here the same place every year<br>Beneath the sheltering sky across the desert he would fly<br><br>&nbsp; Tea in the Sahara with you<div><br></div><div>&nbsp; &nbsp; Intro<br><br><div>The sky turned to black, would he ever come back?</div>They would climb a high dune they would pray to the moon<br>But he'd never return so the sisters would burn<br>As their eyes searched the land with their cups still full of sand<br><br>&nbsp; Tea in the Sahara with you<br></div>",
     "key": "F#m",
     "tempo": "Tempo"
+  },
+  "Dreams.Fleetwood_Mac": {
+    "name": "Dreams",
+    "artist": "Fleetwood Mac",
+    "id": "Dreams.Fleetwood_Mac",
+    "lyrics": "V: (F G)    or (C D)      120bpm\nB: (Am G F)    (Em D C) \n\nNow here you go again you say you want your freedom well who am I to keep you down?\nIt's only right that you should play the way you feel it\nBut listen carefully to the sound\nOf your loneliness, like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, and what you lost\n\n  Oh thunder only happens when it's raining\n  Players only love you when they're playing\n  Women they will come and they will go\n  When the rain washes you clean you'll know, you'll know\n\n    Break\n\nNow here I go again I see your crystal visions, I keep my visions to myself\nIt's only me who wants to wrap around you dreams and\nHave you any dreams you'd like to sell\nDreams of loneliness like a heartbeat drives you mad\nIn the stillness of remembering what you had\nAnd what you lost, and what you had, ooh what you lost\n\n  Chorus x 2",
+    "key": "F",
+    "tempo": "120"
+  },
+  "Stuck_in_the_middle_with_you.Steelers_Wheel": {
+    "name": "Stuck in the middle with you",
+    "artist": "Steelers Wheel",
+    "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
+    "lyrics": "V: D G D - A C G - D   B:(G7 D) A7\n\nWell I don't know why I came here tonight I got the feeling that something ain't right\nI'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs\n  Clowns to the left of me, jokers to the right, here I am stuck in the middle with you.\n\nYes I'm stuck in the middle with you and I'm wondering what it is I should do\nIt's so hard to keep this smile from my face losing control, yeah, I'm all over the place..\n  Clowns to the left..\n\n    Well you started out with nothing and you're proud that you're a self made man\n    And your friends they all come crawlin slap you on the back and say please, please\n\nTrying to make some sense of it all but I can see that it makes no sense at all\nIs it cool to go to sleep on the floor cause I don't think that I can take anymore.\nClowns to the left..\n\n  Solo\n\n    Well you started out with nothing..\n\nV1",
+    "key": "D",
+    "tempo": "124"
   }
 }
