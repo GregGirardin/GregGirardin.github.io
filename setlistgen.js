@@ -28,11 +28,10 @@ const defaultName = "Name";
 const defaultArtist = "Artist";
 const defaultKey = "Key";
 const defaultLyrics = "Lyrics";
-const defaultTempo = "Tempo";
 
 class LibrarySong
 {
-  constructor( name = defaultName, artist = defaultArtist, key = defaultKey, lyrics = defaultLyrics, tempo = defaultTempo )
+  constructor( name = defaultName, artist = defaultArtist, key = defaultKey, lyrics = defaultLyrics )
   {
     this.name = name;
     this.artist = artist;
@@ -41,7 +40,6 @@ class LibrarySong
     this.id = this.id.replace( /'/g, "_" ); 
     this.lyrics = lyrics;
     this.key = key;
-    this.tempo = tempo;
   }
 }
 
@@ -372,7 +370,7 @@ function generateSetlistHTML()
          break;
 
         case VIEW_MODE_KEY:
-          displayName = songLibrary[ s.songs[ j ].id ].key + " / " + songLibrary[ s.songs[ j ].id ].tempo;
+          displayName = songLibrary[ s.songs[ j ].id ].key;
           break;
       }
 
@@ -456,10 +454,9 @@ function saveSongEdits()
   if( key == "Key" )
     key = "";
   
-  var tempo = document.getElementById( "editSongTempo" ).value;
   //var lyrics = document.getElementById( "editSongLyrics" ).innerHTML; // strips some formatting but allows some HTML edits, bold, italics
   var lyrics = document.getElementById( "editSongLyrics" ).innerText;
-  editSong = new LibrarySong( name, artist, key, lyrics, tempo );
+  editSong = new LibrarySong( name, artist, key, lyrics );
   if( editSong.id != "." ) // That's the default name when adding, don't add.
   {
     // Check for a change before setting libEditedFlag.
@@ -659,7 +656,6 @@ function generateLibraryHTML()
     var songName = pruneQuote( editSong.name );
     var artist = pruneQuote( editSong.artist );
     var key = pruneQuote( editSong.key );
-    var tempo = editSong.tempo;
 
     tmpHtml += `<input contenteditable='true' id='editSongName'   value='${songName}'\
                  onfocus="if(this.value=='${defaultName}'){this.value='';}"\
@@ -669,10 +665,7 @@ function generateLibraryHTML()
                  onblur="if(this.value==''){this.value='${defaultArtist}';}">\
                 <input contenteditable='true' id='editSongKey'    value='${key}'\
                  onfocus="if(this.value=='${defaultKey}'){this.value='';}"\
-                 onblur="if(this.value==''){this.value='${defaultKey}';}">\
-                <input contenteditable='true' id='editSongTempo'  value='${tempo}'\
-                 onfocus="if(this.value=='${defaultTempo}'){this.value='';}"\
-                 onblur="if(this.value==''){this.value='${defaultTempo}';}">`;
+                 onblur="if(this.value==''){this.value='${defaultKey}';}">`;
 
     var lyrics = editSong.lyrics;
     lyrics = lyrics != defaultLyrics ? lyrics.replace( /\n/g, "<br>" ) : "";
@@ -1384,7 +1377,7 @@ function saveSetlist()
         if( curFixedFontState != ffState )
         {
           if( curFixedFontState == true )
-            setFile += "<font style='font-family:courier;'>\n";
+            setFile += "<font style='font-family:monospace;'>\n"; // make chords/tabs bigger? font-family: courier?
           else
             setFile += "</font>\n";
           ffState = curFixedFontState;
