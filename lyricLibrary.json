@@ -2768,14 +2768,6 @@
     "key": "G",
     "tempo": "undefined"
   },
-  "Eye_in_the_Sky.Alan_Parsons": {
-    "name": "Eye in the Sky",
-    "artist": "Alan Parsons",
-    "id": "Eye_in_the_Sky.Alan_Parsons",
-    "lyrics": "V: (Bm G) G Gm Bm E - D G D C: (D F#m) G Gm (Bm G)\n\nDon't think sorry's easily said\nDon't try turning tables instead\nYou've taken lots of chances before\nBut I ain't gonna give any more don't ask me\nThat's how it goes cause part of me knows what you're thinking...\n\nDon't say words you're gonna regret\nDon't let the fire rush to your head\nI've heard the accusation before\nAnd I ain't gonna take any more believe me\nThe sun in your eyes made some of the lies worth believing\n\n  I am the eye in the sky looking at you I can read your mind\n  I am the maker of rules dealing with fools I can cheat you blind\n  And I don't need to see any more to know that\n  I can read your mind...\n\nDon't leave false illusions behind\nDon't cry 'cause I ain't changing my mind\nSo find another fool like before\nCause I ain't gonna live anymore believing\nSome of the lies while all of the signs are deceiving\n\n  Chorus",
-    "key": "Bm",
-    "tempo": "undefined"
-  },
   "Eyes_Without_A_Face.Billy_Idol": {
     "name": "Eyes Without A Face",
     "artist": "Billy Idol",
@@ -3580,9 +3572,8 @@
     "name": "99 Red Balloons",
     "artist": "Nena",
     "id": "99_Red_Balloons.Nena",
-    "lyrics": "V: E F#m A B\n\nYou and I in a little toy shop\nBuy a bag of balloons with the money we've got\nSet them free at the break of dawn\n'Til one by one, they were gone\nBack at base, bugs in the software\nFlash the message \"Something's out there\"\nFloating in the summer sky, 99 red balloons go by\n\n99 red balloons floating in the summer sky\nPanic bells, it's red alert\nThere's something here from somewhere else\nThe war machine springs to life; opens up one eager eye\nFocusing it on the sky where 99 red balloons go by\n\n99 Decision Street, 99 ministers meet\nTo worry, worry, super-scurry; call the troops out in a hurry\n\"This is what we've waited for, this is it boys, this is war\"\nThe president is on the line as 99 red balloons go by\n\n  Riff\n\n99 Knights of the air ride super-high-tech jet fighters\nEveryone's a Silverhero, everyone's a Captain Kirk\nWith orders to identify, to clarify and classify\nScramble in the summer sky as 99 red balloons go by\nAs 99 red balloons go by\n\n99 dreams I have had, in every one a red balloon\nIt's all over and I'm standin' pretty, in this dust that was a city\nIf I could find a souvenier just to prove the world was here\nAnd here is a red balloon I think of you and let it go",
-    "key": "E",
-    "tempo": "Tempo"
+    "lyrics": "V: E F#m A B\n\nYou and I in a little toy shop, buy a bag of balloons with the money we've got\nSet them free at the break of dawn til one by one, they were gone\nBack at base bugs in the software flash the message \"Something's out there\"\nFloating in the summer sky, 99 red balloons go by\n\n  Riff\n\n99 red balloons floating in the summer sky\nPanic bells, it's red alert there's something here from somewhere else\nThe war machine springs to life, opens up one eager eye\nFocusing it on the sky where 99 red balloons go by\n\n  Solo\n\n99 Decision Street, 99 ministers meet\nTo worry, worry, super-scurry; call the troops out in a hurry\n\"This is what we've waited for, this is it boys this is war\"\nThe president is on the line as 99 red balloons go by\n\n  Riff\n\n99 Knights of the air ride super-high-tech jet fighters\nEveryone's a Silverhero, everyone's a Captain Kirk\nWith orders to identify, to clarify and classify\nScramble in the summer sky as 99 red balloons go by\n\n  Solo\n\n99 dreams I have had, in every one a red balloon\nIt's all over and I'm standin pretty in this dust that was a city\nIf I could find a souvenir just to prove the world was here\nAnd here is a red balloon I think of you and let it go",
+    "key": "E"
   },
   "What_s_up.4_Non_Blondes": {
     "name": "What's up",
@@ -4431,5 +4422,12 @@
     "id": "Here_s_Where.The_Sundays",
     "lyrics": "People I know, places I go make me feel tongue-tied\nI can see how people look down they're on the inside\nHere's where the story ends\n\nPeople I see, weary of me showing my good side\nI can see how people look down I'm on the outside\nHere's where the story ends\nOoh, here's where the story ends\n\n  It's that little souvenir of a terrible year\n  Which makes my eyes feel sore\n  Oh, I never should have said the books that you read\n  Were all I loved you for\n  It's that little souvenir of a terrible year\n  Which makes me wonder why\n  And it's the memories of the shed that make me turn red\n  Surprise, surprise, surprise\n\nCrazy, I know, places I go make me feel so tired\nI can see how people look down I'm on the outside\nHere's where the story ends\nOoh, here's where the story ends\n\n  It's that little souvenir of a terrible year\n  Which makes my eyes feel sore\n  And who ever would have thought the books that you brought\n  Were all I loved you for?\n  Oh, the devil in me said, \"Go down to the shed\"\n  I know where I belong\n  But the only thing I ever really wanted to say\n  Was wrong, was wrong, was wrong\n\n  It's that little souvenir of a colorful year\n  Which makes me smile inside\n  So I cynically, cynically say the world is that way\n  Surprise, surprise, surprise, surprise\n\nHere's where the story ends\nOoh, here's where the story ends",
     "key": "G"
+  },
+  "Eye_in_the_Sky.Alan_Parsons": {
+    "name": "Eye in the Sky",
+    "artist": "Alan Parsons",
+    "id": "Eye_in_the_Sky.Alan_Parsons",
+    "lyrics": "I: (Bm G)\nV: (D Bm) G Gm Bm E7 - D G D\nC: (D F#m) G Gm (Bm G)\n\nDon't think sorry's easily said\nDon't try turning tables instead\nYou've taken lots of chances before\nBut I ain't gonna give any more don't ask me\nThat's how it goes cause part of me knows what you're thinking...\n\nDon't say words you're gonna regret\nDon't let the fire rush to your head\nI've heard the accusation before\nAnd I ain't gonna take any more believe me\nThe sun in your eyes made some of the lies worth believing\n\n  I am the eye in the sky looking at you I can read your mind\n  I am the maker of rules dealing with fools I can cheat you blind\n  And I don't need to see any more to know that\n  I can read your mind...\n\nDon't leave false illusions behind\nDon't cry 'cause I ain't changing my mind\nSo find another fool like before\nCause I ain't gonna live anymore believing\nSome of the lies while all of the signs are deceiving\n\n  Chorus",
+    "key": "Bm"
   }
 }

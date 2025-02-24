@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rent calculator.</title>
+
+<style>
+.hyperlink
+{
+  border: 5px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 2px;
+  text-align: left;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+
+</head>
+<body>
+<h3>Rent Calculator</h3>
+
+Price in thousands (50-500):<input type="number" id="homePrice" min="50" max="500"/> <br>
+Property Tax (1-5000):<input type="number" id="propertyTax" min="1" max="5000"/> <br>
+Tenant Monthly Cost(0-1000):<input type="number" id="tenantMonthly" min="0" max="1000"/> <br>
+Landlord Monthly Cost(0-1000):<input type="number" id="LLMonthly" min="0" max="1000"/> <br>
+Target % ROE (1-25):<input type="number" id="targetROE" min="1" max="25"/> <br>
+<br>
+<hr>
+
+<button class='css_menuButton' onclick='calculateRent();'>Calculate Rent</button>
+<button class='css_menuButton' id='calcRent'>Rent</button>
+
+<script>
+  // Rent = ( ( B81 * B78 / 100 ) + ( B79 + B80 * 12 ) ) / 12
+function calculateRent()
+{
+  var homePrice = parseInt( document.getElementById( "homePrice" ).value );
+  var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
+  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
+  var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
+  var targetROE =  parseInt( document.getElementById( "targetROE" ).value );
+
+  var rent = tenantMonthly + 
+              ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12;
+
+  var elem = document.getElementById( "calcRent" );
+  elem.innerHTML = rent.toString();
+}
+</script>
+</body>
