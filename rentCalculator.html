@@ -20,16 +20,17 @@
 <body>
 <h3>Rent Calculator</h3>
 
-Price in thousands (50-500):<input type="number" id="homePrice" min="50" max="500"/> <br>
-Property Tax (1-5000):<input type="number" id="propertyTax" min="1" max="5000"/> <br>
-Tenant Monthly Cost(0-1000):<input type="number" id="tenantMonthly" min="0" max="1000"/> <br>
-Landlord Monthly Cost(0-1000):<input type="number" id="LLMonthly" min="0" max="1000"/> <br>
-Target % ROE (1-25):<input type="number" id="targetROE" min="1" max="25"/> <br>
+Price in thousands:<input type="number" id="homePrice"/> <br>
+Property Tax:<input type="number" id="propertyTax"/> <br>
+Tenant Monthly Cost:<input type="number" id="tenantMonthly"/> <br>
+Landlord Monthly Cost:<input type="number" id="LLMonthly"/> <br>
+Target % ROE:<input type="number" id="targetROE"/> <br>
+Rent:<input type="number" id="rent"/> <br>
 <br>
 <hr>
 
 <button class='css_menuButton' onclick='calculateRent();'>Calculate Rent</button>
-<button class='css_menuButton' id='calcRent'>Rent</button>
+<button class='css_menuButton' onclick='calculatePrice();'>Calculate Price</button>
 
 <script>
   // Rent = ( ( B81 * B78 / 100 ) + ( B79 + B80 * 12 ) ) / 12
@@ -39,13 +40,33 @@ function calculateRent()
   var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
   var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
   var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
-  var targetROE =  parseInt( document.getElementById( "targetROE" ).value );
+  var targetROE = parseInt( document.getElementById( "targetROE" ).value );
 
-  var rent = tenantMonthly + 
-              ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12;
+  var rent = tenantMonthly + ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12;
 
-  var elem = document.getElementById( "calcRent" );
-  elem.innerHTML = rent.toString();
+  var elem = document.getElementById( "rent" );
+  elem.value = rent;
+}
+
+function calculatePrice()
+{
+  var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
+  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
+  var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
+  var targetROE = parseInt( document.getElementById( "targetROE" ).value );
+  var rent =  parseInt( document.getElementById( "rent" ).value );
+
+  /*
+  rent = tenantMonthly + ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12;
+  rent - tenantMonthly = ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12 ;
+  (rent - tenantMonthly) * 12 = ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 );
+  (rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 ) = ( targetROE * homePrice * 10 );
+  ((rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 )) / ( targetROE * 10 ) = homePrice;
+  */
+  
+  var homePrice = ( ( ( rent - tenantMonthly ) * 12 - ( propertyTax + LLMonthly * 12 ) ) / ( targetROE * 10 ) );
+  var elem = document.getElementById( "homePrice" );
+  elem.value = homePrice.toString();
 }
 </script>
 </body>
