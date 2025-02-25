@@ -4,22 +4,14 @@
 <title>Rent calculator.</title>
 
 <style>
-.hyperlink
-{
-  border: 5px solid white;
-  background-color: #def;
-  color: #444;
-  padding: 2px;
-  text-align: left;
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
-}
+
 </style>
 
 </head>
 <body>
 <h3>Rent Calculator</h3>
 Name: <input type="text" id="name"/> <br>
+Notes: <input type="text" id="notes" size="50"/> <br>
 Price in thousands: <input type="number" id="price"/> <br>
 Property Tax: <input type="number" id="pTax"/> <br>
 Tenant Monthly Cost: <input type="number" id="tMonthly"/> <br>
@@ -28,21 +20,20 @@ ROE %: <input type="number" id="ROE"/> <br>
 Rent: <input type="number" id="rent"/> <br>
 <br>
 <hr>
-<button class='css_menuButton' onclick = 'calculateRent();'>Calc Rent</button>
-<button class='css_menuButton' onclick = 'calculatePrice();'>Calc Price</button>
-<button class='css_menuButton' onclick = 'calculateROE();'>Calc ROE</button>
+<button onclick = 'calculateRent();'>Calc Rent</button>
+<button onclick = 'calculatePrice();'>Calc Price</button>
+<button onclick = 'calculateROE();'>Calc ROE</button>
 <hr>
-<button class='css_menuButton' onclick = 'saveEntry();'>Save</button>
-<button class='css_menuButton' onclick = 'deleteEntry();'>Delete</button>
-<button class='css_menuButton' onclick = 'exportEntries();'>Export</button>
-<input type='file' class='css_menuButton' id='openEntriesAction' style='display:none'>
-<button class='css_menuButton' onclick = 'openEntries();'>Open</button>
+<button onclick = 'saveEntry();'>Save</button>
+<button onclick = 'deleteEntry();'>Delete</button>
+<button onclick = 'exportEntries();'>Export</button>
+<input type='file' class='' id='openEntriesAction' style='display:none'>
+<button onclick = 'openEntries();'>Open</button>
 
 <hr>
 <div id = "entries"></div>
 
 <script>
-
 window.onload = calcInit;
 
 function calcInit()
@@ -52,10 +43,11 @@ function calcInit()
 
 class Entry
 {
-  constructor( name, price, pTax, tMonthly, LLMonthly, ROE, rent )
+  constructor( name, notes, price, pTax, tMonthly, LLMonthly, ROE, rent )
   {
     this.name = name;
-    this.id = this.name.replace( / /g, "_" );  // replace with _
+    this.notes = notes;
+    this.id = this.name.replace( / /g, "_" );  // replace space with _
     this.price = price;
     this.pTax = pTax;
     this.tMonthly = tMonthly;
@@ -83,6 +75,7 @@ function entryClick( entryId )
   var ent = library[ entryId ];
 
   document.getElementById( "name" ).value = ent.name;
+  document.getElementById( "notes" ).value = ent.notes;
   document.getElementById( "price" ).value = ent.price;
   document.getElementById( "pTax" ).value = ent.pTax;
   document.getElementById( "tMonthly" ).value = ent.tMonthly;
@@ -101,7 +94,7 @@ function saveEntry()
   drawEntries();
 }
 
-function deleteEntry( )
+function deleteEntry()
 {
   var e = getEntry();
 
@@ -135,6 +128,7 @@ function openEntriesAction( e )
     var parsed = JSON.parse( e.target.result );
     library = parsed;
     drawEntries();
+    document.getElementById( 'openEntriesAction' ).value = null;
   }
 
   reader.readAsText( file );
@@ -144,6 +138,7 @@ function openEntriesAction( e )
 function getEntry()
 {
   var name = document.getElementById( "name" ).value;
+  var notes = document.getElementById( "notes" ).value;
   var price = parseInt( document.getElementById( "price" ).value );
   var pTax = parseInt( document.getElementById( "pTax" ).value );
   var tMonthly = parseInt( document.getElementById( "tMonthly" ).value );
@@ -151,7 +146,7 @@ function getEntry()
   var ROE = parseInt( document.getElementById( "ROE" ).value );
   var rent = parseInt( document.getElementById( "rent" ).value );
 
-  var entry = new Entry( name, price, pTax, tMonthly, LLMonthly, ROE, rent );
+  var entry = new Entry( name, notes, price, pTax, tMonthly, LLMonthly, ROE, rent );
   return( entry );
 }
 
