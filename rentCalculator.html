@@ -143,7 +143,7 @@ function getEntry()
   var pTax = parseInt( document.getElementById( "pTax" ).value );
   var tMonthly = parseInt( document.getElementById( "tMonthly" ).value );
   var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var ROE = parseInt( document.getElementById( "ROE" ).value );
+  var ROE = parseFloat( document.getElementById( "ROE" ).value );
   var rent = parseInt( document.getElementById( "rent" ).value );
 
   var entry = new Entry( name, notes, price, pTax, tMonthly, LLMonthly, ROE, rent );
