@@ -19,75 +19,167 @@
 </head>
 <body>
 <h3>Rent Calculator</h3>
-
-Price in thousands:<input type="number" id="homePrice"/> <br>
-Property Tax:<input type="number" id="propertyTax"/> <br>
-Tenant Monthly Cost:<input type="number" id="tenantMonthly"/> <br>
+Name:<input type="text" id="name"/> <br>
+Price in thousands:<input type="number" id="price"/> <br>
+Property Tax:<input type="number" id="pTax"/> <br>
+Tenant Monthly Cost:<input type="number" id="tMonthly"/> <br>
 Landlord Monthly Cost:<input type="number" id="LLMonthly"/> <br>
-Target % ROE:<input type="number" id="targetROE"/> <br>
+Target % ROE:<input type="number" id="tROE"/> <br>
 Rent:<input type="number" id="rent"/> <br>
 <br>
 <hr>
+<button class='css_menuButton' onclick = 'calculateRent();'>Calculate Rent</button>
+<button class='css_menuButton' onclick = 'calculatePrice();'>Calculate Price</button>
+<button class='css_menuButton' onclick = 'calculateROE();'>Calculate ROE</button>
+<hr>
+<button class='css_menuButton' onclick = 'saveEntry();'>Save</button>
+<button class='css_menuButton' onclick = 'deleteEntry();'>Delete</button>
+<button class='css_menuButton' onclick = 'exportEntries();'>Export</button>
+<input type='file' class='css_menuButton' id='openEntriesAction' style='display:none'>
+<button class='css_menuButton' onclick = 'openEntries();'>Open</button>
 
-<button class='css_menuButton' onclick='calculateRent();'>Calculate Rent</button>
-<button class='css_menuButton' onclick='calculatePrice();'>Calculate Price</button>
-<button class='css_menuButton' onclick='calculateROE();'>Calculate ROE</button>
+<hr>
+<div id = "entries"></div>
 
 <script>
+
+window.onload = calcInit;
+
+function calcInit()
+{
+  document.getElementById( 'openEntriesAction' ).addEventListener( 'change', openEntriesAction, false );
+}
+
+class Entry
+{
+  constructor( name, price, pTax, tMonthly, LLMonthly, tROE, rent )
+  {
+    this.name = name;
+    this.id = this.name.replace( / /g, "_" );  // replace with _
+    this.price = price;
+    this.pTax = pTax;
+    this.tMonthly = tMonthly;
+    this.LLMonthly = LLMonthly;
+    this.tROE = tROE;
+    this.rent = rent;
+  }
+};
+
+var library = {}; // Dictionary of entires
+
+function drawEntries()
+{
+  var tmpHtml = "";
+
+  for( const[ key, value ] of Object.entries( library ) )
+    tmpHtml += "<button id=" + key + " class='css_entry' onclick='entryClick(\"" + value.id + "\")'>" + value.name + "</button>";
+
+  var lib = document.getElementById( "entries" );
+  lib.innerHTML = tmpHtml;
+}
+
+function entryClick( entryId )
+{
+  var ent = library[ entryId ];
+
+  document.getElementById( "name" ).value = ent.name;
+  document.getElementById( "price" ).value = ent.price;
+  document.getElementById( "pTax" ).value = ent.pTax;
+  document.getElementById( "tMonthly" ).value = ent.tMonthly;
+  document.getElementById( "LLMonthly" ).value = ent.LLMonthly;
+  document.getElementById( "tROE" ).value = ent.tROE;
+  document.getElementById( "rent" ).value = ent.rent;
+}
+
+// save the current entry to the library
+function saveEntry()
+{
+  var e = getEntry();
+  if( e.id.length < 3 ) // sanity check that there's an ID
+    return;
+  library[ e.id ] = e;
+  drawEntries();
+}
+
+function deleteEntry( )
+{
+  var e = getEntry();
+
+  delete( library[ e.id ] );
+  drawEntries();
+}
+
+function exportEntries()
+{
+  const file = new Blob( [ JSON.stringify( library, null, '  ' ) ], { type: 'text/plain' } );
+  const a = document.createElement( 'a' );
+  a.href = URL.createObjectURL( file );
+  a.download = "rentCalculator.json";
+  a.click();
+  URL.revokeObjectURL( a.href );
+}
+
+function openEntries()
+{
+  document.getElementById( 'openEntriesAction' ).click();
+}
+
+function openEntriesAction( e )
+{
+  var file = e.target.files[ 0 ];
+  if( !file )
+    return;
+  var reader = new FileReader();
+  reader.onload = function( e )
+  {
+    var parsed = JSON.parse( e.target.result );
+    library = parsed;
+    drawEntries();
+  }
+
+  reader.readAsText( file );
+}
+
+// make an Entry using values from the page
+function getEntry()
+{
+  var name = document.getElementById( "name" ).value;
+  var price = parseInt( document.getElementById( "price" ).value );
+  var pTax = parseInt( document.getElementById( "pTax" ).value );
+  var tMonthly = parseInt( document.getElementById( "tMonthly" ).value );
+  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
+  var tROE = parseInt( document.getElementById( "tROE" ).value );
+  var rent = parseInt( document.getElementById( "rent" ).value );
+
+  var entry = new Entry( name, price, pTax, tMonthly, LLMonthly, tROE, rent );
+  return( entry );
+}
+
 function calculateRent()
 {
-  var homePrice = parseInt( document.getElementById( "homePrice" ).value );
-  var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
-  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
-  var targetROE = parseInt( document.getElementById( "targetROE" ).value );
+  var e = getEntry();
 
-  var rent = tenantMonthly + ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12;
-
+  var rent = e.tMonthly + ( ( e.tROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
   var elem = document.getElementById( "rent" );
-  elem.value = rent;
+  elem.value = Math.floor( rent );
 }
 
 function calculatePrice()
 {
-  var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
-  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
-  var targetROE = parseInt( document.getElementById( "targetROE" ).value );
-  var rent =  parseInt( document.getElementById( "rent" ).value );
-
-  /*
-  rent = tenantMonthly + ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12
-  rent - tenantMonthly = ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12
-  (rent - tenantMonthly) * 12 = ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 )
-  (rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 ) = ( targetROE * homePrice * 10 )
-  ((rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 )) / ( targetROE * 10 ) = homePrice
-  */
+  var e = getEntry();
   
-  var homePrice = ( ( ( rent - tenantMonthly ) * 12 - ( propertyTax + LLMonthly * 12 ) ) / ( targetROE * 10 ) );
-  var elem = document.getElementById( "homePrice" );
-  elem.value = homePrice.toString();
+  var homePrice = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.tROE * 10 );
+  var elem = document.getElementById( "price" );
+  elem.value = Math.floor( homePrice );
 }
 
 function calculateROE()
 {
-  var homePrice = parseInt( document.getElementById( "homePrice" ).value );
-  var propertyTax = parseInt( document.getElementById( "propertyTax" ).value );
-  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var tenantMonthly = parseInt( document.getElementById( "tenantMonthly" ).value );
-  var rent =  parseInt( document.getElementById( "rent" ).value );
+  var e = getEntry();
 
-  /*
-  rent = tenantMonthly + ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12
-  rent - tenantMonthly = ( ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 ) ) / 12
-  (rent - tenantMonthly) * 12 = ( targetROE * homePrice * 10 ) + ( propertyTax + LLMonthly * 12 )
-  (rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 ) = targetROE * homePrice * 10
-  ( ( rent - tenantMonthly) * 12 - ( propertyTax + LLMonthly * 12 ) ) / ( homePrice * 10 ) = targetROE
-  */
-  
-  var targetROE = ( ( rent - tenantMonthly ) * 12 - ( propertyTax + LLMonthly * 12 ) ) / ( homePrice * 10 );
-  var elem = document.getElementById( "targetROE" );
-  elem.value = targetROE.toString();
+  var targetROE = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
+  var elem = document.getElementById( "tROE" );
+  elem.value = Math.floor( targetROE * 10 ) / 10;
 }
 </script>
 </body>
