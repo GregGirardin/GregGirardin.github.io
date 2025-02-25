@@ -19,18 +19,18 @@
 </head>
 <body>
 <h3>Rent Calculator</h3>
-Name:<input type="text" id="name"/> <br>
-Price in thousands:<input type="number" id="price"/> <br>
-Property Tax:<input type="number" id="pTax"/> <br>
-Tenant Monthly Cost:<input type="number" id="tMonthly"/> <br>
-Landlord Monthly Cost:<input type="number" id="LLMonthly"/> <br>
-Target % ROE:<input type="number" id="tROE"/> <br>
-Rent:<input type="number" id="rent"/> <br>
+Name: <input type="text" id="name"/> <br>
+Price in thousands: <input type="number" id="price"/> <br>
+Property Tax: <input type="number" id="pTax"/> <br>
+Tenant Monthly Cost: <input type="number" id="tMonthly"/> <br>
+Landlord Monthly Cost: <input type="number" id="LLMonthly"/> <br>
+ROE %: <input type="number" id="ROE"/> <br>
+Rent: <input type="number" id="rent"/> <br>
 <br>
 <hr>
-<button class='css_menuButton' onclick = 'calculateRent();'>Calculate Rent</button>
-<button class='css_menuButton' onclick = 'calculatePrice();'>Calculate Price</button>
-<button class='css_menuButton' onclick = 'calculateROE();'>Calculate ROE</button>
+<button class='css_menuButton' onclick = 'calculateRent();'>Calc Rent</button>
+<button class='css_menuButton' onclick = 'calculatePrice();'>Calc Price</button>
+<button class='css_menuButton' onclick = 'calculateROE();'>Calc ROE</button>
 <hr>
 <button class='css_menuButton' onclick = 'saveEntry();'>Save</button>
 <button class='css_menuButton' onclick = 'deleteEntry();'>Delete</button>
@@ -52,7 +52,7 @@ function calcInit()
 
 class Entry
 {
-  constructor( name, price, pTax, tMonthly, LLMonthly, tROE, rent )
+  constructor( name, price, pTax, tMonthly, LLMonthly, ROE, rent )
   {
     this.name = name;
     this.id = this.name.replace( / /g, "_" );  // replace with _
@@ -60,7 +60,7 @@ class Entry
     this.pTax = pTax;
     this.tMonthly = tMonthly;
     this.LLMonthly = LLMonthly;
-    this.tROE = tROE;
+    this.ROE = ROE;
     this.rent = rent;
   }
 };
@@ -87,7 +87,7 @@ function entryClick( entryId )
   document.getElementById( "pTax" ).value = ent.pTax;
   document.getElementById( "tMonthly" ).value = ent.tMonthly;
   document.getElementById( "LLMonthly" ).value = ent.LLMonthly;
-  document.getElementById( "tROE" ).value = ent.tROE;
+  document.getElementById( "ROE" ).value = ent.ROE;
   document.getElementById( "rent" ).value = ent.rent;
 }
 
@@ -148,10 +148,10 @@ function getEntry()
   var pTax = parseInt( document.getElementById( "pTax" ).value );
   var tMonthly = parseInt( document.getElementById( "tMonthly" ).value );
   var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var tROE = parseInt( document.getElementById( "tROE" ).value );
+  var ROE = parseInt( document.getElementById( "ROE" ).value );
   var rent = parseInt( document.getElementById( "rent" ).value );
 
-  var entry = new Entry( name, price, pTax, tMonthly, LLMonthly, tROE, rent );
+  var entry = new Entry( name, price, pTax, tMonthly, LLMonthly, ROE, rent );
   return( entry );
 }
 
@@ -159,7 +159,7 @@ function calculateRent()
 {
   var e = getEntry();
 
-  var rent = e.tMonthly + ( ( e.tROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
+  var rent = e.tMonthly + ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
 }
@@ -168,7 +168,7 @@ function calculatePrice()
 {
   var e = getEntry();
   
-  var homePrice = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.tROE * 10 );
+  var homePrice = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.ROE * 10 );
   var elem = document.getElementById( "price" );
   elem.value = Math.floor( homePrice );
 }
@@ -177,9 +177,9 @@ function calculateROE()
 {
   var e = getEntry();
 
-  var targetROE = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
-  var elem = document.getElementById( "tROE" );
-  elem.value = Math.floor( targetROE * 10 ) / 10;
+  var ROE = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
+  var elem = document.getElementById( "ROE" );
+  elem.value = Math.floor( ROE * 10 ) / 10;
 }
 </script>
 </body>
