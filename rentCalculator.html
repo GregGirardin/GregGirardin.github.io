@@ -13,12 +13,11 @@
 Name: <input type="text" id="name" size="50"/> <br>
 Notes: <input type="text" id="notes" size="50"/> <br>
 Price in thousands: <input type="number" id="price"/> <br>
-Property Tax: <input type="number" id="pTax"/> <br>
-Tenant Monthly Cost: <input type="number" id="tMonthly"/> <br>
+Annual Property Tax: <input type="number" id="pTax"/> <br>
 Landlord Monthly Cost: <input type="number" id="LLMonthly"/> <br>
 ROE %: <input type="number" id="ROE"/> <br>
 Rent: <input type="number" id="rent"/> <br>
-<br>
+<div id="monthly"></div> <br>
 <hr>
 <button onclick = 'calculateRent();'>Calc Rent</button>
 <button onclick = 'calculatePrice();'>Calc Price</button>
@@ -50,14 +49,13 @@ function calcInit()
 
 class Entry
 {
-  constructor( name, notes, price, pTax, tMonthly, LLMonthly, ROE, rent )
+  constructor( name, notes, price, pTax, LLMonthly, ROE, rent )
   {
     this.name = name;
     this.notes = notes;
     this.id = this.name.replace( / /g, "_" );  // replace space with _
     this.price = price;
     this.pTax = pTax;
-    this.tMonthly = tMonthly;
     this.LLMonthly = LLMonthly;
     this.ROE = ROE;
     this.rent = rent;
@@ -72,9 +70,9 @@ function toggleSort()
 
   switch( sortMode )
   {
-    case SORTBY_ROE: ss = "Sorted by ROE"; break;
-    case SORTBY_PRICE: ss = "Sorted by Price"; break;
-    case SORTBY_RENT: ss = "Sorted by Rent"; break;
+    case SORTBY_ROE:    ss = "Sorted by ROE";   break;
+    case SORTBY_PRICE:  ss = "Sorted by Price"; break;
+    case SORTBY_RENT:   ss = "Sorted by Rent";  break;
   }
 
   document.getElementById( "sortMode" ).innerHTML = ss;
@@ -94,9 +92,9 @@ function drawEntries()
   // sort
   switch( sortMode )
   {
-    case SORTBY_ROE: libArray.sort( function( a, b ){ return ( a.ROE < b.ROE ) ? 1 : -1 } ); break;
-    case SORTBY_PRICE: libArray.sort( function( a, b ){ return ( a.price < b.price ) ? 1 : -1 } ); break;
-    case SORTBY_RENT: libArray.sort( function( a, b ){ return ( a.rent < b.rent ) ? 1 : -1 } ); break;
+    case SORTBY_ROE:    libArray.sort( function( a, b ){ return ( a.ROE < b.ROE ) ? 1 : -1 } ); break;
+    case SORTBY_PRICE:  libArray.sort( function( a, b ){ return ( a.price < b.price ) ? 1 : -1 } ); break;
+    case SORTBY_RENT:   libArray.sort( function( a, b ){ return ( a.rent < b.rent ) ? 1 : -1 } ); break;
   }
 
   for( value of libArray )
@@ -114,10 +112,10 @@ function entryClick( entryId )
   document.getElementById( "notes" ).value = ent.notes;
   document.getElementById( "price" ).value = ent.price;
   document.getElementById( "pTax" ).value = ent.pTax;
-  document.getElementById( "tMonthly" ).value = ent.tMonthly;
   document.getElementById( "LLMonthly" ).value = ent.LLMonthly;
   document.getElementById( "ROE" ).value = ent.ROE;
   document.getElementById( "rent" ).value = ent.rent;
+  calcMonthly();
 }
 
 // save the current entry to the library
@@ -179,13 +177,21 @@ function getEntry()
   var notes = document.getElementById( "notes" ).value;
   var price = parseInt( document.getElementById( "price" ).value );
   var pTax = parseInt( document.getElementById( "pTax" ).value );
-  var tMonthly = parseInt( document.getElementById( "tMonthly" ).value );
   var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
   var ROE = parseFloat( document.getElementById( "ROE" ).value );
   var rent = parseInt( document.getElementById( "rent" ).value );
 
-  var entry = new Entry( name, notes, price, pTax, tMonthly, LLMonthly, ROE, rent );
+  var entry = new Entry( name, notes, price, pTax, LLMonthly, ROE, rent );
   return( entry );
+}
+
+function calcMonthly()
+{
+  var e = getEntry();
+
+  var monthlyIncome = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
+  var elem = document.getElementById( "monthly" );
+  elem.innerText = "LL Mo Income:" + monthlyIncome.toString();
 }
 
 function calculateRent()
@@ -195,24 +201,27 @@ function calculateRent()
   var rent = e.tMonthly + ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
+  calcMonthly();
 }
 
 function calculatePrice()
 {
   var e = getEntry();
   
-  var homePrice = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.ROE * 10 );
+  var homePrice = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.ROE * 10 );
   var elem = document.getElementById( "price" );
   elem.value = Math.floor( homePrice );
+  calcMonthly();
 }
 
 function calculateROE()
 {
   var e = getEntry();
 
-  var ROE = ( ( e.rent - e.tMonthly ) * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
+  var ROE = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
   var elem = document.getElementById( "ROE" );
   elem.value = Math.floor( ROE * 10 ) / 10;
+  calcMonthly();
 }
 </script>
 </body>
