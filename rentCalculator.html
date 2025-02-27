@@ -3,9 +3,7 @@
 <head>
 <title>Rent calculator.</title>
 
-<style>
-
-</style>
+<style> </style>
 
 </head>
 <body>
@@ -17,7 +15,7 @@ Annual Property Tax: <input type="number" id="pTax"/> <br>
 Landlord Monthly Cost: <input type="number" id="LLMonthly"/> <br>
 ROE %: <input type="number" id="ROE"/> <br>
 Rent: <input type="number" id="rent"/> <br>
-<div id="monthly"></div> <br>
+<div id="income"></div> <br>
 <hr>
 <button onclick = 'calculateRent();'>Calc Rent</button>
 <button onclick = 'calculatePrice();'>Calc Price</button>
@@ -36,7 +34,8 @@ Rent: <input type="number" id="rent"/> <br>
 const SORTBY_ROE = 0;
 const SORTBY_PRICE = 1;
 const SORTBY_RENT = 2;
-const SORTBY_LAST = 3;
+const SORTBY_INCOME = 3;
+const SORTBY_LAST = 4;
 
 var sortMode = SORTBY_ROE;
 
@@ -59,6 +58,7 @@ class Entry
     this.LLMonthly = LLMonthly;
     this.ROE = ROE;
     this.rent = rent;
+    this.income = Math.floor( this.rent - this.LLMonthly - this.pTax / 12 );
   }
 }
 
@@ -73,6 +73,7 @@ function toggleSort()
     case SORTBY_ROE:    ss = "Sorted by ROE";   break;
     case SORTBY_PRICE:  ss = "Sorted by Price"; break;
     case SORTBY_RENT:   ss = "Sorted by Rent";  break;
+    case SORTBY_INCOME: ss = "Sorted by Income";  break;
   }
 
   document.getElementById( "sortMode" ).innerHTML = ss;
@@ -95,6 +96,7 @@ function drawEntries()
     case SORTBY_ROE:    libArray.sort( function( a, b ){ return ( a.ROE < b.ROE ) ? 1 : -1 } ); break;
     case SORTBY_PRICE:  libArray.sort( function( a, b ){ return ( a.price < b.price ) ? 1 : -1 } ); break;
     case SORTBY_RENT:   libArray.sort( function( a, b ){ return ( a.rent < b.rent ) ? 1 : -1 } ); break;
+    case SORTBY_INCOME: libArray.sort( function( a, b ){ return ( a.income < b.income ) ? 1 : -1 } ); break;
   }
 
   for( value of libArray )
@@ -106,16 +108,18 @@ function drawEntries()
 
 function entryClick( entryId )
 {
-  var ent = library[ entryId ];
+  var e = library[ entryId ];
 
-  document.getElementById( "name" ).value = ent.name;
-  document.getElementById( "notes" ).value = ent.notes;
-  document.getElementById( "price" ).value = ent.price;
-  document.getElementById( "pTax" ).value = ent.pTax;
-  document.getElementById( "LLMonthly" ).value = ent.LLMonthly;
-  document.getElementById( "ROE" ).value = ent.ROE;
-  document.getElementById( "rent" ).value = ent.rent;
-  calcMonthly();
+  document.getElementById( "name" ).value = e.name;
+  document.getElementById( "notes" ).value = e.notes;
+  document.getElementById( "price" ).value = e.price;
+  document.getElementById( "pTax" ).value = e.pTax;
+  document.getElementById( "LLMonthly" ).value = e.LLMonthly;
+  document.getElementById( "ROE" ).value = e.ROE;
+  document.getElementById( "rent" ).value = e.rent;
+  e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
+  var elem = document.getElementById( "income" );
+  elem.innerText = "LL Mo Income:" + e.income.toString();
 }
 
 // save the current entry to the library
@@ -185,13 +189,13 @@ function getEntry()
   return( entry );
 }
 
-function calcMonthly()
+function calcIncome()
 {
   var e = getEntry();
 
-  var monthlyIncome = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
-  var elem = document.getElementById( "monthly" );
-  elem.innerText = "LL Mo Income:" + monthlyIncome.toString();
+  e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
+  var elem = document.getElementById( "income" );
+  elem.innerText = "LL Mo Income:" + e.income.toString();
 }
 
 function calculateRent()
@@ -201,7 +205,7 @@ function calculateRent()
   var rent = e.tMonthly + ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
-  calcMonthly();
+  calcIncome();
 }
 
 function calculatePrice()
@@ -211,7 +215,7 @@ function calculatePrice()
   var homePrice = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.ROE * 10 );
   var elem = document.getElementById( "price" );
   elem.value = Math.floor( homePrice );
-  calcMonthly();
+  calcIncome();
 }
 
 function calculateROE()
@@ -221,7 +225,7 @@ function calculateROE()
   var ROE = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
   var elem = document.getElementById( "ROE" );
   elem.value = Math.floor( ROE * 10 ) / 10;
-  calcMonthly();
+  calcIncome();
 }
 </script>
 </body>
