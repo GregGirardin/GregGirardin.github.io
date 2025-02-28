@@ -202,7 +202,7 @@ function calculateRent()
 {
   var e = getEntry();
 
-  var rent = e.tMonthly + ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
+  var rent = ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
   calcIncome();
