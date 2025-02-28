@@ -12,7 +12,7 @@ Name: <input type="text" id="name" size="50"/> <br>
 Notes: <input type="text" id="notes" size="50"/> <br>
 Price in thousands: <input type="number" id="price"/> <br>
 Annual Property Tax: <input type="number" id="pTax"/> <br>
-Landlord Monthly Cost: <input type="number" id="LLMonthly"/> <br>
+Monthly Cost: <input type="number" id="LLMonthly"/> <br>
 ROE %: <input type="number" id="ROE"/> <br>
 Rent: <input type="number" id="rent"/> <br>
 <div id="income"></div> <br>
@@ -21,11 +21,12 @@ Rent: <input type="number" id="rent"/> <br>
 <button onclick = 'calculatePrice();'>Calc Price</button>
 <button onclick = 'calculateROE();'>Calc ROE</button>
 <hr>
-<button onclick = 'saveEntry();'>Save</button>
-<button onclick = 'deleteEntry();'>Delete</button>
-<button onclick = 'exportEntries();'>Export</button>
+<button onclick = 'saveEntry();'>Save Entry</button>
+<button onclick = 'deleteEntry();'>Delete Entry</button>
+<hr>
 <input type='file' class='' id='openEntriesAction' style='display:none'>
-<button onclick = 'openEntries();'>Open</button>
+<button onclick = 'openEntries();'>Open Library</button>
+<button onclick = 'exportEntries();'>Save Library</button> - 
 <button id="sortMode" onclick = 'toggleSort();'>Sorted by ROE</button>
 <hr>
 <div id = "entries"></div>
@@ -100,15 +101,15 @@ function drawEntries()
   }
 
   for( value of libArray )
-    tmpHtml += "<button id=" + value.id + " class='css_entry' onclick='entryClick(\"" + value.id + "\")'>" + value.name + "</button>";
+    tmpHtml += "<button id=" + value.id + " class='css_entry' onclick='libClick(\"" + value.id + "\")'>" + value.name + "</button>";
 
   var lib = document.getElementById( "entries" );
   lib.innerHTML = tmpHtml;
 }
 
-function entryClick( entryId )
+function libClick( id )
 {
-  var e = library[ entryId ];
+  var e = library[ id ];
 
   document.getElementById( "name" ).value = e.name;
   document.getElementById( "notes" ).value = e.notes;
@@ -117,9 +118,7 @@ function entryClick( entryId )
   document.getElementById( "LLMonthly" ).value = e.LLMonthly;
   document.getElementById( "ROE" ).value = e.ROE;
   document.getElementById( "rent" ).value = e.rent;
-  e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
-  var elem = document.getElementById( "income" );
-  elem.innerText = "LL Mo Income:" + e.income.toString();
+  calcIncome();
 }
 
 // save the current entry to the library
@@ -195,7 +194,7 @@ function calcIncome()
 
   e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
   var elem = document.getElementById( "income" );
-  elem.innerText = "LL Mo Income:" + e.income.toString();
+  elem.innerText = "Monthly Income:" + e.income.toString();
 }
 
 function calculateRent()
