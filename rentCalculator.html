@@ -8,13 +8,15 @@
 </head>
 <body>
 <h3>Rent Calculator</h3>
-Name: <input type="text" id="name" size="50"/> <br>
+Name: <input type="text" id="name" size="50" value="Property"/> <br>
 Notes: <input type="text" id="notes" size="50"/> <br>
-Price in thousands: <input type="number" id="price"/> <br>
-Annual Property Tax: <input type="number" id="pTax"/> <br>
-Monthly Cost: <input type="number" id="LLMonthly"/> <br>
-ROE %: <input type="number" id="ROE"/> <br>
-Rent: <input type="number" id="rent"/> <br>
+Price (thousands): <input type="number" id="price" value="100"/> <br>
+Loan (thousands): <input type="number" id="loan" value="0"/> <br>
+Interest Rate %: <input type="number" id="rate" value="0"/> <br>
+Property Tax (yearly): <input type="number" id="pTax" value="0"/> <br>
+Other Owner Cost (monthly): <input type="number" id="LLMonthly" value="0"/> <br>
+ROE %: <input type="number" id="ROE" value="10"/> <br>
+Rent: <input type="number" id="rent" value="0"/> <br>
 <div id="income"></div> <br>
 <hr>
 <button onclick = 'calculateRent();'>Calc Rent</button>
@@ -49,12 +51,14 @@ function calcInit()
 
 class Entry
 {
-  constructor( name, notes, price, pTax, LLMonthly, ROE, rent )
+  constructor( name, notes, price, loan, rate, pTax, LLMonthly, ROE, rent )
   {
     this.name = name;
     this.notes = notes;
     this.id = this.name.replace( / /g, "_" );  // replace space with _
     this.price = price;
+    this.loan = loan;
+    this.rate = rate;
     this.pTax = pTax;
     this.LLMonthly = LLMonthly;
     this.ROE = ROE;
@@ -114,6 +118,8 @@ function libClick( id )
   document.getElementById( "name" ).value = e.name;
   document.getElementById( "notes" ).value = e.notes;
   document.getElementById( "price" ).value = e.price;
+  document.getElementById( "loan" ).value = e.loan;
+  document.getElementById( "rate" ).value = e.rate;
   document.getElementById( "pTax" ).value = e.pTax;
   document.getElementById( "LLMonthly" ).value = e.LLMonthly;
   document.getElementById( "ROE" ).value = e.ROE;
@@ -179,12 +185,14 @@ function getEntry()
   var name = document.getElementById( "name" ).value;
   var notes = document.getElementById( "notes" ).value;
   var price = parseInt( document.getElementById( "price" ).value );
+  var loan = parseInt( document.getElementById( "loan" ).value );
+  var rate = parseInt( document.getElementById( "rate" ).value );
   var pTax = parseInt( document.getElementById( "pTax" ).value );
   var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
   var ROE = parseFloat( document.getElementById( "ROE" ).value );
   var rent = parseInt( document.getElementById( "rent" ).value );
 
-  var entry = new Entry( name, notes, price, pTax, LLMonthly, ROE, rent );
+  var entry = new Entry( name, notes, price, loan, rate, pTax, LLMonthly, ROE, rent );
   return( entry );
 }
 
@@ -192,38 +200,82 @@ function calcIncome()
 {
   var e = getEntry();
 
-  e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 );
-  var elem = document.getElementById( "income" );
-  elem.innerText = "Monthly Income:" + e.income.toString();
+  var mortgage = ( e.loan * 1000 * e.rate / 100 ) / 12; // monthly
+  e.income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 - mortgage );
+  document.getElementById( "income" ).innerText = "Monthly Income:" + e.income.toString();
 }
+
+/*
+  Calculate monthly rent for target ROE
+  Equity = (Price - Loan) * 1000
+
+  (AnnualRent - AnnualCost) / Equity = ROE / 100
+
+  (AnnualRent - AnnualCost) = ROE * Equity / 100
+  AnnualRent = ( ROE * Equity / 100 ) + AnnualCost
+  rent = ( ( ROE * Equity / 100) + AnnualCost ) / 12
+  rent = ( ( ROE * (Price - Loan) * 1000 / 100) + AnnualCost ) / 12
+  rent = ( ( ROE * (Price - Loan) * 10) + AnnualCost ) / 12
+*/
 
 function calculateRent()
 {
   var e = getEntry();
 
-  var rent = ( ( e.ROE * e.price * 10 ) + ( e.pTax + e.LLMonthly * 12 ) ) / 12;
+  var mortgage = e.loan * 1000 * e.rate / 100; // annual
+  var cost = e.LLMonthly * 12 + e.pTax + mortgage;
+  var rent = ( ( e.ROE * ( e.price - e.loan ) * 10 ) + cost ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
   calcIncome();
 }
 
+/*
+  Calculate price
+  Equity = Price - Loan
+  AnnualCost = MonthyCost * 12 + pTax + loan * rate
+
+  (AnnualRent - AnnualCost) / Equity = ROE / 100
+  (AnnualRent - AnnualCost) = (ROE / 100) * Equity
+  ((AnnualRent - AnnualCost) / (ROE / 100)) = Equity = Price - Loan
+  ((AnnualRent - AnnualCost) / (ROE / 100)) + Loan = Price
+*/
+
 function calculatePrice()
 {
   var e = getEntry();
-  
-  var homePrice = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.ROE * 10 );
+  var mortgage = e.loan * 1000 * e.rate / 100;
+  var cost = e.LLMonthly * 12 + e.pTax + mortgage;
+  var price = ( e.rent * 12 - cost ) / ( e.ROE * 10 );
   var elem = document.getElementById( "price" );
-  elem.value = Math.floor( homePrice );
+  elem.value = Math.floor( price );
   calcIncome();
 }
+
+/*
+  Calculate ROE
+  Equity = (Price - Loan)
+  AnnualCost = (MonthyCost * 12 + pTax + loan * rate)
+
+  (AnnualRent - AnnualCost) / Equity = ROE / 100
+  100 * (AnnualRent - AnnualCost) / Equity = ROE
+*/
 
 function calculateROE()
 {
   var e = getEntry();
-
-  var ROE = ( e.rent * 12 - ( e.pTax + e.LLMonthly * 12 ) ) / ( e.price * 10 );
   var elem = document.getElementById( "ROE" );
-  elem.value = Math.floor( ROE * 10 ) / 10;
+
+  var equity = ( e.price - e.loan ) * 1000;
+  if( equity < 1000 )
+  {
+    elem.value = -1;
+    return;
+  }
+  var mortgage = e.loan * 1000 * e.rate / 100;
+  var cost = e.LLMonthly * 12 + e.pTax + mortgage; // annual cost
+  var ROE = 100 * ( e.rent * 12 - cost ) / equity;
+  elem.value = Math.floor( ROE * 10 ) / 10; // keep one deciamal point
   calcIncome();
 }
 </script>
