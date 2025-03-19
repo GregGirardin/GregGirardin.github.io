@@ -1170,6 +1170,8 @@ Songs are added to the Clipboard from the Library and cut from the set list when
 Songs that are part of a medley can be indicated with 'Medley' mode.<br>
 Songs can be highlighted in red with 'Highlight' mode.<br>
 <br>
+Song lines with a : or | in column 2 will be shown as fixed font to line up tablature.<br>
+Song lines with a ! in column 1 will be bold.<br>
 
 */}.toString().slice( 14, -3 ) + "</" + "script> </" + "body> </html>" ); // little hack because certain tags confuse the browser.
   break;
@@ -1332,8 +1334,10 @@ function saveSetlist()
   setFile += htmlConstStrings( 0 );
 
   var ffState = false; // Fixed Font state. Note that this only works if I grab 'innerText' from the lyric pane
-                       // but that causes some annyonying editing issues with extra lines.
-                       // If I grab 'innerHTML' it fixes the editing problems but can't detect tablature based on a : or | in column 1.
+                       // but that causes some annyonying editing issues but strips all HTML cruft.
+                       // If I grab 'innerHTML' I can't parse as plain text e.g. detect tab based on a : or | in column 1.
+
+  var boldState = false; // if the first line of a tab is "!" make the line bold
   // Songs
   for( var setIndex = 0;setIndex < curSetList.sets.length - 1;setIndex++ ) // Note that we don't render the clipboard set
   {
@@ -1383,6 +1387,16 @@ function saveSetlist()
           ffState = curFixedFontState;
         }
 
+        curBoldFontState = ( line[ 0 ] == "!" ) ? true : false; // a ! in column 1 indicates we want to bold the line
+        if( curBoldFontState != boldState )
+        {
+          if( curBoldFontState == true )
+            setFile += "<b>"; // bold a line(s) tbd: increase font size a bit
+          else
+            setFile += "</b>";
+          boldState = curBoldFontState;
+        }
+
         if( line != "\n" ) // add spaces
         {
           var nLine = "";
@@ -1406,6 +1420,9 @@ function saveSetlist()
               nLine += c;
             }
           }
+          if( curBoldFontState )
+            nLine = nLine.slice( 1 ); // cut off first character if it's a flag ("!" means bold)
+
           setFile += nLine + "<br>\n";
         }
       }
@@ -1414,6 +1431,13 @@ function saveSetlist()
         setFile += "</font>\n";
         ffState = false;
       }
+      
+      if( curBoldFontState == true )
+      {
+        setFile += "</b>\n";
+        boldState = false;
+      }
+
       setFile += "</div>\n\n";
     }
   }
