@@ -613,7 +613,7 @@ function addLibraryAction( e )
 
 /////////////// /////////////// /////////////// ///////////////
 // Present a dialog for the user to save the current library to a local file. 
-// Library is saved as json. TBD: zip it.
+// Library is saved as json.
 /////////////// /////////////// /////////////// ///////////////
 function saveLibrary()
 {
@@ -741,8 +741,8 @@ function generateLibraryHTML()
 }
 
 /////////////// /////////////// /////////////// ///////////////
-// This are just a couple big string literals for the generated output setlist html.
-// Put here to make the export function more readable 
+// Big string literals for the generated output setlist html
+// here to make the export function more readable 
 /////////////// /////////////// /////////////// ///////////////
 function htmlConstStrings( index )
 {
@@ -1171,7 +1171,8 @@ Songs that are part of a medley can be indicated with 'Medley' mode.<br>
 Songs can be highlighted in red with 'Highlight' mode.<br>
 <br>
 Song lines with a : or | in column 2 will be shown as fixed font to line up tablature.<br>
-Song lines with a ! in column 1 will be bold.<br>
+Song lines with a # in column 1 will be bold.<br>
+Song lines with a ! in column 1 will be large and bold.<br>
 
 */}.toString().slice( 14, -3 ) + "</" + "script> </" + "body> </html>" ); // little hack because certain tags confuse the browser.
   break;
@@ -1338,6 +1339,7 @@ function saveSetlist()
                        // If I grab 'innerHTML' I can't parse as plain text e.g. detect tab based on a : or | in column 1.
 
   var boldState = false; // if the first line of a tab is "!" make the line bold
+  var bigState = false;
   // Songs
   for( var setIndex = 0;setIndex < curSetList.sets.length - 1;setIndex++ ) // Note that we don't render the clipboard set
   {
@@ -1387,14 +1389,26 @@ function saveSetlist()
           ffState = curFixedFontState;
         }
 
-        curBoldFontState = ( line[ 0 ] == "!" ) ? true : false; // a ! in column 1 indicates we want to bold the line
-        if( curBoldFontState != boldState )
+        curBoldState = ( line[ 0 ] == "#" ) ? true : false; // a # in column 1 indicates we want to bold the line
+        if( curBoldState != boldState )
         {
-          if( curBoldFontState == true )
-            setFile += "<b>"; // bold a line(s) tbd: increase font size a bit
+          if( curBoldState == true )
+            setFile += "<b>"; // bold a line(s)
           else
             setFile += "</b>";
-          boldState = curBoldFontState;
+
+          boldState = curBoldState;
+        }
+
+        curBigState = ( line[ 0 ] == "!" ) ? true : false; // a ! in column 1 indicates we want to big/bold
+        if( curBigState != bigState )
+        {
+          if( curBigState == true )
+            setFile += "<font style='font-size:120%;font-weight: bold;'>\n"; // bold and big
+          else
+            setFile += "</font>\n";
+
+          bigState = curBigState;
         }
 
         if( line != "\n" ) // add spaces
@@ -1420,7 +1434,7 @@ function saveSetlist()
               nLine += c;
             }
           }
-          if( curBoldFontState )
+          if( curBoldState || curBigState )
             nLine = nLine.slice( 1 ); // cut off first character if it's a flag ("!" means bold)
 
           setFile += nLine + "<br>\n";
@@ -1432,7 +1446,13 @@ function saveSetlist()
         ffState = false;
       }
       
-      if( curBoldFontState == true )
+      if( curBoldState == true )
+      {
+        setFile += "</b>\n";
+        boldState = false;
+      }
+
+      if( curBigState == true )
       {
         setFile += "</b>\n";
         boldState = false;
