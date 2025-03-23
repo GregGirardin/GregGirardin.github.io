@@ -169,7 +169,6 @@ function dropElem( ev )
     indexes = ev.target.id.substring( sampName.length, ).split( "." );
     var toSamp = parseInt( indexes[ 0 ] );
 
-    // console.log( fromSamp + " -> " + toSamp );
     if( toSamp < fromSamp )
       memEntries[ toSamp - 1 ].parentNode.insertBefore( memEntries[ fromSamp - 1 ], memEntries[ toSamp - 1 ] );
     else
@@ -181,8 +180,6 @@ function dropElem( ev )
 
     generateConfigHTML();
   }
-  else
-    console.log( "Unhandled element move." );
 }
 
 function genDropDown( dispString, id, value, valTable )
@@ -243,7 +240,6 @@ function generateConfigHTML()
     var PlyLvl          = parseInt( elem[ 0 ].childNodes[  3 ].innerHTML );
     var Pan             = parseInt( elem[ 0 ].childNodes[  5 ].innerHTML );
     var One             = parseInt( elem[ 0 ].childNodes[  7 ].innerHTML );
-    console.log( "1. ", One ); // gmg
     var StrtMod         = parseInt( elem[ 0 ].childNodes[  9 ].innerHTML );
     var StpMod          = parseInt( elem[ 0 ].childNodes[ 11 ].innerHTML );
     var MeasLen         = parseInt( elem[ 0 ].childNodes[ 17 ].innerHTML );

@@ -9,6 +9,7 @@
 <h3>Rent Calculator</h3>
 Name: <input type="text" id="name" size="50" value="Property"/> <br>
 Notes: <input type="text" id="notes" size="50"/> <br>
+<div id="statusDiv"></div>
 <a href="" target="_blank" id="hyperlink">URL:</a> <input type="text" id="URL" size="50"/> <br>
 Price (thousands): $<input type="number" id="price" value="100"/> <br>
 Loan (thousands): $<input type="number" id="loan" value="0"/> <br>
@@ -17,7 +18,7 @@ Property Tax (yearly): $<input type="number" id="pTax" value="0"/> <br>
 Other Cost (monthly): $<input type="number" id="LLMonthly" value="0"/> <br>
 ROE %: <input type="number" id="ROE" value="10"/> <br>
 Rent: $<input type="number" id="rent" value="0"/> <br>
-<div id="misc"></div>
+<div id="miscElement"></div>
 <hr>
 <button onclick = 'calculateRent();'>Calc Rent</button>
 <button onclick = 'calculatePrice();'>Calc Price</button>
@@ -42,19 +43,25 @@ const SORTBY_LAST   = 4;
 
 var sortMode = SORTBY_ROE;
 
+var propertyStates = [ "Unknown", "For Sale", "Contingent", "Pending", "Sold" ];
+
 window.onload = calcInit;
 
 function calcInit()
 {
   document.getElementById( 'openEntriesAction' ).addEventListener( 'change', openEntriesAction, false );
+  var propertyState = 0;
+  var tempHtml = genDropDown( "Status:", "statusElement", propertyState, propertyStates );
+  document.getElementById( 'statusDiv' ).innerHTML = tempHtml;
 }
 
 class Entry
 {
-  constructor( name, notes, URL, price, loan, rate, pTax, LLMonthly, ROE, rent )
+  constructor( name, notes, status, URL, price, loan, rate, pTax, LLMonthly, ROE, rent )
   {
     this.name = name;
     this.notes = notes;
+    this.status = status;
     this.id = this.name.replace( / /g, "_" );  // replace space with _
     this.URL = URL;
     this.price = price;
@@ -117,6 +124,7 @@ function libClick( id )
 
   document.getElementById( "name" ).value = e.name;
   document.getElementById( "notes" ).value = e.notes;
+  document.getElementById( "statusElement" ).value = e.status;
   document.getElementById( "URL" ).value = e.URL;
   document.getElementById( "price" ).value = e.price;
   document.getElementById( "loan" ).value = e.loan;
@@ -188,6 +196,7 @@ function getEntry()
 {
   var name      = document.getElementById( "name" ).value;
   var notes     = document.getElementById( "notes" ).value;
+  var status    = document.getElementById( "statusElement" ).value;
   var URL       = document.getElementById( "URL" ).value;
   var price     = parseInt( document.getElementById( "price" ).value );
   var loan      = parseInt( document.getElementById( "loan" ).value );
@@ -197,7 +206,7 @@ function getEntry()
   var rent      = parseInt( document.getElementById( "rent" ).value );
   var ROE       = parseFloat( document.getElementById( "ROE" ).value );
 
-  var entry = new Entry( name, notes, URL, price, loan, rate, pTax, LLMonthly, ROE, rent );
+  var entry = new Entry( name, notes, status, URL, price, loan, rate, pTax, LLMonthly, ROE, rent );
 
   document.getElementById( 'hyperlink' ).href = URL; // set the URL
 
@@ -214,9 +223,10 @@ function calculate()
   var ltv = Math.floor( 100 * e.loan / e.price );
   var equity = e.price - e.loan;
 
-  document.getElementById( "misc" ).innerHTML = "Monthly Income: $" + income.toString() +
-                                                "<br>LTV: " + ltv.toString() + "%<br>" +
-                                                "Equity: $" + equity.toString() + "k";
+  document.getElementById( "miscElement" ).innerHTML =
+    "Monthly Income: $" + income.toString() +
+    "<br>LTV: " + ltv.toString() + "%<br>" +
+    "Equity: $" + equity.toString() + "k";
 }
 
 /*
@@ -291,6 +301,32 @@ function calculateROE()
   var ROE = 100 * ( e.rent * 12 - cost ) / equity;
   elem.value = Math.floor( ROE * 10 ) / 10; // keep one deciamal point
   calculate();
+}
+
+function genDropDown( dispString, id, value, valTable )
+{
+  var genHtml = dispString + "<select id='" + id + "'>";
+
+  for( var i = 0;i < valTable.length;i++ )
+  {
+    genHtml += "<option value='" + valTable[ i ] + "' ";
+    if( value == i )
+      genHtml += "selected='selected'";
+    genHtml += ">" + valTable[ i ] + "</option>";
+  }
+  genHtml += "</select>\n";
+
+  return genHtml;
+}
+
+// given an array of strings, find the index in the array that matches 'entry'
+function getEntryIx( array, entry )
+{
+  for( var ix = 0;ix < array.length;ix++ )
+    if( array[ ix ] == entry )
+      return ix;
+  
+  return -1;
 }
 
 </script>
