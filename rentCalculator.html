@@ -51,8 +51,10 @@ Rent: $<input type="number" id="rent" value="0"/> <br>
 <button onclick = 'deleteEntry();'>Delete Entry</button>
 <hr>
 <input type='file' class='' id='openEntriesAction' style='display:none'>
-<button onclick = 'openEntries();'>Open Library</button>
-<button onclick = 'exportEntries();'>Save Library</button> - 
+<button onclick = 'openEntries();'>Open</button>
+<input type='file' class='' id='mergeEntriesAction' style='display:none'>
+<button onclick = 'mergeEntries();'>+</button>
+<button onclick = 'exportEntries();'>Save</button> - 
 <button id="sortMode" onclick = 'toggleSort();'>Sorted by ROE</button>
 <hr>
 <div id = "entries"></div>
@@ -73,6 +75,7 @@ window.onload = calcInit;
 function calcInit()
 {
   document.getElementById( 'openEntriesAction' ).addEventListener( 'change', openEntriesAction, false );
+  document.getElementById( 'mergeEntriesAction' ).addEventListener( 'change', mergeEntriesAction, false );
   var propertyState = 0;
   var tempHtml = genDropDown( "Status:", "statusElement", propertyState, propertyStates );
   document.getElementById( 'statusDiv' ).innerHTML = tempHtml;
@@ -115,14 +118,14 @@ function toggleSort()
   drawEntries();
 }
 
-var library = {}; // Object of entires properties are the id.
+var entryLibrary = {}; // Object of entires properties are the id.
 
 function drawEntries()
 {
   var tmpHtml = "";
   var libArray = [];
 
-  for( const[ key, value ] of Object.entries( library ) )
+  for( const[ key, value ] of Object.entries( entryLibrary ) )
     libArray.push( value );
 
   // sort
@@ -162,7 +165,7 @@ function drawEntries()
 
 function libClick( id )
 {
-  var e = library[ id ];
+  var e = entryLibrary[ id ];
 
   document.getElementById( "name" ).value = e.name;
   document.getElementById( "notes" ).value = e.notes;
@@ -187,7 +190,7 @@ function saveEntry()
   var e = getEntry();
   if( e.id.length < 3 ) // sanity check that there's an ID
     return;
-  library[ e.id ] = e;
+  entryLibrary[ e.id ] = e;
   drawEntries();
 }
 
@@ -195,14 +198,14 @@ function deleteEntry()
 {
   var e = getEntry();
 
-  delete( library[ e.id ] );
+  delete( entryLibrary[ e.id ] );
   drawEntries();
 }
 
 // save our library as a file
 function exportEntries()
 {
-  const file = new Blob( [ JSON.stringify( library, null, '  ' ) ], { type: 'text/plain' } );
+  const file = new Blob( [ JSON.stringify( entryLibrary, null, '  ' ) ], { type: 'text/plain' } );
   const a = document.createElement( 'a' );
   a.href = URL.createObjectURL( file );
   a.download = "rentCalculator.json";
@@ -211,10 +214,8 @@ function exportEntries()
 }
 
 // open a saved library
-function openEntries()
-{
-  document.getElementById( 'openEntriesAction' ).click();
-}
+function openEntries() { document.getElementById( 'openEntriesAction' ).click(); }
+function mergeEntries() { document.getElementById( 'mergeEntriesAction' ).click(); }
 
 function openEntriesAction( e )
 {
@@ -225,7 +226,28 @@ function openEntriesAction( e )
   reader.onload = function( e )
   {
     var parsed = JSON.parse( e.target.result );
-    library = parsed;
+    entryLibrary = parsed;
+    drawEntries();
+    document.getElementById( 'openEntriesAction' ).value = null;
+  }
+
+  reader.readAsText( file );
+}
+
+function mergeEntriesAction( e )
+{
+  var file = e.target.files[ 0 ];
+  if( !file )
+    return;
+  var reader = new FileReader();
+  reader.onload = function( e )
+  {
+    var parsed = JSON.parse( e.target.result );
+
+    // merge them in
+    for (const [ key, value ] of Object.entries( parsed ) )
+      entryLibrary[ key ] = value;
+
     drawEntries();
     document.getElementById( 'openEntriesAction' ).value = null;
   }
