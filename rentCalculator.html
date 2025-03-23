@@ -3,6 +3,29 @@
 
 <head>
 <title>Rent calculator.</title>
+<style>
+
+.css_for_sale
+{
+  color: #181;
+}
+
+.css_pending
+{
+  color: #880;
+}
+
+.css_sold 
+{
+  color: #000;
+}
+
+.css_unknown
+{
+  color: #b00;
+}
+
+</style>
 </head>
 
 <body>
@@ -112,7 +135,26 @@ function drawEntries()
   }
 
   for( value of libArray )
-    tmpHtml += "<button id=" + value.id + " class='css_entry' onclick='libClick(\"" + value.id + "\")'>" + value.name + "</button>";
+  {
+    var cls = '';
+    switch( value.status )
+    {
+      case "Unknown":
+        cls = "css_unknown";
+        break;
+      case "For Sale":
+        cls = 'css_for_sale';
+        break;
+      case "Contingent":
+      case "Pending":
+        cls = 'css_pending';
+        break;
+      case "Sold":
+        cls = 'css_sold';
+        break;
+    }
+    tmpHtml += "<button id=" + value.id + " class='" + cls + "' onclick='libClick(\"" + value.id + "\")'>" + value.name + "</button>";
+  }
 
   var lib = document.getElementById( "entries" );
   lib.innerHTML = tmpHtml;
@@ -317,16 +359,6 @@ function genDropDown( dispString, id, value, valTable )
   genHtml += "</select>\n";
 
   return genHtml;
-}
-
-// given an array of strings, find the index in the array that matches 'entry'
-function getEntryIx( array, entry )
-{
-  for( var ix = 0;ix < array.length;ix++ )
-    if( array[ ix ] == entry )
-      return ix;
-  
-  return -1;
 }
 
 </script>
