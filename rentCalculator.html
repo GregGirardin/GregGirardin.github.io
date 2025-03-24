@@ -5,25 +5,11 @@
 <title>Rent calculator.</title>
 <style>
 
-.css_for_sale
-{
-  color: #181;
-}
-
-.css_pending
-{
-  color: #880;
-}
-
-.css_sold 
-{
-  color: #000;
-}
-
-.css_unknown
-{
-  color: #b00;
-}
+.css_for_sale { background-color: #8f8; }
+.css_pending { background-color: #ff8; }
+.css_sold { background-color: #eee; }
+.css_unknown { background-color: #f88; }
+.css_highlight { background-color: #f88; }
 
 </style>
 </head>
@@ -54,7 +40,7 @@ Rent: $<input type="number" id="rent" value="0"/> <br>
 <button onclick = 'openEntries();'>Open</button>
 <input type='file' class='' id='mergeEntriesAction' style='display:none'>
 <button onclick = 'mergeEntries();'>+</button>
-<button onclick = 'exportEntries();'>Save</button> - 
+<button id="saveLibElement" onclick = 'exportEntries();'>Save</button> - 
 <button id="sortMode" onclick = 'toggleSort();'>Sorted by ROE</button>
 <hr>
 <div id = "entries"></div>
@@ -184,6 +170,14 @@ function libClick( id )
   calculate();
 }
 
+function setEdited( edited )
+{
+  if( edited )
+    document.getElementById( 'saveLibElement' ).classList.add( 'css_highlight' );
+  else
+    document.getElementById( 'saveLibElement' ).classList.remove( 'css_highlight' );
+}
+
 // save the current entry to the library
 function saveEntry()
 {
@@ -191,6 +185,7 @@ function saveEntry()
   if( e.id.length < 3 ) // sanity check that there's an ID
     return;
   entryLibrary[ e.id ] = e;
+  setEdited( true );
   drawEntries();
 }
 
@@ -199,12 +194,14 @@ function deleteEntry()
   var e = getEntry();
 
   delete( entryLibrary[ e.id ] );
+  setEdited( true );
   drawEntries();
 }
 
 // save our library as a file
 function exportEntries()
 {
+  setEdited( false );
   const file = new Blob( [ JSON.stringify( entryLibrary, null, '  ' ) ], { type: 'text/plain' } );
   const a = document.createElement( 'a' );
   a.href = URL.createObjectURL( file );
@@ -219,9 +216,12 @@ function mergeEntries() { document.getElementById( 'mergeEntriesAction' ).click(
 
 function openEntriesAction( e )
 {
+  setEdited( false );
+
   var file = e.target.files[ 0 ];
   if( !file )
     return;
+ 
   var reader = new FileReader();
   reader.onload = function( e )
   {
