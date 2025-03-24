@@ -15,7 +15,7 @@
 </head>
 
 <body>
-<h3>Rent Calculator</h3>
+<h3 id="libNameElement" onClick="setLibraryName()">Rent Calculator</h3>
 Name: <input type="text" id="name" size="50" value="Property"/> <br>
 Notes: <input type="text" id="notes" size="50"/> <br>
 <div id="statusDiv"></div>
@@ -55,6 +55,7 @@ const SORTBY_LAST   = 4;
 var sortMode = SORTBY_ROE;
 
 var propertyStates = [ "Unknown", "For Sale", "Contingent", "Pending", "Sold" ];
+const DEFAULT_NAME = "Entries";
 
 window.onload = calcInit;
 
@@ -65,6 +66,9 @@ function calcInit()
   var propertyState = 0;
   var tempHtml = genDropDown( "Status:", "statusElement", propertyState, propertyStates );
   document.getElementById( 'statusDiv' ).innerHTML = tempHtml;
+
+  entryLibrary[ "__globals__" ] = {};
+  entryLibrary[ "__globals__" ].libraryName = DEFAULT_NAME;
 }
 
 class Entry
@@ -112,8 +116,10 @@ function drawEntries()
   var libArray = [];
 
   for( const[ key, value ] of Object.entries( entryLibrary ) )
-    libArray.push( value );
-
+  {
+    if( key != "__globals__" ) // special entry for global parameters
+      libArray.push( value );
+  }
   // sort
   switch( sortMode )
   {
@@ -168,6 +174,17 @@ function libClick( id )
   document.getElementById( 'hyperlink' ).href = e.URL; // set the URL
 
   calculate();
+}
+
+function setLibraryName()
+{
+  var name = prompt( "Name:" );
+  if( name )
+  {
+    setEdited( true );
+    entryLibrary[ "__globals__" ].libraryName = name;
+    document.getElementById( 'libNameElement' ).innerText = name;
+  }
 }
 
 function setEdited( edited )
@@ -227,6 +244,7 @@ function openEntriesAction( e )
   {
     var parsed = JSON.parse( e.target.result );
     entryLibrary = parsed;
+    document.getElementById( 'libNameElement' ).innerText = entryLibrary[ "__globals__" ].libraryName;
     drawEntries();
     document.getElementById( 'openEntriesAction' ).value = null;
   }
