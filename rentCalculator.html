@@ -27,7 +27,7 @@
 <button onclick = 'saveEntry();'>Save Entry</button>
 <button onclick = 'deleteEntry();'>Delete Entry</button> -
 <button onclick = 'calculateRent();'>Calc Rent</button>
-<button onclick = 'calculatePrice();'>Calc Price</button>
+<button onclick = 'calculateOffer();'>Calc Offer</button>
 <button onclick = 'calculateROE();'>Calc ROE</button> -
 <input type='file' class='' id='openEntriesAction' style='display:none'>
 <button onclick = 'openEntries();'>Open</button>
@@ -167,7 +167,6 @@ function libClick( id )
   var e = entryLibrary[ id ];
 
   document.getElementById( "name" ).value = e.name;
-  //document.getElementById( "notes" ).value = e.notes;
   document.getElementById( "entryNotes" ).innerText = e.notes;
   document.getElementById( "statusElement" ).value = e.status;
   document.getElementById( "URL" ).value = e.URL;
@@ -285,7 +284,6 @@ function mergeEntriesAction( e )
 function getEntry()
 {
   var name      = document.getElementById( "name" ).value;
-  //var notes     = document.getElementById( "notes" ).value;
   var notes     = document.getElementById( "entryNotes" ).innerText;
   var status    = document.getElementById( "statusElement" ).value;
   var URL       = document.getElementById( "URL" ).value;
@@ -346,7 +344,7 @@ function calculateRent()
 }
 
 /*
-  Calculate price
+  Calculate Offer to hit ROE with given rent
   Equity = Price - Loan
   AnnualCost = MonthyCost * 12 + pTax + loan * rate
 
@@ -356,15 +354,16 @@ function calculateRent()
   ((AnnualRent - AnnualCost) / (ROE / 100)) + Loan = Price
 */
 
-function calculatePrice()
+function calculateOffer()
 {
   var e = getEntry();
   var mortgage = e.loan * 1000 * e.rate / 100;
   var cost = e.LLMonthly * 12 + e.pTax + mortgage;
-  var price = ( e.rent * 12 - cost ) / ( e.ROE * 10 );
-  var elem = document.getElementById( "price" );
-  elem.value = Math.floor( price );
-  calculate();
+  var price = Math.floor( ( e.rent * 12 - cost ) / ( e.ROE * 10 ) );
+  var str = "\nOffer $" + price.toString() + "k for " + e.ROE + "% ROE with $" + e.rent + " rent.";
+  var notesElem = document.getElementById( "entryNotes" );
+  var notes = notesElem.innerText + str;
+  notesElem.innerText = notes; // add the offer to the Notes. Don't want to change the Price field.
 }
 
 /*
