@@ -24,19 +24,20 @@
 <body>
 <h3 id="libNameElement" onClick="setLibraryName()">Rent Calculator</h3>
 <hr>
+<input type='file' class='' id='openEntriesAction' style='display:none'>
+<button onclick = 'openEntries();'>Open Library</button>
+<input type='file' class='' id='mergeEntriesAction' style='display:none'>
+<button onclick = 'mergeEntries();'>+</button>
+<button id="saveLibElement" onclick = 'exportEntries();'>Export</button>
+<hr>
 <button onclick = 'saveEntry();'>Save Entry</button>
 <button onclick = 'deleteEntry();'>Delete Entry</button> -
 <button onclick = 'calculateRent();'>Calc Rent</button>
 <button onclick = 'calculateOffer();'>Calc Offer</button>
 <button onclick = 'calculateROE();'>Calc ROE</button> -
-<input type='file' class='' id='openEntriesAction' style='display:none'>
-<button onclick = 'openEntries();'>Open</button>
-<input type='file' class='' id='mergeEntriesAction' style='display:none'>
-<button onclick = 'mergeEntries();'>+</button>
-<button id="saveLibElement" onclick = 'exportEntries();'>Export</button> - 
 <button id="sortMode" onclick = 'toggleSort();'>Sorted by ROE</button>
 <hr>
-<div id = "entries"> Entries </div>
+<div id="entries" style="width:864px;"> Entries </div>
 <hr>
 Name: <input type="text" id="name" size="50" value="Property"/> <br><br>
 <div contenteditable="true" class='css_notes' id="entryNotes">Notes</div><br>
