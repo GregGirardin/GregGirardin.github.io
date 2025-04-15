@@ -361,7 +361,7 @@ function calculateOffer()
   var mortgage = e.loan * 1000 * e.rate / 100;
   var cost = e.LLMonthly * 12 + e.pTax + mortgage;
   var price = Math.floor( ( e.rent * 12 - cost ) / ( e.ROE * 10 ) );
-  var str = "\nOffer $" + price.toString() + "k for " + e.ROE + "% ROE with $" + e.rent + " rent.";
+  var str = "\nOffer $" + price.toString() + "k for " + e.ROE + "% ROE @ $" + e.rent + " rent.";
   var notesElem = document.getElementById( "entryNotes" );
   var notes = notesElem.innerText + str;
   notesElem.innerText = notes; // add the offer to the Notes. Don't want to change the Price field.
