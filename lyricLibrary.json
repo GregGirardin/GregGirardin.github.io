@@ -560,14 +560,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk": {
-    "name": "Our Lips Are Sealed (Moon Talk)",
-    "artist": "Moon Talk",
-    "id": "Our_Lips_Are_Sealed_(Moon_Talk).Moon_Talk",
-    "lyrics": "V: C Fm\nC: Ab G C# G C\n\n    Hush, my darling don't you cry.\n    Quiet, angel, forget their lies.\n\nCan you hear them? They talk about us.\nTelling lies, well, that's no surprise.\nCan you see them? See right through them.\nThey have no shields, no secrets to reveal.\n\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Norwegian_Wood.The_Beatles": {
     "name": "Norwegian Wood",
     "artist": "The Beatles",
@@ -4443,6 +4435,13 @@
     "artist": "CSN",
     "id": "Helplessly_Hoping.CSN",
     "lyrics": "V: Am7 C G D\nC: G G4 Dm/F C G\n\nHelplessly hoping, her harlequin hovers nearby awaiting a word\nGasping at glimpses of gentle true spirit, he runs, wishing he could fly\nOnly to trip at the sound of goodbye.\n\nWordlessly watching he waits by the window and wonders, at the empty place inside.\nHeartlessly helping himself to her bad dreams, he worries did he hear a goodbye\nor even hello?\n\n  They are one person, they are two alone.\n  They are three together, they are four for each other.\n\nStand by the stairway, you'll see something certain to tell you, confusion has its cost.\nLove isn't lying it's loose in a lady who lingers, saying she is lost\nand choking on hello.\n\n  Chorus",
+    "key": "C"
+  },
+  "Our_Lips_Are_Sealed.Go-Gos": {
+    "name": "Our Lips Are Sealed",
+    "artist": "Go-Gos",
+    "id": "Our_Lips_Are_Sealed.Go-Gos",
+    "lyrics": "V: A G D\nC: F D Bb E A D A\nB: A\n\nCan you hear them? They talk about us.\nTelling lies, well, that's no surprise.\nCan you see them? See right through them.\nThey have no shields, no secrets to reveal.\n\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.\n\n    Hush, my darling, don't you cry.\n    Quiet, angel, forget their lies.\n\nV1\n",
     "key": "C"
   }
 }
