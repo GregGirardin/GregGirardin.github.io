@@ -576,14 +576,6 @@
     "key": "E",
     "tempo": ""
   },
-  "Mony_Mony.Billy_Idol": {
-    "name": "Mony Mony",
-    "artist": "Billy Idol",
-    "id": "Mony_Mony.Billy_Idol",
-    "lyrics": "Here she come now sayin \"Mony, Mony\"\nShoot em down, turn around, come on Mony\nHey, she give me love and I feel all right now\nYeah! you gotta toss and turn and feel all right.. I said, yeah..\n\n  Cause you make me feel (Like I'm wanted)\n  So good.. So fine.. it's all mine \n  Well, I feel all right I said, yeah (Yeah)\n\nWake it shake it, Mony, Mony\nShotgun dead, and I'll come on, Mony\nDon't stop cookin cause I feel all right now\nDon't stop now come on, Mony, come on.. I said, yeah..\n\n  Chorus\n\n  Break\n\n    I love you Mony, mo-mo-mony.. say I do.\n    Yeah...\n    Come on..    Yeah..\n\nWake it shake it, Mony Mony\nUp down turn around, come on, Mony\nHey she give me love, and I feel all right now\nI said, don't stop now, come on, Mony I said, yeah..\n\n  Chorus\n\n  I want to ride your pony..\n\n  Chorus\n",
-    "key": "F",
-    "tempo": "Tempo"
-  },
   "Sledgehammer.Peter_Gabriel": {
     "name": "Sledgehammer",
     "artist": "Peter Gabriel",
@@ -4443,5 +4435,19 @@
     "id": "Our_Lips_Are_Sealed.Go-Gos",
     "lyrics": "V: A G D\nC: F D Bb E A D A\nB: A\n\nCan you hear them? They talk about us.\nTelling lies, well, that's no surprise.\nCan you see them? See right through them.\nThey have no shields, no secrets to reveal.\n\n  It doesn't matter what they say\n  In the jealous games people play, our lips are sealed.\n\nThere's a weapon we must use\nIn our defense, silence.\nWhen you look at them, look right through them,\nThat's when they'll disappear, that's when you'll be feared.\n\n  It doesn't matter what they say\n  In the jealous games people play. Our lips are sealed.\n  Pay no mind to what they say\n  It doesn't matter anyway, our lips are sealed.\n\n    Hush, my darling, don't you cry.\n    Quiet, angel, forget their lies.\n\nV1\n",
     "key": "C"
+  },
+  "You_Keep_Me_Hanging_On.Kim_Wilde": {
+    "name": "You Keep Me Hanging On",
+    "artist": "Kim Wilde",
+    "id": "You_Keep_Me_Hanging_On.Kim_Wilde",
+    "lyrics": "V: (F C G) G E, F C G G E Am\nC: Am G Em F\n\n  Set me free why dontcha babe get out of my life why don'tcha babe\n  Cause you don't really love me you just keep me hangin' on\n\nWhy do you keep a comin' around playing with my heart\nWhy don'tcha get out of my life and let me make a brand new start\nLet me get over you the way you've gotten over me yeah\n\n  Chorus\n\nYou say although we broke up you still just wanna be friends\nBut how can we still be friends when seeing you only breaks my heart again\nWhoah...\n\n  Get out, get out of my life and let me sleep at night\n  Cause you don't really love me you just keep me hangin' on\n\nYou say you still care for me but your heart and soul needs to be free\nAnd now that you've got your freedom you wanna still hold on to me\nYou don't want me for yourself so let me find somebody else\n\n  Chorus\n\n  Why don'tcha be a man about it and set me free\n  Now you don't care a thing about me you're just using me hey, abusing me\n\n  Get out, get out of my life and let me sleep at night\n  Cause you don't really love me you just keep me hangin' on\n  You don't really need me you just keep me - hangin' on",
+    "key": "C"
+  },
+  "Mony_Mony.Billy_Idol": {
+    "name": "Mony Mony",
+    "artist": "Billy Idol",
+    "id": "Mony_Mony.Billy_Idol",
+    "lyrics": "F F Bb F\n\nHere she come now, say my Mony Mony\nShoot 'em up come on, a Mony Mony\nHey, she look good, now I feel alright, now\nI said a don't stop now A come on Mony\nCome on yeah I say\n\nYeah Yeah Yeah Yeah Yeah Yeah Yeah\n'Cause you make me feel (Mony Mony)\nSo good (Mony Mony)\nSo good (Mony Mony)\nYes I feel alright (Mony Mony)\nSo fine (Mony Mony)\nSo fine (Mony Mony)\nIt's so fine (Mony Mony)\nYes, I feel alright I say\nYeah Yeah Yeah Yeah Yeah Yeah Yeah Yeah\nWake it, shake it, Mony Mony\nI said a shotgun dead, and a come on, Mony\nDon't stop cookin', 'cause I feel too good yeah\nWell don't stop now, a come on, Mony\nCome on yeah I said\n\nYeah Yeah Yeah Yeah Yeah Yeah Yeahhhh\n'Cause you make me feel (Mony Mony)\nSo fine (Mony Mony)\nSo fine (Mony Mony)\nIt's so fine (Mony Mony)\nMake me feel alright (Mony Mony)\nAlright (Mony Mony)\nAlright (Mony Mony)\nDo ya feel alright I say\nYeah Yeah Yeah Yeah Yeah Yeah Yeah Yeah\n\n[Break]\ne|----------------------|\nB|----------------------|\nG|----------------------|\nD|---3-1--------3-1-----|\nA|-------3-1--------1-3-|\nE|-1----------1---------|\n\nI love you Mony. Mon, Mon, Mon, Say I do...\n\n[Chorus]\n",
+    "key": "F"
   }
 }
