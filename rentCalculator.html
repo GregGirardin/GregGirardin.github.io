@@ -7,7 +7,7 @@
 
 .css_for_sale { background-color: #8f8; }
 .css_pending { background-color: #ff8; }
-.css_sold { background-color: #eee; }
+.css_closed { background-color: #eee; }
 .css_unknown { background-color: #f88; }
 .css_highlight { background-color: #f88; }
 .css_notes
@@ -47,8 +47,8 @@ Price (thousands): $<input type="number" id="price" value="100"/> <br>
 Loan (thousands): $<input type="number" id="loan" value="0"/> <br>
 Interest Rate %: <input type="number" id="rate" value="0"/> <br>
 Property Tax (yearly): $<input type="number" id="pTax" value="0"/> <br>
-Other Cost (monthly): $<input type="number" id="LLMonthly" value="0"/> <br>
-ROE %: <input type="number" id="ROE" value="10"/> <br>
+HOA (monthly): $<input type="number" id="HOAMonthly" value="0"/> <br>
+Other Cost (monthly): $<input type="number" id="LLMonthly" value="0"/> <br> ROE %: <input type="number" id="ROE" value="10"/> <br>
 Rent: $<input type="number" id="rent" value="0"/> <br>
 <div id="miscElement"></div>
 <hr>
@@ -62,7 +62,7 @@ const SORTBY_LAST   = 4;
 
 var sortMode = SORTBY_ROE;
 
-var propertyStates = [ "Unknown", "For Sale", "Contingent", "Pending", "Sold" ];
+var propertyStates = [ "Unknown", "For Sale", "Contingent", "Pending", "Closed" ];
 const DEFAULT_NAME = "Entries";
 
 window.onload = calcInit;
@@ -81,7 +81,7 @@ function calcInit()
 
 class Entry
 {
-  constructor( name, notes, status, URL, price, loan, rate, pTax, LLMonthly, ROE, rent )
+  constructor( name, notes, status, URL, price, loan, rate, pTax, HOAMonthly, LLMonthly, ROE, rent )
   {
     this.name = name;
     this.notes = notes;
@@ -92,6 +92,7 @@ class Entry
     this.loan = loan;
     this.rate = rate;
     this.pTax = pTax;
+    this.HOAMonthly = HOAMonthly;
     this.LLMonthly = LLMonthly;
     this.ROE = ROE;
     this.rent = rent;
@@ -152,8 +153,8 @@ function drawEntries()
       case "Pending":
         cls = 'css_pending';
         break;
-      case "Sold":
-        cls = 'css_sold';
+      case "Closed":
+        cls = 'css_closed';
         break;
     }
     tmpHtml += "<button id=" + value.id + " class='" + cls + "' onclick='libClick(\"" + value.id + "\")'>" + value.name + "</button>";
@@ -175,6 +176,7 @@ function libClick( id )
   document.getElementById( "loan" ).value = e.loan;
   document.getElementById( "rate" ).value = e.rate;
   document.getElementById( "pTax" ).value = e.pTax;
+  document.getElementById( "HOAMonthly" ).value = e.HOAMonthly;
   document.getElementById( "LLMonthly" ).value = e.LLMonthly;
   document.getElementById( "ROE" ).value = e.ROE;
   document.getElementById( "rent" ).value = e.rent;
@@ -284,19 +286,20 @@ function mergeEntriesAction( e )
 // make an Entry using values from the page
 function getEntry()
 {
-  var name      = document.getElementById( "name" ).value;
-  var notes     = document.getElementById( "entryNotes" ).innerText;
-  var status    = document.getElementById( "statusElement" ).value;
-  var URL       = document.getElementById( "URL" ).value;
-  var price     = parseInt( document.getElementById( "price" ).value );
-  var loan      = parseInt( document.getElementById( "loan" ).value );
-  var rate      = parseInt( document.getElementById( "rate" ).value );
-  var pTax      = parseInt( document.getElementById( "pTax" ).value );
-  var LLMonthly = parseInt( document.getElementById( "LLMonthly" ).value );
-  var rent      = parseInt( document.getElementById( "rent" ).value );
-  var ROE       = parseFloat( document.getElementById( "ROE" ).value );
+  var name       = document.getElementById( "name" ).value;
+  var notes      = document.getElementById( "entryNotes" ).innerText;
+  var status     = document.getElementById( "statusElement" ).value;
+  var URL        = document.getElementById( "URL" ).value;
+  var price      = parseInt( document.getElementById( "price" ).value );
+  var loan       = parseInt( document.getElementById( "loan" ).value );
+  var rate       = parseInt( document.getElementById( "rate" ).value );
+  var pTax       = parseInt( document.getElementById( "pTax" ).value );
+  var HOAMonthly = parseInt( document.getElementById( "HOAMonthly" ).value );
+  var LLMonthly  = parseInt( document.getElementById( "LLMonthly" ).value );
+  var rent       = parseInt( document.getElementById( "rent" ).value );
+  var ROE        = parseFloat( document.getElementById( "ROE" ).value );
 
-  var entry = new Entry( name, notes, status, URL, price, loan, rate, pTax, LLMonthly, ROE, rent );
+  var entry = new Entry( name, notes, status, URL, price, loan, rate, pTax, HOAMonthly, LLMonthly, ROE, rent );
 
   document.getElementById( 'hyperlink' ).href = URL; // set the URL
 
@@ -309,7 +312,7 @@ function calculate()
   var e = getEntry();
 
   var mortgage = ( e.loan * 1000 * e.rate / 100 ) / 12; // monthly
-  var income = Math.floor( e.rent - e.LLMonthly - e.pTax / 12 - mortgage );
+  var income = Math.floor( e.rent - e.HOAMonthly - e.LLMonthly - e.pTax / 12 - mortgage );
   var ltv = Math.floor( 100 * e.loan / e.price );
   var equity = e.price - e.loan;
 
@@ -337,7 +340,7 @@ function calculateRent()
   var e = getEntry();
 
   var mortgage = e.loan * 1000 * e.rate / 100; // annual
-  var cost = e.LLMonthly * 12 + e.pTax + mortgage;
+  var cost = (e.HOAMonthly + e.LLMonthly) * 12 + e.pTax + mortgage;
   var rent = ( ( e.ROE * ( e.price - e.loan ) * 10 ) + cost ) / 12;
   var elem = document.getElementById( "rent" );
   elem.value = Math.floor( rent );
@@ -359,7 +362,7 @@ function calculateOffer()
 {
   var e = getEntry();
   var mortgage = e.loan * 1000 * e.rate / 100;
-  var cost = e.LLMonthly * 12 + e.pTax + mortgage;
+  var cost = (e.HOAMonthly + e.LLMonthly) * 12 + e.pTax + mortgage;
   var price = Math.floor( ( e.rent * 12 - cost ) / ( e.ROE * 10 ) );
   var str = "\nOffer $" + price.toString() + "k for " + e.ROE + "% ROE @ $" + e.rent + " rent.";
   var notesElem = document.getElementById( "entryNotes" );
@@ -388,7 +391,7 @@ function calculateROE()
     return;
   }
   var mortgage = e.loan * 1000 * e.rate / 100;
-  var cost = e.LLMonthly * 12 + e.pTax + mortgage; // annual cost
+  var cost = (e.HOAMonthly + e.LLMonthly) * 12 + e.pTax + mortgage; // annual cost
   var ROE = 100 * ( e.rent * 12 - cost ) / equity;
   elem.value = Math.floor( ROE * 10 ) / 10; // keep one deciamal point
   calculate();
