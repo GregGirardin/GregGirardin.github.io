@@ -1,0 +1,761 @@
+<!--
+{
+  "name": "JB-Jam",
+  "sets": [
+    {
+      "name": "Set",
+      "songs": [
+        {
+          "name": "Ballroom Blitz (E)",
+          "artist": "Sweet",
+          "id": "Ballroom_Blitz_(E).Sweet",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Long Cool Woman (A)",
+          "artist": "The Hollies",
+          "id": "Long_Cool_Woman_(A).The_Hollies",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Brain Damage (D)",
+          "artist": "Pink Floyd",
+          "id": "Brain_Damage_(D).Pink_Floyd",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Lay Down Sally (E)",
+          "artist": "Eric Clapton",
+          "id": "Lay_Down_Sally_(E).Eric_Clapton",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Take It Easy (G)",
+          "artist": "The Eagles",
+          "id": "Take_It_Easy_(G).The_Eagles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Midnight Special (D)",
+          "artist": "Creedence Clearwater Revival",
+          "id": "Midnight_Special_(D).Creedence_Clearwater_Revival",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Melissa (E)",
+          "artist": "The Allman Brothers",
+          "id": "Melissa_(E).The_Allman_Brothers",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>JB-Jam</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set</div>
+<button class='accordion'>1. Ballroom Blitz (E)</button>
+<div class='panel'>
+Are you ready, Steve? (Uh-huh)<br>
+Andy? (Yeah)<br>
+Mick? (Okay)<br>
+Alright, fellas, well, let's go<br>
+<br>
+Well, it's been getting so hard<br>
+Living with the things you did to me, ah-ha<br>
+My dreams are getting so strange<br>
+I'd like to tell you everything I see<br>
+<br>
+Oh, I see a man at the back<br>
+As a matter of fact, his eyes are as red as a sun<br>
+And the girl in the corner, let no one ignore her<br>
+'Cause she thinks she's the passionate one<br>
+<br>
+Oh, yeah, it was like lightning<br>
+Everybody was frightening<br>
+And the music was soothing<br>
+And they all started grooving<br>
+Yeah, yeah, yeah, yeah, yeah<br>
+<br>
+&nbsp;&nbsp;And the man at the back said, "Everyone, attack"<br>
+&nbsp;&nbsp;And it turned into a ballroom blitz<br>
+&nbsp;&nbsp;And the girl in the corner said, "Boy, I wanna warn ya<br>
+&nbsp;&nbsp;It'll turn into a ballroom blitz"<br>
+<br>
+&nbsp;&nbsp;Ballroom blitz x4<br>
+<br>
+I'm reaching out for something<br>
+Touching nothing's all I ever do<br>
+Oh, I softly call you over<br>
+When you appear, there's nothing left of you, ah-ha<br>
+<br>
+Now the man in the back is ready to crack<br>
+As he raises his hands to the sky<br>
+And the girl in the corner is everyone's mourner<br>
+She could kill you with a wink of her eye<br>
+<br>
+Oh, yeah, it was electric<br>
+So frantically hectic<br>
+And the band started leaving<br>
+'Cause they all stopped breathing<br>
+Yeah, yeah, yeah, yeah, yeah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Ballroom blitz<br>
+<br>
+Oh, yeah, it was like lightning<br>
+Everybody was frightening<br>
+And the music was soothing<br>
+And they all started grooving<br>
+Yeah, yeah, yeah, yeah, yeah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Ballroom blitz x4<br>
+<br>
+It's, it's the ballroom blitz<br>
+It's, it's the ballroom blitz<br>
+It's, it's the ballroom blitz<br>
+Yeah, it's the ballroom blitz<br>
+<br>
+</div>
+
+<button class='accordion'>2. Long Cool Woman (A)</button>
+<div class='panel'>
+Saturday night, I was downtown<br>
+Workin' for the FBI<br>
+Sittin' in a nest of bad men<br>
+Whiskey bottles pilin' high<br>
+<br>
+Bootleggin' boozer on the west side<br>
+Full of people who are doin' wrong<br>
+Just about to call up the D.A. man<br>
+When I heard this woman singin' a song<br>
+<br>
+A pair of .45's made me open my eyes<br>
+My temperature started to rise<br>
+She was a long cool woman in a black dress<br>
+What a 5'9, beautiful tall<br>
+With just one look, I was a bad mess<br>
+'Cause that long cool woman had it all<br>
+<br>
+Whoa!<br>
+<br>
+I saw her headin' to the table<br>
+Well, a tall walkin' big black cat<br>
+A-Charlie said, "I hope that you're able, boy<br>
+'Cause I'm tellin' ya she knows where it's at"<br>
+<br>
+Well, suddenly we heard the sirens<br>
+And everybody started to run<br>
+A-Jumpin' under doors and tables<br>
+Well, I heard somebody shootin' a gun<br>
+<br>
+Well, the D.A. was pumpin' my left hand<br>
+I mean, she was whole on my right<br>
+Well, I told her, "Don't get scared<br>
+'Cause you're gonna be spared"<br>
+<br>
+I've gotta be forgiven if I wanna spend my livin'<br>
+With a long cool woman in a black dress<br>
+Just a 5'9, beautiful tall<br>
+Well, with just one look, I was a bad mess<br>
+'Cause that long cool woman had it all<br>
+<br>
+Had it all x5<br>
+Ooh<br>
+Had it all<br>
+<br>
+Ah, she had it all<br>
+Yeah<br>
+<br>
+</div>
+
+<button class='accordion'>3. Brain Damage (D)</button>
+<div class='panel'>
+The lunatic is on the grass<br>
+The lunatic is on the grass<br>
+Remembering games<br>
+And daisy chains and laughs<br>
+Got to keep the loonies on the path<br>
+<br>
+The lunatic is in the hall<br>
+The lunatics are in my hall<br>
+The paper holds their folded faces to the floor<br>
+And every day the paper boy brings more<br>
+<br>
+And if the dam breaks open many years too soon<br>
+And if there is no room upon the hill<br>
+And if your head explodes with dark forebodings too<br>
+I'll see you on the dark side of the moon<br>
+<br>
+The lunatic is in my head<br>
+The lunatic is in my head<br>
+You raise the blade<br>
+You make the change<br>
+You rearrange me 'til I'm sane<br>
+You lock the door<br>
+And throw away the key<br>
+There's someone in my head, but it's not me<br>
+<br>
+And if the cloud bursts thunder in your ear<br>
+You shout and no one seems to hear<br>
+And if the band you're in starts playing different tunes<br>
+I'll see you on the dark side of the moon<br>
+<br>
+I can't think of anything to say except, laughing is nice<br>
+<br>
+</div>
+
+<button class='accordion'>4. Lay Down Sally (E)</button>
+<div class='panel'>
+There is nothing that is wrong<br>
+In wanting you to stay here with me<br>
+I know you've got somewhere to go<br>
+But won't you make yourself at home and stay with me?<br>
+And don't you ever leave<br>
+<br>
+&nbsp;&nbsp;Lay down, Sally, and rest here in my arms<br>
+&nbsp;&nbsp;Don't you think you want someone to talk to?<br>
+&nbsp;&nbsp;Lay down, Sally, no need to leave so soon<br>
+&nbsp;&nbsp;I've been trying all night long just to talk to you<br>
+<br>
+Sun ain't nearly on the rise<br>
+We still got the moon and stars above<br>
+Underneath the velvet skies<br>
+Love is all that matters, won't you stay with me?<br>
+Don't you ever leave<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+I long to see the morning light<br>
+Colour in your face so dreamily<br>
+So don't you go and say goodbye<br>
+You can lay your worries down and stay with me<br>
+Don't you ever leave<br>
+<br>
+&nbsp;&nbsp;Chorus x2<br>
+<br>
+</div>
+
+<button class='accordion'>5. Take It Easy (G)</button>
+<div class='panel'>
+Well, I'm a-runnin' down the road tryna loosen my load<br>
+I've got seven women on my mind<br>
+Four that wanna own me, two that wanna stone me<br>
+One says she's a friend of mine<br>
+<br>
+Take it easy, take it easy<br>
+Don't let the sound of your own wheels drive you crazy<br>
+Lighten up while you still can<br>
+Don't even try to understand<br>
+Just find a place to make your stand<br>
+Take it easy<br>
+<br>
+Well, I'm a-standin' on a corner in Winslow, Arizona<br>
+Such a fine sight to see<br>
+It's a girl, my Lord, in a flatbed Ford<br>
+Slowin' down to take a look at me<br>
+<br>
+Come on, baby, don't say maybe<br>
+I gotta know if your sweet love is gonna save me<br>
+We may lose and we may win<br>
+Though we will never be here again<br>
+So open up, I'm climbin' in<br>
+So take it easy<br>
+<br>
+Well, I'm a-runnin' down the road tryna loosen my load<br>
+Got a world of trouble on my mind<br>
+Lookin' for a lover who won't blow my cover<br>
+She's so hard to find<br>
+<br>
+Take it easy, take it easy<br>
+Don't let the sound of your own wheels make you crazy<br>
+Come on, baby, don't say maybe<br>
+I gotta know if your sweet love is gonna save me<br>
+<br>
+Ooh, ooh x6<br>
+Oh, we got it easy<br>
+We oughta take it easy<br>
+<br>
+</div>
+
+<button class='accordion'>6. Midnight Special (D)</button>
+<div class='panel'>
+Well, you wake up in the mornin'<br>
+You hear the work bell ring<br>
+And they march you to the table<br>
+You see the same old thing<br>
+Ain't no food upon the table<br>
+And no pork up in the pan<br>
+But you better not complain, boy<br>
+You get in trouble with the man<br>
+<br>
+&nbsp;&nbsp;Let the Midnight Special shine a light on me x3<br>
+&nbsp;&nbsp;Let the Midnight Special shine an ever-lovin' light on me<br>
+<br>
+Yonder come Miss Rosie<br>
+How in the world did you know?<br>
+By the way she wears her apron<br>
+And the clothes she wore<br>
+Umbrella on her shoulder<br>
+Piece of paper in her hand<br>
+She come to see the gov'nor<br>
+She want to free her man, oh<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+If you're ever in Houston<br>
+Well, you better do right<br>
+You better not gamble<br>
+There, you better not fight, Lord<br>
+Or the sheriff will grab ya<br>
+And the boys will bring you down<br>
+The next thing you know, boy<br>
+Whoa, you're prison bound<br>
+<br>
+&nbsp;&nbsp;Chorus x2<br>
+<br>
+</div>
+
+<button class='accordion'>7. Melissa (E)</button>
+<div class='panel'>
+Crossroads, seem to come and go, yeah<br>
+The gypsy flies from coast to coast<br>
+Knowing many, loving none<br>
+Bearing sorrow, havin' fun<br>
+But back home he'll always run<br>
+To sweet Melissa<br>
+<br>
+Freight train, each car looks the same, all the same<br>
+And no one knows the Gypsy's name<br>
+No one hears his lonely sighs<br>
+There are no blankets where he lies<br>
+In all his deepest dreams the Gypsy flies<br>
+With sweet Melissa<br>
+<br>
+Again the morning's come<br>
+Again he's on the run<br>
+Sunbeams shining through his hair<br>
+Appearing not to have a care<br>
+Well, pick up your gear and Gypsy roll on, roll on<br>
+<br>
+Crossroads, will you ever let him go? No, no, no<br>
+Will you hide the dead man's ghost?<br>
+Or will he lie, beneath the clay?<br>
+Or will his spirit float away?<br>
+But I know that he won't stay without Melissa<br>
+Yes, I know that he won't stay without Melissa<br>
+<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
