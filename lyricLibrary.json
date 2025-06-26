@@ -3344,14 +3344,6 @@
     "key": "D",
     "tempo": "131"
   },
-  "Call_Me.Blondie": {
-    "name": "Call Me",
-    "artist": "Blondie",
-    "id": "Call_Me.Blondie",
-    "lyrics": "I: Dm [G F][F C]    144bpm\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n\ne|-7---------------------|---------------|\nb|--10p8-7~--8-10--7-----|----0----0--0h2|\ng|-------------------7---|-0h2--0h2------|\nD|---------------------9-|---------------|\n\ne|-7~~-------14~~~--17-15-14--17--15-|14~~~~---|\nb|----10p8-7-------------------------|----15---|\ng|-----------------------------------|------16~|\n\ne|-17~~15/13-13~~~-----------------|---------|\nb|----------------10-11-13--10-11--|13~~~----|\ng|---------------------------------|---12--9~|\n\ne|---------------10h12h|13--12h13p12-10---|\nb|--------10-13--------|------------------|\ng|-10~~12~-------------|------------------|\n\ne|-10--12-13~~~-12h13p12-10~~~-----------------------------12~-|\nb|---------------------------13--12~~--12h13h15--12h13h15------|\ng|-------------------------------------------------------------|",
-    "key": "Dm",
-    "tempo": "144"
-  },
   "Big_City_Nights.Scorpions": {
     "name": "Big City Nights",
     "artist": "Scorpions",
@@ -4636,5 +4628,19 @@
     "id": "Melissa_(E).The_Allman_Brothers",
     "lyrics": "Crossroads, seem to come and go, yeah\nThe gypsy flies from coast to coast\nKnowing many, loving none\nBearing sorrow, havin' fun\nBut back home he'll always run\nTo sweet Melissa\n\nFreight train, each car looks the same, all the same\nAnd no one knows the Gypsy's name\nNo one hears his lonely sighs\nThere are no blankets where he lies\nIn all his deepest dreams the Gypsy flies\nWith sweet Melissa\n\nAgain the morning's come\nAgain he's on the run\nSunbeams shining through his hair\nAppearing not to have a care\nWell, pick up your gear and Gypsy roll on, roll on\n\nCrossroads, will you ever let him go? No, no, no\nWill you hide the dead man's ghost?\nOr will he lie, beneath the clay?\nOr will his spirit float away?\nBut I know that he won't stay without Melissa\nYes, I know that he won't stay without Melissa\n",
     "key": "E"
+  },
+  "Call_Me_Solo.Blondie": {
+    "name": "Call Me Solo",
+    "artist": "Blondie",
+    "id": "Call_Me_Solo.Blondie",
+    "lyrics": "e|-7---------------------|---------------|\nb|--10p8-7~--8-10--7-----|----0----0--0h2|\ng|-------------------7---|-0h2--0h2------|\nD|---------------------9-|---------------|\n\ne|-7~~-------14~~~--17-15-14--17--15-|14~~~~---|\nb|----10p8-7-------------------------|----15---|\ng|-----------------------------------|------16~|\n\ne|-17~~15/13-13~~~-----------------|---------|\nb|----------------10-11-13--10-11--|13~~~----|\ng|---------------------------------|---12--9~|\n\ne|---------------10h12h|13--12h13p12-10---|\nb|--------10-13--------|------------------|\ng|-10~~12~-------------|------------------|\n\ne|-10--12-13~~~-12h13p12-10~~~-----------------------------12~-|\nb|---------------------------13--12~~--12h13h15--12h13h15------|\ng|-------------------------------------------------------------|",
+    "key": "Dm"
+  },
+  "Call_Me.Blondie": {
+    "name": "Call Me",
+    "artist": "Blondie",
+    "id": "Call_Me.Blondie",
+    "lyrics": "I: Dm [G F][F C]    144bpm\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n",
+    "key": "Dm"
   }
 }
