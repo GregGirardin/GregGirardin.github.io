@@ -3655,14 +3655,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Broken_Wings.Mr_Mister": {
-    "name": "Broken Wings",
-    "artist": "Mr Mister",
-    "id": "Broken_Wings.Mr_Mister",
-    "lyrics": "V: Em D A\nC: Am G F\n\nBaby, don't understand\nwhy we can't just hold on to each other's hands\nThis time might be the last if fear\nunless I make it all too clear I need you so ooh\n \n  Take these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear the voices sing\n  The book of love will open up and let us in.\n  Take these broken wings\n \nBaby, I think tonight we can take\nwhat was wrong and make it right.\nBaby it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Ch\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
-    "key": "Em",
-    "tempo": "Tempo"
-  },
   "Where_The_River_Flows.Collective_Soul": {
     "name": "Where The River Flows",
     "artist": "Collective Soul",
@@ -4683,5 +4675,12 @@
     "id": "Carry_That_Weight.The_Beatles",
     "lyrics": "Am7 D7sus4 Dm7 G7 Csus4 C Fmaj7 Bm7b5 E7 Am7 | G C G\nC G\nG C G/B | A | C G/B | A\nA G  F Dm G C | D/C | Eb/C F/C | C\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\nBoy, you're gonna carry that weight\nCarry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
     "key": "Am"
+  },
+  "Broken_Wings.Mr_Mister": {
+    "name": "Broken Wings",
+    "artist": "Mr Mister",
+    "id": "Broken_Wings.Mr_Mister",
+    "lyrics": "V: Em D A\nC: Am G F\n\nBaby, don't understand\nwhy we can't just hold on... to each other's hands\nThis time might be the last.. I fear\nunless I... make it all too clear I need you so ooh\n \n  Take, these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear, the voices sing\n  The book of love will open up and let us in.\n  Take, these broken wings\n \nBaby, I think tonight..\nWe can take what was wrong.. and make it right.\nBaby, it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Chorus\n\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
+    "key": "Em"
   }
 }
