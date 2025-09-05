@@ -1,0 +1,888 @@
+<!--
+{
+  "name": "Great Brook Project",
+  "sets": [
+    {
+      "name": "Set",
+      "songs": [
+        {
+          "name": "Mary Jane's Last Dance",
+          "artist": "Tom Petty",
+          "id": "Mary_Jane_s_Last_Dance.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "I Hate Myself",
+          "artist": "Joan Jett",
+          "id": "I_Hate_Myself.Joan_Jett",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Trampled Under Foot",
+          "artist": "Led Zeppelin",
+          "id": "Trampled_Under_Foot.Led_Zeppelin",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Too Much Time On My Hands",
+          "artist": "Styx",
+          "id": "Too_Much_Time_On_My_Hands.Styx",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "I Can't Go For That",
+          "artist": "Hall&Oates",
+          "id": "I_Can_t_Go_For_That.Hall&Oates",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "I Want a New Drug",
+          "artist": "Huey Lewis & The News",
+          "id": "I_Want_a_New_Drug.Huey_Lewis_&_The_News",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Break Down",
+          "artist": "Tom Petty",
+          "id": "Break_Down.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "(Ain't Nothin' But A) House Party",
+          "artist": "The J. Geils Band",
+          "id": "(Ain_t_Nothin__But_A)_House_Party.The_J._Geils_Band",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Shooting Star",
+          "artist": "Bad Company",
+          "id": "Shooting_Star.Bad_Company",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Great Brook Project</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set</div>
+<button class='accordion'>1. Mary Jane's Last Dance</button>
+<div class='panel'>
+She grew up in an Indiana town<br>
+Had a good-looking mama who never was around<br>
+But she grew up tall and she grew up right<br>
+With them Indiana boys on an Indiana night<br>
+<br>
+Whoo-ooh!<br>
+Whoo-ooh!<br>
+<br>
+Well, she moved down here at the age of 18<br>
+She blew the boys away, it was more than they'd seen<br>
+I was introduced and we both started grooving<br>
+She said, "I dig you, baby, but I got to keep movin'<br>
+On, keep movin' on"<br>
+<br>
+&nbsp;&nbsp;Last dance with Mary Jane<br>
+&nbsp;&nbsp;One more time to kill the pain<br>
+&nbsp;&nbsp;I feel summer creepin' in and I'm<br>
+&nbsp;&nbsp;Tired of this town again<br>
+<br>
+Whoo-ooh!<br>
+Whoo-ooh!<br>
+<br>
+Well, I don't know, but I've been told<br>
+You never slowed down, you never grow old<br>
+Tired of screwin' up, tired of goin' down<br>
+Tired of myself, tired of this town<br>
+<br>
+Oh my, my, oh hell, yes<br>
+Honey, put on that party dress<br>
+Buy me a drink, sing me a song<br>
+Take me as I come 'cause I can't stay long<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+There's pigeons down on Market Square<br>
+She's standin' in her underwear<br>
+Lookin' down from a hotel room<br>
+The nightfall will be comin' soon<br>
+<br>
+Oh my, my, oh hell, yes<br>
+You got to put on that party dress<br>
+It was too cold to cry when I woke up alone<br>
+I hit my last number and walked to the road<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>2. I Hate Myself</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+G|--9-12-9--7-9---7---7-----7-9-| V:(E A B)&nbsp;&nbsp;&nbsp;&nbsp;117bpm<br>
+D|--9-12-9--7-9---7---7-----7-9-| P:(G A) B7<br>
+A|--7-10-7--5-7---5---5-----5-7-| C: E A B<br>
+E|------------------7---7-------|<br>
+</font>
+<br>
+[Drum Intro] [Riff x 2]<br>
+<br>
+Midnight, gettin uptight, where are you?<br>
+You said you'd meet me, now it's quarter to two<br>
+I know I'm hangin but I'm still wantin' you<br>
+<br>
+Hey Jack, it's a fact they're talkin' in town<br>
+I turn my back and you're messin' around<br>
+I'm not getting jealous, don't like lookin like a clown<br>
+<br>
+&nbsp;&nbsp;I think of you every night and day<br>
+&nbsp;&nbsp;You took my heart, and you took my pride away<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I hate myself for loving you<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Can't break free from the the things that you do<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I wanna walk but I run back to you<br>
+&nbsp;&nbsp;&nbsp;&nbsp;That's why I hate myself for loving you<br>
+<br>
+[Riff x 2]<br>
+<br>
+Daylight, spent the night without you<br>
+But I've been dreamin' 'bout the lovin' you do<br>
+I'm over being angry 'bout the hell you put me through<br>
+<br>
+Hey man, bet you can't treat me right<br>
+You just don't know what you was missin last night<br>
+I wanna see you beggin', say, "Forget it" just for spite<br>
+<br>
+&nbsp;&nbsp;Pre + Chorus<br>
+<br>
+[Solo over riff]<br>
+<br>
+&nbsp;&nbsp;Pre + Chorus acapella + Chorus<br>
+<br>
+[Out over intro riff]<br>
+<br>
+</div>
+
+<button class='accordion'>3. Trampled Under Foot</button>
+<div class='panel'>
+Greased and slicked down fine<br>
+Groovy leather trim<br>
+I like the way you hold the road<br>
+Mama, it ain't no sin<br>
+<br>
+&nbsp;&nbsp;Talking 'bout love<br>
+&nbsp;&nbsp;Talking 'bout love<br>
+&nbsp;&nbsp;Talking 'bout<br>
+<br>
+Ooh, trouble-free transmission<br>
+Helps your oils flow<br>
+Mama, let me pump your gas<br>
+Mama, let me do it all<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Check that heavy metal<br>
+Underneath your hood<br>
+Baby, I can work all night<br>
+Believe I got the perfect tools<br>
+See rock shows near Manchester<br>
+Get tickets as low as $66<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+A model built for comfort<br>
+Really built with style<br>
+Specialist tradition<br>
+Mama, let me feast my eyes<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Factory air-conditioned<br>
+Heat begins to rise<br>
+Guaranteed to run for hours<br>
+Mama, it's the perfect size<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Grooving on the freeway<br>
+Gauge is on the red<br>
+Gun down on my gasoline<br>
+Believe I'm gonna crack a head<br>
+<br>
+&nbsp;&nbsp;I can't stop talking about<br>
+&nbsp;&nbsp;I can't stop talking about<br>
+&nbsp;&nbsp;Ooh, yeah, yes<br>
+&nbsp;&nbsp;Drive on<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Come to me for service<br>
+Every hundred miles<br>
+Baby, let me check your points<br>
+Fix your overdrive<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Ooh yeah, fully automatic<br>
+Comes in any size<br>
+Makes me wonder what I did<br>
+Before we synchronized<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Oooh, feather-light suspension<br>
+Konis couldn't hold<br>
+I'm so glad I took a look<br>
+Inside your showroom doors<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Oh, I can't<br>
+&nbsp;&nbsp;Oh, I can't<br>
+&nbsp;&nbsp;Oh, I can't stop talking about love<br>
+&nbsp;&nbsp;I can't stop talking about love<br>
+&nbsp;&nbsp;Ooh, let me go on down, go on down<br>
+&nbsp;&nbsp;Go on down, go on down, go on down, yeah<br>
+&nbsp;&nbsp;I can't stop talking about<br>
+&nbsp;&nbsp;I can't stop talking about love, oh yeah<br>
+&nbsp;&nbsp;I can't stop talking about love or my baby<br>
+&nbsp;&nbsp;I can't stop talking about love, my baby<br>
+&nbsp;&nbsp;My baby, my baby, yeah<br>
+<br>
+Push, push<br>
+Push it<br>
+Push, push<br>
+Oooooooohhh<br>
+<br>
+</div>
+
+<button class='accordion'>4. Too Much Time On My Hands</button>
+<div class='panel'>
+Yeah, here I am sitting on this bar stool talking like a damn fool<br>
+Got the twelve o'clock news blues<br>
+And I've given up hope for the afternoon soaps and a bottle of cold brew<br>
+Is it any wonder I'm not crazy<br>
+Is it any wonder I'm sane at all<br>
+<br>
+Well I'm so tired of losing I've got nothing to do and all day to do it<br>
+Well I'd go out cruising, but I've no place to go and all night to get there<br>
+Is it any wonder I'm not a criminal<br>
+Is it any wonder I'm not in jail<br>
+<br>
+&nbsp;&nbsp;Is it any wonder I've got too much time on my hands<br>
+&nbsp;&nbsp;It's ticking away with my sanity<br>
+&nbsp;&nbsp;I've got too much time on my hands<br>
+&nbsp;&nbsp;It's hard to believe such a calamity I've got too much time on my hands<br>
+&nbsp;&nbsp;And it's ticking away, ticking away from me<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Too much time on my hands<br>
+&nbsp;&nbsp;&nbsp;&nbsp;It's tick tick tick tick ticking away (Too much time on my hands)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Now I don't know what to do with myself (Too much time on my hands)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Too much time on my hands<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Now I'm a jet fuel genius I can solve the world's problems without even trying<br>
+I've got dozens of friends, and the fun never ends that is as long as I'm buying<br>
+Is it any wonder I'm not the president<br>
+Is it any wonder I'm null and void<br>
+<br>
+&nbsp;&nbsp;Is it any wonder I've got too much time on my hands<br>
+&nbsp;&nbsp;It's ticking away with my sanity I've got too much time on my hands<br>
+&nbsp;&nbsp;It's hard to believe such a calamity I've got too much time on my hands<br>
+&nbsp;&nbsp;And it's ticking away, ticking away from me too much time on my hands<br>
+<br>
+&nbsp;&nbsp;Tick.. ticking away (Too much time on my hands)<br>
+&nbsp;&nbsp;Now I don't know what to do with myself<br>
+&nbsp;&nbsp;Umm mmm<br>
+&nbsp;&nbsp;Tick tick tick ticking away<br>
+<br>
+</div>
+
+<button class='accordion'>5. I Can't Go For That</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: Em7<br>
+V: (Bm7 E - Bm7 G A)<br>
+C: B BM7 B7 E - Em7<br>
+</font>
+<br>
+[DANA, LET IT BREATHE HERE!!!]<br>
+<br>
+Easy, ready, willing, overtime<br>
+Where does it stop where do you dare me to draw the line<br>
+You've got the body now you want my soul<br>
+Don't even think about it say no go.<br>
+<br>
+&nbsp;&nbsp;I'll do anything that you want me to do,<br>
+&nbsp;&nbsp;And I'll do almost anything, that you want me too<br>
+&nbsp;&nbsp;But I can't go for that (No can do)<br>
+<br>
+I can't go for being twice as nice<br>
+I can't go for just repeating the same old lives<br>
+Use the body now you want my soul<br>
+Do forget about it say no go.<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>6. I Want a New Drug</button>
+<div class='panel'>
+Yeah-eah!<br>
+<br>
+I want a new drug one that won't make me sick<br>
+One that won't make me crash my car or make me feel three feet thick<br>
+I want a new drug one that won't hurt my head<br>
+One that won't make my mouth too dry or make my eyes too red<br>
+<br>
+&nbsp;&nbsp;One that won't make me nervous wondering what to do<br>
+&nbsp;&nbsp;One that makes me feel like I feel when I'm with you<br>
+&nbsp;&nbsp;When I'm alone with you<br>
+<br>
+I want a new drug one that won't spill<br>
+One that don't cost too much or come in a pill<br>
+I want a new drug one that won't go away<br>
+One that won't keep me up all night one that won't make me sleep all day<br>
+<br>
+&nbsp;&nbsp;One that won't make me nervous..<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+I want a new drug one that does what it should<br>
+One that won't make me feel too bad one that won't make me feel too good<br>
+I want a new drug one with no doubt<br>
+One that won't make me talk too much or make my face break out<br>
+<br>
+&nbsp;&nbsp;One that won't make me nervous..<br>
+<br>
+</div>
+
+<button class='accordion'>7. Break Down</button>
+<div class='panel'>
+It's alright if you love me<br>
+It's alright if you don't<br>
+I'm not afraid of you runnin' away honey I get the feeling you won't<br>
+<br>
+Say there ain't no sense in pretending<br>
+Your eyes give you away<br>
+Something inside you is feeling like I do we said all there is to say<br>
+<br>
+&nbsp;&nbsp;Baby<br>
+&nbsp;&nbsp;Breakdown, go ahead and give it to me<br>
+&nbsp;&nbsp;Breakdown, honey, take me through the night<br>
+&nbsp;&nbsp;(Take me, baby, breakdown, ooh)<br>
+&nbsp;&nbsp;Breakdown, now I'm standin' here, can't you see?<br>
+&nbsp;&nbsp;Breakdown, it's alright<br>
+&nbsp;&nbsp;It's alright, it's alright<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>8. (Ain't Nothin' But A) House Party</button>
+<div class='panel'>
+They're dancing on the ceiling, they're dancing on the floor<br>
+People everywhere coming through the door<br>
+They know there's a party going on<br>
+Through the dance and romance all night long<br>
+<br>
+I know it's cold outside<br>
+Come on baby, I'll keep you satisfied<br>
+All you got to do is move<br>
+Every time you steal that groove<br>
+<br>
+&nbsp;&nbsp;It ain't nothing but a party<br>
+&nbsp;&nbsp;It ain't nothing but a party<br>
+&nbsp;&nbsp;It ain't nothing but a party, baby<br>
+&nbsp;&nbsp;It ain't nothing but a house party<br>
+<br>
+Come on baby dig that crazy soul<br>
+I know you're gonna lose control<br>
+You can do the boogaloo<br>
+Anything that you want to<br>
+<br>
+I know it's cold outside<br>
+Come on baby, I'll keep you satisfied<br>
+All you got to do is move<br>
+Every time you steal that groove<br>
+See rock shows near Manchester<br>
+Get tickets as low as $66<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Yeah c'mon, yeah<br>
+&nbsp;&nbsp;I know baby<br>
+<br>
+I know it's cold outside<br>
+Come on baby, I'll keep you satisfied<br>
+All you got to do is move<br>
+Every time you steal that groove<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+I said move it, groove it<br>
+Baby, don't you lose it<br>
+I said, roll is, stroll it<br>
+Baby, don't control it<br>
+<br>
+&nbsp;&nbsp;Chorus x4<br>
+<br>
+</div>
+
+<button class='accordion'>9. Shooting Star</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: A E D<br>
+V:(A E G A) (D E)<br>
+C:(D A E) G D E<br>
+S: F# E B<br>
+</font>
+<br>
+Johnny was a schoolboy, when he heard his first Beatles song.<br>
+Love Me Do, I think it was, and from there it didn't take him long.<br>
+Got himself a guitar, used to play every night<br>
+Now he's in a rock 'n' roll outfit, and everything's alright.<br>
+Don't you know?<br>
+<br>
+Johnny told his Mama, "Hey, Mama, I'm goin' away.<br>
+I'm gonna hit the big time, gonna be a big star someday".<br>
+Mama came to the door, with a teardrop in her eye.<br>
+Johnny said, "don't cry, Mama, smile and wave goodbye".<br>
+Don't you know? Yeah..<br>
+<br>
+&nbsp;&nbsp;Don't you know that you are a shooting star?<br>
+&nbsp;&nbsp;Don't you know? Don't you know?<br>
+&nbsp;&nbsp;Don't you know that you are a shooting star?<br>
+&nbsp;&nbsp;And all the world will love you just as long, as long as you are.<br>
+<br>
+Johnny made a record, went straight up to number one.<br>
+Suddenly everyone loved, to hear him sing his song<br>
+Watchin' the world go by, surprisin' it goes so fast<br>
+Johnny looked around him and said, "well, I made the big-time at last".<br>
+Don't you know?<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Chorus<br>
+<br>
+Johnny died one night, died in his bed.<br>
+Bottle of whisky, sleeping tablets by his head.<br>
+Johnny's life passed him by, like a warm summer day.<br>
+If you listen to the wind, you can still hear him play.<br>
+<br>
+Na na na na...<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
