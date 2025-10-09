@@ -1,0 +1,1257 @@
+<!--
+{
+  "name": "The Fifth Season",
+  "sets": [
+    {
+      "name": "Set",
+      "songs": [
+        {
+          "name": "Just What I Needed",
+          "artist": "The Cars",
+          "id": "Just_What_I_Needed.The_Cars",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Psycho Killer",
+          "artist": "Talking Heads",
+          "id": "Psycho_Killer.Talking_Heads",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Ain't No Sunshine",
+          "artist": "Bill Withers",
+          "id": "Ain_t_No_Sunshine.Bill_Withers",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sex On Fire",
+          "artist": "Kings Of Leon",
+          "id": "Sex_On_Fire.Kings_Of_Leon",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Under The Bridge",
+          "artist": "Red Hot Chili Peppers",
+          "id": "Under_The_Bridge.Red_Hot_Chili_Peppers",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Hit Me With Your Best Shot",
+          "artist": "Pat Benatar",
+          "id": "Hit_Me_With_Your_Best_Shot.Pat_Benatar",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "I Love Rock and Roll",
+          "artist": "Joan Jett",
+          "id": "I_Love_Rock_and_Roll.Joan_Jett",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Mr. Action",
+          "artist": "Goose",
+          "id": "Mr._Action.Goose",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sugaree",
+          "artist": "Grateful Dead",
+          "id": "Sugaree.Grateful_Dead",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Let Loose",
+          "artist": "Mount Joy",
+          "id": "Let_Loose.Mount_Joy",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Franklin's Tower",
+          "artist": "Grateful Dead",
+          "id": "Franklin_s_Tower.Grateful_Dead",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Superstition",
+          "artist": "Stevie Wonder",
+          "id": "Superstition.Stevie_Wonder",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Play That Funky Music",
+          "artist": "Wild Cherry",
+          "id": "Play_That_Funky_Music.Wild_Cherry",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Hot Love & The Lazy Poet",
+          "artist": "Goose",
+          "id": "Hot_Love_&_The_Lazy_Poet.Goose",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sharp Dressed Man",
+          "artist": "ZZ Top",
+          "id": "Sharp_Dressed_Man.ZZ_Top",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Hungersite",
+          "artist": "Goose",
+          "id": "Hungersite.Goose",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Free Bird",
+          "artist": "Lynyrd Skynrd",
+          "id": "Free_Bird.Lynyrd_Skynrd",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Enter Sandman",
+          "artist": "Metallica",
+          "id": "Enter_Sandman.Metallica",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Paranoid",
+          "artist": "Black Sabbath",
+          "id": "Paranoid.Black_Sabbath",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>The Fifth Season</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set</div>
+<button class='accordion'>1. Just What I Needed</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: E B C#m G# - E B G# A<br>
+C: E B A C#m - A<br>
+</font>
+<br>
+I don't mind you coming here wasting all my time<br>
+Cause when you're standing oh so near I kind of lose my mind<br>
+It's not the perfume that you wear it's not the ribbons in your hair<br>
+I don't mind you coming here and wasting all my time<br>
+<br>
+I don't mind you hanging out and talking in your sleep<br>
+It doesn't matter where you've been as long as it was deep, yeah<br>
+You always knew to wear it well and you look so fancy I can tell<br>
+I don't mind you hanging out and talking in your sleep<br>
+<br>
+&nbsp;&nbsp;I guess you're just what I needed, I needed someone to feed/bleed<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Solo<br>
+<br>
+I don't mind you coming here and wasting all my time, time<br>
+Cause when you're standing oh so near I kind of lose my mind, yeah<br>
+It's not the perfume that you wear it's not the ribbons in your hair<br>
+I don't mind you coming here and wasting all my time<br>
+<br>
+&nbsp;&nbsp;Chorus x 2<br>
+<br>
+So feed me<br>
+<br>
+You're just what I needed<br>
+<br>
+<font style='font-family:monospace;'>
+E|--------------12-11-------------------------12-11-----------|<br>
+B|-12----12-----------14-12-13---12----12-----------14-12-14--|<br>
+G|----13-----13---------------------13-----13-----------------|<br>
+</font>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>2. Psycho Killer</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|-5-8-<br>
+B|-5-7-<br>
+G|---8-<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+I: Am G&nbsp;&nbsp;&nbsp;V: A Em G&nbsp;&nbsp;&nbsp;C: F G Am - F G C&nbsp;&nbsp;&nbsp;B: Bm G - A G<br>
+</font>
+<br>
+I cant seem to face up to the facts<br>
+I'm tense and nervous and I cant relax<br>
+I cant sleep cause my beds on fire<br>
+Don't touch me I'm a real live wire<br>
+<br>
+&nbsp;&nbsp;Psycho killer qu'est que c'est fa fa.. far better<br>
+&nbsp;&nbsp;Run run... away.. oh yeah..<br>
+<br>
+You start a conversation you can't even finish it<br>
+You're talking a lot, but you're not saying anything<br>
+When I have nothing to say, my lips are sealed<br>
+Say something once, why say it again?<br>
+<br>
+Chorus<br>
+<br>
+&nbsp;&nbsp;Ce que j'ai fais ce soir la<br>
+&nbsp;&nbsp;Ce qu' elle a dit ce soir la<br>
+&nbsp;&nbsp;Realisant mon espoir je me lance vers la gloire okay<br>
+<br>
+We are vain and we are blind<br>
+I hate people when they're not polite<br>
+<br>
+Chorus<br>
+<br>
+Alternate V2<br>
+I passed out hours ago<br>
+I'm sadder than you'll ever know<br>
+I close my eyes on this sunny day<br>
+Say something once, why say it again?<br>
+<br>
+</div>
+
+<button class='accordion css_medleyEnd'>3. Ain't No Sunshine</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Am Em G Am) Em Ebm7 Dm Am<br>
+</font>
+<br>
+Ain't no sunshine when she's gone. it's not warm when she's away.<br>
+Ain't no sunshine when she's gone, and she's always gone too long,<br>
+Anytime she goes away.<br>
+<br>
+Wonder this time where she's gone, wonder if she's gone to stay<br>
+Ain't no sunshine when she's gone, and this house just ain't no home,<br>
+Anytime she goes away.<br>
+<br>
+&nbsp;&nbsp;And I know, I know...<br>
+&nbsp;&nbsp;Hey, I ought to leave the young thing alone<br>
+&nbsp;&nbsp;But ain't no sunshine when she's gone<br>
+<br>
+But ain't no sunshine when she's gone, only darkness everyday.<br>
+Ain't no sunshine when she's gone, and this house just ain't no home<br>
+Anytime she goes away.<br>
+</div>
+
+<button class='accordion'>4. Sex On Fire</button>
+<div class='panel'>
+E C#m A<br>
+<br>
+Lay where you're laying, don't make a sound<br>
+I know they're watching, they're watching<br>
+All the commotion, the kiddie-like play<br>
+It has people talking, talking<br>
+<br>
+&nbsp;&nbsp;You, your sex is on fire<br>
+<br>
+The dark of the alley, the breaking of day<br>
+Head while I'm driving, I'm driving<br>
+Soft lips are open, them knuckles are pale<br>
+Feels like you're dying, you're dying<br>
+<br>
+&nbsp;&nbsp;You, your sex is on fire<br>
+&nbsp;&nbsp;Consumed, with what's just transpired<br>
+<br>
+Hot as a fever, rattle of bones<br>
+I could just taste it, taste it<br>
+If this not forever, if this just tonight<br>
+Oh we're still the greatest, the greatest, the greatest<br>
+<br>
+&nbsp;&nbsp;You, your sex is on fire<br>
+&nbsp;&nbsp;You, your sex is on fire<br>
+&nbsp;&nbsp;Consumed, with what's just transpired<br>
+<br>
+&nbsp;&nbsp;And you, your sex is on fire<br>
+&nbsp;&nbsp;Consumed, with what's just transpired<br>
+</div>
+
+<button class='accordion'>5. Under The Bridge</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: D-F# x4<br>
+V: E-B-C#m-G#m-A-E-B-C#m-A x2 EM7<br>
+C: F#m-E-B/F#-F#m-E-B/F#-F#m x2<br>
+</font>
+Interlude1: E B C#m G#m A E B C#m A<br>
+Interlude2: A-Am7-G6-FM7 x3 FM7 E7 GM7<br>
+<font style='font-family:monospace;'>
+O: A-Am-G6-FM7 x4<br>
+</font>
+<br>
+Sometimes I feel like I don't have a partner<br>
+Sometimes I feel like my only friend<br>
+Is the city I live in, the city of angels<br>
+Lonely as I am, together we cry<br>
+<br>
+I drive on her streets 'cause she's my companion<br>
+I walk through her hills 'cause she knows who I am<br>
+She sees my good deeds and she kisses me windy<br>
+Well, I never worry, now that is a lie<br>
+<br>
+&nbsp;&nbsp;I don't ever want to feel like I did that day<br>
+&nbsp;&nbsp;Take me to the place I love, take me all the way<br>
+&nbsp;&nbsp;I don't ever want to feel like I did that day<br>
+&nbsp;&nbsp;Take me to the place I love, take me all the way<br>
+<br>
+&nbsp;&nbsp;Yeah, yeah, yeah<br>
+<br>
+It's hard to believe that there's nobody out there<br>
+It's hard to believe that I'm all alone<br>
+At least I have her love, the city she loves me<br>
+Lonely as I am, together we cry<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Yeah, yeah, yeah, yeah<br>
+&nbsp;&nbsp;Oh, no, no, no, yeah, yeah<br>
+&nbsp;&nbsp;Love me, I said yeah, yeah<br>
+<br>
+&nbsp;&nbsp;One time (Under the bridge downtown)<br>
+&nbsp;&nbsp;Is where I drew some blood (Under the bridge downtown)<br>
+&nbsp;&nbsp;I could not get enough (Under the bridge downtown)<br>
+&nbsp;&nbsp;Forgot about my love (Under the bridge downtown)<br>
+&nbsp;&nbsp;I gave my life away<br>
+<br>
+&nbsp;&nbsp;Yeah, yeah, yeah, yeah (ooh)<br>
+&nbsp;&nbsp;Oh, no, no, no, yeah, yeah<br>
+&nbsp;&nbsp;I said oh, yeah, yeah<br>
+&nbsp;&nbsp;Where I'll stay (ooh)<br>
+<br>
+</div>
+
+<button class='accordion'>6. Hit Me With Your Best Shot</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+C: E A C#m B - E A C#m B A B - 128bpm<br>
+V: E B/D# C#m A B<br>
+</font>
+<br>
+Well you're the real tough cookie with the long history<br>
+Of breaking little hearts like the one in me<br>
+That's OK, lets see how you do it<br>
+Put up your dukes, lets get down to it<br>
+<br>
+&nbsp;&nbsp;Hit me with your best shot why don't you hit me<br>
+&nbsp;&nbsp;With your best shot hit me with your best shot, fire away<br>
+<br>
+<b>You come on with a "come on" you don't fight fair<br>
+</b>But that's OK, see if I care<br>
+<b>Knock me down, it's all in vain<br>
+</b>I'll get right back on my feet again<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Solo<br>
+<br>
+Well, you're the real tough cookie with the long history<br>
+Of breaking little hearts like the one in me<br>
+Before I put another notch in my lipstick case<br>
+You better make sure you put me in my place<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>7. I Love Rock and Roll</button>
+<div class='panel'>
+E A B<br>
+<br>
+I saw him dancin there by the record machine<br>
+I knew he musta been about seventeen<br>
+The beat was going strong playin my favorite song<br>
+An I could tell it wouldn't be long till he was with me, yeah me, singin'<br>
+<br>
+&nbsp;&nbsp;I love rock n roll so put another dime in the jukebox baby<br>
+&nbsp;&nbsp;I love rock n roll so come an take your time an dance with me<br>
+<br>
+He smiled so I got up an asked for his name<br>
+That don't matter, he said, 'Cause it's all the same<br>
+Said can I take you home where we can be alone<br>
+Next we were movin on he was with me, yeah me, singin'<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Said can I take you home where we can be alone<br>
+Next we'll be movin' on he was with me, yeah me<br>
+An' we'll be movin' on an' singin' that same old song yeah with me, singin'<br>
+<br>
+&nbsp;&nbsp;Chorus acapella<br>
+<br>
+&nbsp;&nbsp;Chorus x 4 [Drop beat]<br>
+</div>
+
+<button class='accordion'>8. Mr. Action</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: C#m F#m B E C#m F#m Ab<br>
+C: (E F#m E)<br>
+S: C C#m&nbsp;&nbsp;F#m B E C#m F#m Ab<br>
+</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#m&nbsp;&nbsp;F#m B E C#m F#m Ab<br>
+&nbsp;&nbsp;&nbsp;A G F#m (Repeat for awhile, then...)<br>
+&nbsp;&nbsp;&nbsp;F F# G G# A A# B<br>
+<font style='font-family:monospace;'>
+O: E F#m E<br>
+</font>
+&nbsp;&nbsp;&nbsp;E C#m B Ab E<br>
+<br>
+Mr. Action, the king of misdirection,<br>
+a master of deception,<br>
+wears his mask so well<br>
+Redefining what it means<br>
+to be an extra on the scene.<br>
+He’s died a thousand times for you me.<br>
+<br>
+People wonder where he derives his power.<br>
+Some think the he’s a charmer<br>
+Others think he’s the cat's-paw<br>
+Always keeps close by<br>
+Holds the tower in his eyes<br>
+Because he knows that the story never dies.<br>
+<br>
+&nbsp;&nbsp;Take your bow Mr. Action<br>
+&nbsp;&nbsp;There’s no question, this one’s for you<br>
+&nbsp;&nbsp;It’s been a long time<br>
+&nbsp;&nbsp;It’s been a wild ride<br>
+&nbsp;&nbsp;But you always see it through<br>
+<br>
+He’s a mystic. Oh you know he’s cryptic<br>
+You think you caught a glimpse but you just missed it<br>
+Lavender sachet<br>
+a little luck along the way<br>
+And he knows just how to handle any fate.<br>
+<br>
+An ocarina of ancient blue patina<br>
+He plays a song from deep beyond the real world<br>
+She says “you’ll never know yourself,<br>
+til you dress like someone else<br>
+Sorting out the stories that you will tell<br>
+<br>
+&nbsp;&nbsp;Chorus x2<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;Chorus x2<br>
+<br>
+It’s been a long time<br>
+It’s been a wild ride<br>
+But you always see it through.<br>
+<br>
+</div>
+
+<button class='accordion'>9. Sugaree</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (B E A E) B E<br>
+C: F#m C#m A E<br>
+</font>
+&nbsp;&nbsp;&nbsp;B C#m A E<br>
+&nbsp;&nbsp;&nbsp;(B E C#m A E)<br>
+<font style='font-family:monospace;'>
+O: end with B E C#m A E B<br>
+</font>
+<br>
+When they come to take you down<br>
+When they bring that wagon round<br>
+When they come to call on you<br>
+And drag your poor body down<br>
+<br>
+&nbsp;&nbsp;Just one thing I ask of you<br>
+&nbsp;&nbsp;Just one thing for me<br>
+&nbsp;&nbsp;Please forget you knew my name<br>
+&nbsp;&nbsp;My darling, Sugaree<br>
+<br>
+&nbsp;&nbsp;Shake it, shake it, Sugaree<br>
+&nbsp;&nbsp;Just don't tell them that you know me<br>
+&nbsp;&nbsp;Shake it, shake it, Sugaree<br>
+&nbsp;&nbsp;Just don't tell them that you know me<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+You thought you was the cool fool<br>
+And never would do no wrong<br>
+You had everything sewed up tight<br>
+How come you lay awake all night long<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Well in spite of all you gained<br>
+You still have to stand out in the pouring rain<br>
+One last voice is calling you<br>
+And I guess it's time you go<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Well shake it up now, Sugaree<br>
+I'll meet you at the jubilee<br>
+And if that jubilee don't come<br>
+Maybe I'll meet you on the run<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Shake it, shake it, Sugaree<br>
+&nbsp;&nbsp;Just don't tell them that you know me<br>
+&nbsp;&nbsp;Shake it, shake it, Sugaree<br>
+&nbsp;&nbsp;Just don't tell them that you know me<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>10. Let Loose</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: G F C x2<br>
+V: G F C x4 - G F C G/B Gm/Bb F/A Fm/Ab G<br>
+C: G F C<br>
+O: G F C x8 - G F C G/B Gm/Bb F/A Fm/Ab G<br>
+</font>
+<br>
+Wonder if I'm ever gonna come back for you<br>
+Stuck in the groove like I don't know what to do<br>
+Wonder if I'll ever lose<br>
+When you're the only one that knows what I'm goin' through<br>
+<br>
+&nbsp;&nbsp;Like help won't save us with our trouble<br>
+&nbsp;&nbsp;I just need some love forever<br>
+&nbsp;&nbsp;After all, our time has come<br>
+<br>
+Yes, I wanna get lost, I wanna get loud with you<br>
+And when I get low, I wanna get high with you<br>
+Watch that snow fall on the remains of our youth<br>
+Just pull me in and don't let loose<br>
+<br>
+Wonder if I'm ever gonna go find my truth<br>
+Wonder if we were born to see this through<br>
+How could we let the seasons choose?<br>
+When you're the only one I ever belonged to<br>
+<br>
+&nbsp;&nbsp;Like help won't save us with our trouble<br>
+&nbsp;&nbsp;I just need some love forever<br>
+&nbsp;&nbsp;After all<br>
+<br>
+I wanna get lost, I wanna get loud with you<br>
+And when I get low, I wanna get high with you<br>
+Watch that snow fall on the remains of our youth<br>
+Just pull me in and don't let loose<br>
+<br>
+</div>
+
+<button class='accordion css_medleyEnd'>11. Franklin's Tower</button>
+<div class='panel'>
+In another time's forgotten space<br>
+Your eyes looked from your mother's face<br>
+Wildflower seed on the sand and stone<br>
+May the four winds blow you safely home<br>
+<br>
+&nbsp;&nbsp;Roll away the dew<br>
+&nbsp;&nbsp;Roll away the dew<br>
+&nbsp;&nbsp;Roll away the dew<br>
+&nbsp;&nbsp;Roll away the dew<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+I'll tell you where the four winds dwell<br>
+In Franklin's tower there hangs a bell<br>
+It can ring, turn night to day<br>
+It can ring like fire when you lose your way<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+God save the child who rings that bell<br>
+It may have one good ring, baby, you can't tell<br>
+One watch by night, one watch by day<br>
+If you get confused, listen to the music play<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Some come to laugh their past away<br>
+Some come to make it just one more day<br>
+Whichever way your pleasure tends<br>
+If you plant ice, you're gonna harvest wind<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+In Franklin's tower the four winds sleep<br>
+Like four lean hounds the lighthouse keep<br>
+Wildflower seed in the sand and wind<br>
+May the four winds blow you home again<br>
+<br>
+&nbsp;&nbsp;Chorus x3<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>12. Superstition</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+D|---------5----------------5---------|<br>
+A|---7-5-7----5-5h7-----5-7----5-5h7--| B C B Bb A B<br>
+E|-0----------------5-7---------------|<br>
+</font>
+<br>
+Very superstitious, writing's on the wall<br>
+Very superstitious, ladders bout' to fall<br>
+Thirteen month old baby, broke the lookin glass<br>
+Seven years of bad luck, the good things in your past<br>
+<br>
+&nbsp;&nbsp;When you believe in things that you don't understand<br>
+&nbsp;&nbsp;Then you suffer, superstition ain't the way<br>
+<br>
+Very superstitious, wash your face and hands<br>
+Rid me of the problem, do all that you can<br>
+Keep me in a daydream, keep me goin' strong<br>
+You don't wanna save me, sad is my song<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Very superstitious, nothin' more to say<br>
+Very superstitious, the devil's on his way<br>
+Thirteen months old baby, broke the lookin' glass<br>
+Seven years of bad luck, good things in your past<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion css_medleyCont'>13. Play That Funky Music</button>
+<div class='panel'>
+Hey, do it now<br>
+<br>
+Hey, once I was a boogie singer playin' in a rock n roll band<br>
+I never had no problems burnin down the one-night stands<br>
+And everything around me got to stop to feelin so low<br>
+And I decided quickly yes, I did, to disco down and check out the show<br>
+<br>
+&nbsp;&nbsp;Yeah they were dancin and singin and movin to the groovin<br>
+&nbsp;&nbsp;And just when it hit me somebody turned around and shouted<br>
+<br>
+&nbsp;&nbsp;&nbsp;Play that funky music, white boy / right<br>
+&nbsp;&nbsp;&nbsp;Lay down that boogie and play that funky music 'til you die<br>
+<br>
+I tried to understand this I thought that they were outta their minds<br>
+How could I be so foolish to not see I was the one behind<br>
+So still I kept on fighting losing every step by the way<br>
+I said, I must go back there, I got to go back and check to see if things still the same<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo<br>
+<br>
+Now first it wasn't easy changing rock 'n' roll at minds<br>
+And things were gettin' shaky I thought I'd have to leave it behind<br>
+Oh, but now it's so much better I'm funking out in every way<br>
+But I'll never lose that feeling Of how I learned my lesson that day<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion css_medleyEnd'>14. Hot Love & The Lazy Poet</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: Bb Bb Eb Bb F<br>
+V: Gm Cm Eb Bb Cm Eb Bb<br>
+</font>
+&nbsp;&nbsp;&nbsp;Bb Gm C Eb Ab Eb Bb Gb F<br>
+<font style='font-family:monospace;'>
+B: Gbm Gm Ab A Bb<br>
+C: (Bb Eb Bb Eb F F G Bb G Bb Ab Eb)<br>
+S: F C F Bb Eb Bb<br>
+</font>
+<br>
+This is the story of a poet I know<br>
+He takes it easy and he talks real slow<br>
+They call him lazy but when push comes to shove<br>
+Lazy goes crazy for a real hard luck<br>
+Dirty jeans and a whiskey robe he whispers<br>
+Quote the raven nevermore<br>
+The poet sat back with his whiskey pouring<br>
+<br>
+&nbsp;&nbsp;[Bridge]<br>
+&nbsp;&nbsp;and he says<br>
+&nbsp;&nbsp;he says<br>
+<br>
+&nbsp;&nbsp;Please don’t groove in the middle of my love connection<br>
+&nbsp;&nbsp;I’ve been waiting all night<br>
+&nbsp;&nbsp;Just to move and stand in my direction<br>
+&nbsp;&nbsp;Please don’t groove in the middle of my love connection<br>
+&nbsp;&nbsp;I’ve been waiting all night<br>
+&nbsp;&nbsp;Just to move and stand in my direction<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+I love Sweet nectar above she’s either<br>
+Queen of the mean or she’s as sweet as a dove<br>
+Be careful to choose the words you say<br>
+You’ll be getting hotter every single way<br>
+Lazy knew what he had to do<br>
+But all the other poets were covered in tape<br>
+The poet sat back with his whiskey pouring<br>
+<br>
+&nbsp;&nbsp;Bridge<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Solo 2<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Outro<br>
+<br>
+</div>
+
+<button class='accordion'>15. Sharp Dressed Man</button>
+<div class='panel'>
+Lyrics<br>
+</div>
+
+<button class='accordion css_medleyStart'>16. Hungersite</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: F Eb Eb F<br>
+V: (F Eb F)<br>
+C: (Eb F) Gm Am Bb Cm Bb Ab Db Eb<br>
+S: F Eb F<br>
+O: (F Eb)<br>
+</font>
+<br>
+Hope<br>
+It's bent like rope.<br>
+Oh, I'm growing tired<br>
+Of hauling on yesterday<br>
+Closed<br>
+Is that how it goes.<br>
+Well I might be rusted<br>
+But brother, I'm here to stay<br>
+<br>
+&nbsp;&nbsp;Is it time to shed our weapons yet my friend<br>
+&nbsp;&nbsp;Is it love we've drawn away in our groundless low<br>
+&nbsp;&nbsp;Can we step out of the wreckage yet my friend<br>
+&nbsp;&nbsp;Running all against their hungry sight<br>
+&nbsp;&nbsp;Hanging on<br>
+&nbsp;&nbsp;They've taken all<br>
+&nbsp;&nbsp;But we won't lay that down<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Breath<br>
+Don't it let.<br>
+Just a little closer<br>
+I know it's now nearing view<br>
+There<br>
+It's only air.<br>
+Nothing tethered to the garment<br>
+We're climbing through<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;Outro<br>
+<br>
+</div>
+
+<button class='accordion css_medleyEnd'>17. Free Bird</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: G D/F# Em&nbsp;&nbsp;F C Dsus4<br>
+C: F C D<br>
+</font>
+<br>
+If I leave here to morrow would you still remember me<br>
+For I must be travelin' on now 'cause there's too many places I've got to see<br>
+But if I stay here with you girl things just couldn't be the same<br>
+'Cause I'm as free as a bird now and this bird you cannot change, oh<br>
+<br>
+&nbsp;&nbsp;And the bird you cannot change<br>
+&nbsp;&nbsp;And this bird you cannot change<br>
+&nbsp;&nbsp;Lord knows I can't change<br>
+<br>
+Bye baby, it's been a sweet love, yeah, yeah though this feeling I can't change<br>
+But please don't take it so badly 'cause Lord knows I'm to blame<br>
+But if I stay here with you, girl things just couldn't be the same<br>
+Cause I'm as free as a bird now and this bird you'll never change, oh<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Lord, I can't change<br>
+Won't you fly high, free bird, yeah<br>
+<br>
+Solo<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>18. Enter Sandman</button>
+<div class='panel'>
+Say your prayers, little one don't forget my son to include everyone<br>
+I tuck you in, warm within keep you free from sin till the sandman he comes<br>
+<br>
+&nbsp;&nbsp;Sleep with one eye open gripping your pillow tight<br>
+&nbsp;&nbsp;Exit light enter night<br>
+&nbsp;&nbsp;Take my hand we're off to never never land<br>
+<br>
+Something's wrong, shut the light heavy thoughts tonight and they aren't of Snow White<br>
+Dreams of war, dreams of liars dreams of dragon's fire and of things that will bite, yeah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Now I lay me down to sleep pray the Lord my soul to keep<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If I die before I wake pray the Lord my soul to take<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hush little baby, don't say a word and never mind that noise you heard<br>
+&nbsp;&nbsp;&nbsp;&nbsp;It's just the beasts under your bed in your closet, in your head<br>
+<br>
+Exit light enter night, grain of sand<br>
+Exit light enter night take my hand<br>
+We're off to never never land<br>
+</div>
+
+<button class='accordion css_medleyEnd'>19. Paranoid</button>
+<div class='panel'>
+Finished with my woman 'cause she couldn't help me with my mind<br>
+people think I'm insane because I am frowning all the time<br>
+All day long I think of things but nothing seems to satisfy<br>
+Think I'll lose my mind if I don't find something to pacify<br>
+<br>
+&nbsp;&nbsp;Can you help me occupy my brain?<br>
+<br>
+I need someone to show me the things in life that I can't find<br>
+I can't see the things that make true happiness, I must be blind<br>
+<br>
+Make a joke and I will sigh and you will laugh and I will cry<br>
+Happiness I cannot feel and love to me is so unreal<br>
+<br>
+And so as you hear these words telling you now of my state<br>
+I tell you to enjoy life I wish I could but it's too late<br>
+<br>
+<font style='font-family:monospace;'>
+G|-7h9--7h9--7h9------7h9-----7h9-|<br>
+D|-7h9--7h9--7h9--7h9-----7h9-----|<br>
+A|-7----7----7--------------------|<br>
+E|--------------------------------|<br>
+</font>
+<br>
+Em D G D<br>
+<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
