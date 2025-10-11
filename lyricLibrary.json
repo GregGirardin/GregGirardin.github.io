@@ -1896,14 +1896,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Sharp_Dressed_Man.ZZ_Top": {
-    "name": "Sharp Dressed Man",
-    "artist": "ZZ Top",
-    "id": "Sharp_Dressed_Man.ZZ_Top",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Sharp_Dressed_Man_(Nickelback_cover).Nickelback": {
     "name": "Sharp Dressed Man (Nickelback cover)",
     "artist": "Nickelback",
@@ -4718,5 +4710,12 @@
     "id": "Mr._Action.Goose",
     "lyrics": "V: C#m F#m B E C#m F#m Ab\nC: (E F#m E)\nS: C C#m  F#m B E C#m F#m Ab\n     C#m  F#m B E C#m F#m Ab\n   A G F#m (Repeat for awhile, then...)\n   F F# G G# A A# B\nO: E F#m E\n   E C#m B Ab E\n\nMr. Action, the king of misdirection,\na master of deception,\nwears his mask so well\nRedefining what it means\nto be an extra on the scene.\nHe's died a thousand times for you me.\n\nPeople wonder where he derives his power.\nSome think the he's a charmer\nOthers think he’s the cat's-paw\nAlways keeps close by\nHolds the tower in his eyes\nBecause he knows that the story never dies.\n\n  Take your bow Mr. Action\n  There's no question, this one's for you\n  It's been a long time\n  It's been a wild ride\n  But you always see it through\n\nHe's a mystic. Oh you know he's cryptic\nYou think you caught a glimpse but you just missed it\nLavender sachet\na little luck along the way\nAnd he knows just how to handle any fate.\n\nAn ocarina of ancient blue patina\nHe plays a song from deep beyond the real world\nShe says you'll never know yourself,\ntil you dress like someone else\nSorting out the stories that you will tell\n\n  Chorus x2\n\n  Solo\n\n  Chorus x2\n\n[Outro]\nIt's been a long time\nIt's been a wild ride\nBut you always see it through.\n",
     "key": "E"
+  },
+  "Sharp_Dressed_Man.ZZ_Top": {
+    "name": "Sharp Dressed Man",
+    "artist": "ZZ Top",
+    "id": "Sharp_Dressed_Man.ZZ_Top",
+    "lyrics": "Clean shirt, new shoes\nAnd I don't know where I am goin' to\nSilk suit, black tie (black tie)\nI don't need a reason why\n\n  They come runnin' just as fast as they can\n  'Cause every girl crazy 'bout a sharp-dressed man\n\nGold watch, diamond ring\nI ain't missin' not a single thing\nAnd cufflinks, stick pin\nWhen I step out, I'm gonna do you in\n\n  Chorus\n\nTop coat, top hat (ahh)\nAnd I don't worry 'cause my wallet's fat\nBlack shades, white gloves\nLookin' sharp, lookin' for love\n\n  Chorus\n",
+    "key": "C"
   }
 }
