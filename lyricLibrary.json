@@ -2837,14 +2837,6 @@
     "key": "E",
     "tempo": "undefined"
   },
-  "Just_What_I_Needed.The_Cars": {
-    "name": "Just What I Needed",
-    "artist": "The Cars",
-    "id": "Just_What_I_Needed.The_Cars",
-    "lyrics": "V: E B C#m G# - E B G# A\nC: E B A C#m - A\n\nI don't mind you coming here wasting all my time\nCause when you're standing oh so near I kind of lose my mind\nIt's not the perfume that you wear it's not the ribbons in your hair\nI don't mind you coming here and wasting all my time\n\nI don't mind you hanging out and talking in your sleep\nIt doesn't matter where you've been as long as it was deep, yeah\nYou always knew to wear it well and you look so fancy I can tell\nI don't mind you hanging out and talking in your sleep\n \n  I guess you're just what I needed, I needed someone to feed/bleed\n\n    Solo\n \nI don't mind you coming here and wasting all my time, time\nCause when you're standing oh so near I kind of lose my mind, yeah\nIt's not the perfume that you wear it's not the ribbons in your hair\nI don't mind you coming here and wasting all my time\n\n  Chorus x 2\n\nSo feed me\n \nYou're just what I needed\n\nE|--------------12-11-------------------------12-11-----------|\nB|-12----12-----------14-12-13---12----12-----------14-12-14--|\nG|----13-----13---------------------13-----13-----------------|\n",
-    "key": "E",
-    "tempo": ""
-  },
   "My_My,_Hey_Hey.Neil_Young": {
     "name": "My My, Hey Hey",
     "artist": "Neil Young",
@@ -4749,5 +4741,26 @@
     "id": "Money_For_Nothing.Dire_Straits",
     "lyrics": "I want my\nI want my, I want my MTV\nI want my, I want my MTV\nI want my, I want my MTV\n\nNow look at them yo-yos, that's the way you do it\nYou play the guitar on the MTV\nThat ain't workin', that's the way you do it\nMoney for nothin' and your chicks for free\n\nNow that ain't workin', that's the way you do it\nLemme tell ya, them guys ain't dumb\nMaybe get a blister on your little finger\nBaby, get a blister on your thumb\n\n    We gotta install microwave ovens\n    Custom kitchen deliveries\n    We've got to move these refrigerators\n    We've got to move these colour TVs\n\nSee the little faggot with the earring and the makeup\nYeah buddy, that's his own real hair\nThe little faggot got his own jet airplane\nThe little faggot, he's a millionaire\n\n    Chorus x2\n\nI shoulda learned to play the guitar\nI shoulda learned to play them drums\nLook at that mama, she come in stickin' in the camera\nMan, we could have some fun\n\nAnd he's up there, what's that? Hawaiian noises?\nHe's bangin' on the bongos like a chimpanzee\nThat ain't workin', that's the way you do it\nGet your money for nothin', get your chicks for free\n\n    Chorus\n\nListen here\nNow, that ain't workin', that's the way you do it\nYou play the guitar on the MTV\nThat ain't workin', that's the way you do it\nMoney for nothin' and your chicks for free\n\nMoney for nothin'\nChicks for free\nGet your money for nothin'\nAnd your chicks for free\nOozin' money for nothin'\nAnd your chicks for free\nGet your money for nothin'\nChicks for free\n\nMoney for nothin' (all that money for nothing)\nChicks for free\nGet your money for nothin'\nGet your chicks for free\n\nGet your money for nothin'\nAnd your chicks for free\nGet your money for nothin' (what's that?)\nAnd your chicks for free (look at that, look at that)\n\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\nMoney for nothin' (I want my, I want my)\nChicks for free (I want my MTV)\n\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\n\nEasy, easy money (for nothing)\nEasy, easy chicks (for free)\nEasy, easy money (for nothing)\nChicks for free (I want my MTV)\nThat ain't workin'\n\nMoney for nothing\nChicks for free\nMoney for nothing\nChicks for free\n",
     "key": "D"
+  },
+  "Just_What_I_Needed.The_Cars": {
+    "name": "Just What I Needed",
+    "artist": "The Cars",
+    "id": "Just_What_I_Needed.The_Cars",
+    "lyrics": "V: E B C#m G# - E B G# A\nC: E B A C#m - A\n\nI don't mind you coming here wasting all my time\nCause when you're standing oh so near I kind of lose my mind\nIt's not the perfume that you wear it's not the ribbons in your hair\nI don't mind you coming here and wasting all my time\n\nI don't mind you hanging out and talking in your sleep\nIt doesn't matter where you've been as long as it was deep, yeah\nYou always knew to wear it well and you look so fancy I can tell\nI don't mind you hanging out and talking in your sleep\n \n  I guess you're just what I needed, I needed someone to feed\n  I guess you're just what I needed, I needed someone to bleed\n\n    Solo\n \nI don't mind you coming here and wasting all my time, time\nCause when you're standing oh so near I kind of lose my mind, yeah\nIt's not the perfume that you wear it's not the ribbons in your hair\nI don't mind you coming here and wasting all my time\n\n  I guess you're just what I needed, I needed someone to feed\n  I guess you're just what I needed, I needed someone to bleed\n\n  I guess you're just what I needed, I needed someone to feed\n  I guess you're just what I needed, I needed someone to bleed\n\nSo bleed me\n \nYou're just what I needed\n\nE|--------------12-11-------------------------12-11-----------|\nB|-12----12-----------14-12-13---12----12-----------14-12-14--|\nG|----13-----13---------------------13-----13-----------------|\n",
+    "key": "E"
+  },
+  "Change_Of_Heart.Tom_Petty_&_The_Heartbreakers": {
+    "name": "Change Of Heart",
+    "artist": "Tom Petty & The Heartbreakers",
+    "id": "Change_Of_Heart.Tom_Petty_&_The_Heartbreakers",
+    "lyrics": "Well I fought for you\nI fought too hard\nTo do it all again, babe\nIt's gone too far\nYou never needed me\nYou only wanted me around\nIt gets me down\n\n   There's been a change\n   Yeah there's been a change of heart\n   Said there's been a change\n   You pushed just a little too far\n   You made it just a little too hard\n   There's been a change of heart\n\nI'll get over you\nIt won't take long\nI've stood in your gallery\nSeen what's hanging from the walls\nYou were the moon and sun\nYou're just a loaded gun now\nIt gets me down\n\n   Chorus\n\nWhat we've had all along\nLooks like we finally reached the turning point\nOh me oh my\nLooks like it's time for me to kiss it goodbye\nKiss it goodbye\n\n   Chorus\n",
+    "key": "C"
+  },
+  "All_Over_You.LIVE": {
+    "name": "All Over You",
+    "artist": "LIVE",
+    "id": "All_Over_You.LIVE",
+    "lyrics": "Our love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone, for me all day\nOur love is like water\nPinned down and abused\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down\n\nOur love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone, for me all day\nOur love is like angels\nPinned down and abused\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay me down\n\n   All over you, all over me\n   All over you, all over me\n\n   Pay me now\n   Lay me down, down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay\n\n  Bridge\n\nOur love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down, down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay\n\nHey heyeee yeah\nYeah yeah yeah yeah yeah yeah\nHey heyeee yeah\nOhhhhhhhhhhhhhh\n",
+    "key": "C#"
   }
 }
