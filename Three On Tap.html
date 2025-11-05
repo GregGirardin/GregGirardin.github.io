@@ -1,0 +1,839 @@
+<!--
+{
+  "name": "Three On Tap",
+  "sets": [
+    {
+      "name": "Set 1",
+      "songs": [
+        {
+          "name": "Plush",
+          "artist": "STP",
+          "id": "Plush.STP",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Lean On Me",
+          "artist": "Bill Withers",
+          "id": "Lean_On_Me.Bill_Withers",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "All This Time",
+          "artist": "Sting",
+          "id": "All_This_Time.Sting",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Love Song",
+          "artist": "The Cure",
+          "id": "Love_Song.The_Cure",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "And I Love Her",
+          "artist": "The Beatles",
+          "id": "And_I_Love_Her.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Holding back the years",
+          "artist": "Simply Red",
+          "id": "Holding_back_the_years.Simply_Red",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Mad World",
+          "artist": "Tears For Fears",
+          "id": "Mad_World.Tears_For_Fears",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Texarkana",
+          "artist": "REM",
+          "id": "Texarkana.REM",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Times Like These",
+          "artist": "Foo Fighters",
+          "id": "Times_Like_These.Foo_Fighters",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "The Killing Moon",
+          "artist": "Echo",
+          "id": "The_Killing_Moon.Echo",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Stuck in the middle with you",
+          "artist": "Steelers Wheel",
+          "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Got Me Wrong",
+          "artist": "Alice In Chains",
+          "id": "Got_Me_Wrong.Alice_In_Chains",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Three On Tap</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set 1</div>
+<button class='accordion'>1. Plush</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|-3-3-3-3--3-3-3-|<br>
+B|-3-2-1-0--0-1-2-|<br>
+G|-0-3-2-0--0-0-0-|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+V: G D/F# F C EbM7 - D Cadd9 G/B&nbsp;&nbsp;C: EbM7 FM7&nbsp;&nbsp;&nbsp;B: G F C Eb D<br>
+</font>
+<br>
+And I feel that time's a wasted go, so where ya going to tomorrow?<br>
+And I see that these are lies to come, would you even care?<br>
+And I feel it, and I feel it<br>
+<br>
+&nbsp;&nbsp;Where ya going for tomorrow? Where ya going with that mask I found?<br>
+&nbsp;&nbsp;And I feel, and I feel, when the dogs begin to smell her will she smell alone?<br>
+<br>
+Intro<br>
+<br>
+And I feel so much depends on the weather, so is it raining in your bedroom?<br>
+And I see that these are the eyes of disarray, would you even care?<br>
+And I feel it, and she feels it<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When the dogs do find her got time, time, to wait for tomorrow to find it...<br>
+<br>
+Intro<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When the dogs...<br>
+<br>
+Intro<br>
+</div>
+
+<button class='accordion'>2. Lean On Me</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: C F C Em G - C F C G C<br>
+B: C G C<br>
+</font>
+<br>
+Sometimes in our lives we all have pain we all have sorrow<br>
+But if we are wise we know that there's always tomorrow<br>
+<br>
+&nbsp;&nbsp;Lean on me, when you're not strong and I'll be your friend I'll help you carry on<br>
+&nbsp;&nbsp;For it won't be long til I'm gonna need somebody to lean on<br>
+<br>
+Please swallow your pride if I have things you need to borrow<br>
+For no one can fill those of your needs that you won't let show<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;So just call on me brother, when you need a hand<br>
+&nbsp;&nbsp;&nbsp;&nbsp;We all need somebody to lean on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I just might have a problem that you'd understand<br>
+&nbsp;&nbsp;&nbsp;&nbsp;We all need somebody to lean on<br>
+<br>
+Lean on me, when you're not strong and I'll be your friend I'll help you carry on<br>
+For it won't be long til I'm gonna need somebody to lean on<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;So just call on me brother, when you need a hand...<br>
+<br>
+If there is a load you have to bear that you can't carry<br>
+I'm right up the road, I'll share your load if you just call me<br>
+call me...<br>
+</div>
+
+<button class='accordion'>3. All This Time</button>
+<div class='panel'>
+<div>V: (G Em9 D4 C) D4 G/B Dsus4</div><div>C: Em&nbsp; A7 C9 D4 G Em9 G C</div><div><br></div><div>I looked out across the river today,</div><div>I saw a city in the fog and an old church tower where the seagulls play,</div><div>I saw the sad shire horses walking home in the sodium light</div><div>I saw two priests on the ferry October geese on a cold winter's night</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly, to the sea.</div><div><br></div><div>Two priests came round our house tonight</div><div>One young, one old, to offer prayers for the dying to serve the final rites,</div><div>One to learn, one to teach, which way the cold wind blows</div><div>Fussing and flapping in priestly black like a murder of crows</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly to the sea.</div><div>&nbsp; If i had my way, take a boat from the river</div><div>&nbsp; And i'd bury the old man, I'd bury him at sea</div><div><br></div><div>Blessed are the poor, for they shall inherit the earth</div><div>Better to be poor than a fat man in the eye of the needle</div><div>And as these words were spoken I swear I hear he old man laughing,</div><div>"What good is a used up world, and how could it be worth having"</div><div><br></div><div>&nbsp; And all this time the river flowed endlessly like a silent tear</div><div>&nbsp; And all this time the river flowed Father, if Jesus exists,</div><div>&nbsp; Then how come he never lived here.</div><div><br></div><div>&nbsp; &nbsp;(Modulate up a step)</div><div><br></div><div>The teachers told us, the Romans built this place</div><div>They built a wall and a temple, and an edge of the empire garrison town,</div><div>They lived and they died, they prayed to their gods</div><div>But the stone gods did not make a sound</div><div>And their empire crumbled, 'til all that was left were the stones the workmen found</div><div><br></div><div>&nbsp; And all this time the river flowed in the falling light of northern sun</div><div>&nbsp; If I had my way I'd take a boat from the river</div><div>&nbsp; Men go crazy in congregations but they only get better one by one</div><div><br></div><div>One by one.</div><div>I looked out across</div><br>
+</div>
+
+<button class='accordion'>4. Love Song</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Am G F Em C: F G Am C<br>
+</font>
+<br>
+Whenever I'm alone with you you make me feel like I am _ again<br>
+[home, whole] [young, fun]<br>
+<br>
+&nbsp;&nbsp;However far away I will always love you<br>
+&nbsp;&nbsp;However long I stay...<br>
+&nbsp;&nbsp;Whatever words I say..<br>
+&nbsp;&nbsp;I will always love you<br>
+<br>
+Solo<br>
+<br>
+&nbsp;&nbsp;[free, clean]<br>
+<br>
+Chorus<br>
+</div>
+
+<button class='accordion'>5. And I Love Her</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Em Bm) G A D<br>
+C: (Bm F#m) A<br>
+</font>
+<br>
+I give her all my love that's all I do<br>
+And if you saw my love you'd love her too, I love her<br>
+<br>
+She gives me everything and tenderly<br>
+The kiss my lover brings she brings to me, and I love her<br>
+<br>
+&nbsp;&nbsp;A love like ours could never die<br>
+&nbsp;&nbsp;As long as I have you near me<br>
+<br>
+Bright are the stars that shine dark is the sky<br>
+I know this love of mine will never die, and I love her<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Bright are the stars..<br>
+</div>
+
+<button class='accordion'>6. Holding back the years</button>
+<div class='panel'>
+Bm9 E13<br>
+<br>
+Harmonica: A, 3rd position<br>
+<br>
+Holding back the years thinking of the fear I've had so long<br>
+When somebody hears listen to the fear that's gone<br>
+Strangled by the wishes of pater hoping for the arms of mater<br>
+Get to me the sooner or later<br>
+<br>
+&nbsp;&nbsp;I'll keep holding on<br>
+<br>
+Holding back the years chance for me to escape from all I've known<br>
+Holding back the tears cause nothing here has grown<br>
+I've wasted all my tears wasted all those years<br>
+And nothing had the chance to be good nothing ever could yeah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+I've wasted..<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>7. Mad World</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Em G D A<br>
+C: (Em A) Em G A<br>
+</font>
+<br>
+All around me are familiar faces worn out places worn out faces<br>
+Bright and early for their daily races going nowhere<br>
+Their tears are filling up their glasses no expression<br>
+Hide my head I want to drown my sorrow no tomorrow<br>
+<br>
+&nbsp;&nbsp;And I find it kinda funny I find it kinda sad<br>
+&nbsp;&nbsp;The dreams in which I'm dying are the best Ive ever had<br>
+&nbsp;&nbsp;I find it hard to tell you I find it hard to take<br>
+&nbsp;&nbsp;When people run in circles it's a very very.. mad world<br>
+<br>
+Children waiting for the day they feel good, happy birthday<br>
+Made to feel the way that every child should, sit and listen<br>
+Went to school and I was very nervous, no one knew me<br>
+Hello teacher tell me whats my lesson, look right through me<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>8. Texarkana</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Em G Bm&nbsp;&nbsp;Em A G<br>
+C: C9 D Bm&nbsp;&nbsp;C9 Am (Em D)<br>
+B: (A2 G) D G D E<br>
+</font>
+<br>
+Twenty thousand miles to an oasis. Twenty thousand years will I burn<br>
+Twenty thousand chances I wasted. Waiting for the moment to turn<br>
+<br>
+&nbsp;&nbsp;I would give my life to find it I would give it all. Catch me if I fall<br>
+<br>
+Walking through the woods I have faced. It looking for something to learn<br>
+Thirty thousand thoughts have replaced it. Never in my time to return<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;All alone, waiting to fall<br>
+<br>
+Forty thousand stars in the evening. Look at them fall from the sky<br>
+Forty thousand reasons for living. Forty thousand tears in your eye<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>9. Times Like These</button>
+<div class='panel'>
+I, I'm a one-way motorway<br>
+I'm a road that drives away, then follows you back home<br>
+I, I'm a streetlight shining<br>
+I'm a wild light, blinding bright, burnin' off and on<br>
+Ah-ah-ah<br>
+<br>
+&nbsp;&nbsp;It's times like these you learn to live again<br>
+&nbsp;&nbsp;It's times like these you give and give again<br>
+&nbsp;&nbsp;It's times like these you learn to love again<br>
+&nbsp;&nbsp;It's times like these time and time again<br>
+<br>
+I, I'm a new day rising<br>
+I'm a brand-new sky to hang the stars upon tonight<br>
+I, I'm a little divided<br>
+Do I stay or run away and leave it all behind?<br>
+Ah-ah-ah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Ah-ah-ah<br>
+Ah-ah<br>
+Ah-ah-ah<br>
+<br>
+&nbsp;&nbsp;Chorus x3<br>
+<br>
+</div>
+
+<button class='accordion'>10. The Killing Moon</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I:(Bm G)&nbsp;&nbsp;&nbsp;V:(Em C)&nbsp;&nbsp;&nbsp;C:(G Cm)&nbsp;&nbsp;&nbsp;S:(Bm A G Em)&nbsp;&nbsp;Bm A G D<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+E|-----------7-h9----|<br>
+B|---3-5/6---------3-|<br>
+G|-4-----------------|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+B|-3-0-0-3-0-5-0-7-0-8-10-8-7-5-0-5-0-5-0-5-0-5-|<br>
+</font>
+<br>
+Under blue moon I saw you so soon you'll take me<br>
+Up in your arms too late to beg you or cancel it though I know it must be<br>
+The killing time, unwillingly mine<br>
+<br>
+&nbsp;&nbsp;Fate, up against your will, through the thick and thin<br>
+&nbsp;&nbsp;He will wait until you give yourself to him<br>
+<br>
+In starlit nights I saw you, so cruelly you kissed me<br>
+Your lips a magic world, your sky all hung with jewels<br>
+The killing moon, will come too soon<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / V1 / Chorus<br>
+</div>
+
+<button class='accordion'>11. Stuck in the middle with you</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: D G D - A C G - D&nbsp;&nbsp;&nbsp;B:(G7 D) A7<br>
+</font>
+<br>
+Well I don't know why I came here tonight I got the feeling that something ain't right<br>
+I'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs<br>
+&nbsp;&nbsp;Clowns to the left of me, jokers to the right, here I am stuck in the middle with you.<br>
+<br>
+Yes I'm stuck in the middle with you and I'm wondering what it is I should do<br>
+It's so hard to keep this smile from my face losing control, yeah, I'm all over the place..<br>
+&nbsp;&nbsp;Clowns to the left..<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Well you started out with nothing and you're proud that you're a self made man<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And your friends they all come crawlin slap you on the back and say please, please<br>
+<br>
+Trying to make some sense of it all but I can see that it makes no sense at all<br>
+Is it cool to go to sleep on the floor cause I don't think that I can take anymore.<br>
+Clowns to the left..<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Well you started out with nothing..<br>
+<br>
+V1<br>
+</div>
+
+<button class='accordion'>12. Got Me Wrong</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: Ab E F# x4<br>
+V: Ab E F# x8<br>
+C: D-F-C#-A - Ab-E-F# x2<br>
+</font>
+&nbsp;&nbsp;&nbsp;D-F-C#-A - E-F#-A x4<br>
+&nbsp;&nbsp;&nbsp;F#-A - Ab-E-F# x2<br>
+<font style='font-family:monospace;'>
+O: Ab E F# x3 Ab<br>
+</font>
+<br>
+Yeah, yeah, it goes away<br>
+All of this and more of nothing in my life<br>
+No, color clay<br>
+Individuality not safe<br>
+<br>
+&nbsp;&nbsp;As of now, I bet you've got me wrong<br>
+&nbsp;&nbsp;So unsure you run from something strong<br>
+<br>
+I-I can't let go<br>
+Threadbare tapestry unwinding slow<br>
+Feel a tortured brain<br>
+Show your belly like you want me to<br>
+<br>
+&nbsp;&nbsp;As of now, I bet you got me wrong<br>
+&nbsp;&nbsp;So unsure, we reach for something strong<br>
+<br>
+&nbsp;&nbsp;I haven't felt like this in so long<br>
+&nbsp;&nbsp;Wrong<br>
+&nbsp;&nbsp;In a sense too far gone from love<br>
+&nbsp;&nbsp;That don't last forever<br>
+&nbsp;&nbsp;Something's gotta turn out right<br>
+<br>
+You, sugar taste<br>
+Sweetness doesn't often touch my face<br>
+Stay if you please<br>
+You may not be here when I leave<br>
+<br>
+&nbsp;&nbsp;As of now, I bet you got me wrong<br>
+&nbsp;&nbsp;So unsure, we reach for something strong<br>
+<br>
+&nbsp;&nbsp;I haven't felt like this in so long<br>
+&nbsp;&nbsp;Wrong<br>
+&nbsp;&nbsp;In a sense too far gone from love<br>
+&nbsp;&nbsp;Strong<br>
+<br>
+&nbsp;&nbsp;I haven't felt like this in so long<br>
+&nbsp;&nbsp;Wrong<br>
+&nbsp;&nbsp;In a sense too far gone from love<br>
+&nbsp;&nbsp;That don't last forever<br>
+&nbsp;&nbsp;Something's gotta turn out right<br>
+<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
