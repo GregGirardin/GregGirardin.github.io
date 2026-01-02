@@ -904,14 +904,6 @@
     "key": "E",
     "tempo": "undefined"
   },
-  "Hotel_California.The_Eagles": {
-    "name": "Hotel California",
-    "artist": "The Eagles",
-    "id": "Hotel_California.The_Eagles",
-    "lyrics": "V: Bm F# A E G D Em F#    C: G D F# Bm - G D Em F#\n\nOn a dark desert highway, cool wind in my hair\nWarm smell of colitas rising up through the air\nUp ahead in the distance I saw a shimmering light\nMy head grew heavy and my sight grew dim I had to stop for the night\n\nThere she stood in the doorway, I heard the mission bell\nAnd I was thinking to myself, \"This could be heaven or this could be hell\"\nThen she lit up a candle, and she showed me the way\nThere were voices down the corridor, I thought I heard them say\n\n  Welcome to the Hotel California such a lovely place, such a lovely face\n  Plenty of room at the Hotel California any time of year, you can find it here\n\nHer mind is Tiffany twisted, she got the Mercedes Benz\nShe got a lot of pretty, pretty boys, she calls friends\nHow they dance in the courtyard, sweet summer sweat\nSome dance to remember, some dance to forget\n\nSo I called up the Captain, \"Please bring me my wine\"\nHe said, \"We haven't had that spirit here since 1969\"\nAnd still those voices are calling from far away\nWake you up in the middle of the night, just to hear them say\n\n  Welcome to the Hotel California such a lovely place, such a lovely face\n  They living it up at the Hotel California what a nice surprise, bring your alibis\n\nMirrors on the ceiling, pink champagne on ice\nAnd she said: \"We are all just prisoners here, of our own device\"\nAnd in the master's chambers they gathered for the feast\nThey stab it with their steely knives but they just can't kill the beast\n\nLast thing I remember, I was running for the door\nI had to find the passage back to the place I was before\n\"Relax\" said the night man \"We are programmed to receive\nyou can check out any time you like but you can never leave\"\n",
-    "key": "Bm",
-    "tempo": "undefined"
-  },
   "Hot_Blooded.Foreigner": {
     "name": "Hot Blooded",
     "artist": "Foreigner",
@@ -4859,5 +4851,12 @@
     "id": "Red_Skies_At_Night.The_Fixx",
     "lyrics": "Red skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\nRed skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\n\nShould have taken warning\nIt's just\nPeople mourning, running, hiding, lost\nWe couldn't find, find a place to go\nSo it's red skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\n\nShould have taken warning\nIt was just\nPeople ignoring, running, hiding, lost\nWe couldn't find, find a place to go\nSo it's red skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\n\nRed skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\n\nSo someone's taking over\nAnd it looks like they're aiming\nRight at you and me\nAnd everybody, everybody\nSomeone says, \"We could be dead by morning\"\nSomeone cries, oh, oh, leaving\n\nRed eyes at night (red eyes at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\n\n  Solo\n\nRed skies at night, red skies at night, red skies at night\nRed skies at night, red skies at night, red skies at night\nRed skies at night, red skies at night, red skies at night\nRed skies at night, red skies at night, red skies at night\n\nRed... skies... at... night!\n\nRed skies at night (red skies at night)\nOh oh (oh oh)\nOh oh oh, oh oh oh oh oh\nRed skies at night (red skies at night)\nOh oh (oh oh)\nOh oh, woh woh oh, oh oh oh\n",
     "key": "D"
+  },
+  "Hotel_California.The_Eagles": {
+    "name": "Hotel California",
+    "artist": "The Eagles",
+    "id": "Hotel_California.The_Eagles",
+    "lyrics": "V: Bm F# A E G D Em F#\nC: G D F# Bm - G D Em F#\n\nOn a dark desert highway, cool wind in my hair\nWarm smell of colitas rising up through the air\nUp ahead in the distance I saw a shimmering light\nMy head grew heavy and my sight grew dim I had to stop for the night\n\nThere she stood in the doorway, I heard the mission bell\nAnd I was thinking to myself, \"This could be heaven or this could be hell\"\nThen she lit up a candle, and she showed me the way\nThere were voices down the corridor, I thought I heard them say\n\n  Welcome to the Hotel California such a lovely place, such a lovely face\n  Plenty of room at the Hotel California any time of year, you can find it here\n\nHer mind is Tiffany twisted, she got the Mercedes Benz\nShe got a lot of pretty, pretty boys, she calls friends\nHow they dance in the courtyard, sweet summer sweat\nSome dance to remember, some dance to forget\n\nSo I called up the Captain, \"Please bring me my wine\"\nHe said, \"We haven't had that spirit here since 1969\"\nAnd still those voices are calling from far away\nWake you up in the middle of the night, just to hear them say\n\n  Welcome to the Hotel California such a lovely place, such a lovely face\n  They living it up at the Hotel California what a nice surprise, bring your alibis\n\nMirrors on the ceiling, pink champagne on ice\nAnd she said: \"We are all just prisoners here, of our own device\"\nAnd in the master's chambers they gathered for the feast\nThey stab it with their steely knives but they just can't kill the beast\n\nLast thing I remember, I was running for the door\nI had to find the passage back to the place I was before\n\"Relax\" said the night man \"We are programmed to receive\nyou can check out any time you like but you can never leave\"\n",
+    "key": "Bm"
   }
 }
