@@ -984,14 +984,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
-    "name": "Call Me The Breeze",
-    "artist": "Lynyrd Skynyrd",
-    "id": "Call_Me_The_Breeze.Lynyrd_Skynyrd",
-    "lyrics": "Blues in A\n\nCall me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
-    "key": "A",
-    "tempo": "Tempo"
-  },
   "Centerfold.J_Geils": {
     "name": "Centerfold",
     "artist": "J Geils",
@@ -1507,14 +1499,6 @@
     "name": "Mexican Radio",
     "artist": "Wall Of Voodoo",
     "id": "Mexican_Radio.Wall_Of_Voodoo",
-    "lyrics": "\n",
-    "key": "",
-    "tempo": ""
-  },
-  "Lump.The_Presidents_Of_The_United_States": {
-    "name": "Lump",
-    "artist": "The Presidents Of The United States",
-    "id": "Lump.The_Presidents_Of_The_United_States",
     "lyrics": "\n",
     "key": "",
     "tempo": ""
@@ -2291,9 +2275,8 @@
     "name": "Long Way Down",
     "artist": "Goo Goo Dolls",
     "id": "Long_Way_Down.Goo_Goo_Dolls",
-    "lyrics": "Lyrics",
-    "key": "undefined",
-    "tempo": "Tempo"
+    "lyrics": "",
+    "key": ""
   },
   "Love_Song.The_Cure": {
     "name": "Love Song",
@@ -4761,13 +4744,6 @@
     "lyrics": "I don't mind\nWhen you act your age\nIt suits me fine\nThat you treat me like a child\n\nAnd I can't deny\nWhen I'm with you\nThat you step outside\nOf all those fears locked up inside\n\n   Your love is driving me crazy\n   Your love just takes me away\n   Your love is driving me crazy\n   It takes me all the way\n\nWhat I like\nIs what you've got to offer\nJust my type\nDon't mind playing on the edge\n\n   Chorus\n\nLead me to forbidden doors\nYou know I'm yours\nYeah, you got it, yeah, I want it\nDon't you know it, baby?\n\nRight on time\nA tight fit right on the money\nSo sublime\nHot, sweet cherries on the vine\n\n   Chorus x2\n\n   Your love, your love\n   Your love just takes me away, oh yeah\n   Your love\n",
     "key": "E"
   },
-  "Found_Out_About_You.Gin_Blossoms": {
-    "name": "Found Out About You",
-    "artist": "Gin Blossoms",
-    "id": "Found_Out_About_You.Gin_Blossoms",
-    "lyrics": "All last summer, in case you don't recall\nI was yours and you were mine\nForget it all\nIs there a line that I could write\nThat's sad enough to make you cry?\nAnd all the lines you wrote to me were lies\n\nMonths roll past the love that you struck dead\nDid you love me only in my head?\nThe things you said and did to me\nThey seem to come so easily\nThe love I thought I'd won\nYou give for free\n\n   Whispers at the bus stop\n   Well, I've heard about nights out in the school yard\n   I found out about you\n   I found out about you\n\nRumors follow everywhere you go\nLike when you left and I was last to know\nWell you're famous now and there's no doubt\nIn all the places you hang out\nThey know your name and they know what you're about\n\n   Chorus\n\nStreet lights blink on through the car window\nI get the time too often on AM Radio\nWell you know it's all I think about\nI write your name, drive past your house\nYour boyfriend's over, I watch your lights go out\n\n   Chorus x2\n\n   I found out about you\n",
-    "key": "G"
-  },
   "I_ll_Fall_In_Love_Again.Sammy_Hagar": {
     "name": "I'll Fall In Love Again",
     "artist": "Sammy Hagar",
@@ -4872,5 +4848,159 @@
     "id": "Scarlet_Begonias.Grateful_Dead",
     "lyrics": "As I was walking round Grosvenor Square\nNot a chill to the winter but a nip to the air\nFrom the other direction she was calling my eye\nIt could be an illusion, but I might as well try\nMight as well try\n\nShe had rings on her fingers and bells on her shoes\nAnd I knew without asking she was into the blues\nShe wore scarlet begonias, tucked into her curls\nI knew right away she was not like other girls\nOther girls\n\nIn the thick of the evening when the dealing got rough\nShe was too pat to open and too cool to bluff\nAs I picked up my matches and was closing the door\nI had one of those flashes I had been there before\nBeen there before\n\n   Well I ain't often right but I've never been wrong\n   It seldom turns out the way it does in the song\n   Once in a while you get shown the light\n   In the strangest of places if you look at it right\n\n   [Short instrumental break]\n\nWell there ain't nothing wrong with the way she moves\nScarlet begonias or a touch of the blues\nAnd there's nothing wrong with the look that's in her eyes\nI had to learn the hard way to let her pass by\nLet her pass by\n\n  [Solo]\n\nThe wind in the willows playing Tea for Two\nThe sky was yellow and the sun was blue\nStrangers stopping strangers just to shake their hand\nEverybody is playing in the heart of gold band\nHeart of gold band\n\n  [Instrumental outro]\n",
     "key": "E"
+  },
+  "Let_s_Go.The_Cars": {
+    "name": "Let's Go",
+    "artist": "The Cars",
+    "id": "Let_s_Go.The_Cars",
+    "lyrics": "",
+    "key": ""
+  },
+  "Lump.The_Presidents_Of_The_United_States": {
+    "name": "Lump",
+    "artist": "The Presidents Of The United States",
+    "id": "Lump.The_Presidents_Of_The_United_States",
+    "lyrics": "\n",
+    "key": "undefined"
+  },
+  "Boys_of_Summer.Don_Henley": {
+    "name": "Boys of Summer",
+    "artist": "Don Henley",
+    "id": "Boys_of_Summer.Don_Henley",
+    "lyrics": "",
+    "key": ""
+  },
+  "Aeroplane.RHCP": {
+    "name": "Aeroplane",
+    "artist": "RHCP",
+    "id": "Aeroplane.RHCP",
+    "lyrics": "",
+    "key": ""
+  },
+  "Inside_Out.Eve_6": {
+    "name": "Inside Out",
+    "artist": "Eve 6",
+    "id": "Inside_Out.Eve_6",
+    "lyrics": "",
+    "key": "B"
+  },
+  "Semi-Charmed_Life.Third_Eye_Blind": {
+    "name": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
+    "id": "Semi-Charmed_Life.Third_Eye_Blind",
+    "lyrics": "",
+    "key": "G"
+  },
+  "Santa_Monica.Everclear": {
+    "name": "Santa Monica",
+    "artist": "Everclear",
+    "id": "Santa_Monica.Everclear",
+    "lyrics": "",
+    "key": "G"
+  },
+  "Shot_in_the_Dark.Ozzy_Osbourne": {
+    "name": "Shot in the Dark",
+    "artist": "Ozzy Osbourne",
+    "id": "Shot_in_the_Dark.Ozzy_Osbourne",
+    "lyrics": "",
+    "key": ""
+  },
+  "Hemorrhage_In_My_Hands.Fuel": {
+    "name": "Hemorrhage In My Hands",
+    "artist": "Fuel",
+    "id": "Hemorrhage_In_My_Hands.Fuel",
+    "lyrics": "",
+    "key": ""
+  },
+  "Blitzkrieg_Bop.The_Ramones": {
+    "name": "Blitzkrieg Bop",
+    "artist": "The Ramones",
+    "id": "Blitzkrieg_Bop.The_Ramones",
+    "lyrics": "",
+    "key": ""
+  },
+  "Movin_Out.Billy_Joel": {
+    "name": "Movin Out",
+    "artist": "Billy Joel",
+    "id": "Movin_Out.Billy_Joel",
+    "lyrics": "",
+    "key": ""
+  },
+  "Crackerman.Stone_Temple_Pilots": {
+    "name": "Crackerman",
+    "artist": "Stone Temple Pilots",
+    "id": "Crackerman.Stone_Temple_Pilots",
+    "lyrics": "",
+    "key": ""
+  },
+  "Trick_of_the_Light.The_Who": {
+    "name": "Trick of the Light",
+    "artist": "The Who",
+    "id": "Trick_of_the_Light.The_Who",
+    "lyrics": "",
+    "key": ""
+  },
+  "Hold_The_Line.Toto": {
+    "name": "Hold The Line",
+    "artist": "Toto",
+    "id": "Hold_The_Line.Toto",
+    "lyrics": "",
+    "key": ""
+  },
+  "China_Grove.Doobie_Brothers": {
+    "name": "China Grove",
+    "artist": "Doobie Brothers",
+    "id": "China_Grove.Doobie_Brothers",
+    "lyrics": "",
+    "key": "undefined"
+  },
+  "Found_Out_About_You.Gin_Blossoms": {
+    "name": "Found Out About You",
+    "artist": "Gin Blossoms",
+    "id": "Found_Out_About_You.Gin_Blossoms",
+    "lyrics": "All last summer in case you don't recall\nI was yours and you were mine forget it all\nIs there a line that I could write\nThat's sad enough to make you cry?\nAnd all the lines you wrote to me were lies\n\nMonths roll past the love that you struck dead\nDid you love me only in my head?\nThe things you said and did to me they seem to come so easily\nThe love I thought I'd won you give for free\n\n  Whispers at the bus stop\n  Well I've heard about nights out in the school yard\n  I found out about you, I found out about you\n\nRumors follow everywhere you go\nLike when you left and I was last to know\nWell you're famous now and there's no doubt in all the places you hang out\nThey know your name and they know what you're about\n\n  Chorus\n\n  Solo\n\nStreet lights blink on through the car window\nI get the time too often on AM Radio\nWell you know it's all I think about I write your name, drive past your house\nYour boyfriend's over I watch your lights go out\n\n  Chorus",
+    "key": "C"
+  },
+  "Backwater.Meat_Puppets": {
+    "name": "Backwater",
+    "artist": "Meat Puppets",
+    "id": "Backwater.Meat_Puppets",
+    "lyrics": "And when I wake up in the morning\nTo feel the daybreak on my face\nThere's a blood that's flowin through the feeling\nWith a knife to open up the sky's veins\n\n  Some things will never change\n  They stand there looking backwards half unconscious from the pain\n  They may seem rearranged\n  In the backwater swirling there is something that will never change\n\nAnd when I shoulda been gone a long time\nLaughs and says, I find ways\nJust when we're sheltered under paper\nThe rockets come at us sideways\n\n  Chorus\n\n    Hey I'm blind, good fine.\n    Roll the time, on whose dime\n\n  Solo\n\nAnd when I wake up in the morning\nTo feel the daybreak on my face\nThere's a blood that's flowin' through the ceiling\nWith a knife to open up the sky's veins\n\n  Chorus",
+    "key": "E"
+  },
+  "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
+    "name": "Call Me The Breeze",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Call_Me_The_Breeze.Lynyrd_Skynyrd",
+    "lyrics": "Blues in A\n\nCall me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
+    "key": "A"
+  },
+  "American_Band.Grand_Funk_Railroad": {
+    "name": "American Band",
+    "artist": "Grand Funk Railroad",
+    "id": "American_Band.Grand_Funk_Railroad",
+    "lyrics": "Out on the road for forty days\nLast night in Little Rock put me in a haze\nSweet, sweet Connie, doin' her act\nShe had the whole show and that's a natural fact\nUp all night with Freddie King\nI got to tell you, poker's his thing\nBooze and ladies, keep me right\nAs long as we can make it to the show tonight\n\n  We're an American band\n  We're an American band\n  We're comin' to your town\n  We'll help you party it down\n  We're an American band\n\nFour young chiquitas in Omaha\nWaitin' for the band to return from the show\nFeelin' good, feelin' right, it's Saturday night\nThe hotel detective, he was outta sight\nNow these fine ladies, they had a plan\nThey was out to meet the boys in the band\nThey said, \"Come on dudes, let's get it on\"\nAnd we proceeded to tear that hotel down",
+    "key": "D"
+  },
+  "Low.Cracker": {
+    "name": "Low",
+    "artist": "Cracker",
+    "id": "Low.Cracker",
+    "lyrics": "D C E G\n\nSometimes I wanna take you down\nSometime I wanna get you low\nI brush your hair back from your eyes\nI take you down, let the river flow\nSometimes I go and walk the street\nBehind the green sheet of glass\nA million miles below their feet\nA million miles, a million miles\n\n  I'll be with you, girl, like being low\n  Hey, hey, hey, like being stoned\n\nA million poppies' gonna make me sleep\nBut just one rose, it knows your name\nA fruit is resting on the vine\nA fruit is calling from the trees\nHey, don't you wanna go down\nLike some junkie cosmonaut?\nA million miles below their feet\nA million miles, a million miles\n\n  Chorus\n\n  Solo\n\nA blue, blue is the sun\nA brown, brown is the sky\nA green, green of her eyes\nA million miles, a million miles\nHey, don't you wanna go down\nLike some disgraced cosmonaut?\nA million miles below their feet\nA million miles, a million miles\n\n  Chorus",
+    "key": "D"
+  },
+  "All_For_You.Sister_Hazel": {
+    "name": "All For You",
+    "artist": "Sister Hazel",
+    "id": "All_For_You.Sister_Hazel",
+    "lyrics": "Finally I figured out, but it took a long long time\nAnd now there's a turnabout, Maybe cause I'm trying\n\n  There's been times, I'm so confused\n  All my roads, They lead to you\n  I just can't turn, And walk away...\n\n  It's hard to say, What it is I see in you\n  Wonder if I'll always, Be with you\n  But words can't say, And I can't do\n  Enough to prove, It's all for you\n\nI thought I'd seen it all, 'Cause it's been a long long time\nBut then we'll trip and fall, Wondering if I'm blind\n\n  Chorus\n\nRain comes pouring down (Pouring down)\nFalling from blue skies (Falling from blue skies)\nWords without a sound, Coming from your eyes\n\n  Chorus",
+    "key": "G"
+  },
+  "Mr_Jones.Counting_Crows": {
+    "name": "Mr Jones",
+    "artist": "Counting Crows",
+    "id": "Mr_Jones.Counting_Crows",
+    "lyrics": "Am F Dm G\nC F G\nFM7 Am G\n\nSha-la-la-la-la-la-la uh-huh\n\nI was down at the New Amsterdam\nStaring at this yellow-haired girl\nMr. Jones strikes up a conversation with a black-haired flamenco dancer\nYou know, she dances while his father plays guitar she's suddenly beautiful\nAnd we all want something beautiful man I wish I was beautiful\n\nSo come dance this silence down through the morning\nSha-la-la-la-la-la-la-la, yeah Uh-huh, yeah\nCut up, Maria Sshow me some of them Spanish dances and\nPass me a bottle, Mr. Jones\nBelieve in me help me believe in anything\n'Cause I wanna be someone who believes Yeah\n\n  Mr. Jones and me tell each other fairy tales\n  And we stare at them beautiful women she's looking at you\n  Oh no, no, she's looking at me\n  Smiling in the bright lights coming through in stereo\n  When everybody loves you you can never be lonely\n\nWell, I'm gon' paint my picture\nPaint myself in blue and red and black and gray\nAll of the beautiful colors are very very meaningful\nYeah, well, you know gray is my favorite color\nI felt so symbolic yesterday\nIf I knew Picasso I would buy myself a gray guitar and play\n\n  Mr. Jones and me look into the future\n  Yeah, we stare at the beautiful women\n  She's looking at you I don't think so, she's looking at me\n  Standing in the spotlight I bought myself a gray guitar\n  When everybody loves me I will never be lonely\n\n   I will never be lonely\n   Said, I'm never gonna be lonely\n   I wanna be a lion Yeah, everybody wanna pass as cats\n   We all wanna be big, big stars\n   Yeah, but we got different reasons for that\n   Believe in me 'Cause I don't believe in anything\n   And I, I wanna be someone to believe\n   To believe, to believe, yeah\n\nMr. Jones and me stumbling through the barrio\nYeah, we stare at the beautiful women\nShe's perfect for you man there's got to be somebody for me\nI wanna be Bob Dylan Mr. Jones wishes he was someone\nJust a little more funky When everybody loves you\nOh son, that's just about as funky as you can be\nMr. Jones and me\nStaring at the video\nWhen I look at the television, I wanna see me\nStaring right back at me\nWe all wanna be big stars\nBut we don't know why and we don't know how\nBut when everybody loves me\nI wanna be just about as happy as I can be\n\nMr. Jones and me\nWe're gonna be big stars",
+    "key": "Am"
   }
 }
