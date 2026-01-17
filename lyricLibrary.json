@@ -4919,13 +4919,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Movin_Out.Billy_Joel": {
-    "name": "Movin Out",
-    "artist": "Billy Joel",
-    "id": "Movin_Out.Billy_Joel",
-    "lyrics": "",
-    "key": ""
-  },
   "Crackerman.Stone_Temple_Pilots": {
     "name": "Crackerman",
     "artist": "Stone Temple Pilots",
@@ -5002,5 +4995,12 @@
     "id": "Mr_Jones.Counting_Crows",
     "lyrics": "Am F Dm G\nC F G\nFM7 Am G\n\nSha-la-la-la-la-la-la uh-huh\n\nI was down at the New Amsterdam\nStaring at this yellow-haired girl\nMr. Jones strikes up a conversation with a black-haired flamenco dancer\nYou know, she dances while his father plays guitar she's suddenly beautiful\nAnd we all want something beautiful man I wish I was beautiful\n\nSo come dance this silence down through the morning\nSha-la-la-la-la-la-la-la, yeah Uh-huh, yeah\nCut up, Maria Sshow me some of them Spanish dances and\nPass me a bottle, Mr. Jones\nBelieve in me help me believe in anything\n'Cause I wanna be someone who believes Yeah\n\n  Mr. Jones and me tell each other fairy tales\n  And we stare at them beautiful women she's looking at you\n  Oh no, no, she's looking at me\n  Smiling in the bright lights coming through in stereo\n  When everybody loves you you can never be lonely\n\nWell, I'm gon' paint my picture\nPaint myself in blue and red and black and gray\nAll of the beautiful colors are very very meaningful\nYeah, well, you know gray is my favorite color\nI felt so symbolic yesterday\nIf I knew Picasso I would buy myself a gray guitar and play\n\n  Mr. Jones and me look into the future\n  Yeah, we stare at the beautiful women\n  She's looking at you I don't think so, she's looking at me\n  Standing in the spotlight I bought myself a gray guitar\n  When everybody loves me I will never be lonely\n\n   I will never be lonely\n   Said, I'm never gonna be lonely\n   I wanna be a lion Yeah, everybody wanna pass as cats\n   We all wanna be big, big stars\n   Yeah, but we got different reasons for that\n   Believe in me 'Cause I don't believe in anything\n   And I, I wanna be someone to believe\n   To believe, to believe, yeah\n\nMr. Jones and me stumbling through the barrio\nYeah, we stare at the beautiful women\nShe's perfect for you man there's got to be somebody for me\nI wanna be Bob Dylan Mr. Jones wishes he was someone\nJust a little more funky When everybody loves you\nOh son, that's just about as funky as you can be\nMr. Jones and me\nStaring at the video\nWhen I look at the television, I wanna see me\nStaring right back at me\nWe all wanna be big stars\nBut we don't know why and we don't know how\nBut when everybody loves me\nI wanna be just about as happy as I can be\n\nMr. Jones and me\nWe're gonna be big stars",
     "key": "Am"
+  },
+  "Movin_Out.Billy_Joel": {
+    "name": "Movin Out",
+    "artist": "Billy Joel",
+    "id": "Movin_Out.Billy_Joel",
+    "lyrics": "(Dm Gm7 C Caug/E Fmaj7)\nDm G7 Bb C - Dm G7 C C7/E F\nBb    Bb/D   C   C7/Bb  A        A/C# Dm\nDm/C  Bb    Bb/D    Em7   A     [ Dm ] \n\nAnthony works in the grocery store\nSaving his pennies for someday\nMama Leone left a note on the door\nShe said, \"Sonny, move out to the country\"\n \n  Working too hard can give you a heart attack-ack\n  You ought to know by now\n  Who needs a house out in Hackensack?\n  Is that all you get for your money?\n \n    It seems such a waste of time, if that's what it's all about\n    Mama, if that's movin' up then I'm movin' out\n   (Movin' out, ah-hah)(Ooh-ooh, ah-hah)\n\nSergeant O'Leary is walking the beat\nAt night he becomes a bar tender\nHe works at Mister Cacciatore's down on Sullivan Street\nAcross from the Medical Center\n \n  And he's trading in his Chevy for a Cadillac-ac\n  You ought to know by now\n  And if he can't drive with a broken back\n  At least he can polish the fenders\n\n    It seems such a waste of time, if that's what it's all about\n    Yea, if that's movin' up then I'm movin' out\n    I'm movin' out\n\nYou should never argue with a crazy ma-ma-ma-ma-ma-mind\nYou ought to know by now\nYou can pay Uncle Sam with the overtime\nIs that all you get for your money?\n \n  And if that's what you have in mind, yeah, if that's what you're all about\n  Good luck movin' up 'cos I'm movin' out\n \n[Outro]\n| D | G | A | D |\n",
+    "key": "Dm"
   }
 }
