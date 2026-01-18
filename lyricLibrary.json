@@ -4870,24 +4870,10 @@
     "lyrics": "",
     "key": ""
   },
-  "Inside_Out.Eve_6": {
-    "name": "Inside Out",
-    "artist": "Eve 6",
-    "id": "Inside_Out.Eve_6",
-    "lyrics": "",
-    "key": "B"
-  },
   "Semi-Charmed_Life.Third_Eye_Blind": {
     "name": "Semi-Charmed Life",
     "artist": "Third Eye Blind",
     "id": "Semi-Charmed_Life.Third_Eye_Blind",
-    "lyrics": "",
-    "key": "G"
-  },
-  "Santa_Monica.Everclear": {
-    "name": "Santa Monica",
-    "artist": "Everclear",
-    "id": "Santa_Monica.Everclear",
     "lyrics": "",
     "key": "G"
   },
@@ -5016,5 +5002,19 @@
     "id": "Margaritaville.Jimmy_Buffett",
     "lyrics": "    [Intro]\n\nNibblin' on sponge cake\nWatchin' the sun bake\nAll of those tourists covered with oil\nStrummin' my six-string\nOn my front porch swing\nSmell those shrimp, they're beginnin' to boil\n\n   Wastin' away again in Margaritaville\n   Searchin' for my lost shaker of salt\n   Some people claim that there's a woman to blame\n   But I know, it's nobody's fault\n\nDon't know the reason\nStayed here all season\nNothing to show but this brand-new tattoo\nBut it's a real beauty\nA Mexican cutie\nHow it got here, I haven't a clue\n\n   Wastin' away again in Margaritaville\n   Searchin' for my lost shaker of salt\n   Some people claim that there's a woman to blame\n   Now I think, hell, it could be my fault\n\n   [Solo]\n\nI blew out my flip-flop\nStepped on a pop top\nCut my heel, had to cruise on back home\nBut there's booze in the blender\nAnd soon it will render\nThat frozen concoction that helps me hang on\n\n   Wastin' away again in Margaritaville\n   Searchin' for my lost shaker of salt\n   Some people claim that there's a woman to blame\n   But I know, it's my own damn fault\n\n   Yes, and some people claim\n   That there's a woman to blame\n   And I know, it's my own damn fault\n\n   [Outro]\n",
     "key": "D"
+  },
+  "Santa_Monica.Everclear": {
+    "name": "Santa Monica",
+    "artist": "Everclear",
+    "id": "Santa_Monica.Everclear",
+    "lyrics": "I am still living with your ghost\nLonely and dreaming of the west coast\nI don't want to be your downtime\nI don't want to be your stupid game\n \nWith my big black boots and an old suitcase\nI do believe I'll find myself a new place\nI don't want to be the bad guy\nI don't want to do your sleepwalk dance anymore\nI just want to see some palm trees\nGo and try to shake away this disease\n \n  We can live beside the ocean\n  Leave the fire behind\n  Swim out past the breakers\n  Watch the world die\n \nI am still dreaming of your face\nHungry and hollow for all the things you took away\nI don't want to be your good time\nI don't want to be your fall-back crutch anymore\n \nI'll walk right out into a brand new day\nInsane and rising in my own weird way\nI don't want to be the bad guy\nI don't want to do your sleepwalk dance anymore\nI just want to feel some sunshine\nI just want to find some place to be alone\n \n  Chorus",
+    "key": "G"
+  },
+  "Inside_Out.Eve_6": {
+    "name": "Inside Out",
+    "artist": "Eve 6",
+    "id": "Inside_Out.Eve_6",
+    "lyrics": "C: A E B - A E F# - E B F# - E B F#\nV: B F# A G - B F# E\nB: B E A E\n\n  I would swallow my pride I would choke on the rinds\n  But the lack thereof would leave me empty inside\n  I would swallow my doubt turn it inside out find nothing but faith in nothing\n  Want to put my tender heart in a blender watch it spin around to a beautiful oblivion\n  Rendezvous then I'm through with you\n \nI burn burn like a wicker cabinet chalk white and oh so frail\nI see our time had gotten stale\nThe tick tock of the clock is painful\nAll sane and logical\nI want to tear it off the wall\nI hear words and clips and phrases\nI think sick like ginger ale\nMy stomach turns and I exhale\n \n  Chorus\n \nSo cal is where my mind stays, but it's not my state of mind\nI'm not as ugly sad as you\nOr am I origami\nFolded up and just pretend demented as the motives in your head\n \n  Chorus\n\nI alone am the one you don't know you need take heed feed your ego\nMake me blind when your eyes close sink when you get close tie me to the bedpost\nI alone am the one you don't know you need you don't know you need me.\nmake me Blind when your eyes close, tie me to the bed post\n \n  Chorus",
+    "key": "B"
   }
 }
