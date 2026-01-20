@@ -1861,14 +1861,6 @@
     "key": "F#",
     "tempo": "108bpm"
   },
-  "Learn_To_Fly.Foo_Fighters": {
-    "name": "Learn To Fly",
-    "artist": "Foo Fighters",
-    "id": "Learn_To_Fly.Foo_Fighters",
-    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to fly\n  Make my way back home when I learn to\n",
-    "key": "F#",
-    "tempo": "136bpm"
-  },
   "Surrender.Cheap_Trick": {
     "name": "Surrender",
     "artist": "Cheap Trick",
@@ -5057,5 +5049,19 @@
     "id": "Plowed.Sponge",
     "lyrics": "",
     "key": ""
+  },
+  "Learn_To_Fly.Foo_Fighters": {
+    "name": "Learn To Fly",
+    "artist": "Foo Fighters",
+    "id": "Learn_To_Fly.Foo_Fighters",
+    "lyrics": "Run and tell all of the angels this could take all night\nThink I need a devil to help me get things right\nHook me up a new revolution cause this one is a lie\nWe sat around laughing and watched the last one die\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of lying\n  Make my way back home when I learn to fly high\n\nI think I'm done nursing the patience it can wait one night\nI'd give it all away if you give me one last try\nWe'll live happily ever trapped if you just save my life\nRun and tell the angels that everything's alright\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to\n\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n    Fly along with me, I can't quite make it alone\n    Try to make this life my own\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to\n\n  Now I'm looking to the sky to save me looking for a sign of life\n  Looking for something to help me burn out bright\n  I'm looking for a complication looking cause I'm tired of trying\n  Make my way back home when I learn to fly high\n  Make my way back home when I learn to fly\n  Make my way back home when I learn to\n",
+    "key": "F#"
+  },
+  "Learning_To_Fly.Tom_Petty": {
+    "name": "Learning To Fly",
+    "artist": "Tom Petty",
+    "id": "Learning_To_Fly.Tom_Petty",
+    "lyrics": "F C Am G\n\nWell I started out, down a dirty road\nStarted out all alone\nAnd the sun went down, as I crossed the hill\nAs the town lit up, the world got still\n\n  I’m learning to fly, but I ain’t got wings\n  Coming down is the hardest thing\n\nWell the good ol’ days, may not return\nAnd the rocks may melt and the sea may burn\n\n  Chorus \n \nWell some say life, will beat you down\nBreak your heart, steal your crown\nSo I started out, for god knows where\nI guess I’ll know when I get there\n \n  Chorus",
+    "key": "F"
   }
 }
