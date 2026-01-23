@@ -2626,14 +2626,6 @@
     "key": "D",
     "tempo": "Tempo"
   },
-  "Green_River.CCR": {
-    "name": "Green River",
-    "artist": "CCR",
-    "id": "Green_River.CCR",
-    "lyrics": "E7 -- C A E7\n\nWell take me back down where cool water flows yeah.\nLet me remember things I love\nStoppin at the log where catfish bite\nWalkin along the river road at night\nBarefoot girls dancin in the moonlight\n\nI can hear the bullfrog callin me.\nWonder if my ropes still hangin to the tree.\nLove to kick my feet way down the shallow water.\nShoofly, dragonfly, get back to mother.\nPick up a flat rock, skip it across green river.\n\nUp at codys camp I spent my days, oh,\nWith flat car riders and cross-tie walkers\nOld cody junior took me over,\nSaid, youre gonna find the world is smouldrin.\nAnd if you get lost come on home to green river.",
-    "key": "E",
-    "tempo": "Tempo"
-  },
   "Hard_To_Handle.Black_Crowes": {
     "name": "Hard To Handle",
     "artist": "Black Crowes",
@@ -3400,14 +3392,6 @@
     "lyrics": "V: A /G# F#m - Bm D A - A /G# F#m\nC: (Bm D Bm D A)\nO: (F#m E D)\n\nI'm standing here on the ground the sky above won't fall down \nSee no evil in all directions \nResolution of happiness things have been dark for too long\n\n  Don't change for you, don't change a thing for me x 2\n\nI found a love that I had lost it was gone for too long \nHear no evil in all directions \nExecution of bitterness message received loud and clear\n\n  Don't change for you, don't change a thing for me x 2\n\n    Solo\n\nVerse 1\n\n  Don't change for you, don't change a thing for me x 3\n\nOutro\n\n  Don't change\n  Don't change\n",
     "key": "A",
     "tempo": "164bpm"
-  },
-  "Good.Better_Than_Ezra": {
-    "name": "Good",
-    "artist": "Better Than Ezra",
-    "id": "Good.Better_Than_Ezra",
-    "lyrics": "V: G D Em C\nS: A E F#m D\n\nLooking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
-    "key": "G",
-    "tempo": "110bpm"
   },
   "My_Sharona.The_Knack": {
     "name": "My Sharona",
@@ -4798,13 +4782,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Trick_of_the_Light.The_Who": {
-    "name": "Trick of the Light",
-    "artist": "The Who",
-    "id": "Trick_of_the_Light.The_Who",
-    "lyrics": "",
-    "key": ""
-  },
   "Hold_The_Line.Toto": {
     "name": "Hold The Line",
     "artist": "Toto",
@@ -4888,13 +4865,6 @@
     "id": "Mary_Jane_s_Last_Dance.Tom_Petty",
     "lyrics": "She grew up in an Indiana town\nHad a good-looking mama who never was around\nBut she grew up tall and she grew up right\nWith them Indiana boys on an Indiana night\n\n  Whooh!\n\nWell, she moved down here at the age of 18\nShe blew the boys away, it was more than they'd seen\nI was introduced and we both started grooving\nShe said, \"I dig you, baby, but I got to keep movin on, keep movin' on\"\n\n  Last dance with Mary Jane one more time to kill the pain\n  I feel summer creepin' in and I'm tired of this town again\n\n  Whooh!\n\nWell I don't know, but I've been told\nYou never slowed down, you never grow old\nTired of screwin' up, tired of goin' down\nTired of myself, tired of this town\n\nOh my, my, oh hell, yes\nHoney, put on that party dress\nBuy me a drink, sing me a song\nTake me as I come 'cause I can't stay long\n\n  Chorus\n\nThere's pigeons down on Market Square\nShe's standin in her underwear\nLookin' down from a hotel room\nThe nightfall will be comin' soon\n\nOh my, my, oh hell, yes\nYou got to put on that party dress\nIt was too cold to cry when I woke up alone\nI hit my last number and walked to the road\n\n  Chorus\n",
     "key": "Am"
-  },
-  "Those_Shoes.The_Eagles": {
-    "name": "Those Shoes",
-    "artist": "The Eagles",
-    "id": "Those_Shoes.The_Eagles",
-    "lyrics": "",
-    "key": "undefined"
   },
   "Learn_To_Fly.Foo_Fighters": {
     "name": "Learn To Fly",
@@ -5070,5 +5040,33 @@
     "id": "Plowed.Sponge",
     "lyrics": "Riff\n\nV: E5 D/F# A D/F# C G\nC: (D C) (E5 C5) B5 C5\n\nWill I wake up some dream I made up?\nNo, I guess this is reality\nWhat will change us or will we mess up?\nOur only chance to connect with a dream\n\n  Say a prayer for me x 3\n  I'm buried by the sound\n\n  Of a world of human wreckage\n  In a world of human wreckage x 2\n  Well, I'm lost and I'm found and I can't touch the ground\n  I'm plowed into the sound\n\n  Solo\n\nTo see wide open with a head that's broken\nHang a life on some tragedy\nPlow me under the ground that covers\nThe message that is the seed\n\n  PC + Chorus\n\nWill I wake up some dream I made up?\nNo, I guess this is reality",
     "key": "E"
+  },
+  "Trick_of_the_Light.The_Who": {
+    "name": "Trick of the Light",
+    "artist": "The Who",
+    "id": "Trick_of_the_Light.The_Who",
+    "lyrics": "Wide awake in the middle of the night I wonder how she's feeling\nIs it just a trick of the light or is her ceiling peeling?\nShe's sitting up in bed, shaking her head at a copy of \"True Confessions\"\nOh it must seem like a fairy tale to a woman of her profession\n\n  But was I all right? (Was I all right?)\n  Did I take you to the height of ecstasy?\n  Was I all right? (Was I all right?)\n  Did a shadow of emotion cross your face\n  Or was it just another trick of the light?\n\n    Solo\n\n  Chorus\n\n    What's a nice girl like you doing in a place like this?\n    They don't make girls like you no more\n    And I'd like to get to know you on closer terms than this\n    But I guess you've heard it all before\n\n  Break\n\nLady of the night won't you steal away with me?\nLady of the night won't you steal away with me?\nThe money's lying on the floor she looks at me shakes her head and sighs\nOut of time out the door red light shining in my eyes\n\n  Chorus",
+    "key": "D"
+  },
+  "Green_River.CCR": {
+    "name": "Green River",
+    "artist": "CCR",
+    "id": "Green_River.CCR",
+    "lyrics": "E7 -- C A E7\n\nWell take me back down where cool water flows yeah.\nLet me remember things I love\nStoppin at the log where catfish bite\nWalkin along the river road at night\nBarefoot girls dancin in the moonlight\n\nI can hear the bullfrog callin me.\nWonder if my ropes still hangin to the tree.\nLove to kick my feet way down the shallow water.\nShoofly, dragonfly, get back to mother.\nPick up a flat rock, skip it across green river.\n\nUp at codys camp I spent my days, oh,\nWith flat car riders and cross-tie walkers\nOld cody junior took me over,\nSaid, youre gonna find the world is smouldrin.\nAnd if you get lost come on home to green river.",
+    "key": "E"
+  },
+  "Those_Shoes.The_Eagles": {
+    "name": "Those Shoes",
+    "artist": "The Eagles",
+    "id": "Those_Shoes.The_Eagles",
+    "lyrics": "Tell us what you're gonna do tonight to mama\nThere must be someplace you can go\nIn the middle of the tall drinks and the drama\nThere must be someone you know\n\n  God knows you're looking good enough\n  But you're so smooth and the world's so rough\n  You might have something to lose\n  Oh no, pretty mama what you gonna do in those shoes?\n\nGot those pretty little straps around your ankles\nGot those shiny little chains around your heart\nYou got to have your independence\nBut you don't know just where to start\n\n  Desperation in the singles bars\n  An' all those jerkoffs in their fancy cars\n  You can't believe your reviews\n  Oh no, you can't do that once you started wearing those shoes\n\n  Solo\n\nThey're looking at you, leaning on you tell you anything you wanna hear\nThey give you tablets of love\nThey're waiting for you got to score you handy with a shovel and so sincere\nOoh, they got the kid glove\n\n  You just want someone to talk to\n  They just wanna get their hands on you\n  You get whatever you choose\n  Oh, no, you can't do that once you started wearing those shoes x 2\n\nSolo w/voicebox",
+    "key": "Em"
+  },
+  "Good.Better_Than_Ezra": {
+    "name": "Good",
+    "artist": "Better Than Ezra",
+    "id": "Good.Better_Than_Ezra",
+    "lyrics": "V: G D Em C\nS: A E F#m D\n\nLooking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
+    "key": "G"
   }
 }
