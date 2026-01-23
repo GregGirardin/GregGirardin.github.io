@@ -1502,13 +1502,6 @@
     "key": "",
     "tempo": ""
   },
-  "Lump.The_Presidents_Of_The_United_States": {
-    "name": "Lump",
-    "artist": "The Presidents Of The United States",
-    "id": "Lump.The_Presidents_Of_The_United_States",
-    "lyrics": "\n",
-    "key": "undefined"
-  },
   "Shakin.Eddie_Money": {
     "name": "Shakin",
     "artist": "Eddie Money",
@@ -4873,13 +4866,6 @@
     "lyrics": "V: E B C#m A\nC: (A E) B\n\nI'll never be your beast of burden\nMy back is broad, but it's a-hurting\nAll I want for you to make love to me\nI'll never be your beast of burden\nI've walked for miles my feet are hurting\nAll I want is for you to make love to me\n\n  Am I hard enough? Am I rough enough?\n  Am I rich enough? I'm not too blind to see\n\nI'll never be your beast of burden\nSo let's go home and draw the curtains\nMusic on the radio\nCome on, baby, make sweet love to me\n\n  Chorus\n\n    Oh, little sister\n    Pretty, pretty, pretty, pretty girls girl\n    Come on, baby, please, please, please\n\nI'll tell you, you can put me out on the street\nPut me out with no shoes on my feet\nBut put me out, put me out put me out of misery, yeah\nAll your sickness, I can suck it up\nThrow it all at me I can shrug it off\nThere's one thing, baby, I don't understand\nYou keep on telling me I ain't your kind of man\n\nAin't I rough enough? Ooh, honey\nAin't I tough enough?\nAin't I rich enough In love enough? Ooh, please\n\nI'll never be your beast of burden\nI'll never be your beast of burden\nNever, never never be\n\nI'll never be your beast of burden\nI've walked for miles, my feet are hurting\nAll I want is you to make love to me, yeah\nI don't need no beast of burden\nI need no fussing, I need no nursing\nNever, never, never, never, never, never, never be",
     "key": "C#m"
   },
-  "Cinnamon_Girl.Neil_Young": {
-    "name": "Cinnamon Girl",
-    "artist": "Neil Young",
-    "id": "Cinnamon_Girl.Neil_Young",
-    "lyrics": "",
-    "key": "undefined"
-  },
   "Champagne_Supernova.Oasis": {
     "name": "Champagne Supernova",
     "artist": "Oasis",
@@ -5068,5 +5054,19 @@
     "id": "Hold_The_Line.Toto",
     "lyrics": "Keyboards, then drums, then guitar chorus riff\n\nV: (Bm C#m F#m  C#m Cm Bm) (Bm C#m DM7 E  C#m Cm Bm)\nC: F#m C#m D E \n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\n\n  It's not in the way you look or the things that you say that you'll do\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\n\n  PC + C\n\n   Solo\n\nV2\n\n  PC + C",
     "key": "Bm"
+  },
+  "Cinnamon_Girl.Neil_Young": {
+    "name": "Cinnamon Girl",
+    "artist": "Neil Young",
+    "id": "Cinnamon_Girl.Neil_Young",
+    "lyrics": "I wanna live with a cinnamon girl\nI could be happy the rest of my life with a cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\nTen silver saxes a bass with a bow\nThe drummer relaxes and waits between shows for his cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\n  Pa send me money now I'm gonna make it somehow I need another chance\n  You see your baby loves to dance yeah\n\n   Solo",
+    "key": "D"
+  },
+  "Lump.The_Presidents_Of_The_United_States": {
+    "name": "Lump",
+    "artist": "The Presidents Of The United States",
+    "id": "Lump.The_Presidents_Of_The_United_States",
+    "lyrics": "Lump sat alone in a boggy marsh\nTotally motionless except for her heart\nMud flowed up into Lump's pajamas\nShe totally confused all the passing piranhas\n\n  She's Lump, she's Lump she's in my head\n  She's Lump, she's Lump, she's Lump she might be dead\n\nLump lingered last in line for brains\nAnd the one she got was sorta rotten and insane\nSmall things so sad that birds could land\nIs Lump fast asleep or rockin' out with the band?\n\n  Chorus\n\n    Oh yeah!\n    Ba-bow, ba-ba badadada\n\nLump was limp and lonely and needed a shove\nLump slipped on a kiss and tumbled into love\nShe spent her twenties between the sheets\nAnd life limped along at sub-sonic speeds\n\n  Chorus\n\nIs this lump outta my head? I think so",
+    "key": "D"
   }
 }
