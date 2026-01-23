@@ -1949,14 +1949,6 @@
     "key": "C#",
     "tempo": "91bpm"
   },
-  "Shimmer.Fuel": {
-    "name": "Shimmer",
-    "artist": "Fuel",
-    "id": "Shimmer.Fuel",
-    "lyrics": "V: (C D Em D)\nP: Em Am C D\nS: D\n\nShe calls me from the cold just when I was low, feeling short of stable\nAll that she intends and all she keeps inside isn't on the label\nShe says she's ashamed and can she take me for awhile?\nAnd can I be a friend we'll forget the past but maybe I'm not able\nAnd I break at the bend\n\n  We're here and now will we ever be again cause I have found\n  All that shimmers in this world is sure to fade away again\n\nShe dreams a champagne dream strawberry surprise, pink linen and white paper\nLavender and cream Fields of butterflies, reality escapes her\nShe says that love is for fools who fall behind\nAnd I'm somewhere between I never really know a killer from a savior\n'Til I break at the bend\n\n  We're here and now...\n\n  It's too far away for me to hold too far away\n\nSolo\n\n  It's too far away for me to hold too far away\n\nGuess I'll let it go",
-    "key": "Em",
-    "tempo": "undefined"
-  },
   "Better_Now.Collective_Soul": {
     "name": "Better Now",
     "artist": "Collective Soul",
@@ -4904,13 +4896,6 @@
     "lyrics": "",
     "key": "undefined"
   },
-  "Plowed.Sponge": {
-    "name": "Plowed",
-    "artist": "Sponge",
-    "id": "Plowed.Sponge",
-    "lyrics": "",
-    "key": ""
-  },
   "Learn_To_Fly.Foo_Fighters": {
     "name": "Learn To Fly",
     "artist": "Foo Fighters",
@@ -5071,5 +5056,19 @@
     "id": "Cover_Me.Bruce_Springsteen",
     "lyrics": "I: Guitar solo\nV: (Bm D A) - Em - Bm D A G A\nC: Em Bm Em F#\n \nThe times are tough now, just getting tougher\nOld world is rough, it's just getting rougher cover me\nCome on baby cover me\nWell I'm looking for a lover who will come on in and cover me\n \nPromise me baby you won't let them find us\nHold me in your arms let's let our love blind us cover me\nShut the door and cover me\nWell I'm looking for a lover who will come on in and cover me\n\n    Outside's the rain the driving snow I can hear the wild wind blowing\n    Turn out the light, bolt the door I ain't going out there no more\n\nThis whole world is out there just trying to score\nI've seen enough I don't want to see any more cover me \nCome on and cover me\nI'm looking for a lover who will come on in and cover me\n\n  Solo\n\n  Bridge\n\nThis whole world is out there just trying to score I've\nseen enough I don't want to see any more cover me \nCome on and cover me\nI'm looking for a lover who will come on in and cover me x 3",
     "key": "Bm"
+  },
+  "Plowed.Sponge": {
+    "name": "Plowed",
+    "artist": "Sponge",
+    "id": "Plowed.Sponge",
+    "lyrics": "Riff\n\nWill I wake up some dream I made up?\nNo, I guess this is reality\nWhat will change us or will we mess up?\nOur only chance to connect with a dream\n\n  Say a prayer for me x 3\n  I'm buried by the sound\n\n  Of a world of human wreckage\n  In a world of human wreckage x 2\n  Well, I'm lost and I'm found and I can't touch the ground\n  I'm plowed into the sound\n\n  Solo\n\nTo see wide open with a head that's broken\nHang a life on some tragedy\nPlow me under the ground that covers\nThe message that is the seed\n\n  PC + Chorus\n\nWill I wake up some dream I made up?\nNo, I guess this is reality",
+    "key": "E"
+  },
+  "Shimmer.Fuel": {
+    "name": "Shimmer",
+    "artist": "Fuel",
+    "id": "Shimmer.Fuel",
+    "lyrics": "V: (C D Em D)\nP: Em Am C D\nS: D\n\nShe calls me from the cold just when I was low, feeling short of stable\nAll that she intends and all she keeps inside isn't on the label\nShe says she's ashamed and can she take me for awhile?\nI cannot be a friend we'll forget the past but maybe I'm not able\nAnd I break at the bend\n\n  We're here and now will we ever be again\n  Cause I have found all that shimmers in this world is sure to fade away again\n\nShe dreams a champagne dream strawberry surprise pink linen and white paper\nLavender and cream, fields of butterflies reality escapes her\nShe says that love is for fools who fall behind\nAnd I'm somewhere between I never really know a killer from a savior\nTil I break at the bend\n\n  We're here and now...\n\n  It's too far away for me to hold too far away\n\nSolo\n\n  It's too far away for me to hold too far away\n\nGuess I'll let it go",
+    "key": "Em"
   }
 }
