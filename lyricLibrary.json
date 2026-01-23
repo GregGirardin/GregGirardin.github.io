@@ -744,14 +744,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Counting_Blue_Cars.Dishwalla": {
-    "name": "Counting Blue Cars",
-    "artist": "Dishwalla",
-    "id": "Counting_Blue_Cars.Dishwalla",
-    "lyrics": "V: Bm A G\nC: D E G\n\nMust've been mid afternoon\nI could tell by how far the child's shadow stretched out and\nHe walked with a purpose\nIn his sneakers, down the street\nHe had many questions like children often do, he said:\n\n  Tell me all your thoughts on God\n  Tell me am I very far\n\nMust've been late afternoon\non our way the sun broke free of the clouds\nWe count only blue cars\nSkip the cracks in the street\nAnd ask many questions like children often do, we said:\n\n  Tell me all your thoughts on God cause I'd really like to meet her\n  And ask her why we're who we are\n  Tell me all your thoughts on God cause I'm on my way to see her\n  So tell me am I very far,\n  Am I very far now?\n\nIt's getting cold, picked up the pace.\nHow our shoes make hard noises in this place.\nOur clothes are stained\nWe pass many cross-eyed people\nAnd ask many questions like children often do\n\n  Chorus",
-    "key": "Bm",
-    "tempo": "Tempo"
-  },
   "Dance_The_Night_Away.Van_Halen": {
     "name": "Dance The Night Away",
     "artist": "Van Halen",
@@ -4954,13 +4946,6 @@
     "lyrics": "How many special people change?\nHow many lives are living strange?\nWhere were you while we were gettin' high?\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Someday you will find me caught beneath the landslide\n  In a champagne supernova in the sky x 2\n\nWake up the dawn and ask her why\nA dreamer dreams she never dies\nWipe that tear away now from your eye\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Chorus\n\n   'Cause people believe that they're gonna get away for the summer\n    But you and , we live and die the world's still spinnin round, we don't know why\n\n  Solo\n\nV1\n\n  Chorus\n\n    Bridge\n\n  Na, na, na ",
     "key": "A"
   },
-  "Cover_Me.Bruce_Springsteen": {
-    "name": "Cover Me",
-    "artist": "Bruce Springsteen",
-    "id": "Cover_Me.Bruce_Springsteen",
-    "lyrics": "V: Bm D A - E6 Em\nC: Em Bm A Bm - Em Bm F#\n \nThe times are tough now Just getting tougher, this\nold world is rough, it's just getting rougher cover me\nCome on baby, cover me\nWell I'm looking for a lover who will come on in and cover me\n \nPromise me baby you won't let them find us\nHold me in your arms let's let our love blind us cover me\nShut the door and cover me\nWell I'm looking for a lover who will come on in and cover me\n\n  Outside's the rain, the driving snow I can hear the wild wind blowing\n  Turn out the light bolt the door I ain't going out there no more\n\nThis whole world is out there just trying to score I've\nseen enough I don't want to see any more cover me \nCome on and  cover me\nI'm looking for a lover who will come on in and cover me\n \n  Chorus\n \nThis whole world is out there just trying to score I've\nseen enough I don't want to see any more cover me \nCome on and cover me\n \n    I'm looking for a lover who will come on in and cover me",
-    "key": "Bm"
-  },
   "Fight_For_Your_Right.Beastie_Boys": {
     "name": "Fight For Your Right",
     "artist": "Beastie Boys",
@@ -5072,5 +5057,19 @@
     "id": "Born_To_Be_Wild.Steppenwolf",
     "lyrics": "Get your motor runnin, head out on the highway\nLookin for adventure, and whatever comes our way\nYeah darlin gonna make it happen take the world in a love embrace\nFire all of your guns at once and explode into space\n\nI like smoke and lightning heavy metal thunder\nRacin with the wind, and the feelin that I'm under\nYeah darlin...\n\n  Like a true nature's child, we were born, born to be wild\n  We can climb so high I never wanna die\n  Born to be wild, born to be wild\n\nSolo / break\n\nV1\n\n  Chorus\n\nSolo Outro",
     "key": "E"
+  },
+  "Counting_Blue_Cars.Dishwalla": {
+    "name": "Counting Blue Cars",
+    "artist": "Dishwalla",
+    "id": "Counting_Blue_Cars.Dishwalla",
+    "lyrics": "I: (Bm A G) x 2\nV: Bm A G\nC: D E G\n\nMust've been mid afternoon\nI could tell by how far the child's shadow stretched out and\nHe walked with a purpose in his sneakers, down the street\nHe had many questions like children often do, he said\n\n  Tell me all your thoughts on God\n  Tell me am I very far (2m)\n\nMust've been late afternoon\nOn our way the sun broke free of the clouds\nWe count only blue cars skip the cracks in the street and ask\nmany questions like children often do, we said\n\n  Tell me all your thoughts on God, cause I'd really like to meet her\n  And ask her why we're who we are\n  Tell me all your thoughts on God cause I'm on my way to see her\n  So tell me am I very far.. am I very far now?\n\n    Solo\n\nIt's getting cold, picked up the pace\nHow our shoes make hard noises in this place\nOur clothes are stained we pass many crosseyed people and ask\nmany questions like children often do\n\n  Chorus 2\n\n  Am I very far now..\n  tell me all your thoughts on God",
+    "key": "Bm"
+  },
+  "Cover_Me.Bruce_Springsteen": {
+    "name": "Cover Me",
+    "artist": "Bruce Springsteen",
+    "id": "Cover_Me.Bruce_Springsteen",
+    "lyrics": "I: Guitar solo\nV: (Bm D A) - Em - Bm D A G A\nC: Em Bm Em F#\n \nThe times are tough now, just getting tougher\nOld world is rough, it's just getting rougher cover me\nCome on baby cover me\nWell I'm looking for a lover who will come on in and cover me\n \nPromise me baby you won't let them find us\nHold me in your arms let's let our love blind us cover me\nShut the door and cover me\nWell I'm looking for a lover who will come on in and cover me\n\n    Outside's the rain the driving snow I can hear the wild wind blowing\n    Turn out the light, bolt the door I ain't going out there no more\n\nThis whole world is out there just trying to score\nI've seen enough I don't want to see any more cover me \nCome on and cover me\nI'm looking for a lover who will come on in and cover me\n\n  Solo\n\n  Bridge\n\nThis whole world is out there just trying to score I've\nseen enough I don't want to see any more cover me \nCome on and cover me\nI'm looking for a lover who will come on in and cover me x 3",
+    "key": "Bm"
   }
 }
