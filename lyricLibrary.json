@@ -4775,13 +4775,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Hold_The_Line.Toto": {
-    "name": "Hold The Line",
-    "artist": "Toto",
-    "id": "Hold_The_Line.Toto",
-    "lyrics": "",
-    "key": ""
-  },
   "China_Grove.Doobie_Brothers": {
     "name": "China Grove",
     "artist": "Doobie Brothers",
@@ -4893,20 +4886,6 @@
     "id": "Champagne_Supernova.Oasis",
     "lyrics": "How many special people change?\nHow many lives are living strange?\nWhere were you while we were gettin' high?\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Someday you will find me caught beneath the landslide\n  In a champagne supernova in the sky x 2\n\nWake up the dawn and ask her why\nA dreamer dreams she never dies\nWipe that tear away now from your eye\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Chorus\n\n   'Cause people believe that they're gonna get away for the summer\n    But you and , we live and die the world's still spinnin round, we don't know why\n\n  Solo\n\nV1\n\n  Chorus\n\n    Bridge\n\n  Na, na, na ",
     "key": "A"
-  },
-  "Fight_For_Your_Right.Beastie_Boys": {
-    "name": "Fight For Your Right",
-    "artist": "Beastie Boys",
-    "id": "Fight_For_Your_Right.Beastie_Boys",
-    "lyrics": "",
-    "key": "undefined"
-  },
-  "Rockin_In_The_Free_World.Neil_Young": {
-    "name": "Rockin In The Free World",
-    "artist": "Neil Young",
-    "id": "Rockin_In_The_Free_World.Neil_Young",
-    "lyrics": "",
-    "key": "Em"
   },
   "Live_Wire.AC/DC": {
     "name": "Live Wire",
@@ -5068,5 +5047,26 @@
     "id": "Trick_of_the_Light.The_Who",
     "lyrics": "V: D5/A (F G D5 F C D5)\nC: (G C F) D5/A\n\nWide awake in the middle of the night I wonder how she's feeling\nIs it just a trick of the light or is her ceiling peeling?\nShe's sitting up in bed, shaking her head at a copy of \"True Confessions\"\nOh it must seem like a fairy tale to a woman of her profession\n\n  But was I all right? (Was I all right?)\n  Did I take you to the height of ecstasy?\n  Was I all right? (Was I all right?)\n  Did a shadow of emotion cross your face\n  Or was it just another trick of the light?\n\n    Solo\n\n  Chorus\n\n    What's a nice girl like you doing in a place like this?\n    They don't make girls like you no more\n    And I'd like to get to know you on closer terms than this\n    But I guess you've heard it all before\n\n  Break\n\nLady of the night won't you steal away with me?\nLady of the night won't you steal away with me?\nThe money's lying on the floor she looks at me shakes her head and sighs\nOut of time out the door red light shining in my eyes\n\n  Chorus",
     "key": "D"
+  },
+  "Rockin_In_The_Free_World.Neil_Young": {
+    "name": "Rockin In The Free World",
+    "artist": "Neil Young",
+    "id": "Rockin_In_The_Free_World.Neil_Young",
+    "lyrics": "There’s colors on the street red, white, and blue\nPeople shuffling their feet people sleeping in their shoes\nThere’s a warning sign on the road ahead\nThere’s a lot of people saying we’d be better off dead\nDon’t feel like Satan, but I am to them\nSo I try to forget it any way I can\n\n  Keep on rockin' in the free world x 4\n\nI see a woman in the night with a baby in her hand\nThere's an old street light near a garbage can\nNow she put the kid away and she’s gone to get a hit\nShe hates her life and what she’s done to it\nThere’s one more kid that’ll never go to school\nNever get to fall in love, never get to be cool\n\n  Keep on rockin' in the free world x 4\n\n  Solo\n\nWe got a thousand points of light for the homeless man\nWe got a kinder, gentler machine gun hand\nWe've got department stores and toilet paper\nGot styrofoam boxes for the ozone layer\nGot a man of the people says keep hope alive\nGot fuel to burn, got roads to drive\n\n  Keep on rockin' in the free world",
+    "key": "Em"
+  },
+  "Fight_For_Your_Right.Beastie_Boys": {
+    "name": "Fight For Your Right",
+    "artist": "Beastie Boys",
+    "id": "Fight_For_Your_Right.Beastie_Boys",
+    "lyrics": "You wake up late for school, man, you don't wanna go\nYou ask your mom, \"Please?\", but she still says, \"No!\"\nYou missed two classes and no homework\nBut your teacher preaches class like you're some kind of *jerk*\n\n  You gotta fight for your right to party\n\nYour pop's caught you smokin', man, he says, \"No way!\"\nThat hypocrite smokes two packs a day\nMan, livin' at home is such a drag\nNow your mom threw away your best porno mag (Busted)\n\n  You gotta fight for your right to party\n  You gotta fight\n\n    Solo\n\nDon't step out of this house if that's the clothes you're gonna wear\nI'll kick you out of my home if you don't cut that hair\nYour mom busted in and said, \"What's that noise?\"\nAw, Mom, you're just jealous, it's the Beastie Boys\n\n  You gotta fight for your right\n  To party",
+    "key": "E"
+  },
+  "Hold_The_Line.Toto": {
+    "name": "Hold The Line",
+    "artist": "Toto",
+    "id": "Hold_The_Line.Toto",
+    "lyrics": "Keyboards, then drums, then guitar\n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\n\n  It's not in the way you look or the things that you say that you'll do\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\n\n  PC + C\n\n   Solo\n\nV2\n\n  PC + C",
+    "key": "Am"
   }
 }
