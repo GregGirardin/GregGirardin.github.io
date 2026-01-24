@@ -2110,14 +2110,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Cumbersome.7M3": {
-    "name": "Cumbersome",
-    "artist": "7M3",
-    "id": "Cumbersome.7M3",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Fortunate_Son.CCR": {
     "name": "Fortunate Son",
     "artist": "CCR",
@@ -4731,20 +4723,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Crackerman.Stone_Temple_Pilots": {
-    "name": "Crackerman",
-    "artist": "Stone Temple Pilots",
-    "id": "Crackerman.Stone_Temple_Pilots",
-    "lyrics": "",
-    "key": ""
-  },
-  "China_Grove.Doobie_Brothers": {
-    "name": "China Grove",
-    "artist": "Doobie Brothers",
-    "id": "China_Grove.Doobie_Brothers",
-    "lyrics": "",
-    "key": "undefined"
-  },
   "Low.Cracker": {
     "name": "Low",
     "artist": "Cracker",
@@ -5025,13 +5003,6 @@
     "lyrics": "Keyboards, then drums, then guitar chorus riff\n\nV: (Bm C#m F#m  C#m Cm Bm) (Bm C#m DM7 E  C#m Cm Bm)\nC: F#m C#m D E \n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\n\n  It's not in the way you look or the things that you say that you'll do\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\n\n  PC + C\n\n   Solo\n\nV2\n\n  PC + C",
     "key": "Bm"
   },
-  "Cinnamon_Girl.Neil_Young": {
-    "name": "Cinnamon Girl",
-    "artist": "Neil Young",
-    "id": "Cinnamon_Girl.Neil_Young",
-    "lyrics": "I wanna live with a cinnamon girl\nI could be happy the rest of my life with a cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\nTen silver saxes a bass with a bow\nThe drummer relaxes and waits between shows for his cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\n  Pa send me money now I'm gonna make it somehow I need another chance\n  You see your baby loves to dance yeah\n\n   Solo",
-    "key": "D"
-  },
   "Lump.The_Presidents_Of_The_United_States": {
     "name": "Lump",
     "artist": "The Presidents Of The United States",
@@ -5066,5 +5037,33 @@
     "id": "Semi-Charmed_Life.Third_Eye_Blind",
     "lyrics": "Doo-doo-doo\n\nI'm packed and I'm holdin I'm smilin', she livin' she golden\nShe lives for me, says she lives for me, ovation\nHer own motivation she comes 'round and she goes down on me\nAnd I'll make you smile like a drug for you\nDo ever what you want to do, comin over you\nKeep on smilin what we go through\nOne stop to the rhythm that divides you\n\nAnd I speak to you like the chorus to the verse\nChop another line like a coda with a curse\nCome on like a freak show takes the stage\nWe give 'em the games she play, she say\n\n  I want somethin' else to get me through this\n  Semi-charmed kind of life, baby, baby\n  I want somethin' else\n  I'm not listenin' when you say goodbye\n\nDoo-doo-doo\n\nThe sky was gold, it was rose I was takin' sips up into my nose\nAnd I wish I could get back there, some place back there\nSmilin in the pictures you would take\nDoin crystal meth will lift you up until you break\nIt won't stop, I won't come down, I keep stock\nWith a tick-tock rhythm, a bump for the drop\nAnd then I bumped up, I took the hit that I was given\nThen I bumped again, then I bumped again, I said\n\nHow do I get back there to\nThe place where I fell asleep inside you?\nHow do I get myself back to\nThe place where you said\n\n  Chorus\n\n    I believe in the sand beneath my toes\n    The beach gives a feelin', an earthy feelin'\n    I believe in the faith that grows\n    And the four right chords can make me cry\n    When I'm with you, I feel like I could die\n    And that would be alright, alright\n\n    And when the plane came in, she said she was crashin'\n    The velvet, it rips in the city we tripped on the urge to feel alive\n    But now, I'm strugglin' to survive\n    Those days you were wearin' that velvet dress\n    You're the priestess, I must confess\n    Those little red panties, they pass the test\n    Slides up around the belly, face down on the mattress\n    One, and you hold me and we are broken\n    Still, it's all that I want to do, just a little now\n\nFeel myself, head made of the ground I'm scared, I'm not comin' down no, no\nAnd I won't run for my life\nShe's got her jaws now locked down in a smile\nBut nothing is alright, alright\n\n  Chorus\n\n  Goodbye x 4\n\nDoo-doo-doo..\n\nThe sky was gold, it was rose (Doo-doo)\nI was takin' sips up into my nose\nAnd I wish I could get back there, some place back there\nIn the place we used to start\n\ndoo-doo-doo-doo (I want somethin' else)",
     "key": "G"
+  },
+  "China_Grove.Doobie_Brothers": {
+    "name": "China Grove",
+    "artist": "Doobie Brothers",
+    "id": "China_Grove.Doobie_Brothers",
+    "lyrics": "When the sun comes up on a sleepy little town down around San Antone\nAnd the folks are risin for another day round about their homes\nThe people of the town are strange and they're proud of where they came\n\n  Well you're talkin bout China Grove \n  Whoa oh ho... woah ho China Grove\n\nWell the preacher and the teacher, Lord, they're a caution they are the talk of the town\nWhen the gossip hits the fan, they ain't lyin when the sun goes fallin' down\nWell they say that the father's insane and dear Missus Perkins a game\n\n  Chorus\n\n    Well every day there's a new thing comin the ways of an oriental view.\n    The sheriff and his buddies with their samurai swords you can even hear the music at night.\n    And though it's a part of the Lone Star state the people don't seem to care\n    They'll just keep on lookin' to the east\n\n  Solo",
+    "key": "E"
+  },
+  "Cinnamon_Girl.Neil_Young": {
+    "name": "Cinnamon Girl",
+    "artist": "Neil Young",
+    "id": "Cinnamon_Girl.Neil_Young",
+    "lyrics": "I wanna live with a cinnamon girl\nI could be happy the rest of my life with a cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\nTen silver saxes a bass with a bow\nThe drummer relaxes and waits between shows for his cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\n  Pa send me money now I'm gonna make it somehow I need another chance\n  You see your baby loves to dance yeah\n\n   Solo",
+    "key": "D"
+  },
+  "Crackerman.Stone_Temple_Pilots": {
+    "name": "Crackerman",
+    "artist": "Stone Temple Pilots",
+    "id": "Crackerman.Stone_Temple_Pilots",
+    "lyrics": "Kicking as I'm trying to sleep I got the mud beneath my shoes\nRubber band, rubber band, gun in hand, gun in hand I wanna use\n\n  Roaming, roaming, roam (Get away, gotta get away)\n  And I think I think too much (I don't care, yeah but I don't care)\n  Roaming, roaming, roam (Get away, gotta get away)\n  And I think I think too much\n\nTripping as I'm thinking bout a boy, his name was Sue\nHe's a man, he's a man, crackerman, crackerman he's a woman too\n\n  Chorus\n\n  And I'm thinking while I'm thinking\n  And I'm thinking while I'm thinking\n\n   Solo\n\n  Chorus + Post Chorus\n\nSalt cracked\nMud flaps\nDust blowing in my eyes\nI'm a-roaming",
+    "key": "F#"
+  },
+  "Cumbersome.7M3": {
+    "name": "Cumbersome",
+    "artist": "7M3",
+    "id": "Cumbersome.7M3",
+    "lyrics": "She calls me Goliath and I wear the David mask\nI guess the stones are comin' too fast for her now\nYou know I'd like to believe this nervousness will pass\nAll the stones that are thrown are building up a wall\n\n  I have become cumbersome to this world\n  I have become cumbersome to my girl\n\nI'd like to believe we could reconcile the past\nResurrect those bridges with an ancient glance\nBut my old stone face can't seem to break her down\nShe remembers bridges, burns 'em to the ground\n\n  Chorus\n\nToo heavy, too light, too black or too white, too wrong or too right\nToday or tonight, cumbersome\nToo rich or too poor, she's wanting me less and I'm wanting her more\nThe bitter taste is cumbersome\nNo, yeah\n\n  There is a balance between two worlds\n  One with an arrow and a cross\n  Regardless of the balance life has become xumbersome\n\nToo heavy, too light..\nYour life has become cumbersome",
+    "key": "F#"
   }
 }
