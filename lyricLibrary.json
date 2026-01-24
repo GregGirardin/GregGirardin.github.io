@@ -2110,14 +2110,6 @@
     "key": "Am",
     "tempo": "Tempo"
   },
-  "Cumbersome.7M3": {
-    "name": "Cumbersome",
-    "artist": "7M3",
-    "id": "Cumbersome.7M3",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
   "Fortunate_Son.CCR": {
     "name": "Fortunate Son",
     "artist": "CCR",
@@ -3595,14 +3587,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "All_these_things_I_ve_done.The_Killers": {
-    "name": "All these things I've done",
-    "artist": "The Killers",
-    "id": "All_these_things_I_ve_done.The_Killers",
-    "lyrics": "I: F# B F# /f Ebm B F#<br>V: (F# B) Ebm B F#<br>O: Ebm G#m B C# B<br><br>When there's nowhere else to run is there room for one more son? One more son?<br>If you can hold on, hold on.<br><br>I want to stand up, I want to let go, you know you know, no, you don't, you don't.<br>I want to shine on in the hearts of men. I want a meaning from the back of my broken hand.<br>Another head aches, another heart breaks. I'm so much older than I can take.<br>And my affection, well it comes and goes. I need direction to perfection, no<br><br>&nbsp; Help me out, yeah You know you gotta help me out, yeah<br>&nbsp; Oh don't you put me on the back burner,<br>&nbsp; You know you gotta help me out, yeah.<br><br>And when there's nowhere else to run is there room for one more son?<br>These changes ain't changing me, the cold-hearted boy I used to be.<br><br>  Yeah, you know you gotta help me out, yeah don't you put me on the back burner<br>  You know you gotta help me out, yeah, you're gonna bring yourself down, yeah..<br><br>&nbsp; I got soul, but I'm not a soldier<br><br>&nbsp; Yeah, you know you gotta help me out, yeah<br>&nbsp; Oh don't you put me on the back burner<br>&nbsp; You know you gotta help me out, yeah<br>&nbsp; You're gonna bring yourself down, yeah x 2<br>&nbsp; Oh don't you put me on the back burner<br>&nbsp; You're gonna bring yourself down<br><br>&nbsp; &nbsp; Over and in, last call for sin.<br>&nbsp; &nbsp; While everyone's lost, the battle is won<br>&nbsp; &nbsp; With all these things that I've done x 2<br>&nbsp; &nbsp; If you can hold on, if you can hold on",
-    "key": "F#",
-    "tempo": "119"
-  },
   "Rockstar.Nickelback": {
     "name": "Rockstar",
     "artist": "Nickelback",
@@ -4717,13 +4701,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Crackerman.Stone_Temple_Pilots": {
-    "name": "Crackerman",
-    "artist": "Stone Temple Pilots",
-    "id": "Crackerman.Stone_Temple_Pilots",
-    "lyrics": "",
-    "key": ""
-  },
   "Low.Cracker": {
     "name": "Low",
     "artist": "Cracker",
@@ -5053,18 +5030,39 @@
     "lyrics": "Oh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus",
     "key": "Bm"
   },
-  "Aeroplane.RHCP": {
-    "name": "Aeroplane",
-    "artist": "RHCP",
-    "id": "Aeroplane.RHCP",
-    "lyrics": "Guitar Gm - C w/ hi hat click and bass\n\n  I like pleasure spiked with pain and music is my aeroplane, it's my aeroplane\n  Songbird sweet and sour Jane and music is my aeroplane, it's my aeroplane\n  Pleasure spiked with pain that motherfucker's always spiked with pain\n\nLooking in my own eyes,hey Lord I can't find the love I want\nSomeone better slap me before I start to rust before I start to decompose\nLooking in my rearview mirror, looking in my rearview mirror\nI can make it disappear I can make it disappear, have no fear\n\n  Chorus\n\nSitting in my kitchen hey girl I'm turning into dust again\nMy melancholy baby the star of Mazzy must push her voice inside of me\nI'm overcoming gravity I'm overcoming gravity\nIt's easy when you're sad to be it's easy when you're sad, sad like me\n\n  Chorus\n\n    Just one note could make me float could make me float away\n    One note from the song she wrote could fuck me where I lay\n    Just one note could make me choke one note, that's not a lie\n    Just one note could cut my throat one note could make me die\n\n  Chorus\n\n  Bass solo / guitar solo",
-    "key": "Gm"
-  },
   "China_Grove.Doobie_Brothers": {
     "name": "China Grove",
     "artist": "Doobie Brothers",
     "id": "China_Grove.Doobie_Brothers",
     "lyrics": "When the sun comes up on a sleepy little town down around San Antone\nAnd the folks are risin for another day roundabout their homes\nThe people of the town are strange and they're proud of where they came\n\n  Well you're talkin bout China Grove\n  Oh-oh-oh China Grove, oh-oh-oh\n\nWell the preacher and the teacher Lord they're a caution they are the talk of the town\nWhen the gossip gets to flyin and they ain't lyin when the sun goes fallin down\nThey say that the father's insane and dear Mrs Perkins a game\n\n  Chorus\n\n    Every day there's a new thing comin the ways of an Oriental view\n    The sheriff and his buddies with their samurai swords\n    You can even hear the music at night\n    And though it's a part of the Lone Star State people don't seem to care\n    They just keep on lookin to the East\n\n  Solo\n\n  Chorus",
     "key": "E"
+  },
+  "Crackerman.Stone_Temple_Pilots": {
+    "name": "Crackerman",
+    "artist": "Stone Temple Pilots",
+    "id": "Crackerman.Stone_Temple_Pilots",
+    "lyrics": "Kicking as I'm trying to sleep I got the mud beneath my shoes\nRubber band, rubber band, gun in hand, gun in hand I wanna use\n\n  Roaming, roaming, roam (Get away, gotta get away)\n  And I think I think too much (I don't care, yeah but I don't care)\n  Roaming, roaming, roam (Get away, gotta get away)\n  And I think I think too much\n\nTripping as I'm thinking bout a boy, his name was Sue\nHe's a man, he's a man, crackerman, crackerman he's a woman too\n\n  Chorus\n\n  And I'm thinking while I'm thinking\n  And I'm thinking while I'm thinking\n\nSolo\n\n  Chorus\n\n  And I'm thinking while I'm thinking\n  And I'm thinking while I'm thinking\n\nSalt cracked\nMud flaps\nDust blowing in my eyes\nI'm a-roaming\nI'm a-roaming",
+    "key": "Bm"
+  },
+  "Cumbersome.7M3": {
+    "name": "Cumbersome",
+    "artist": "7M3",
+    "id": "Cumbersome.7M3",
+    "lyrics": "She calls me Goliath and I wear the David mask\nI guess the stones are comin' too fast for her now\nYou know I'd like to believe this nervousness will pass\nAll the stones that are thrown are building up a wall\n\n  I have become cumbersome to this world\n  I have become cumbersome to my girl\n\nI'd like to believe we could reconcile the past\nResurrect those bridges with an ancient glance\nBut my old stone face can't seem to break her down\nShe remembers bridges, burns 'em to the ground\n\n  Chorus\n\nToo heavy, too light, too black or too white, too wrong or too right\nToday or tonight, cumbersome\nToo rich or too poor, she's wanting me less and I'm wanting her more\nThe bitter taste is cumbersome\nNo, yeah, no-no, no No-no, no, yeah\n\n    There is a balance between two worlds\n    One with an arrow and a cross\n    Regardless of the balance life has become cumbersome\n\nToo heavy, too light..\n\nNo, yeah, no, no, no\nNo-no, no, yeah\nNo-no, no, no, yeah\nYour life has become cumbersome",
+    "key": "F#"
+  },
+  "All_these_things_I_ve_done.The_Killers": {
+    "name": "All these things I've done",
+    "artist": "The Killers",
+    "id": "All_these_things_I_ve_done.The_Killers",
+    "lyrics": "I: F# B F# /f Ebm B F#\nV: (F# B) Ebm B F#\nO: Ebm G#m B C# B\n\nWhen there's nowhere else to run is there room for one more son? One more son?\nIf you can hold on, hold on.\n\nI want to stand up, I want to let go, you know you know, no, you don't, you don't.\nI want to shine on in the hearts of men. I want a meaning from the back of my broken hand.\nAnother head aches, another heart breaks. I'm so much older than I can take.\nAnd my affection, well it comes and goes. I need direction to perfection, no\n\n  Help me out, yeah You know you gotta help me out, yeah\n  Oh don't you put me on the back burner,\n  You know you gotta help me out, yeah.\n\nAnd when there's nowhere else to run is there room for one more son?\nThese changes ain't changing me, the cold-hearted boy I used to be.\n\nYeah, you know you gotta help me out, yeah don't you put me on the back burner\nYou know you gotta help me out, yeah, you're gonna bring yourself down, yeah..\n\n  I got soul, but I'm not a soldier\n\n  Yeah, you know you gotta help me out, yeah\n  Oh don't you put me on the back burner\n  You know you gotta help me out, yeah\n  You're gonna bring yourself down, yeah x 2\n  Oh don't you put me on the back burner\n  You're gonna bring yourself down\n\n    Over and in, last call for sin.\n    While everyone's lost, the battle is won\n    With all these things that I've done x 2\n    If you can hold on, if you can hold on",
+    "key": "F#"
+  },
+  "Aeroplane.RHCP": {
+    "name": "Aeroplane",
+    "artist": "RHCP",
+    "id": "Aeroplane.RHCP",
+    "lyrics": "Guitar Gm - C w/ hi hat click and bass\n\n  I like pleasure spiked with pain and music is my aeroplane, it's my aeroplane\n  Songbird sweet and sour Jane and music is my aeroplane, it's my aeroplane\n  Pleasure spiked with pain that motherfucker's always spiked with pain\n\nLooking in my own eyes,hey Lord I can't find the love I want\nSomeone better slap me before I start to rust before I start to decompose\nLooking in my rearview mirror, looking in my rearview mirror\nI can make it disappear I can make it disappear, have no fear\n\n  Chorus\n\nSitting in my kitchen hey girl I'm turning into dust again\nMy melancholy baby the star of Mazzy must push her voice inside of me\nI'm overcoming gravity I'm overcoming gravity\nIt's easy when you're sad to be it's easy when you're sad, sad like me\n\n  Chorus\n\n    Just one note could make me float could make me float away\n    One note from the song she wrote could fuck me where I lay\n    Just one note could make me choke one note, that's not a lie\n    Just one note could cut my throat one note could make me die\n\n  Chorus\n\n  Bass solo / guitar solo",
+    "key": "Gm"
   }
 }
