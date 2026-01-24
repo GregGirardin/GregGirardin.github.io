@@ -4724,13 +4724,6 @@
     "lyrics": "",
     "key": ""
   },
-  "China_Grove.Doobie_Brothers": {
-    "name": "China Grove",
-    "artist": "Doobie Brothers",
-    "id": "China_Grove.Doobie_Brothers",
-    "lyrics": "",
-    "key": "undefined"
-  },
   "Low.Cracker": {
     "name": "Low",
     "artist": "Cracker",
@@ -4842,13 +4835,6 @@
     "id": "A_Girl_Like_You.Smithereens",
     "lyrics": "Guitar riff\n\nI used to travel in the shadows and I never found the nerve to try and walk up to you\nBut now I am a man and I know that there's no time to waste there's too much to lose\nGirl you say anything at all, and you know that you can call and I'll be right there for you\nFirst love, heartbreak, tough luck, big mistake what else can you do\n\n  I'll say anything you want to hear I'll see everything through\n  I'll do anything I have to do just to win the love of (a girl like you) x 2\n\nPeople talk and people stare, tell them I don't really care this is the place I should be\nAnd if they think it's really strange for a girl like you to be in love with someone like me\nI wanna tell them all to go to hell that we're doing very well without them you see\nThat's just the way it is and they will see I am yours and you are mine the way it should be\n\n  Chorus\n\n  A girl like you x 4\n\n   Break / Solo\n\nNow if I seem a little wild there's no holding back I'm trying to get a message to you\nI won't take anything from anyone I won't walk and I won't run, I believe in you\nLondon, Washington, anywhere you are I'll run together we'll be\nInside, outside, got my pride I won't let him take you from me\n\n  Chorus\n\n  A girl like you x 6\n  I'll say anything.. I'll take anything..\n  I'll say anything almost anything except goodbye x 2",
     "key": "A"
-  },
-  "Aeroplane.RHCP": {
-    "name": "Aeroplane",
-    "artist": "RHCP",
-    "id": "Aeroplane.RHCP",
-    "lyrics": "  Guitar Gm - C w/ hi hat click and bass\n\n\n  I like pleasure spiked with pain and music is my aeroplane, it's my aeroplane\n  Songbird sweet and sour Jane and music is my aeroplane, it's my aeroplane\n  Pleasure spiked with pain that motherfucker's always spiked with pain\n\nLooking in my own eyes,hey Lord I can't find the love I want\nSomeone better slap me before I start to rust before I start to decompose\nLooking in my rearview mirror, looking in my rearview mirror\nI can make it disappear I can make it disappear, have no fear\n\n  Chorus\n\nSitting in my kitchen hey girl I'm turning into dust again\nMy melancholy baby the star of Mazzy must push her voice inside of me\nI'm overcoming gravity I'm overcoming gravity\nIt's easy when you're sad to be it's easy when you're sad, sad like me\n\n  Chorus\n\n    Just one note could make me float could make me float away\n    One note from the song she wrote could fuck me where I lay\n    Just one note could make me choke one note, that's not a lie\n    Just one note could cut my throat one note could make me die\n\n  Chorus\n\n  Bass solo / guitar solo",
-    "key": "Gm"
   },
   "All_For_You.Sister_Hazel": {
     "name": "All For You",
@@ -5066,5 +5052,19 @@
     "id": "Long_Way_Down.Goo_Goo_Dolls",
     "lyrics": "Oh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus",
     "key": "Bm"
+  },
+  "Aeroplane.RHCP": {
+    "name": "Aeroplane",
+    "artist": "RHCP",
+    "id": "Aeroplane.RHCP",
+    "lyrics": "Guitar Gm - C w/ hi hat click and bass\n\n  I like pleasure spiked with pain and music is my aeroplane, it's my aeroplane\n  Songbird sweet and sour Jane and music is my aeroplane, it's my aeroplane\n  Pleasure spiked with pain that motherfucker's always spiked with pain\n\nLooking in my own eyes,hey Lord I can't find the love I want\nSomeone better slap me before I start to rust before I start to decompose\nLooking in my rearview mirror, looking in my rearview mirror\nI can make it disappear I can make it disappear, have no fear\n\n  Chorus\n\nSitting in my kitchen hey girl I'm turning into dust again\nMy melancholy baby the star of Mazzy must push her voice inside of me\nI'm overcoming gravity I'm overcoming gravity\nIt's easy when you're sad to be it's easy when you're sad, sad like me\n\n  Chorus\n\n    Just one note could make me float could make me float away\n    One note from the song she wrote could fuck me where I lay\n    Just one note could make me choke one note, that's not a lie\n    Just one note could cut my throat one note could make me die\n\n  Chorus\n\n  Bass solo / guitar solo",
+    "key": "Gm"
+  },
+  "China_Grove.Doobie_Brothers": {
+    "name": "China Grove",
+    "artist": "Doobie Brothers",
+    "id": "China_Grove.Doobie_Brothers",
+    "lyrics": "When the sun comes up on a sleepy little town down around San Antone\nAnd the folks are risin for another day roundabout their homes\nThe people of the town are strange and they're proud of where they came\n\n  Well you're talkin bout China Grove\n  Oh-oh-oh China Grove, oh-oh-oh\n\nWell the preacher and the teacher Lord they're a caution they are the talk of the town\nWhen the gossip gets to flyin and they ain't lyin when the sun goes fallin down\nThey say that the father's insane and dear Mrs Perkins a game\n\n  Chorus\n\n    Every day there's a new thing comin the ways of an Oriental view\n    The sheriff and his buddies with their samurai swords\n    You can even hear the music at night\n    And though it's a part of the Lone Star State people don't seem to care\n    They just keep on lookin to the East\n\n  Solo\n\n  Chorus",
+    "key": "E"
   }
 }
