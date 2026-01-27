@@ -192,14 +192,6 @@
     "key": "A",
     "tempo": "123bpm"
   },
-  "Your_Eyes_Open.Keane": {
-    "name": "Your Eyes Open",
-    "artist": "Keane",
-    "id": "Your_Eyes_Open.Keane",
-    "lyrics": "V: (Em CM Am7 FM7) C: CM7 G Bm  S: FM7 Am C D Bm \n\nWell it's a lonely road that you have chosen\nMorning comes and you don't want to know me anymore\nAnd it's a long time since your heart was frozen morning comes..\n\n  For a moment your eyes open and you know\n  All the things I ever wanted you to know\n  I don't know you, and I don't want to\n  Till the moment your eyes open and you know\n  \nThat it's a lonely place that you have run to morning comes..\nAnd it's a lonely end that you will come to morning comes..\n \n  Chorus\n  \n    Solo\n\n    Chorus\n",
-    "key": "Em",
-    "tempo": "Em"
-  },
   "Be_Yourself.Audioslave": {
     "name": "Be Yourself",
     "artist": "Audioslave",
@@ -720,30 +712,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "Country_Girl.Luke_Bryan": {
-    "name": "Country Girl",
-    "artist": "Luke Bryan",
-    "id": "Country_Girl.Luke_Bryan",
-    "lyrics": "V: (E G D/F# e)\nC: E G A2 E - D A \n\nHey girl, go on now!\nYou know you've got everybody lookin'\n\nGot a little boom in my big truck\nGonna open up the doors and turn it up\nGonna stomp my boots in the Georgia mud\nGonna watch you make me fall in love\n\nGet up on the hood of my daddy's tractor\nUp on the tool box, it don't matter\nDown on the tailgate girl I can't wait\nTo watch you do your thing\n\n  Shake it for the young bucks sittin' in the honky-tonks\n  For the rednecks rockin' til the break of dawn\n  The DJ spinnin that country song c'mon, c'mon, c'mon\n  Shake it for the birds, shake it for the bees\n  Shake it for the catfish swimmin down deep in the creek\n  For the crickets and the critters and the squirrels\n  Shake it to the moon, shake it for me girl\n\n  Aw, country girl, shake it for me girl..\n\nSomebody's sweet little farmer's child\nWith a gattle in her Bud to get a little wild\nPony-tail and a pretty smile rope me in from a country mile\nSo come on over here and get in my arms\nSpin me around this big ole barn\nTangle me up like grandma's yarn, Yeah, yeah, yeah\n\n  Chorus\n\n  Guitar\n\n   Solo\n\nNow dance, like a dandelion in the wind on the hill underneath the pines\nYeah, move like the river flows feel the kick drum down deep in your toes\nAll I wanna do is get to holdin' you and get to knowin' you\nAnd get to showin' you and get to lovin' you\n'Fore the night is through baby, you know what to do\n\n  Chorus\n",
-    "key": "E",
-    "tempo": "Tempo"
-  },
-  "Dance_The_Night_Away.Van_Halen": {
-    "name": "Dance The Night Away",
-    "artist": "Van Halen",
-    "id": "Dance_The_Night_Away.Van_Halen",
-    "lyrics": "Have you seen her? So fine and pretty fooled me with her style and ease\nAnd I feel her from across the room, yes it's love in the third degree\n\n  Ooh baby baby won't cha turn your head my way\n  Ooh baby baby ah come on!\n  [ Take a chance / don't skip romance ] you're old enough to dance the night away\n  Whoah, come on girl, dance the night away\n\nA live wire, barely a beginner but just watch that lady go\nShe's on fire cause dancin gets her higher than anything else she knows\n\n  Chorus\n  Solo\n  Chorus\n",
-    "key": "E",
-    "tempo": "Tempo"
-  },
-  "Dancing_Days.Led_Zeppelin": {
-    "name": "Dancing Days",
-    "artist": "Led Zeppelin",
-    "id": "Dancing_Days.Led_Zeppelin",
-    "lyrics": "V: (C C# C) C Bb A   S: C C# Eb.. F\n\nRiff\n\nDancing days are here again, summer evenings grow.\nI got my flower I got my power, I got a woman who knows.\n  I said it's alright, you know it's alright, I guess it's all in my heart.\n  You'll be my only, my one and only, is that the way it should start?\n\nCrazy ways are evident, in the way you wearin your clothes.\nSippin booze is precedent, as the evening starts to glow.\n  I said it's alright...\n\nRiff\n\nYou told your mama I'd get you home, but you didn't say that I had no car.\nI saw a lion he was standin' alone, with a tadpole in a jar.\n  I said it's alright...\n\nSo dancing days are here again, as the summer evenings grow.\nYou are my flower, you are my power, you are my woman who knows.\n  I said it's alright...\n\n!Riff / Solo / Riff",
-    "key": "C",
-    "tempo": "undefined"
-  },
   "Don_t_You_Forget_About_Me.Simple_Minds": {
     "name": "Don't You Forget About Me",
     "artist": "Simple Minds",
@@ -791,14 +759,6 @@
     "lyrics": "B (E F#)\n\nThe time to rise has been engaged, you're better best to rearrange\nI'm talking here to me alone, I listen to the finest worksong\n  Your finest hour\n\nAnother chance has been engaged, to throw Thoreau and rearrange\nYou are following this time, I beg you not, beg to rhyme\n  Your finest hour\n\nTake your instinct by the reins, you're better best to rearrange\nWhat we want and what we need, has been confused, been confused\n  Your finest hour\n\nBreak A\n\nV3\n\nChorus",
     "key": "B",
     "tempo": "undefined"
-  },
-  "Fly_Like_an_Eagle.Steve_Miller_Band": {
-    "name": "Fly Like an Eagle",
-    "artist": "Steve Miller Band",
-    "id": "Fly_Like_an_Eagle.Steve_Miller_Band",
-    "lyrics": "V: Am\nC: Am D F Am\n\nTick, tock, tick, do do doo-doo x 2\nTime keeps on slippin.. into the future x 2\n\n  I wanna fly like an eagle to the sea.\n  Fly like an eagle, let my spirit carry me\n  I want to fly like an eagle, 'til I'm free.\n  Fly right through the revolution.\n\nFeed the babies, who don't have enough to eat,\nshoe the children, with no shoes on their feet.\nHouse the people, livin in the streets.\nOh there's a solution.\n\nChorus / V1 / Chorus\n\nTick, tock, tick, do- do- doo-doo",
-    "key": "Am",
-    "tempo": "99"
   },
   "Fly_Me_Courageous.DrivinCryin": {
     "name": "Fly Me Courageous",
@@ -960,13 +920,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
-    "name": "Call Me The Breeze",
-    "artist": "Lynyrd Skynyrd",
-    "id": "Call_Me_The_Breeze.Lynyrd_Skynyrd",
-    "lyrics": "Blues in A\n\nCall me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
-    "key": "A"
-  },
   "Centerfold.J_Geils": {
     "name": "Centerfold",
     "artist": "J Geils",
@@ -999,28 +952,12 @@
     "key": "B",
     "tempo": "undefined"
   },
-  "Fall_On_Me.REM": {
-    "name": "Fall On Me",
-    "artist": "REM",
-    "id": "Fall_On_Me.REM",
-    "lyrics": "E|----3-0---5-3-------3-0--5-3------3-0-----|\nB|--------------0--------------0--------3-5-|\nG|-4-5----5-------4-5----5-------4-5--------|\n\nV: (Dm Am) (Dm G C F)  Dm G7\nC: (C Dm F G) F\nB: Am F Am G  Am F Dm G\n\nThere's a problem feathers iron bargain buildings weights and pulleys\nFeathers hit the ground before the weight can leave the air\n\n  Buy the sky and sell the sky and tell the sky and tell the sky\n  Don't fall on me - what is it up in the air for\n  Fall on me - if it's there for long\n  Fall on me - it's over it's over me\n\nThere's the progress we have found a way to talk around the problem\nBuilding towered foresight isn't anything at all\n\n  Chorus\n\n    Well I would keep it above but then it wouldn't be sky anymore\n    So if I send it to you you've got to promise to keep it home\n\n  Buy the sky and sell the sky and lift your arms up to the sky\n  and ask the sky and ask the sky",
-    "key": "Dm",
-    "tempo": "undefined"
-  },
   "Fame.David_Bowie": {
     "name": "Fame",
     "artist": "David Bowie",
     "id": "Fame.David_Bowie",
     "lyrics": "Fame, makes a man take things over\nFame, lets him loose, hard to swallow\nFame, puts you there where things are hollow\n\n  Fame, it's not your brain, it's just the flame\n  That burns your change to keep you insane\n\n.. what you like is in the limo\n.. what you get is no tomorrow\n.. what you need you have to borrow\n\n  Fame, \"Nein! It's mine!\" is just his line\n  To bind your time, it drives you to crime\n\n    Could it be the best, could it be?\n    Really be, really, babe?\n    Could it be, my babe, could it, babe?\n    Could it, babe? Could it, babe?\n\nIs it any wonder I reject you first? Fame...\nIs it any wonder you are too cool to fool\n\n  Fame, bully for you, chilly for me\n  Got to get a rain check on pain\n\nFame\nWhat's your name?",
     "key": "E",
-    "tempo": "undefined"
-  },
-  "Dream_Brother.Jeff_Buckley": {
-    "name": "Dream Brother",
-    "artist": "Jeff Buckley",
-    "id": "Dream_Brother.Jeff_Buckley",
-    "lyrics": "E|------3-----1----------------------1----|\nB|----4-----3-----3--1----1--0--1--3------|\nG|--0-----0-----0------0---------------0--|\nD|-(3)------------------------------------|\nA|----------------------------------------|\nE|-------(3)------------------------------|\n\nE|-3-5-2-3--  -1-3-\nB|-3-4-3-3--  -1-3-\nG|-0-5-2-3--  -0-0-\nD|-0-0-0-1--  -3-0-\nA|-1-3------  -3-x-\nE|----------  -1-3-\n\nE|-3-5-1-3- -7--5--1--3-\nB|-4-6-1-3- -8--6--1--3-\nG|-3-5-0-0- -9--5--0--0-\nD|-5-7-3-0- -10-7--3--0-\nA|-3-8-3-x- -x--8--3--x-\nE|-----1-3- -8-----1--3-\n\nE|-6-8---8--6- -1-3-\nB|-8-10--7--8- -1-3-\nG|-7-8---7--7- -0-0-\nD|-8-10--0--8- -3-0-\nA|-x-x---x--6- -3-x-\nE|-6-8-------- -1-3-\n\nThere is a child sleeping near his twin the pictures go wild in a rush of wind\nThe dark angel he is smuggling in watching over them with his black feather wings unfurled...\nThe love you lost with the skin so fair is free with the wind in her butterscotch hair\nHer green eyes blew goodbyes with her head in her hands\nAnd your kiss on the lips of another...\nDream brother with your tears scattered round the world...\n\n  Don't be like the one who made me so old\n  And don't be like the one who left behind his name\n  Cos he's waiting for you\n  Like I waited for mine\n  And nobody ever came...\n\nI feel afraid and I call your name I love your voice and your dance insane\nI hear your words and I know your pain your head in your hands and her kiss on the lips of another\nYour eyes to the ground and the world spinning round forever\nAsleep in the sand with the ocean washing over...",
-    "key": "Dm",
     "tempo": "undefined"
   },
   "My_Own_Worst_Enemy.Lit": {
@@ -1191,14 +1128,6 @@
     "key": "D",
     "tempo": "undefined"
   },
-  "Come_On_Feel_The_Noise.Quiet_Riot": {
-    "name": "Come On Feel The Noise",
-    "artist": "Quiet Riot",
-    "id": "Come_On_Feel_The_Noise.Quiet_Riot",
-    "lyrics": "V:(G Bm Em - (Am G D)) Em D\nC: (G D/F# Em) (Am G D) (G D/F# Em) C/G G/B Am G D\n\n  Come on feel the noise girls rock your boys\n  We'll get wild, wild, wild!\n\nSo you think I got an evil mind, I'll tell you honey\nI don't know why, I don't know why\nSo you think my singing's out of time, it makes me money\nI don't know why I don't know why, anymore Oh no\n\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild... Wild, wild, wild\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild .. Baby\n\nSo you see I got a funny face, I got no worries\nAnd I don't know why I don't know why\nOh, I gotta sing with some disgrace, I'm in no hurry\nAnd I don't know why I don't know why, anymore no, no, no\n \n  Chorus\n\n  Solo\n\nWell you think we have a easy time, you should know better\nAnd I don't know why I don't know why\nSo you say I got a dirty mind, I'm a mean go getter\nI don't know why I don't know why, anymore Oh no\n\n  Chorus\n",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "Cheap_Sunglasses.ZZ_Top": {
     "name": "Cheap Sunglasses",
     "artist": "ZZ Top",
@@ -1222,14 +1151,6 @@
     "lyrics": "Crack that whip, give the past a slip\nStep on a crack, break your mama's back\n\nWhen a problem comes along, you must whip it\nBefore the cream sits out too long, you must whip it\nWhen something's going wrong, you must whip it\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good\n\nWhen a good time turns around, you must whip it\nYou will never live it down, unless you whip it\nNo one gets away, until they whip it\n\n  I say whip it, whip it good\n  I say whip it, whip it good\n\nCrack that whip...\nWhen a problem comes along...\n\n  Now whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, into shape\n  Shape it up, get straight\n  Go forward, move ahead\n  Try to detect it, it's not too late\n  To whip it, whip it good",
     "key": "D",
     "tempo": "158bpm"
-  },
-  "Burning_Down_The_House.Talking_Heads": {
-    "name": "Burning Down The House",
-    "artist": "Talking Heads",
-    "id": "Burning_Down_The_House.Talking_Heads",
-    "lyrics": "Ah, watch out, you might get what you're after\nCool babies, strange but not a stranger\nI'm an ordinary guy burning down the house\n\nHold tight, wait 'til the party's over\nHold tight, we're in for nasty weather\nThere has got to be a way, burning down the house\n\n  Here's your ticket, pack your bags time for jumpin' overboard\n  Transportation is here\n  Close enough but not too far maybe you know where you are\n  Fightin' fire with fire\n\nAh, all wet, hey you might need a raincoat\nShakedown, dreams walking in broad daylight\nThree hundred sixty five degrees burning down the house\n\n  Ah, it was once upon a place sometimes I listen to myself\n  Gonna come in first place\n  People on their way to work and, baby what do you expect?\n  Gonna burst into flames, ah\n\n  Burning down the house\n\nMy house, is out of the ordinary\nThat's right, don't wannna hurt nobody\nSome things sure can sweep me off my feet burning down the house\n\n  No visible means of support and you have not seen nothin' yet\n  Everything's stuck together\n  And I don't know what you expect staring into the TV set\n  Fightin' fire with fire, ah",
-    "key": "Dm",
-    "tempo": "103bpm"
   },
   "Drive.The_Cars": {
     "name": "Drive",
@@ -1326,22 +1247,6 @@
     "key": "Am",
     "tempo": "undefined"
   },
-  "And_I_Love_Her.The_Beatles": {
-    "name": "And I Love Her",
-    "artist": "The Beatles",
-    "id": "And_I_Love_Her.The_Beatles",
-    "lyrics": "V: (Em Bm) G A D\nC: (Bm F#m) A\n\nI give her all my love that's all I do\nAnd if you saw my love you'd love her too, I love her\n\nShe gives me everything and tenderly\nThe kiss my lover brings she brings to me, and I love her\n\n  A love like ours could never die\n  As long as I have you near me\n\nBright are the stars that shine dark is the sky\nI know this love of mine will never die, and I love her\n\n  Solo\n\nBright are the stars..",
-    "key": "Em",
-    "tempo": "undefined"
-  },
-  "Come_As_You_Are.Nirvana": {
-    "name": "Come As You Are",
-    "artist": "Nirvana",
-    "id": "Come_As_You_Are.Nirvana",
-    "lyrics": "G|----------0---0-----------2-\nD|-0-0-1-2----2---2-2-1-0-0---\n\nV: Em D    C: Em G     B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old    \n\n  Memory ah x 4\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory\n\n    And I swear...\nRiff\n",
-    "key": "Em",
-    "tempo": "undefined"
-  },
   "Creep.Radiohead": {
     "name": "Creep",
     "artist": "Radiohead",
@@ -1389,14 +1294,6 @@
     "lyrics": "  Slow ride, take it easy x 4\n\nI'm in the mood, the rhythm is right,\nMove to the music, we can roll all night.\nOooh - slow ride - oooh\n\n  Slow ride x 2\n\n    Slow down, go down, got to get your lovin' one more time\n    Hold me, roll me, slow ridin' woman you're so fine\n\n  Solo\n\nV1\n\n  Slow ride x 2\n\n    Slow down..\n\n  Solo (Slow ride, easy, slow ride, sleazy)\n\n    Slow down..\n\n  Slow ride, take it easy - slow ride, take it easy\n  Slow down, go down - Slow down, go down\n\nOh come on baby, take a slow ride with me,\nCome on baby, take a slow ride.\nOh feels good, mmm feels so good, I like it yea,\nI feel good, oh I feel alright!\nYou know the rhythm is right x 2\nWe gotta rock all night x 2\nYou know the rhythm is right, yeah, we gotta rock all night x 2\nWhoa, c'mon now\nWoo, Yea, Woo, Woa!\n\nElevate me mama x 4... Oww! Woo!",
     "key": "A",
     "tempo": "Tempo"
-  },
-  "Can_t_Get_Enough.Bad_Company": {
-    "name": "Can't Get Enough",
-    "artist": "Bad Company",
-    "id": "Can_t_Get_Enough.Bad_Company",
-    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
-    "key": "C",
-    "tempo": "undefined"
   },
   "Shine.Collective_Soul": {
     "name": "Shine",
@@ -1493,14 +1390,6 @@
     "lyrics": "V: A B D   C: A B G A\n\nRoseanna's dady had a car she loved to drive,\nStole the keys one night and took me for a ride.\nTurned up the music just as loud as it could go,\nBlew out the speakers in her daddy's radio.\n \n  She was shakin' (oh) Snappin her fingers\n  She was moving round and round. That girl was shakin\n \nWe started drinkin' want to take it straight\nShe was doin' 80 and she slammed on the brakes.\nWe got so high we had to pull to the side,\nWe did some shakin' till the middle of the night!\n \n  Chorus\n \n  Solo\n \n  I got a little nervous, huh..\n  She took her coat off,\n  She looked so pretty,\n  Awwww, yeah!\n\nI'm always talkin baby, talkin too much,\nI love that little girl and I just can't get enough!\nIt takes a lonely night with nowhere to go,\nJust call Roseanna it's a hell of a show!\n \n  Chorus\n",
     "key": "A",
     "tempo": "undefined"
-  },
-  "Somewhere_Only_We_Know.Keane": {
-    "name": "Somewhere Only We Know",
-    "artist": "Keane",
-    "id": "Somewhere_Only_We_Know.Keane",
-    "lyrics": "V: (A AM7 Bm7 Esus4 E)   (F#m C#m D E4 E)\nC: (Bm A/C# E) Bm C#m\nBreak: (Bm C#m) Bm E4 E\n\nI walked across an empty land I knew the pathway like the back of my hand\nI felt the earth beneath my feet sat by the river and it made me complete\n  Oh simple thing where have you gone I'm getting old and I need something to rely on\n  So tell me when you're gonna let me in I'm getting tired and I need somewhere to begin\n\nI came across a fallen tree I felt the branches of it looking at me\nIs this the place we used to love? Is this the place that I've been dreaming of?\n\n  Oh simple thing...\n\n    And if you have a minute why don't we go talk about it somewhere only we know?\n    This could be the end of everything so why don't we go  Somewhere only we know?\n\n  Break\n\n  Oh simple thing.. \n\n  So if you have a minute why don't we go talk about it somewhere only we know?\nThis could be the end of everything\n  So why don't we go\n  So why don't we go\n \n  This could be the end of everything\n  So why don't we go\n  Somewhere only we know?\n",
-    "key": "A",
-    "tempo": "Tempo"
   },
   "You_Really_Got_Me.The_Kinks": {
     "name": "You Really Got Me",
@@ -1782,14 +1671,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "Ammonium_Maze.Percy_Hill": {
-    "name": "Ammonium Maze",
-    "artist": "Percy Hill",
-    "id": "Ammonium_Maze.Percy_Hill",
-    "lyrics": "Looking down from the trees\nI see rays of blazing sun and I wonder..\nWhat's gone wrong with the sky?\n\nSoftly laid in a dream while the weeping willow cries\nClouds of thunder, block those rays from above and I wonder..\nWhat will the morning say?\n\nYellow smoke from my mouth from my hands below my feet\nStain a color, so my brother can breathe\n\nGreen goes in, green goes out what's the latest fashion craze?\nWhat is your color, does it go with concrete? and I wonder..\nWhat will the morning grieve?\n\n  What a long black road follow the curve ammonium maze\n  Freezing the spirit lost in the hands from that which we grow by\n  I look in the mirrors on mine, so soon we end alone again for a lifetime\n  Twisted around\n\n    Play with your toys what's the use in crying?\n    Yes, it's gone in the breeze\n    Can't you see that there's more there that matters\n    Than what chained to your feet\n    Darkened danger time\n    Spinning to sights as the lights go down.\n\nSo they lay on the shore\nIn their season changing skin\nCrystal waters, crashing down on the sand\nPlanes fly by, dolphins sigh\n\nIn their sodium machine it's entertainment\nFat pounds of the class and i wonder....\nWhose going to have the last laugh?",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Forty_Six_&_2.Tool": {
     "name": "Forty Six & 2",
     "artist": "Tool",
@@ -1998,14 +1879,6 @@
     "key": "undefined",
     "tempo": "Tempo"
   },
-  "By_The_Waters_of_Babylon.Don_McLean": {
-    "name": "By The Waters of Babylon",
-    "artist": "Don McLean",
-    "id": "By_The_Waters_of_Babylon.Don_McLean",
-    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
-    "key": "Am",
-    "tempo": "undefined"
-  },
   "Lodi.CCR": {
     "name": "Lodi",
     "artist": "CCR",
@@ -2054,22 +1927,6 @@
     "key": "A",
     "tempo": ""
   },
-  "Come_Monday.Jimmy_Buffett": {
-    "name": "Come Monday",
-    "artist": "Jimmy Buffett",
-    "id": "Come_Monday.Jimmy_Buffett",
-    "lyrics": "V: (A D E A) Bm D E\nC: D A D E A C#m D E D E A\nB: (Bmaj7 E) D E - G D A\n\nHeadin' out to San Francisco for the labor day weekend show\nI got my hush puppies on I guess I never was meant for glitter rock'n roll\nAnd honey I didn't know that I'd be missing you so\n\n  Come Monday, it'll be all right Come Monday, I'll be holding you tight\n  I spent four lonely days in a brown LA haze and I just want you back by my side\n\nYes its been quite a summer rent a cars and west bound trains\nAnd now your off on vacation something you tried to explain\nAnd darling since I love you so that's the reason I just let you go\n\n  Chorus\n\n    I cant help it honey your that much part of me now\n    Remember that night in Montana when you said there'd be no place for doubt\n\nI hope you're enjoying the scenery I know that it's pretty up there\nWe can go hiking on Tuesday with you I'd walk any where\nCalifornia has worn me quite thin I just can't wait till I see you again\n\n  Chorus",
-    "key": "A",
-    "tempo": "undefined"
-  },
-  "Careless_Whisper.George_Michael": {
-    "name": "Careless Whisper",
-    "artist": "George Michael",
-    "id": "Careless_Whisper.George_Michael",
-    "lyrics": "V: Am Dm F Em\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
-    "key": "Am",
-    "tempo": "undefined"
-  },
   "Babylon.David_Gray": {
     "name": "Babylon",
     "artist": "David Gray",
@@ -2085,14 +1942,6 @@
     "lyrics": "I'm coming out of my cage, and I've been doing just fine\nGotta, gotta be down because I want it all\nIt started out with a kiss, how did it end up like this?\nIt was only a kiss, it was only a kiss\n\nNow I'm falling asleep, and she's calling a cab\nWhile he's having a smoke, and she's taking a drag\nNow they're going to bed, and my stomach is sick\nAnd it's all in my head, but she's touching his\nChest now, he takes off her dress now\nLet me go\n\nI just can't look, it's killing me\nAnd taking control\n\nJealousy, turning saints into the sea\nSwimming through sick lullabies, choking on your alibis\nBut it's just the price I pay, destiny is calling me\nOpen up my eager eyes, 'cause I'm Mr. Brightside\n\nI'm coming out of my cage, and I've been doing just fine\nGotta, gotta be down because I want it all\nIt started out with a kiss, how did it end up like this?\nIt was only a kiss, it was only a kiss\n\nNow I'm falling asleep, and she's calling a cab\nWhile he's having a smoke, and she's taking a drag\nNow they're going to bed, and my stomach is sick\nAnd it's all in my head, but she's touching his\nChest now, he takes off her dress now\nLet me go\n\n'Cause I just can't look, it's killing me\nAnd taking control\n\nJealousy, turning saints into the sea\nSwimming through sick lullabies, choking on your alibis\nBut it's just the price I pay, destiny is calling me\nOpen up my eager eyes, 'cause I'm Mr. Brightside\n\nI never\nI never\nI never\nI never\n",
     "key": "C#",
     "tempo": "148bpm"
-  },
-  "Another_One_Bites_The_Dust.Queen": {
-    "name": "Another One Bites The Dust",
-    "artist": "Queen",
-    "id": "Another_One_Bites_The_Dust.Queen",
-    "lyrics": "V: (Em Am)    P: (C G) Am B    C: (Em Am) F#m A B\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n\n  Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n\n  Chorus\n",
-    "key": "Em",
-    "tempo": "110"
   },
   "Break_Down.Tom_Petty": {
     "name": "Break Down",
@@ -2110,14 +1959,6 @@
     "key": "",
     "tempo": "Tempo"
   },
-  "Can_t_You_See.Marshall_Tucker": {
-    "name": "Can't You See",
-    "artist": "Marshall Tucker",
-    "id": "Can_t_You_See.Marshall_Tucker",
-    "lyrics": "D C G D\n \nI'm gonna take a freight train, down at the station Lord, I don't care where it goes\nGonna climb a mountain, the highest mountain,jump off, nobody gonna know\n \n  Can't you see, can't you see, what that woman, she been doin' to me\n\nI'm gonna buy me a ticket now, as far as I can ain't never comin' back\nTake me southbound all the way to Georgia now, till the train run out of track\n \n  Chorus\n\n  Solo\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Are_You_Gonna_Be_My_Girl.Jet": {
     "name": "Are You Gonna Be My Girl",
     "artist": "Jet",
@@ -2133,14 +1974,6 @@
     "lyrics": "V: D A G D\nC: G D A D G\n\nI see the bad moon arising, I see trouble on the way\nI see earthquakes and lightning, I see bad times today\n\n  Don't go around tonight\n  Well, it's bound to take your life\n  There's a bad moon on the rise\n\nI hear hurricanes a-blowing, I know the end is coming soon\nI fear rivers overflowing, I hear the voice of rage and ruin\n\n  Chorus\n  Solo\n\nHope you got your things together, hope you are quite prepared to die\nLooks like we're in for nasty weather, one eye is taken for an eye\n\n  Chorus\n",
     "key": "D",
     "tempo": "Tempo"
-  },
-  "Cocaine.Eric_Clapton": {
-    "name": "Cocaine",
-    "artist": "Eric Clapton",
-    "id": "Cocaine.Eric_Clapton",
-    "lyrics": "If you want to hang out, you've gotta take her out, cocaine\nIf you want to get down, get down on the ground, cocaine\n\n  She don't lie, cocaine\n\nIf you got that lose, you want to kick them blues, cocaine\nWhen your day is done, and you want to ride on cocaine\n\nIf your day is gone, and you want to ride on, cocaine\nDon't forget this fact, you can't get it back, cocaine\n",
-    "key": "E",
-    "tempo": "undefined"
   },
   "I_Can_t_Go_For_That.Hall&Oates": {
     "name": "I Can't Go For That",
@@ -2162,14 +1995,6 @@
     "name": "Detroit Rock City",
     "artist": "Kiss",
     "id": "Detroit_Rock_City.Kiss",
-    "lyrics": "Lyrics",
-    "key": "",
-    "tempo": "Tempo"
-  },
-  "Burning_For_You.BOC": {
-    "name": "Burning For You",
-    "artist": "BOC",
-    "id": "Burning_For_You.BOC",
     "lyrics": "Lyrics",
     "key": "",
     "tempo": "Tempo"
@@ -2286,14 +2111,6 @@
     "key": "Am",
     "tempo": "undefined"
   },
-  "Victoria_s_Secret.Jax": {
-    "name": "Victoria's Secret",
-    "artist": "Jax",
-    "id": "Victoria_s_Secret.Jax",
-    "lyrics": "God I wish somebody would have told me\nWhen I was younger that all bodies aren't the same\nPhotoshop itty-bitty models on magazine covers\nTold me I was overweight I stopped eating, what a bummer\nCan't have carbs and a hot girl summer\nIf I could go back and tell myself when I was younger, I'd say, psst\n\n  I know Victoria's secret and girl you wouldn't believe\n  She's an old man who lives in Ohio making money off of girls like me\n  Cashing in on body issues selling skin and bones with big boobs\n  I know Victoria's secret\n  She was made up by a dude (dude)\n  Victoria was made up by a dude (dude)\n  Victoria was made up by a dude\n\nI wish somebody would've told me that thighs of thunder meant normal human thighs\nThe fucking pressure I was under to lose my appetite\nAnd fight the cellulite with hunger games like every night\nIf I could go back and tell myself when I was younger, I'd say, hey dummy\n\n  Chorus / acapella / Chorus\n",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Break_Stuff.Limp_Bizkit": {
     "name": "Break Stuff",
     "artist": "Limp Bizkit",
@@ -2390,14 +2207,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Called_Out_In_The_Dark.Snow_Patrol": {
-    "name": "Called Out In The Dark",
-    "artist": "Snow Patrol",
-    "id": "Called_Out_In_The_Dark.Snow_Patrol",
-    "lyrics": "V: C Am E F\nC: Am G F Am G\n\nIt's like we just can't help ourselves\nCause we don't know how to back down\nWe were called out to the streets\nWe were called into the towns\n\nHow the heavens they opened up\nLike arms of dazzling gold\nWith our rain-washed histories\nWell, we do not need to be told\n\n  Show me now, show me the arms aloft\n  Every eye trained on a different side\n  This magic, this drunken Semaphore, and I\n\n    We are listening and we're not blind\n    This is your life, this is your time x 2\n\nI was called out in the dark\nBy a choir of beautiful cheats\nAnd as the kids took back the parks\nYou and I were left with the streets.\n\n  P\n  C x 4",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Rolling_In_The_Deep.Adele": {
     "name": "Rolling In The Deep",
     "artist": "Adele",
@@ -2413,14 +2222,6 @@
     "lyrics": "I: V + Em Am C G Em Am C D\nV: [G D C] G D/F# Em - C G/B [Am D] C D\nC: [G C D C D] [Am D] C D\n\nI don't know where I'm going, but I sure know where I've been.\nHanging on the promises in songs of yesterday.\nAnd I've made up my mind, I ain't wasting no more time, here I go again.\n\nThough I keep searching for an answer, I never seem to find what I'm looking for.\nOh Lord, I pray you give me strength to carry on,\n\n  Cause I know what it means, to walk along, the lonely street of dreams.\n  And here I go again on my own, going down the only road I've ever known.\n  Like a drifter I was born to walk alone.\n  And I've made up my mind, I ain't wasting no more time.\n\nI'm just another heart in need of rescue, waiting on love's sweet charity.\nAnd I'm gonna hold on for the rest of my days,\n \n  Chorus\n\n    Solo (over Verse w/ G pedal)\n\n  Chorus\n\ne|-------------------------------------|\nB|-----------8-10-8-7-8----------------|\nG|-4-5-7----------------5~-------------|\nD|-------5/7---------------------------|\n\ne|--------------7---------------------------------|\nB|-------7-8-10B--10-8-10---------10-8B(10)-8-8~--|\nG|-(5)/9------------------7-----7-----------------|\nD|--------------------------7-7-------------------|\n \ne|-17B(19)17B(20)-15-17--------------|\nB|----------------------15-----------|\nG|-----------------------------------|\n\nG|---------------------------------------------12-14-16---|\nD|------------------------------------12-14-16------------|\nA|------------------12-14-15-12-14-15---------------------|\nE|-12-14-15-12-14-15--------------------------------------|\n \ne|----------14-15-17B(19)~-----------|\nB|-13-15-17--------------------------|\nG|-----------------------------------|",
     "key": "G",
     "tempo": "Tempo"
-  },
-  "Far_Behind.Candlebox": {
-    "name": "Far Behind",
-    "artist": "Candlebox",
-    "id": "Far_Behind.Candlebox",
-    "lyrics": "G Em D C\n\nNow maybe I didn't mean to treat you bad but I did it anyway\nAnd then maybe some would say your life was sad but you lived it anyway\nAnd so maybe your friends they stand around they watch you crumble as you falter down to the ground\nAnd then someday your friends they stand beside as you were flying oh you were flying oh so high\nBut then someday people look at you for what they call their own they watch you suffer yeah they hear you calling home\nAnd then some day we could take our time to brush the leaves aside so you can reach us But you left me far behind\n\n  Now maybe I didn't mean to treat you oh so bad but I did it anyway\n  Now maybe some would say you're left with what you had but you couldn't share the pain\n\nNo, no, no couldn't share the pain, they watch you suffer\nNow maybe I could have made my own mistakes but I live with what I've known\nAnd then maybe we might share in something rare but won't you look at where we've grown won't you look at where we've gone\nBut then someday comes tomorrow holds a sense of what I feel for you in my mind as you trip the final line\nAnd that cold day when you lost control shame you left my life so soon you should have told me but you left me far behind\n\n  Chorus / Solo\n\nI said times have changed your friends they come and watch you crumble to the ground they watch you suffer\nYeah, they hold you down gold you down now maybe oh oh, maybe I didn't mean to treat you bad but you left me far behind",
-    "key": "G",
-    "tempo": "undefined"
   },
   "Panama.Van_Halen": {
     "name": "Panama",
@@ -2538,30 +2339,6 @@
     "id": "Every_Rose_Has_Its_Thorn.Poison",
     "lyrics": "V: (G C) D C\nC: (G C) G D C G\nB: Em D C G\n\nWe both lie silently still in the dead of the night\nAlthough we both lie close together we feel miles apart inside\nWas it something I said or something I did?\nDid my words not come out right?\nThough I tried not to hurt you, though I tried\nBut I guess that's why they say\n\n  Every rose has its thorn\n  Just like every night has its dawn\n  Just like every cowboy sings a sad, sad song\n  Every rose has its thorn, yeah, it does\n\nI listen to our favorite song playing on the radio\nHear the DJ say, \"Love's a game of easy come and easy go\"\nBut I wonder, does he know? Has he ever felt like this?\nAnd I know that you'd be here right now\nIf I could have let you know somehow, I guess\n\n  Chorus\n\n    Though it's been a while now\n    I can still feel so much pain\n    Like a knife that cuts you, the wound heals\n    But the scar, that scar remains\n\nI know I could have saved a love that night if I'd known what to say\nInstead of making love we both made our separate ways\nAnd now I hear you found somebody new and that I never meant that much to you\nTo hear that tears me up inside\nAnd to see you cuts me like a knife, I guess\n\n  Chorus",
     "key": "G",
-    "tempo": "Tempo"
-  },
-  "Friend_Of_The_Devil.The_Grateful_Dead": {
-    "name": "Friend Of The Devil",
-    "artist": "The Grateful Dead",
-    "id": "Friend_Of_The_Devil.The_Grateful_Dead",
-    "lyrics": "V: (G C) (D Am) D\nC: D C D Am C D\n\nI lit out from Reno I was trailed by twenty hounds\nDidn't get to sleep last night till the morning came around\n\n  Set out runnin but I take my time a friend of the devil is a friend of mine\n  If I get home before daylight I just might get some sleep tonight\n\nRan into the devil, babe, he loaned me twenty bills\nI spent the night in Utah in a cave up in the hills\n\nI ran down to the levee but the devil caught me there\nHe took my twenty dollar bill and vanished in the air\n\n    Got two reasons why I cry away each lonely night\n    The first one's named Sweet Anne Marie and she's my hearts delight\n    The second one is prison, babe the sheriff's on my trail\n    And if he catches up with me I'll spend my life in jail\n\nGot a wife in Chino, babe, and one in Cherokee\nThe first one says she's got my child but it don't look like me\n\n    Got two reasons...\n\nGot a wife...",
-    "key": "G",
-    "tempo": "undefined"
-  },
-  "Eyes_Without_A_Face.Billy_Idol": {
-    "name": "Eyes Without A Face",
-    "artist": "Billy Idol",
-    "id": "Eyes_Without_A_Face.Billy_Idol",
-    "lyrics": "I: Emaj7\nV: Emaj7 C#m7 G#m7 B\nC: (A B) F#m7 G#m7\nB: E D\n\nI'm all out of hope one more bad dream could bring a fall\nWhen I'm far from home don't call me on the phone yo tell me you're alone\nIt's easy to deceive it's easy to tease but hard to get release\n\n  Les yeux sans visage - eyes without a face x 3\n  Got no human grace your eyes without a face.\n\nI spend all my time believing all the lies to keep the dream alive\nNow it makes me sad it makes me mad at truth for loving what was you\n\n  Chorus\n\nWhen you hear the music you make a dip\nInto someone else's pocket then make a slip.\nSteal a car and go to Las Vegas oh, the gigolo pool.\nHanging out by the state line, turning holy water into wine\nDrinkin it down, oh\nI'm on a bus on a psychedelic trip reading murder books tryin to stay hip.\nI'm thinkin of you you're out there so say your prayers.\n\n  Solo\n\nNow I close my eyes and I wonder why I don't despise\nNow all I can do is love what was once so alive and new\nBut it's gone from your eyes I'd better realize\n\n  Chorus",
-    "key": "E",
-    "tempo": "undefined"
-  },
-  "Fast_Car.Tracy_Chapman": {
-    "name": "Fast Car",
-    "artist": "Tracy Chapman",
-    "id": "Fast_Car.Tracy_Chapman",
-    "lyrics": "V: D A F#m E\nC: D A F#m E - (D F#m E) D E\n\nYou got a fast car I want a ticket to anywhere\nMaybe we make a deal, maybe together we can get somewhere\nAny place is better, starting from zero, got nothing to lose\nMaybe we'll make something, me, myself, I got nothing to prove\n\nYou got a fast car I got a plan to get us outta here\nI been working at the convenience store managed to save just a little bit of money\nWon't have to drive too far, just across the border and into the city\nYou and I can both get jobs, finally see what it means to be living\n\nSee, my old man's got a problem, he lives with a bottle, that's the way it is\nHe says his body's too old for workin, his body's too young to look like his\nWhen mama went off and left him she wanted more from life than he could give\nI said, \"Somebody's gotta take care of him\", I quit school and that's what I did\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n\n  So I remember when we were drivin', drivin' in your car\n  Speed so fast, I felt like I was drunk\n  City lights lay out before us and your arm felt nice wrapped round my shoulder\n  And I had a feeling that I belonged\n  I had a feeling I could be someone be someone\n\nYou got a fast car we go cruisin', entertain ourselves\nYou still ain't got a job and I work in a market as a checkout girl\nI know things will get better you'll find work and I'll get promoted\nAnd we'll move out of the shelter, buy a bigger house and live in the suburbs\n\n  Chorus\n\nYou got a fast car I got a job that pays all our bills\nYou stay out drinkin late at the bar see more of your friends than you do of your kids\nI'd always hoped for better thought maybe together, you and me'd find it\nI got no plans, I ain't going nowhere so take your fast car and keep on drivin\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n",
-    "key": "D",
     "tempo": "Tempo"
   },
   "Giant_s_Lore.Fates_Warning": {
@@ -2722,14 +2499,6 @@
     "id": "Danny_s_Song.Kenny_Loggins",
     "lyrics": "V: (D C Bm E7 A) C: (G A D Bm) G A D C Bm E7 A\n\nPeople smile and tell me I'm the lucky one,\nAnd we've just begun, think I'm gonna have a son.\nHe will be like she and me, as free as a dove\nConceived in love, sun is gonna shine above.\n\n  And even though we ain't got money, I'm so in love with ya honey,\n  And everything will bring a chain of love.\n  And in the morning when I rise, you bring a tear of joy to my eyes,\n  And tell me everything is gonna be alright.\n\nSeems as though a month ago I beta chi\nnever got high, oh I was a sorry guy.\nAnd now a smile, a face, a girl that shares my name,\nNow I'm through with the game, this boy will never be the same.\n\nPisces, Virgo rising is a very good sign,\nStrong and kind, and the little boy is mine.\nNow I see a family where there once was none, now we've just begun,\nYeah, we're gonna fly to the sun.\n\nLove the girl who holds the world in a paper cup\nDrink it up, love her and she'll bring you luck.\nAnd if you find she helps your mind, buddy, take her home,\nDon't you live alone, try to earn what lovers own.",
     "key": "D",
-    "tempo": "undefined"
-  },
-  "Dear_Mr_Fantasy.Traffic": {
-    "name": "Dear Mr Fantasy",
-    "artist": "Traffic",
-    "id": "Dear_Mr_Fantasy.Traffic",
-    "lyrics": "E D A E, (C#m E) D B7\n\nDear Mister Fantasy play us a tune\nSomething to make us all happy\nDo anything take us out of this gloom\nSing a song, play guitar, make it snappy\n\nYou are the one who can make us all laugh\nbut doing that you break out in tears\nPlease don't be sad if it was a straight mind you had\nWe wouldn't have known you all these years",
-    "key": "E",
     "tempo": "undefined"
   },
   "My_My,_Hey_Hey.Neil_Young": {
@@ -3051,14 +2820,6 @@
     "lyrics": "V: Em B7                     140bpm\nC: G D Em B G D Am C Em B\n\nWell, I had me a boy, turned him into a man\nI showed him all the things that he didn't understand\nWhoa, and then I let him go\n\nNow there's one in California who's been cursing my name\nCause I found me a better lover in the UK\nHey, until I made my getaway\n\n  One, two, three, they gonna run back to me\n  Cause I'm the best baby that they never gotta keep\n  One, two, three, they gonna run back to me\n  They always wanna come, but they never wanna leave\n\n    Ex's and the oh, oh, oh's they haunt me\n    Like ghosts they want me to make 'em all\n    They won't let go ex's and oh's\n\nI had a summer lover down in New Orleans\nKept him warm in the winter, left him frozen in the spring\nMy, my, how the seasons go by\n\nI get high, and I love to get low\nSo the hearts keep breaking, and the heads just roll\nYou know that's how the story goes\n\n PC + C x 2\n\n   Solo\n\n  One, two, three, they gonna run back to me\n  Climbing over mountains and a-sailing over seas\n  One, two, three, they gonna run back to me\n  They always wanna come, but they never wanna leave\n\n    C x 2\n\n3 Measure out",
     "key": "Em",
     "tempo": "140"
-  },
-  "Kiss_Me_Deadly.Lita_Ford": {
-    "name": "Kiss Me Deadly",
-    "artist": "Lita Ford",
-    "id": "Kiss_Me_Deadly.Lita_Ford",
-    "lyrics": "156bpm\n\nI went to a party last Saturday night I didn't get laid, I got in a fight, uh, huh\nIt ain't no big thing\nLate for my job and the traffic was bad had to borrow ten bucks from my old man, uh, huh\nit ain't no big thing\n\nI went to a party last Saturday night I told you that story, I'd be alright uh, huh\nIt ain't no big thing\n\n  But I know what I like I know I like dancin with you\n  And I know what you like I know you like dancin with me Yeah, yeah\n    Kiss me once kiss me twice\n    C'mon pretty baby, kiss me deadly\n\nHad a few beers, gettin' high sittin', watchin' the time go by, Uh, huh\nIt ain't no big thing\nNothin' to eat and no TV lookin' in the mirror don't get it for me Uh, huh\nIt ain't no big thing\n\n  PC + Chorus x 2\n\n    Solo\n\nYou know I like dancin with you dancin with you c'mon\n\n  Chorus",
-    "key": "C",
-    "tempo": "156"
   },
   "Everybody_Wants_You.Billy_Squier": {
     "name": "Everybody Wants You",
@@ -3667,28 +3428,12 @@
     "key": "F#m",
     "tempo": "Tempo"
   },
-  "Californication.Red_Hot_Chili_Peppers": {
-    "name": "Californication",
-    "artist": "Red Hot Chili Peppers",
-    "id": "Californication.Red_Hot_Chili_Peppers",
-    "lyrics": "<div>I: Am F</div><div>V: (Am F) C G F Dm</div><div>C: (C G Dm Am)</div><div>S: (F#m D) Bm D A E</div><div><br></div><div>Psychic spies from China try to steal your mind's elation</div><div>Little girls from Sweden dream of silver screen quotations</div><div>And if you want these kind of dreams it's Californication</div><div><br></div><div>It's the edge of the world and all of western civilization</div><div>The sun may rise in the East at least it settled in a final location</div><div>It's understood that Hollywood sells Californication</div><div><br></div><div>&nbsp; Pay your surgeon very well to break the spell of aging</div><div>&nbsp; Celebrity skin, is this your chin or is that war you're waging?</div><div>&nbsp; First born unicorn... Hardcore soft porn</div><div><br></div><div>&nbsp; &nbsp; Dream of Californication x 2</div><div><br></div><div>Marry me girl, be my fairy to the world be my very own constellation</div><div>A teenage bride with a baby inside getting high on information</div><div>And buy me a star on the boulevard it's Californication</div><div><br></div><div>Space may be the final frontier but it's made in a Hollywood basement</div><div>And Cobain can you hear the spheres singing songs off station to station?</div><div>And Alderaan's not far away it's Californication</div><div><br></div><div>&nbsp; Ooo..</div><div>&nbsp;</div><div>Born and raised by those who praise control of population</div><div>Everybody's been there and I don't mean on vacation</div><div>First born unicorn hardcore soft porn</div><div><br></div><div>&nbsp; Dream of Californication x 4</div><div><br></div><div>&nbsp; Solo&nbsp;</div><div><br></div><div>Destruction leads to a very rough road but it also breeds creation</div><div>And earthquakes are to a girl's guitar they're just another good vibration</div><div>And tidal waves couldn't save the world from Californication</div><div><br></div><div>&nbsp; Oo..</div><div><br></div><div>&nbsp; Pay your surgeon very well to break the spell of aging</div><div>&nbsp; Sicker than the rest, there is no test but this is what you're craving</div><div>&nbsp; First born unicorn hardcore soft porn</div><div><br></div><div>&nbsp; Dream of Californication x 4</div>",
-    "key": "undefined",
-    "tempo": "Tempo"
-  },
   "Drive.Incubus": {
     "name": "Drive",
     "artist": "Incubus",
     "id": "Drive.Incubus",
     "lyrics": "<div>V: Em7 CM7 Am7</div><div>P: CM7 A2&nbsp;</div><div><br></div><div>Sometimes, I feel the fear of uncertainty stinging clear&nbsp;&nbsp;</div><div>And I can't help but ask myself how much i'll let the fear take the wheel and steer</div><div><br></div><div>&nbsp; Driven me before, and it seems to have a vague, haunting mass appeal</div><div>&nbsp; But lately I am beginning to find that I should be the one behind the wheel</div><div><br></div><div>&nbsp; Whatever tomorrow brings I'll be there with open arms and open eyes</div><div>&nbsp; Whatever tomorrow brings I'll be there I'll be there</div><div><br></div><div>So if I decide to waiver my chance to be one of the hive</div><div>Will I choose water over wine and hold my own and drive, oh oh</div><div><br></div><div>&nbsp; It's driven me before, it seems to be the way that everyone else get around</div><div>&nbsp; Lately, I'm beginning to find that when I drive myself, my light is found</div><div><br></div><div>&nbsp; Whatever tomorrow brings I'll be there with open arms and open eyes</div><div>&nbsp; Whatever tomorrow brings I'll be there I'll be there</div><div><br></div><div>&nbsp; &nbsp; Solo</div><div><br></div><div>&nbsp; Would you choose water over wine, hold the wheel and drive?</div><div><br></div><div>Whatever tomorrow brings I'll be there with open arms and open eyes</div><div>Whatever tomorrow brings I'll be there I'll be there</div>",
     "key": "Em",
-    "tempo": "Tempo"
-  },
-  "American_Idiot.Green_Day": {
-    "name": "American Idiot",
-    "artist": "Green Day",
-    "id": "American_Idiot.Green_Day",
-    "lyrics": "<div>I: A D G D A [G | Bb]</div><div>C: D A E A</div><div>&nbsp;</div><div>Don't wanna be an American idiot.</div><div>Don't want a nation under the new media.</div><div>And can you hear the sound of hysteria?</div><div>The subliminal mindfuck America.</div><div>&nbsp;</div><div>&nbsp; Welcome to a new kind of tension.</div><div>&nbsp; All across the alien nation.</div><div>&nbsp; Everything isn't meant to be okay.</div><div>&nbsp; Television dreams of tomorrow.</div><div>&nbsp; We're not the ones who're meant to follow.</div><div>&nbsp; For that's enough to argue.</div><div><br></div><div>Well maybe I'm the faggot America.</div><div>I'm not a part of a redneck agenda.</div><div>Now everybody do the propaganda.</div><div>And sing along in the age of paranoia.</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>[Instrumental]</div><div><br></div><div>[Bridge]</div><div>D&nbsp; &nbsp; &nbsp;A&nbsp; &nbsp; &nbsp;E&nbsp; &nbsp; &nbsp;A</div><div>D&nbsp; &nbsp; &nbsp;A&nbsp; &nbsp; &nbsp;E&nbsp; &nbsp; &nbsp;A</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A</div><div><br></div><div>Don't wanna be an American idiot.</div><div>One nation controlled by the media.</div><div>Information nation of hysteria.</div><div>It's calling out to idiot America.</div><div><br></div><div>&nbsp; Chorus</div><div><br></div><div>[Outro]</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A G</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A Bb</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A G</div><div>A&nbsp; D&nbsp; G&nbsp; D&nbsp; A N.C.</div>",
-    "key": "A",
     "tempo": "Tempo"
   },
   "DreamsCB.Cranberries": {
@@ -3795,14 +3540,6 @@
     "key": "A",
     "tempo": "Tempo"
   },
-  "Come_Out_And_Play_(Keep__Em_Separated).Offspring": {
-    "name": "Come Out And Play (Keep 'Em Separated)",
-    "artist": "Offspring",
-    "id": "Come_Out_And_Play_(Keep__Em_Separated).Offspring",
-    "lyrics": "You gotta keep 'em separated\n\nLike the latest fashion, like a spreading disease\nThe kids are strappin' on their way to the classroom\nGetting weapons with the greatest of ease\nThe gangs stake out their own campus locale\nAnd if they catch you slippin' then it's all over pal\nIf one guy's colors and the other's don't mix\nThey're gonna bash it up, bash it up, bash it up, bash it up\n\n  Hey, man, you talkin' back to me? Take him out (you gotta keep 'em separated)\n  Hey, man, you disrespecting me? Take him out (you gotta keep 'em separated)\n  Hey, they don't pay no mind if you're under 18 you won't be doing any time\n  Hey, come out and play\n\nBy the time you hear the siren, it's already too late\nOne goes to the morgue and the other to jail\nOne guy's wasted and the other's a waste\nIt goes down the same as the thousand before\nNo one's getting smarter, no one's learning the score\nYour never-ending spree of death and violence and hate\nIs gonna tie your own rope, tie your own rope, tie your own...\n\n  Chorus\n\nIt goes down the same as the thousand before\nNo one's getting smarter, no one's learning the score\nYour never-ending spree of death and violence and hate\nIs gonna tie your own rope, tie your own rope, tie your own...\n\n  Chorus",
-    "key": "B",
-    "tempo": "158bpm"
-  },
   "A_Face_In_The_Crowd.Tom_Petty": {
     "name": "A Face In The Crowd",
     "artist": "Tom Petty",
@@ -3866,13 +3603,6 @@
     "lyrics": "I: F#m A E  F# D E   C:(F#m D) (A E F#m)  138bpm\nS:(F# E D B A [F# / E])\n\nCrazy, but that's how it goes, millions of people living as foes\nMaybe, it's not too late, to learn how to love, and forget how to hate\n  Mental wounds not healing life's a bitter shame\n  I'm goin off the rails on a crazy train\n\nI've listened to preachers, I've listened to fools I've watched all the dropouts who make their own rules\nOne person conditioned to rule and control, the media sells it and you live the role\n  Mental wounds still screaming driving me insane...\n\n    I know that things are going wrong for me\n    You gotta listen to my words, yeah\n\n  Solo\n\nHeirs of a cold war that's what we've become, inheriting troubles I'm mentally numb\nCrazy, I just cannot bear I'm living with something that just isn't fair\n  Mental wounds not healing, who and what's to blame...",
     "key": "F#m"
   },
-  "I_Kissed_A_Girl.Katy_Perry": {
-    "name": "I Kissed A Girl",
-    "artist": "Katy Perry",
-    "id": "I_Kissed_A_Girl.Katy_Perry",
-    "lyrics": "V: Am B C Dm F E   130bpm\nB:(F Em Am G) Dm\n\n[Drums 2 Measures]\n\nThis was never the way I planned, not my intention\nI got so brave, drink in hand, lost my discretion\nIt's not what I'm used to, just wanna try you on\nI'm curious for you, caught my attention\n\n  I kissed a girl and I liked it the taste of her cherry chapstick\n  I kissed a girl just to try it I hope my boyfriend don't mind it\n  It felt so wrong it felt so right don't mean I'm in love tonight\n  I kissed a girl and I liked it, I liked it\n\n[2 Measures]\n\nNo, I don't even know your name, it doesn't matter\nYou're my experimental game, just human nature\nIt's not what good girls do, not how they should behave\nMy head gets so confused, hard to obey\n\n  Chorus\n\n    Us girls we are so magical.\n    Soft skin, red lips, so kissable\n    Hard to resist, so touchable too good to deny it\n    Ain't no big deal it's innocent\n\n  Chorus",
-    "key": "Am"
-  },
   "White_Rabbit.Jefferson_Airplane": {
     "name": "White Rabbit",
     "artist": "Jefferson Airplane",
@@ -3929,13 +3659,6 @@
     "lyrics": "I: A E D\nV:(A E G A) (D E)\nC:(D A E) G D E\nS: F# E B\n\nJohnny was a schoolboy, when he heard his first Beatles song.\nLove Me Do, I think it was, and from there it didn't take him long.\nGot himself a guitar, used to play every night\nNow he's in a rock 'n' roll outfit, and everything's alright.\nDon't you know?\n\nJohnny told his Mama, \"Hey, Mama, I'm goin' away.\nI'm gonna hit the big time, gonna be a big star someday\".\nMama came to the door, with a teardrop in her eye.\nJohnny said, \"don't cry, Mama, smile and wave goodbye\".\nDon't you know? Yeah..\n\n  Don't you know that you are a shooting star?\n  Don't you know? Don't you know?\n  Don't you know that you are a shooting star?\n  And all the world will love you just as long, as long as you are.\n\nJohnny made a record, went straight up to number one.\nSuddenly everyone loved, to hear him sing his song\nWatchin' the world go by, surprisin' it goes so fast\nJohnny looked around him and said, \"well, I made the big-time at last\".\nDon't you know?\n\n  Chorus / Solo / Chorus\n\nJohnny died one night, died in his bed.\nBottle of whisky, sleeping tablets by his head.\nJohnny's life passed him by, like a warm summer day.\nIf you listen to the wind, you can still hear him play.\n\nNa na na na...",
     "key": "D"
   },
-  "Celebrity_Skin.Hole": {
-    "name": "Celebrity Skin",
-    "artist": "Hole",
-    "id": "Celebrity_Skin.Hole",
-    "lyrics": "V:(A C#5 F#5)     134bpm\nC:(D A) F#5 B D\nB:(A D) F#m\n\nOh, make me over I'm all I wanna be\nA walking study in demonology\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, so glad you could make it now\n\nOh, look at my face, my name is \"Might-Have-Been\"\nMy name is \"Never Was\", my name's forgotten\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup it's too early for that dress\n    Wilted and faded somewhere in Hollywood I'm glad I came here with your pound of flesh\n    No second billing 'cause you're a star now oh Cinderella, they aren't sluts like you\n    Beautiful garbage, beautiful dresses, can you stand up or will you just fall down?\n\nYou better watch out oh, what you wish for\nIt better be worth it so much to die for\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup have you ever felt so used up as this?\n    It's all so sugarless, hooker, waitress, model, actress, oh, just go nameless\n    Honeysuckle, she's full of poison she obliterated everything she kissed\n    Now she's fading somewhere in Hollywood I'm glad I came here with your pound of flesh\n\nYou want a part of me?\nWell, I'm not selling cheap\nNo, I'm not selling cheap\n",
-    "key": "A"
-  },
   "Breakfast_at_Tiffanys.Deep_Blue_Something": {
     "name": "Breakfast at Tiffanys",
     "artist": "Deep Blue Something",
@@ -3991,13 +3714,6 @@
     "id": "Hit_Me_With_Your_Best_Shot.Pat_Benatar",
     "lyrics": "C: E A C#m B - E A C#m B A B - 128bpm\nV: E B/D# C#m A B\n\nWell you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nThat's OK, lets see how you do it\nPut up your dukes, lets get down to it\n\n  Hit me with your best shot why don't you hit me\n  With your best shot hit me with your best shot, fire away\n\n#You come on with a \"come on\" you don't fight fair\nBut that's OK, see if I care\n#Knock me down, it's all in vain\nI'll get right back on my feet again\n\n  Chorus\n\n    Solo\n\nWell, you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nBefore I put another notch in my lipstick case\nYou better make sure you put me in my place\n\n  Chorus",
     "key": "E"
-  },
-  "Fastest_Girl_In_Town.Miranda_Lambert": {
-    "name": "Fastest Girl In Town",
-    "artist": "Miranda Lambert",
-    "id": "Fastest_Girl_In_Town.Miranda_Lambert",
-    "lyrics": "V: (F# E B)   145bpm\nC: A E F# - A E B - (F# E B)\n\nYou've got the bullets I've got the gun\nI've got a hankering for getting into something\nI hit the bottle, you hit the gas\nI heard your 65 can really haul some ass (+ 2/4)\n\n#I'm feeling frisky, you're feeling good\nI guess the whiskey is doing what it should\n#I got the cigarettes you've got a lighter\nAnd when the sun goes down we'll start a little fire\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby? I like 'em crazy\n\n#My reputation follows me around\nJust makes me wanna give them more to talk about\n#Let's go to town for a little while\nI'll be wearing nothing but a tattoo and a smile\n\n  Chorus\n\n    Solo\n\nI see the blue lights, we better run\nThrow out the bottle and I'll hide the gun\nIf he pulls us over, I'll turn on the charm\nYou'll be in the slammer and I'll be on his arm\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town (XTRA measure)\n  Ain't you baby?\n  Well, I told you I was crazy\n  No, I ain't nobody's baby... Hey!\n\nHe's got the bullets, he's got a gun\nI got the hankering for getting into something",
-    "key": "F#"
   },
   "Lonely_Is_The_Night.Billy_Squier": {
     "name": "Lonely Is The Night",
@@ -4230,27 +3946,6 @@
     "lyrics": "Hey, do it now\n\nHey, once I was a boogie singer playin' in a rock n roll band\nI never had no problems burnin down the one-night stands\nAnd everything around me got to stop to feelin so low\nAnd I decided quickly yes, I did, to disco down and check out the show\n\n  Yeah they were dancin and singin and movin to the groovin\n  And just when it hit me somebody turned around and shouted\n\n   Play that funky music, white boy / right\n   Lay down that boogie and play that funky music 'til you die\n\nI tried to understand this I thought that they were outta their minds\nHow could I be so foolish to not see I was the one behind\nSo still I kept on fighting losing every step by the way\nI said, I must go back there, I got to go back and check to see if things still the same\n\n  Chorus / Solo\n\nNow first it wasn't easy changing rock 'n' roll at minds\nAnd things were gettin' shaky I thought I'd have to leave it behind\nOh, but now it's so much better I'm funking out in every way\nBut I'll never lose that feeling Of how I learned my lesson that day\n\n  Chorus",
     "key": "E"
   },
-  "Don_t_Do_It.The_Band": {
-    "name": "Don't Do It",
-    "artist": "The Band",
-    "id": "Don_t_Do_It.The_Band",
-    "lyrics": "  Baby don't you do it, don't do it\n  Don't you break my heart\n  Please don't do it, don't you break my heart\n\nA sacrifice would make you happy if nothing for myself\nNow you wanna leave me for the love of someone else\nMy pride is all gone whether I'm right or wrong\nI need you baby to keep on keepin' on\n\n  You know I'm trying to do my best\n  Oh, I'm trying to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart\n\nMy biggest mistake was loving you too much and letting you know\nNow you got me where you want me and you won't let me go\nIf my heart was made of glass, well, then you'd surely see\nHow much heartache and misery, girl, you've been causing me\n\n  Well, I've been trying to do my best\n  Well, I've tried to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart\n\nI go down to the river and there I be\nI'm gonna jump in girl, but you don't care 'bout me\nOpen up your eyes\nCan't ya see I love ya?\nOpen up you heart, girl\nCan't ya see I need ya?\n\n  Oh, baby don't do it, do it, do it\n  Don't you break my heart\n  Please don't do it, don't you break my heart (oh, no)\n\nMy biggest mistake was loving you too much and letting you know\nNow you got me where you want me and you won't let me go\nIf my heart was made of glass, well then you'd surely see\nHow much heartache and misery, girl, you've been causing me\n\n  Well, I've been trying to do my best\n  You know I've tried to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart (no)\n",
-    "key": "C"
-  },
-  "Carry_That_Weight.The_Beatles": {
-    "name": "Carry That Weight",
-    "artist": "The Beatles",
-    "id": "Carry_That_Weight.The_Beatles",
-    "lyrics": "Am7 D7sus4 Dm7 G7 Csus4 C Fmaj7 Bm7b5 E7 Am7 | G C G\nC G\nG C G/B | A | C G/B | A\nA G  F Dm G C | D/C | Eb/C F/C | C\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\nBoy, you're gonna carry that weight\nCarry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
-    "key": "Am"
-  },
-  "Broken_Wings.Mr_Mister": {
-    "name": "Broken Wings",
-    "artist": "Mr Mister",
-    "id": "Broken_Wings.Mr_Mister",
-    "lyrics": "V: Em D A\nC: Am G F\n\nBaby, don't understand\nwhy we can't just hold on... to each other's hands\nThis time might be the last.. I fear\nunless I... make it all too clear I need you so ooh\n \n  Take, these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear, the voices sing\n  The book of love will open up and let us in.\n  Take, these broken wings\n \nBaby, I think tonight..\nWe can take what was wrong.. and make it right.\nBaby, it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Chorus\n\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
-    "key": "Em"
-  },
   "The_Lumberjack.Hal_Willis": {
     "name": "The Lumberjack",
     "artist": "Hal Willis",
@@ -4363,34 +4058,6 @@
     "lyrics": "I'm not content to be with you in the daytime\nGirl, I want to be with you all of the time\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night x 3\n\nI believe that you and me last forever\nOh yeah, all day and night I'm yours, leave me never\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night x 2\n  Oh, come on\n\nI believe that you and me last forever\nOh yeah, all day and night I'm yours, leave me never\nThe only time I feel alright is by your side\n\n  Girl, I want to be with you all of the time\n  All day and all of the night\n  All day and all of the night time\n  All day and all of the night\n",
     "key": "G"
   },
-  "All_I_Need.Goose": {
-    "name": "All I Need",
-    "artist": "Goose",
-    "id": "All_I_Need.Goose",
-    "lyrics": "I: Am-C x2 C-Am x2 Am/D C\nV: Am-C x8\nC: C D A-C-G x2 C D A-C-G x2\nS: A G repeat\n\nSo my time will come when I have the right mind\nRid my mind of this hesitation can’t think why\nAll I need is coming, though it’s not here quite yet\nHere I have seen the same thing\nPretend not to mind it\n\n  I’d like to be closer to me\n  Or who I think I want to be\n  Things change but you don't realize\n  You have all you need\n\n  Solo 1\n\nDare not talk the truth I have locked up inside\nWhere is that key to the chain holding back my mind\nAll I need is coming, though it’s not here quite yet\nHere I have seen the same thing\nPretend not to mind it\n\n  Chorus\n\n  Solo 2\n\n  Chorus\n\n  Awh awh\n  Ooh ooh ooh\n  Awh awh\n",
-    "key": "G"
-  },
-  "All_Jacked_Up.Gretchen_Wilson": {
-    "name": "All Jacked Up",
-    "artist": "Gretchen Wilson",
-    "id": "All_Jacked_Up.Gretchen_Wilson",
-    "lyrics": "189bpm\n\nG|-7-5-3-5-3---3-------\nD|-----------5---5-3-5-\n\nYeah.... well (4 click)\n\nFive of the PM rolls around there's a little old joint outside of town\nI only got time for a couple of beers and a jukebox song ringing in my ears\nNext you know the bartender's pouring shots are flowing got me stoning\nAll I really know is that I should be going !! but I'm soaking !! up the moment\n\n  I'm all jacked up, all jacked up\n  Don't believe I've ever had this much\n  One thing I've learned when you get tore up\n  [Time sure flies | Don't start no stuff | Don't drive your truck] \n    when you're all jacked up\n\nIt was getting mighty close to nine o'clock what the hell I have one more shot\nThen I winked at a boy at the end of the bar guess I mighta musta gone a little too far\nCause a big ol girl walked outta the blue ten foot two with a bad attitude\nStepped right up and knocked out my tooth !! guess I had it coming I deserved the due\n\n  Chorus\n\n    Solo\n\nDon't have to go home but you can't stay here that's what they said when I got my last beer\nOh my God it's 2:00 I can't find my keys and my truck's locked\nSo I grabbed a tire tool and I broke my window hurt my elbow got me in though\nTwo foot later backed into the light pole !! all the town folk !! got a good show\n\n  Chorus\n\n  Jacked up whooh, ooh, ooh\n\n  One thing I've learned when you get tore up\n  Don't start no stuff when you're all jacked up\n  One thing I've learned when you get tore up... !! \n!  FREE TIME\n  Don't drive your car...\n  Don't start no stuff in no bar...\n  Hell I wouldn't even tell anybody where you are...\n  When you're all... (2M clicks)... jacked up\n\nAll jacked up..\n\nYeah..\n\nB|-6-3---3--------------\nG|-----5--5-3-5-3---4---\nD|----------------5-----\n",
-    "key": "G"
-  },
-  "All_Mixed_Up.311": {
-    "name": "All Mixed Up",
-    "artist": "311",
-    "id": "All_Mixed_Up.311",
-    "lyrics": "(CM7 C#m7 A) (A - G)\n\nYou've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\n\nWe come with the funky style that gets us known for the show\nAnd we'll mix the hip-hop reggae if we say it is so\nAnd fuck the naysayers cause they don't mean a thing\nCause this is what style we bring\n\nNow it's morning but last night's on my mind\nThere's something I need to get off my chest\nAnd no matter what may come to shine\nThe dream will always be mine\n\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But the first could be the last, so just get off of your ass\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But you know this will pass, so just get off of your ass\n\nYou've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\n\nSick sick bit got to have it\nLike bustin' in on a session but you got to call it quits\nSick sick bit just can't quit\nFact that you don't even know makes it fully legit\n\nNow it's morning but last night's on my mind...\n\nYou keep me coming, that is a gal that'll kill dem stunning x 4\n\nYou make me nervous, throat dry, my brain is empty, don't know why\nBut I saw you doing something which is really truly nothing\nBut you could bust me out all day\n\n  Many moons since first I saw you, many moons since first we did the do\n  Many moons since first I saw you, many moons since first we did the do\n  And why did I try when I knew it was no and\n  Why did I try when I say it was so\n  But save it for late we should just let it skate\n  Cause the waiting feel is fine",
-    "key": "C"
-  },
-  "Dreaming.Blondie": {
-    "name": "Dreaming",
-    "artist": "Blondie",
-    "id": "Dreaming.Blondie",
-    "lyrics": "I: D G\nV: (D G) D A Em G A\nC: (D G)\nB: (G D A)\n\nWhen I met you in the restaurant,\nyou could tell I was no debutante.\nYou asked me what's my pleasure, \"A movie or a measure?\"\nI'll have a cup of tea and tell you of my...\n\n  Dreaming, dreaming is free.\n\nI don't want to live on charity.\nPleasure's real or is it fantasy?\nReel to reel is living rarity, people stop and stare at me,\nWe just walk on by, we just keep on dreaming.\n\n    Beat feet, walking a two-mile,\n    Meet me, meet me at the turnstile.\n    I never met him, I'll never forget him.\n    Dream, dream, even for a little while,\n    Dream, dream, filling up an idle hour,\n    Fade away, woo, radiate.\n\nI sit by and watch the river flow.\nI sit by and watch the traffic go.\nImagine something of your very own; something you can have and hold,\nI'd build a road in gold just to have some...\n\n  Dreaming, dreaming is free.",
-    "key": "D"
-  },
   "The_Tide_is_High.Blondie": {
     "name": "The Tide is High",
     "artist": "Blondie",
@@ -4475,13 +4142,6 @@
     "lyrics": "I want my\nI want my, I want my MTV\nI want my, I want my MTV\nI want my, I want my MTV\n\nNow look at them yo-yos, that's the way you do it\nYou play the guitar on the MTV\nThat ain't workin', that's the way you do it\nMoney for nothin' and your chicks for free\n\nNow that ain't workin', that's the way you do it\nLemme tell ya, them guys ain't dumb\nMaybe get a blister on your little finger\nBaby, get a blister on your thumb\n\n    We gotta install microwave ovens\n    Custom kitchen deliveries\n    We've got to move these refrigerators\n    We've got to move these colour TVs\n\nSee the little faggot with the earring and the makeup\nYeah buddy, that's his own real hair\nThe little faggot got his own jet airplane\nThe little faggot, he's a millionaire\n\n    Chorus x2\n\nI shoulda learned to play the guitar\nI shoulda learned to play them drums\nLook at that mama, she come in stickin' in the camera\nMan, we could have some fun\n\nAnd he's up there, what's that? Hawaiian noises?\nHe's bangin' on the bongos like a chimpanzee\nThat ain't workin', that's the way you do it\nGet your money for nothin', get your chicks for free\n\n    Chorus\n\nListen here\nNow, that ain't workin', that's the way you do it\nYou play the guitar on the MTV\nThat ain't workin', that's the way you do it\nMoney for nothin' and your chicks for free\n\nMoney for nothin'\nChicks for free\nGet your money for nothin'\nAnd your chicks for free\nOozin' money for nothin'\nAnd your chicks for free\nGet your money for nothin'\nChicks for free\n\nMoney for nothin' (all that money for nothing)\nChicks for free\nGet your money for nothin'\nGet your chicks for free\n\nGet your money for nothin'\nAnd your chicks for free\nGet your money for nothin' (what's that?)\nAnd your chicks for free (look at that, look at that)\n\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\nMoney for nothin' (I want my, I want my)\nChicks for free (I want my MTV)\n\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\nGet your money for nothin' (I want my, I want my)\nAnd your chicks for free (I want my MTV)\n\nEasy, easy money (for nothing)\nEasy, easy chicks (for free)\nEasy, easy money (for nothing)\nChicks for free (I want my MTV)\nThat ain't workin'\n\nMoney for nothing\nChicks for free\nMoney for nothing\nChicks for free\n",
     "key": "D"
   },
-  "All_Over_You.LIVE": {
-    "name": "All Over You",
-    "artist": "LIVE",
-    "id": "All_Over_You.LIVE",
-    "lyrics": "Our love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone, for me all day\nOur love is like water\nPinned down and abused\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down\n\nOur love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone, for me all day\nOur love is like angels\nPinned down and abused\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay me down\n\n   All over you, all over me\n   All over you, all over me\n\n   Pay me now\n   Lay me down, down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay\n\n  Bridge\n\nOur love is like water\nPinned down and abused for being strange\nOur love is no other\nThan me alone\n\n   All over you, all over me\n   The sun, the fields, the sky\n   I've often tried to hold the sea\n   The sun, the fields, the tide\n   Pay me now\n   Lay me down, down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay\n\nHey heyeee yeah\nYeah yeah yeah yeah yeah yeah\nHey heyeee yeah\nOhhhhhhhhhhhhhh\n",
-    "key": "C#"
-  },
   "Just_What_I_Needed.The_Cars": {
     "name": "Just What I Needed",
     "artist": "The Cars",
@@ -4537,13 +4197,6 @@
     "id": "Hit_Me_With_Your_Best_Shot_(w/_solo_notes).Pat_Benatar",
     "lyrics": "C: E A C#m B - E A C#m B A B - 128bpm\nV: E B/D# C#m A B\n\nWell you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nThat's OK, lets see how you do it\nPut up your dukes, lets get down to it\n\n  Hit me with your best shot why don't you hit me\n  With your best shot hit me with your best shot, fire away\n\n#You come on with a \"come on\" you don't fight fair\nBut that's OK, see if I care\n#Knock me down, it's all in vain\nI'll get right back on my feet again\n\n  Chorus\n\n    Solo\n\nWell, you're the real tough cookie with the long history\nOf breaking little hearts like the one in me\nBefore I put another notch in my lipstick case\nYou better make sure you put me in my place\n\n  Chorus\n\n============\n\nSolo notes:\n\nE|-----11-14-11-12----11----------|\nB|---12------------14----12-14-12-|\nG|-13-----------------------------|\nD|--------------------------------|\nA|--------------------------------|\nE|--------------------------------|\n\nE|--------------------0-|\nB|-12~----------------0-|\nG|----9-9-9\\8-8-8-8\\6---|\nD|----------------------|\nA|----------------------|\nE|----------------------|\n\nTrills!\n\nE|--------------------------------|\nB|-0h20-0h4p0-0h5p0-0h7p0-7-12/0--|\nG|--------------------------------|\nD|--------------------------------|\nA|--------------------------------|\nE|--------------------------------|\n\nE|---------------7-------------------7-0-----|\nB|-5-7-5-7-5-7-5---5-7-5-7-5-7-5-7-5-----7-0-|\nG|-------------------------------------------|\nD|-------------------------------------------|\nA|-------------------------------------------|\nE|-------------------------------------------|\n\nE|-------------------------------|\nB|-12-11-10-9-9-9~---------------|\nG|---------------------6B(8)R-4*-|\nD|-------------------------------|\nA|-------------------------------|\nE|-----------------7-6-----------|\n\nE|-14----14----14---14---14----14-----------|\nB|------------------------------------------|\nG|----16-----16---16---16---16----16~16-----|\nD|--------------------------------------16/-|\nA|------------------------------------------|\nE|------------------------------------------|\n\nE|--------------------------------|\nB|--------------------------------|\nG|----9~-----9~----9-9-9----------|\nD|-/7----/7-----9/-9-9-9----------|\nA|-----------------------7-7------|\nE|---------------------------7/-0-|\n\nE|--------------------------------------------|\nB|---------15B(17)rB---------000022224444555~-|\nG|-4B(6)rB-----------2B(4)rB------------------|\nD|--------------------------------------------|\nA|--------------------------------------------|\nE|--------------------------------------------|\n",
     "key": "E"
-  },
-  "Hot_Love_&_The_Lazy_Poet.Goose": {
-    "name": "Hot Love & The Lazy Poet",
-    "artist": "Goose",
-    "id": "Hot_Love_&_The_Lazy_Poet.Goose",
-    "lyrics": "I: Bb Bb Eb Bb F\nV: Gm Cm Eb Bb Cm Eb Bb\nV: Bb Gm C Eb Ab Eb Bb Gb F\nB: Gbm Gm Ab A Bb\nC: (Bb Eb Bb Eb F F G Bb G Bb F Eb)\nS: F C F Bb Eb Bb\nS: 2-octave climb: F F# G Ab A Bb B, then B up to Bb\nO: Ab Eb Bb\n\nThis is the story of a poet I know\nHe takes it easy and he talks real slow\nThey call him lazy but when push comes to shove\nLazy goes crazy for a real hard luck\nDirty jeans and a whiskey robe he whispers\nQuote the raven nevermore\nThe poet sat back with his whiskey pouring\n\n  [Bridge]\n  and he says\n  he says\n\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n\n  Solo\n\nI love sweet nectar above she's either\nQueen of the mean or she's as sweet as a dove\nBe careful to choose the words you say\nYou'll be getting hotter every single way\nLazy knew what he had to do\nBut all the other poets were covered in tape\nThe poet sat back with his whiskey pouring\n\n  Bridge\n\n  Chorus\n\n  Solo 2\n\n  2-octave climb\n\n  Chorus\n\n  Outro\n",
-    "key": "Bb"
   },
   "Your_Love_Is_Driving_Me_Crazy.Sammy_Hagar": {
     "name": "Your Love Is Driving Me Crazy",
@@ -4656,13 +4309,6 @@
     "id": "Next_Year.Foo_Fighters",
     "lyrics": "I'm in the sky tonight\nThere I can keep by your side\nWatching the wide world riot and hiding out\nI'll be coming home next year\n\n    [Instrumental break]\n\nInto the Sun we climb\nClimbing our wings will burn white\nEveryone strapped in tight, we'll ride it out\nI'll be coming home next year\n\n    Come on, get on, get on\n    Take it 'til life runs out\n    No one can find us now\n    Living with our heads underground\n\nInto the night we shine\nLighting the way, we glide by\nCatch me if I get too high when I come down\nI'll be coming home next year\n\nI'm in the sky tonight\nThere I can keep by your side\nWatching the whole world wind around and 'round\nI'll be coming home next year\n\n    Chorus\n\nI'll be coming home next year\nI'll be coming home next year\nEverything's alright up here if I come down\nI'll be coming home next year\n\nSay goodbye\nSay goodbye\nSay goodbye\nSay goodbye\n\nI'll be coming home next year\nI'll be coming home next year\nEverything's alright up here if I come down\nI'll be coming home next year\nI'll be coming home next year\nI'll be coming home next year\n\n   [Pause]\n\nI'll be coming home next year x9\n",
     "key": "G"
-  },
-  "Boys_of_Summer.Don_Henley": {
-    "name": "Boys of Summer",
-    "artist": "Don Henley",
-    "id": "Boys_of_Summer.Don_Henley",
-    "lyrics": "Nobody on the road, nobody on the beach\nI feel it in the air, the summer's out of reach\nEmpty lake, empty streets, the sun goes down alone\nI'm driving by your house, though I know you're not home\n\n  But I can see you, your brown skin shining in the sun\n  You got your hair combed back and your sunglasses on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\nI never will forget those nights, I wonder if it was a dream\nRemember how you made me crazy? Remember how I made you scream?\nNow I don't understand what happened to our love\nBut babe, I'm gonna get you back, I'm gonna show you what I'm made of\n\n  I can see you, your brown skin shining in the sun\n  I see you walking real slow and smiling at everyone\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\nOut on the road today, I saw a Deadhead sticker on a Cadillac\nA little voice inside my head said, “Don't look back, you can never look back”\nI thought I knew what love was, what did I know?\nThose days are gone forever, I should just let them go but\n\n  I can see you, your brown skin shining in the sun\n  You got the top pulled down and the radio on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\n  I can see you, your brown skin shining in the sun\n  You got your hair slicked back and those Wayfarers on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone",
-    "key": "Em"
   },
   "Shot_in_the_Dark.Ozzy_Osbourne": {
     "name": "Shot in the Dark",
@@ -4804,20 +4450,6 @@
     "lyrics": "And when I wake up in the morning\nTo feel the daybreak on my face\nThere's a blood that's flowin through the [feeling | ceiling]\nWith a knife to open up the sky's veins\n\n  Some things will never change\n  They stand there looking backwards half unconscious from the pain\n  They may seem rearranged\n  In the backwater swirling there is something that will never change\n\nAnd when I shoulda been gone a long time\nLaughs and says, I find ways\nJust when we're sheltered under paper\nThe rockets come at us sideways\n\n  Chorus\n\n    Hey I'm blind good fine\n    Roll the time on whose dime\n\n  Solo\n\nV1\n\n  Chorus x 2\n\n  Solo",
     "key": "E"
   },
-  "Call_Me.Blondie": {
-    "name": "Call Me",
-    "artist": "Blondie",
-    "id": "Call_Me.Blondie",
-    "lyrics": "I: Dm [G F][F C]    144bpm\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n",
-    "key": "Dm"
-  },
-  "DOA.Foo_Fighters": {
-    "name": "DOA",
-    "artist": "Foo Fighters",
-    "id": "DOA.Foo_Fighters",
-    "lyrics": "Oh, you know I did it\nIt's over and I feel fine\nNothing you can say is gonna change my mind\nWaited, and I waited the longest night\nNothing like the taste of sweet decline\n\nI went down, I fell, I fell so fast\nDropping like the grains in an hourglass\nNever say forever, 'cause nothing lasts\nDancing with the bones of my buried past\n\n  Nevermind, there's nothing I can do\n  Bet your life there's something killing you\n\nIt's a shame, we have to die, my dear\nNo one's getting out of here alive\nThis time\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nI'm finished, I'm getting you off my chest\nMade you come clean in a dirty dress\nA promise is a promise, you're kept in check\nHard to cross a heart that beats its best\n\nTake a good hard look for the very last time\nThe very last one in a very long line\nOnly took a second to say goodbye\nBeen a pleasure, but the pleasure's been mine, all mine\n\n  Nevermind, there's nothing I can do (nevermind, there's nothing I can do)\n  Bet your life there's something killing you\n\nIt's a shame, we have to die, my dear\nNo one's getting out of here alive\nThis time\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nAin't no way, D.O.A.\nAin't no way, D.O.A.\n\nTake a good hard look for the very last time\nThe very last one in a very long line\nOnly took a second to say goodbye\nBeen a pleasure, but the pleasure's been mine, all mine\n\n  Nevermind, there's nothing I can do (nevermind, there's nothing I can do)\n  Bet your life there's something killing you\n\nIt's a shame we have to die, my dear\nNo one's getting out of here alive\nThis time\n\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nIt's a shame we have to disappear\nNo one's getting out of here alive\nThis time, this time, this time\n",
-    "key": "D"
-  },
   "Bad_Case_Of_Lovin_You.Robert_Palmer": {
     "name": "Bad Case Of Lovin You",
     "artist": "Robert Palmer",
@@ -4831,20 +4463,6 @@
     "id": "Blue_On_Black.Kenny_Wayne_Shepherd",
     "lyrics": "V:D C G\nC:(D C G) A G (D C G)\nS:(D C G) (F G)\n\nNight, falls and I'm alone\nSkin, yeah chilled me to the bone\nYou, turned and you ran oh yeah\nOh slipped, right from my hand\n \n  Hey, blue on black tears on a river push on a shove, it don't mean much\n  Joker on jack, match on a fire cold on ice, a dead man's touch\n  Whisper on a scream, doesn't change a thing don't bring you back...   \n  Blue on black, oh yeah, blue on black...\n \nBlind, oh, now I see\nTruth, lies, and in between\nWrong, can't be undone\nOh, slipped, from the tip of your tongue\n \n  Chorus\n\n    Solo\n \n  Chorus",
     "key": "D"
-  },
-  "Born_To_Be_Wild.Steppenwolf": {
-    "name": "Born To Be Wild",
-    "artist": "Steppenwolf",
-    "id": "Born_To_Be_Wild.Steppenwolf",
-    "lyrics": "Get your motor runnin, head out on the highway\nLookin for adventure, and whatever comes our way\nYeah darlin gonna make it happen take the world in a love embrace\nFire all of your guns at once and explode into space\n\nI like smoke and lightning heavy metal thunder\nRacin with the wind, and the feelin that I'm under\nYeah darlin...\n\n  Like a true nature's child, we were born, born to be wild\n  We can climb so high I never wanna die\n  Born to be wild, born to be wild\n\nSolo / break\n\nV1\n\n  Chorus\n\nSolo Outro",
-    "key": "E"
-  },
-  "Counting_Blue_Cars.Dishwalla": {
-    "name": "Counting Blue Cars",
-    "artist": "Dishwalla",
-    "id": "Counting_Blue_Cars.Dishwalla",
-    "lyrics": "I: (Bm A G) x 2\nV: Bm A G\nC: D E G\n\nMust've been mid afternoon\nI could tell by how far the child's shadow stretched out and\nHe walked with a purpose in his sneakers, down the street\nHe had many questions like children often do, he said\n\n  Tell me all your thoughts on God\n  Tell me am I very far (2m)\n\nMust've been late afternoon\nOn our way the sun broke free of the clouds\nWe count only blue cars skip the cracks in the street and ask\nmany questions like children often do, we said\n\n  Tell me all your thoughts on God, cause I'd really like to meet her\n  And ask her why we're who we are\n  Tell me all your thoughts on God cause I'm on my way to see her\n  So tell me am I very far.. am I very far now?\n\n    Solo\n\nIt's getting cold, picked up the pace\nHow our shoes make hard noises in this place\nOur clothes are stained we pass many crosseyed people and ask\nmany questions like children often do\n\n  Chorus 2\n\n  Am I very far now..\n  tell me all your thoughts on God",
-    "key": "Bm"
   },
   "Cover_Me.Bruce_Springsteen": {
     "name": "Cover Me",
@@ -4902,26 +4520,12 @@
     "lyrics": "There’s colors on the street red, white, and blue\nPeople shuffling their feet people sleeping in their shoes\nThere’s a warning sign on the road ahead\nThere’s a lot of people saying we’d be better off dead\nDon’t feel like Satan, but I am to them\nSo I try to forget it any way I can\n\n  Keep on rockin' in the free world x 4\n\nI see a woman in the night with a baby in her hand\nThere's an old street light near a garbage can\nNow she put the kid away and she’s gone to get a hit\nShe hates her life and what she’s done to it\nThere’s one more kid that’ll never go to school\nNever get to fall in love, never get to be cool\n\n  Keep on rockin' in the free world x 4\n\n  Solo\n\nWe got a thousand points of light for the homeless man\nWe got a kinder, gentler machine gun hand\nWe've got department stores and toilet paper\nGot styrofoam boxes for the ozone layer\nGot a man of the people says keep hope alive\nGot fuel to burn, got roads to drive\n\n  Keep on rockin' in the free world",
     "key": "Em"
   },
-  "Fight_For_Your_Right.Beastie_Boys": {
-    "name": "Fight For Your Right",
-    "artist": "Beastie Boys",
-    "id": "Fight_For_Your_Right.Beastie_Boys",
-    "lyrics": "You wake up late for school, man, you don't wanna go\nYou ask your mom, \"Please?\", but she still says, \"No!\"\nYou missed two classes and no homework\nBut your teacher preaches class like you're some kind of *jerk*\n\n  You gotta fight for your right to party\n\nYour pop's caught you smokin', man, he says, \"No way!\"\nThat hypocrite smokes two packs a day\nMan, livin' at home is such a drag\nNow your mom threw away your best porno mag (Busted)\n\n  You gotta fight for your right to party\n  You gotta fight\n\n    Solo\n\nDon't step out of this house if that's the clothes you're gonna wear\nI'll kick you out of my home if you don't cut that hair\nYour mom busted in and said, \"What's that noise?\"\nAw, Mom, you're just jealous, it's the Beastie Boys\n\n  You gotta fight for your right\n  To party",
-    "key": "E"
-  },
   "Hold_The_Line.Toto": {
     "name": "Hold The Line",
     "artist": "Toto",
     "id": "Hold_The_Line.Toto",
     "lyrics": "Keyboards, then drums, then guitar chorus riff\n\nV: (Bm C#m F#m  C#m Cm Bm) (Bm C#m DM7 E  C#m Cm Bm)\nC: F#m C#m D E \n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\n\n  It's not in the way you look or the things that you say that you'll do\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\n\n  PC + C\n\n   Solo\n\nV2\n\n  PC + C",
     "key": "Bm"
-  },
-  "Cinnamon_Girl.Neil_Young": {
-    "name": "Cinnamon Girl",
-    "artist": "Neil Young",
-    "id": "Cinnamon_Girl.Neil_Young",
-    "lyrics": "I wanna live with a cinnamon girl\nI could be happy the rest of my life with a cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\nTen silver saxes a bass with a bow\nThe drummer relaxes and waits between shows for his cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\n  Pa send me money now I'm gonna make it somehow I need another chance\n  You see your baby loves to dance yeah\n\n   Solo",
-    "key": "D"
   },
   "Lump.The_Presidents_Of_The_United_States": {
     "name": "Lump",
@@ -4978,13 +4582,6 @@
     "id": "China_Grove.Doobie_Brothers",
     "lyrics": "V: (E  D C#5 A E) C#m7 B A   Bb7 B7 C7\nB: (G#m B C#m7 F#m7 C#m7 [F# - A (C D E)]\n\nWhen the sun comes up on a sleepy little town down around San Antone\nAnd the folks are risin for another day roundabout their homes\nThe people of the town are strange and they're proud of where they came\n\n  Well you're talkin bout China Grove\n  Oh-oh-oh China Grove, oh-oh-oh\n\nWell the preacher and the teacher Lord they're a caution they are the talk of the town\nWhen the gossip gets to flyin and they ain't lyin when the sun goes fallin down\nThey say that the father's insane and dear Mrs Perkins a game\n\n  Chorus\n\n    Every day there's a new thing comin the ways of an Oriental view\n    The sheriff and his buddies with their samurai swords\n    You can even hear the music at night\n    And though it's a part of the Lone Star State people don't seem to care\n    They just keep on lookin to the East\n\n  Solo\n\n  Chorus",
     "key": "E"
-  },
-  "Cumbersome.7M3": {
-    "name": "Cumbersome",
-    "artist": "7M3",
-    "id": "Cumbersome.7M3",
-    "lyrics": "She calls me Goliath and I wear the David mask\nI guess the stones are comin' too fast for her now\nYou know I'd like to believe this nervousness will pass\nAll the stones that are thrown are building up a wall\n\n  I have become cumbersome to this world\n  I have become cumbersome to my girl\n\nI'd like to believe we could reconcile the past\nResurrect those bridges with an ancient glance\nBut my old stone face can't seem to break her down\nShe remembers bridges, burns 'em to the ground\n\n  Chorus\n\nToo heavy, too light, too black or too white, too wrong or too right\nToday or tonight, cumbersome\nToo rich or too poor, she's wanting me less and I'm wanting her more\nThe bitter taste is cumbersome\nNo, yeah, no-no, no No-no, no, yeah\n\n    There is a balance between two worlds\n    One with an arrow and a cross\n    Regardless of the balance life has become cumbersome\n\nToo heavy, too light..\n\nNo, yeah, no, no, no\nNo-no, no, yeah\nNo-no, no, no, yeah\nYour life has become cumbersome",
-    "key": "F#"
   },
   "All_these_things_I_ve_done.The_Killers": {
     "name": "All these things I've done",
@@ -5062,5 +4659,341 @@
     "id": "Movin_Out.Billy_Joel",
     "lyrics": "(Dm Gm7 C C/E Fmaj7)\nDm G7 Bb C - Dm G7 C C7/E F\nBb C A Dm Bb Em7 A7\nD G A D\n\nAnthony works in the grocery store\nSaving his pennies for someday\nMama Leone left a note on the door\nShe said, \"Sonny, move out to the country\"\n \n  Working too hard can give you a heart attack-ack\n  You ought to know by now\n  Who needs a house out in Hackensack?\n  Is that all you get for your money?\n \n    It seems such a waste of time, if that's what it's all about\n    Mama, if that's movin' up then I'm movin' out\n\nSergeant O'Leary is walking the beat\nAt night he becomes a bar tender\nHe works at Mister Cacciatore's down on Sullivan Street\nAcross from the Medical Center\n \n  And he's trading in his Chevy for a Cadillac-ac\n  You ought to know by now\n  And if he can't drive with a broken back\n  At least he can polish the fenders\n\n    It seems such a waste of time, if that's what it's all about\n    Yea, if that's movin' up then I'm movin' out\n    I'm movin' out\n\nYou should never argue with a crazy ma-ma-ma-ma-ma-mind\nYou ought to know by now\nYou can pay Uncle Sam with the overtime\nIs that all you get for your money?\n \n  And if that's what you have in mind, yeah, if that's what you're all about\n  Good luck movin' up 'cos I'm movin' out\n",
     "key": "Dm"
+  },
+  "All_I_Need.Goose": {
+    "name": "All I Need",
+    "artist": "Goose",
+    "id": "All_I_Need.Goose",
+    "lyrics": "I: Am-C x2 C-Am x2 Am/D C\nV: Am-C x8\nC: C D A-C-G x2 C D A-C-G x2\nS: A G repeat\n\nSo my time will come when I have the right mind\nRid my mind of this hesitation can’t think why\nAll I need is coming, though it’s not here quite yet\nHere I have seen the same thing\nPretend not to mind it\n\n  I’d like to be closer to me\n  Or who I think I want to be\n  Things change but you don't realize\n  You have all you need\n\n  Solo 1\n\nDare not talk the truth I have locked up inside\nWhere is that key to the chain holding back my mind\nAll I need is coming, though it’s not here quite yet\nHere I have seen the same thing\nPretend not to mind it\n\n  Chorus\n\n  Solo 2\n\n  Chorus\n\n  Awh awh\n  Ooh ooh ooh\n  Awh awh\n",
+    "key": "G"
+  },
+  "All_Jacked_Up.Gretchen_Wilson": {
+    "name": "All Jacked Up",
+    "artist": "Gretchen Wilson",
+    "id": "All_Jacked_Up.Gretchen_Wilson",
+    "lyrics": "189bpm\n\nG|-7-5-3-5-3---3-------\nD|-----------5---5-3-5-\n\nYeah.... well (4 click)\n\nFive of the PM rolls around there's a little old joint outside of town\nI only got time for a couple of beers and a jukebox song ringing in my ears\nNext you know the bartender's pouring shots are flowing got me stoning\nAll I really know is that I should be going !! but I'm soaking !! up the moment\n\n  I'm all jacked up, all jacked up\n  Don't believe I've ever had this much\n  One thing I've learned when you get tore up\n  [Time sure flies | Don't start no stuff | Don't drive your truck] \n    when you're all jacked up\n\nIt was getting mighty close to nine o'clock what the hell I have one more shot\nThen I winked at a boy at the end of the bar guess I mighta musta gone a little too far\nCause a big ol girl walked outta the blue ten foot two with a bad attitude\nStepped right up and knocked out my tooth !! guess I had it coming I deserved the due\n\n  Chorus\n\n    Solo\n\nDon't have to go home but you can't stay here that's what they said when I got my last beer\nOh my God it's 2:00 I can't find my keys and my truck's locked\nSo I grabbed a tire tool and I broke my window hurt my elbow got me in though\nTwo foot later backed into the light pole !! all the town folk !! got a good show\n\n  Chorus\n\n  Jacked up whooh, ooh, ooh\n\n  One thing I've learned when you get tore up\n  Don't start no stuff when you're all jacked up\n  One thing I've learned when you get tore up... !! \n!  FREE TIME\n  Don't drive your car...\n  Don't start no stuff in no bar...\n  Hell I wouldn't even tell anybody where you are...\n  When you're all... (2M clicks)... jacked up\n\nAll jacked up..\n\nYeah..\n\nB|-6-3---3--------------\nG|-----5--5-3-5-3---4---\nD|----------------5-----\n",
+    "key": "G"
+  },
+  "All_Mixed_Up.311": {
+    "name": "All Mixed Up",
+    "artist": "311",
+    "id": "All_Mixed_Up.311",
+    "lyrics": "(CM7 C#m7 A) (A - G)\n\nYou've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\n\nWe come with the funky style that gets us known for the show\nAnd we'll mix the hip-hop reggae if we say it is so\nAnd fuck the naysayers cause they don't mean a thing\nCause this is what style we bring\n\nNow it's morning but last night's on my mind\nThere's something I need to get off my chest\nAnd no matter what may come to shine\nThe dream will always be mine\n\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But the first could be the last, so just get off of your ass\n  All mixed up, you don't know what to do\n  Next thing you turn around and find the person is you\n  Thought a freak might be the thing\n  But you know this will pass, so just get off of your ass\n\nYou've got to trust your instinct, and let go of regret\nYou've got to bet on yourself now star cause that's your best bet\nWatch me now with a wicked and wild and I said\n\nSick sick bit got to have it\nLike bustin' in on a session but you got to call it quits\nSick sick bit just can't quit\nFact that you don't even know makes it fully legit\n\nNow it's morning but last night's on my mind...\n\nYou keep me coming, that is a gal that'll kill dem stunning x 4\n\nYou make me nervous, throat dry, my brain is empty, don't know why\nBut I saw you doing something which is really truly nothing\nBut you could bust me out all day\n\n  Many moons since first I saw you, many moons since first we did the do\n  Many moons since first I saw you, many moons since first we did the do\n  And why did I try when I knew it was no and\n  Why did I try when I say it was so\n  But save it for late we should just let it skate\n  Cause the waiting feel is fine",
+    "key": "C"
+  },
+  "All_Over_You.LIVE": {
+    "name": "All Over You",
+    "artist": "LIVE",
+    "id": "All_Over_You.LIVE",
+    "lyrics": "Our love is like water pinned down and abused for being strange\nOur love is no other than me alone, for me all day\nOur love is like water pinned down and abused\n\n   All over you all over me, the sun, the fields, the sky\n   I've often tried to hold the sea the sun, the fields, the tide\n   Pay me now\n   Lay me down\n\nOur love is like water pinned down and abused for being strange\nOur love is no other than me alone, for me all day\nOur love is like angels, pinned down and abused\n\n   Chorus\n\n   Pay me now, pay me now\n   Lay me down, lay me down, lay me down\n\n   All over you all over me\n   All over you all over me\n\n   Pay me now\n   Lay me down, down\n   Pay me now, pay me now\n   Lay me down, lay me down, lay\n\n  Bridge\n\nOur love is like water pinned down and abused for being strange\nOur love is no other than me alone\n\n  All over you all over me the sun, the fields, the sky\n  I've often tried to hold the sea the sun, the fields, the tide\n  Pay me now, lay me down, down\n  Pay me now, pay me now\n  Lay me down, lay me down, lay\n\nHey yeah\nYeah yeah yeah yeah yeah yeah\nHey heyeee yeah\nOhhhhhhhhhhhhhh\n",
+    "key": "C#"
+  },
+  "American_Idiot.Green_Day": {
+    "name": "American Idiot",
+    "artist": "Green Day",
+    "id": "American_Idiot.Green_Day",
+    "lyrics": "I: A D G D A [G | Bb]\nC: D A E A\n \nDon't wanna be an American idiot.\nDon't want a nation under the new media.\nAnd can you hear the sound of hysteria?\nThe subliminal mindfuck America.\n \n  Welcome to a new kind of tension.\n  All across the alien nation.\n  Everything isn't meant to be okay.\n  Television dreams of tomorrow.\n  We're not the ones who're meant to follow.\n  For that's enough to argue.\n\n\nWell maybe I'm the faggot America.\nI'm not a part of a redneck agenda.\nNow everybody do the propaganda.\nAnd sing along in the age of paranoia.\n\n\n  Chorus\n\n\n[Instrumental]\n\n\n[Bridge]\nD     A     E     A\nD     A     E     A\nA  D  G  D  A\nA  D  G  D  A\n\n\nDon't wanna be an American idiot.\nOne nation controlled by the media.\nInformation nation of hysteria.\nIt's calling out to idiot America.\n\n\n  Chorus\n\n\n[Outro]\nA  D  G  D  A G\nA  D  G  D  A Bb\nA  D  G  D  A G\nA  D  G  D  A N.C.",
+    "key": "A"
+  },
+  "Ammonium_Maze.Percy_Hill": {
+    "name": "Ammonium Maze",
+    "artist": "Percy Hill",
+    "id": "Ammonium_Maze.Percy_Hill",
+    "lyrics": "Looking down from the trees\nI see rays of blazing sun and I wonder..\nWhat's gone wrong with the sky?\n\nSoftly laid in a dream while the weeping willow cries\nClouds of thunder, block those rays from above and I wonder..\nWhat will the morning say?\n\nYellow smoke from my mouth from my hands below my feet\nStain a color, so my brother can breathe\n\nGreen goes in, green goes out what's the latest fashion craze?\nWhat is your color, does it go with concrete? and I wonder..\nWhat will the morning grieve?\n\n  What a long black road follow the curve ammonium maze\n  Freezing the spirit lost in the hands from that which we grow by\n  I look in the mirrors on mine, so soon we end alone again for a lifetime\n  Twisted around\n\n    Play with your toys what's the use in crying?\n    Yes, it's gone in the breeze\n    Can't you see that there's more there that matters\n    Than what chained to your feet\n    Darkened danger time\n    Spinning to sights as the lights go down.\n\nSo they lay on the shore\nIn their season changing skin\nCrystal waters, crashing down on the sand\nPlanes fly by, dolphins sigh\n\nIn their sodium machine it's entertainment\nFat pounds of the class and i wonder....\nWhose going to have the last laugh?",
+    "key": "undefined"
+  },
+  "And_I_Love_Her.The_Beatles": {
+    "name": "And I Love Her",
+    "artist": "The Beatles",
+    "id": "And_I_Love_Her.The_Beatles",
+    "lyrics": "V: (Em Bm) G A D\nC: (Bm F#m) A\n\nI give her all my love that's all I do\nAnd if you saw my love you'd love her too, I love her\n\nShe gives me everything and tenderly\nThe kiss my lover brings she brings to me, and I love her\n\n  A love like ours could never die\n  As long as I have you near me\n\nBright are the stars that shine dark is the sky\nI know this love of mine will never die, and I love her\n\n  Solo\n\nBright are the stars..",
+    "key": "Em"
+  },
+  "Another_One_Bites_The_Dust.Queen": {
+    "name": "Another One Bites The Dust",
+    "artist": "Queen",
+    "id": "Another_One_Bites_The_Dust.Queen",
+    "lyrics": "V: (Em Am)    P: (C G) Am B    C: (Em Am) F#m A B\n\nSteve walks warily down the street, with the brim pulled way down low\nAin't no sound but the sound of his feet, machine guns ready to go\n  Are you ready, are you ready for this are you hanging on the edge of your seat    \n  Out of the doorway the bullets rip, to the sound of the beat\n    Another one bites the dust, another one bites the dust\n    And another one gone, and another one gone, another one bites the dust\n    Hey, I'm gonna get you too another one bites the dust\n \nHow do you think I'm going to get along, without you, when you're gone\nYou took me for everything that I had, and kicked me out on my own\n  Are you happy, are you satisfied how long can you stand the heat\n  Out of the doorway the bullets rip, to the sound of the beat\n\n  Chorus\n\nAnother one bites the dust\n\nThere are plenty of ways you can hurt a man, and bring him to the ground\nYou can beat him, you can cheat him, you can treat him bad and leave him when he's down\n  But I'm ready, yes I'm ready for you, I'm standing on my own two feet\n  Out of the doorway the bullets rip, repeating to the sound of the beat, oh yeah\n\n  Chorus\n",
+    "key": "Em"
+  },
+  "Boys_of_Summer.Don_Henley": {
+    "name": "Boys of Summer",
+    "artist": "Don Henley",
+    "id": "Boys_of_Summer.Don_Henley",
+    "lyrics": "V: Em C D C\nC: G D C\n\nNobody on the road, nobody on the beach\nI feel it in the air, the summer's out of reach\nEmpty lake, empty streets, the sun goes down alone\nI'm driving by your house, though I know you're not home\n\n  But I can see you, your brown skin shining in the sun\n  You got your hair combed back and your sunglasses on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\nI never will forget those nights, I wonder if it was a dream\nRemember how you made me crazy? Remember how I made you scream?\nNow I don't understand what happened to our love\nBut babe, I'm gonna get you back, I'm gonna show you what I'm made of\n\n  I can see you, your brown skin shining in the sun\n  I see you walking real slow and smiling at everyone\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\n  Solo\n\nOut on the road today, I saw a Deadhead sticker on a Cadillac\nA little voice inside my head said, “Don't look back, you can never look back”\nI thought I knew what love was, what did I know?\nThose days are gone forever, I should just let them go but\n\n  I can see you, your brown skin shining in the sun\n  You got the top pulled down and the radio on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone\n\n  I can see you, your brown skin shining in the sun\n  You got your hair slicked back and those Wayfarers on, baby\n  I can tell you, my love for you will still be strong\n  After the boys of summer have gone",
+    "key": "Em"
+  },
+  "Born_To_Be_Wild.Steppenwolf": {
+    "name": "Born To Be Wild",
+    "artist": "Steppenwolf",
+    "id": "Born_To_Be_Wild.Steppenwolf",
+    "lyrics": "Get your motor runnin, head out on the highway\nLookin for adventure, and whatever comes our way\nYeah darlin gonna make it happen take the world in a love embrace\nFire all of your guns at once and explode into space\n\nI like smoke and lightning heavy metal thunder\nRacin with the wind, and the feelin that I'm under\nYeah darlin...\n\n  Like a true nature's child, we were born, born to be wild\n  We can climb so high I never wanna die\n  Born to be wild, born to be wild\n\nSolo / break\n\nV1\n\n  Chorus\n\nSolo Outro",
+    "key": "E"
+  },
+  "By_The_Waters_of_Babylon.Don_McLean": {
+    "name": "By The Waters of Babylon",
+    "artist": "Don McLean",
+    "id": "By_The_Waters_of_Babylon.Don_McLean",
+    "lyrics": "Am G F E Am\n\nBy the waters, the waters of Babylon\nWe lay down and wept, and wept, for thee Zion,\nWe remember thee, remember thee, remember thee Zion.",
+    "key": "Am"
+  },
+  "Burning_For_You.BOC": {
+    "name": "Burning For You",
+    "artist": "BOC",
+    "id": "Burning_For_You.BOC",
+    "lyrics": "",
+    "key": "undefined"
+  },
+  "Burning_Down_The_House.Talking_Heads": {
+    "name": "Burning Down The House",
+    "artist": "Talking Heads",
+    "id": "Burning_Down_The_House.Talking_Heads",
+    "lyrics": "Ah, watch out, you might get what you're after\nCool babies, strange but not a stranger\nI'm an ordinary guy burning down the house\n\nHold tight, wait 'til the party's over\nHold tight, we're in for nasty weather\nThere has got to be a way, burning down the house\n\n  Here's your ticket, pack your bags time for jumpin' overboard\n  Transportation is here\n  Close enough but not too far maybe you know where you are\n  Fightin' fire with fire\n\nAh, all wet, hey you might need a raincoat\nShakedown, dreams walking in broad daylight\nThree hundred sixty five degrees burning down the house\n\n  Ah, it was once upon a place sometimes I listen to myself\n  Gonna come in first place\n  People on their way to work and, baby what do you expect?\n  Gonna burst into flames, ah\n\n  Burning down the house\n\nMy house, is out of the ordinary\nThat's right, don't wannna hurt nobody\nSome things sure can sweep me off my feet burning down the house\n\n  No visible means of support and you have not seen nothin' yet\n  Everything's stuck together\n  And I don't know what you expect staring into the TV set\n  Fightin' fire with fire, ah",
+    "key": "Dm"
+  },
+  "Broken_Wings.Mr_Mister": {
+    "name": "Broken Wings",
+    "artist": "Mr Mister",
+    "id": "Broken_Wings.Mr_Mister",
+    "lyrics": "V: Em D A\nC: Am G F\n\nBaby, don't understand\nwhy we can't just hold on... to each other's hands\nThis time might be the last.. I fear\nunless I... make it all too clear I need you so ooh\n \n  Take, these broken wings\n  And learn to fly again learn to live so free.\n  And when we hear, the voices sing\n  The book of love will open up and let us in.\n  Take, these broken wings\n \nBaby, I think tonight..\nWe can take what was wrong.. and make it right.\nBaby, it's all I know\nThat you're half of the flesh and blood that makes me whole\nNeed you so.\n \n  Chorus\n\n  Interlude\n  \nBaby, it's all I know that you're half of the flesh\nand blood that makes me whole\n\n  Ch x 2\n  Solo",
+    "key": "Em"
+  },
+  "Californication.Red_Hot_Chili_Peppers": {
+    "name": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "id": "Californication.Red_Hot_Chili_Peppers",
+    "lyrics": "I: Am F\nV: (Am F) C G F Dm\nC: (C G Dm Am)\nS: (F#m D) Bm D A E\n\n\nPsychic spies from China try to steal your mind's elation\nLittle girls from Sweden dream of silver screen quotations\nAnd if you want these kind of dreams it's Californication\n\n\nIt's the edge of the world and all of western civilization\nThe sun may rise in the East at least it settled in a final location\nIt's understood that Hollywood sells Californication\n\n\n  Pay your surgeon very well to break the spell of aging\n  Celebrity skin, is this your chin or is that war you're waging?\n  First born unicorn... Hardcore soft porn\n\n\n    Dream of Californication x 2\n\n\nMarry me girl, be my fairy to the world be my very own constellation\nA teenage bride with a baby inside getting high on information\nAnd buy me a star on the boulevard it's Californication\n\n\nSpace may be the final frontier but it's made in a Hollywood basement\nAnd Cobain can you hear the spheres singing songs off station to station?\nAnd Alderaan's not far away it's Californication\n\n\n  Ooo..\n \nBorn and raised by those who praise control of population\nEverybody's been there and I don't mean on vacation\nFirst born unicorn hardcore soft porn\n\n\n  Dream of Californication x 4\n\n\n  Solo \n\n\nDestruction leads to a very rough road but it also breeds creation\nAnd earthquakes are to a girl's guitar they're just another good vibration\nAnd tidal waves couldn't save the world from Californication\n\n\n  Oo..\n\n\n  Pay your surgeon very well to break the spell of aging\n  Sicker than the rest, there is no test but this is what you're craving\n  First born unicorn hardcore soft porn\n\n\n  Dream of Californication x 4",
+    "key": "undefined"
+  },
+  "Call_Me.Blondie": {
+    "name": "Call Me",
+    "artist": "Blondie",
+    "id": "Call_Me.Blondie",
+    "lyrics": "I: Dm [G F][F C]    144bpm\nV: (Dm Bb) (G A)\nC: (Dm F G Bb) Dm G F - Dm F C\nB: (Em Bm) F C Dm Bb G A [NOTE: Dm is 6 beats]\n\nColor me your color baby, color me your car\nColor me your color darling, I know who you are\nCome up off your color chart, I know where you're comin' from\n\n  Call me on the line call me call me any, anytime\n  Call me my love you can call me any day or night call me\n\nCover me with kisses baby, cover me with love\nRoll me in designer sheets I'll never get enough\nEmotions come I don't know why, cover up love's alibi [extra measure]\n\n  Call me on the line call me, call me any, anytime\n  Call me oh my love when you're ready we can share the wine call me\n\n    Ooo he speaks the languages of love\n    Ooo amore, chiamami, chiamami\n    Ooo appelle-moi mon cherie, appelle-moi\n    Anytime, any place, anywhere, any way\n    Anytime, any place, anywhere, any day-ay\n\n    Solo\n\n  Call me my love call me, call me any, anytime\n  Call me for a ride call me call me for some overtime\n  Call me my love call me, call me in a sweet design\n  Call me, call me for your lover's lover's alibi\n  Call me on the line call me, call me any, anytime\n  Call me oh, call me, oo-hoo-hah\n  Call me my love call me, call me any, anytime\n",
+    "key": "Dm"
+  },
+  "Call_Me_The_Breeze.Lynyrd_Skynyrd": {
+    "name": "Call Me The Breeze",
+    "artist": "Lynyrd Skynyrd",
+    "id": "Call_Me_The_Breeze.Lynyrd_Skynyrd",
+    "lyrics": "Blues in A\n\nCall me the breeze I keep blowing down the road\nWell now they call me the breeze, I keep blowing down the road\nI ain't got me nobody I don't carry me no load\n\nAin't no change in the weather, ain't no changes in me\nWell there ain't no change in the weather, ain't no changes in me\nAnd I ain't hiding from nobody, nobody's hiding from me\n\n  Solo\n\nWell, I got that green light baby I got to keep moving on x 2\nWell, I might go out to California might go down to Georgia I don't know\n\nWell, I dig you Georgia peaches makes me feel right at home x 2\nBut I don't love me no one woman so I can't stay in Georgia long\n",
+    "key": "A"
+  },
+  "Called_Out_In_The_Dark.Snow_Patrol": {
+    "name": "Called Out In The Dark",
+    "artist": "Snow Patrol",
+    "id": "Called_Out_In_The_Dark.Snow_Patrol",
+    "lyrics": "V: C Am E F\nC: Am G F Am G\n\nIt's like we just can't help ourselves\nCause we don't know how to back down\nWe were called out to the streets\nWe were called into the towns\n\nHow the heavens they opened up\nLike arms of dazzling gold\nWith our rain-washed histories\nWell, we do not need to be told\n\n  Show me now, show me the arms aloft\n  Every eye trained on a different side\n  This magic, this drunken Semaphore, and I\n\n    We are listening and we're not blind\n    This is your life, this is your time x 2\n\nI was called out in the dark\nBy a choir of beautiful cheats\nAnd as the kids took back the parks\nYou and I were left with the streets.\n\n  P\n  C x 4",
+    "key": "C"
+  },
+  "Can_t_Get_Enough.Bad_Company": {
+    "name": "Can't Get Enough",
+    "artist": "Bad Company",
+    "id": "Can_t_Get_Enough.Bad_Company",
+    "lyrics": "V: C Bb F  Bb F\nC: G Bb F  Eb - (C F) - G C G\n\nWell I take whatever I want and baby I want you\nYou give me something I need now tell me I got something for you\nCome on come on come on and do it, come on and do what you do\n\n  I can't get enough of your love\n\nWell it's late and I want love, love that's gonna break me in two\nDon't hang me up in your doorway, don't hang me up like you do\nCome on come on come on and do it come on and do what you do\n\n  I can't get enough of your love\n\nSolo\n\n  I can't get enough of your love\n",
+    "key": "C"
+  },
+  "Can_t_You_See.Marshall_Tucker": {
+    "name": "Can't You See",
+    "artist": "Marshall Tucker",
+    "id": "Can_t_You_See.Marshall_Tucker",
+    "lyrics": "D C G D\n \nI'm gonna take a freight train, down at the station Lord, I don't care where it goes\nGonna climb a mountain, the highest mountain,jump off, nobody gonna know\n \n  Can't you see, can't you see, what that woman, she been doin' to me\n\nI'm gonna buy me a ticket now, as far as I can ain't never comin' back\nTake me southbound all the way to Georgia now, till the train run out of track\n \n  Chorus\n\n  Solo\n",
+    "key": "undefined"
+  },
+  "Careless_Whisper.George_Michael": {
+    "name": "Careless Whisper",
+    "artist": "George Michael",
+    "id": "Careless_Whisper.George_Michael",
+    "lyrics": "V: Am Dm F Em\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
+    "key": "Am"
+  },
+  "Carry_That_Weight.The_Beatles": {
+    "name": "Carry That Weight",
+    "artist": "The Beatles",
+    "id": "Carry_That_Weight.The_Beatles",
+    "lyrics": "Am7 D7sus4 Dm7 G7 Csus4 C Fmaj7 Bm7b5 E7 Am7 | G C G\nC G\nG C G/B | A | C G/B | A\nA G  F Dm G C | D/C | Eb/C F/C | C\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\nBoy, you're gonna carry that weight\nCarry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
+    "key": "Am"
+  },
+  "Celebrity_Skin.Hole": {
+    "name": "Celebrity Skin",
+    "artist": "Hole",
+    "id": "Celebrity_Skin.Hole",
+    "lyrics": "V:(A C#5 F#5)     134bpm\nC:(D A) F#5 B D\nB:(A D) F#m\n\nOh, make me over I'm all I wanna be\nA walking study in demonology\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, so glad you could make it now\n\nOh, look at my face, my name is \"Might-Have-Been\"\nMy name is \"Never Was\", my name's forgotten\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup it's too early for that dress\n    Wilted and faded somewhere in Hollywood I'm glad I came here with your pound of flesh\n    No second billing 'cause you're a star now oh Cinderella, they aren't sluts like you\n    Beautiful garbage, beautiful dresses, can you stand up or will you just fall down?\n\nYou better watch out oh, what you wish for\nIt better be worth it so much to die for\n\n  Hey, so glad you could make it\n  Yeah, now you've really made it\n  Hey, there's only us left now\n\n    When I wake up in my makeup have you ever felt so used up as this?\n    It's all so sugarless, hooker, waitress, model, actress, oh, just go nameless\n    Honeysuckle, she's full of poison she obliterated everything she kissed\n    Now she's fading somewhere in Hollywood I'm glad I came here with your pound of flesh\n\nYou want a part of me?\nWell, I'm not selling cheap\nNo, I'm not selling cheap\n",
+    "key": "A"
+  },
+  "Come_As_You_Are.Nirvana": {
+    "name": "Come As You Are",
+    "artist": "Nirvana",
+    "id": "Come_As_You_Are.Nirvana",
+    "lyrics": "G|----------0---0-----------2-\nD|-0-0-1-2----2---2-2-1-0-0---\n\nV: Em D    C: Em G     B: Am C\n\nCome as you are as you were as I want you to be\nAs a friend as a friend as an old enemy\nTake your time, hurry up the choice is your don't be late\nTake a rest as a friend as an old    \n\n  Memory ah x 4\n\nCome dowsed in mud soaked in bleach as I want you to be\nAs a trend as a friend as an old\n\n  Memory\n\n    And I swear that I don't have a gun\n    No I don't have a gun\n\nSolo\n\n  Memory\n\n    And I swear...\nRiff\n",
+    "key": "Em"
+  },
+  "Cocaine.Eric_Clapton": {
+    "name": "Cocaine",
+    "artist": "Eric Clapton",
+    "id": "Cocaine.Eric_Clapton",
+    "lyrics": "If you want to hang out, you've gotta take her out, cocaine\nIf you want to get down, get down on the ground, cocaine\n\n  She don't lie, cocaine\n\nIf you got that lose, you want to kick them blues, cocaine\nWhen your day is done, and you want to ride on cocaine\n\nIf your day is gone, and you want to ride on, cocaine\nDon't forget this fact, you can't get it back, cocaine\n",
+    "key": "E"
+  },
+  "Cinnamon_Girl.Neil_Young": {
+    "name": "Cinnamon Girl",
+    "artist": "Neil Young",
+    "id": "Cinnamon_Girl.Neil_Young",
+    "lyrics": "I wanna live with a cinnamon girl\nI could be happy the rest of my life with a cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\nTen silver saxes a bass with a bow\nThe drummer relaxes and waits between shows for his cinnamon girl\nA dreamer of pictures I run in the night\nYou see us together chasing the moonlight my cinnamon girl\n\n  Pa send me money now I'm gonna make it somehow I need another chance\n  You see your baby loves to dance yeah\n\n   Solo",
+    "key": "D"
+  },
+  "Come_Out_And_Play_(Keep__Em_Separated).Offspring": {
+    "name": "Come Out And Play (Keep 'Em Separated)",
+    "artist": "Offspring",
+    "id": "Come_Out_And_Play_(Keep__Em_Separated).Offspring",
+    "lyrics": "You gotta keep 'em separated\n\nLike the latest fashion, like a spreading disease\nThe kids are strappin' on their way to the classroom\nGetting weapons with the greatest of ease\nThe gangs stake out their own campus locale\nAnd if they catch you slippin' then it's all over pal\nIf one guy's colors and the other's don't mix\nThey're gonna bash it up, bash it up, bash it up, bash it up\n\n  Hey, man, you talkin' back to me? Take him out (you gotta keep 'em separated)\n  Hey, man, you disrespecting me? Take him out (you gotta keep 'em separated)\n  Hey, they don't pay no mind if you're under 18 you won't be doing any time\n  Hey, come out and play\n\nBy the time you hear the siren, it's already too late\nOne goes to the morgue and the other to jail\nOne guy's wasted and the other's a waste\nIt goes down the same as the thousand before\nNo one's getting smarter, no one's learning the score\nYour never-ending spree of death and violence and hate\nIs gonna tie your own rope, tie your own rope, tie your own...\n\n  Chorus\n\nIt goes down the same as the thousand before\nNo one's getting smarter, no one's learning the score\nYour never-ending spree of death and violence and hate\nIs gonna tie your own rope, tie your own rope, tie your own...\n\n  Chorus",
+    "key": "B"
+  },
+  "Come_On_Feel_The_Noise.Quiet_Riot": {
+    "name": "Come On Feel The Noise",
+    "artist": "Quiet Riot",
+    "id": "Come_On_Feel_The_Noise.Quiet_Riot",
+    "lyrics": "V:(G Bm Em - (Am G D)) Em D\nC: (G D/F# Em) (Am G D) (G D/F# Em) C/G G/B Am G D\n\n  Come on feel the noise girls rock your boys\n  We'll get wild, wild, wild!\n\nSo you think I got an evil mind, I'll tell you honey\nI don't know why, I don't know why\nSo you think my singing's out of time, it makes me money\nI don't know why I don't know why, anymore Oh no\n\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild... Wild, wild, wild\n  So come on, feel the noise girls rock your boys\n  We'll get wild, wild, wild .. Baby\n\nSo you see I got a funny face, I got no worries\nAnd I don't know why I don't know why\nOh, I gotta sing with some disgrace, I'm in no hurry\nAnd I don't know why I don't know why, anymore no, no, no\n\n  Chorus\n\n  Solo\n\nWell you think we have a easy time, you should know better\nAnd I don't know why I don't know why\nSo you say I got a dirty mind, I'm a mean go getter\nI don't know why I don't know why, anymore Oh no\n\n  Chorus\n",
+    "key": "G"
+  },
+  "Come_Monday.Jimmy_Buffett": {
+    "name": "Come Monday",
+    "artist": "Jimmy Buffett",
+    "id": "Come_Monday.Jimmy_Buffett",
+    "lyrics": "V: (A D E A) Bm D E\nC: D A D E A C#m D E D E A\nB: (Bmaj7 E) D E - G D A\n\nHeadin' out to San Francisco for the labor day weekend show\nI got my hush puppies on I guess I never was meant for glitter rock'n roll\nAnd honey I didn't know that I'd be missing you so\n\n  Come Monday, it'll be all right Come Monday, I'll be holding you tight\n  I spent four lonely days in a brown LA haze and I just want you back by my side\n\nYes its been quite a summer rent a cars and west bound trains\nAnd now your off on vacation something you tried to explain\nAnd darling since I love you so that's the reason I just let you go\n\n  Chorus\n\n    I cant help it honey your that much part of me now\n    Remember that night in Montana when you said there'd be no place for doubt\n\nI hope you're enjoying the scenery I know that it's pretty up there\nWe can go hiking on Tuesday with you I'd walk any where\nCalifornia has worn me quite thin I just can't wait till I see you again\n\n  Chorus",
+    "key": "A"
+  },
+  "Counting_Blue_Cars.Dishwalla": {
+    "name": "Counting Blue Cars",
+    "artist": "Dishwalla",
+    "id": "Counting_Blue_Cars.Dishwalla",
+    "lyrics": "I: (Bm A G) x 2\nV: Bm A G\nC: D E G\n\nMust've been mid afternoon\nI could tell by how far the child's shadow stretched out and\nHe walked with a purpose in his sneakers, down the street\nHe had many questions like children often do, he said\n\n  Tell me all your thoughts on God\n  Tell me am I very far (2m)\n\nMust've been late afternoon\nOn our way the sun broke free of the clouds\nWe count only blue cars skip the cracks in the street and ask\nmany questions like children often do, we said\n\n  Tell me all your thoughts on God, cause I'd really like to meet her\n  And ask her why we're who we are\n  Tell me all your thoughts on God cause I'm on my way to see her\n  So tell me am I very far.. am I very far now?\n\n    Solo\n\nIt's getting cold, picked up the pace\nHow our shoes make hard noises in this place\nOur clothes are stained we pass many crosseyed people and ask\nmany questions like children often do\n\n  Chorus 2\n\n  Am I very far now..\n  tell me all your thoughts on God",
+    "key": "Bm"
+  },
+  "Country_Girl.Luke_Bryan": {
+    "name": "Country Girl",
+    "artist": "Luke Bryan",
+    "id": "Country_Girl.Luke_Bryan",
+    "lyrics": "V: (E G D/F# e)\nC: E G A2 E - D A \n\nHey girl, go on now!\nYou know you've got everybody lookin'\n\nGot a little boom in my big truck\nGonna open up the doors and turn it up\nGonna stomp my boots in the Georgia mud\nGonna watch you make me fall in love\n\nGet up on the hood of my daddy's tractor\nUp on the tool box, it don't matter\nDown on the tailgate girl I can't wait\nTo watch you do your thing\n\n  Shake it for the young bucks sittin' in the honky-tonks\n  For the rednecks rockin' til the break of dawn\n  The DJ spinnin that country song c'mon, c'mon, c'mon\n  Shake it for the birds, shake it for the bees\n  Shake it for the catfish swimmin down deep in the creek\n  For the crickets and the critters and the squirrels\n  Shake it to the moon, shake it for me girl\n\n  Aw, country girl, shake it for me girl..\n\nSomebody's sweet little farmer's child\nWith a gattle in her Bud to get a little wild\nPony-tail and a pretty smile rope me in from a country mile\nSo come on over here and get in my arms\nSpin me around this big ole barn\nTangle me up like grandma's yarn, Yeah, yeah, yeah\n\n  Chorus\n\n  Guitar\n\n   Solo\n\nNow dance, like a dandelion in the wind on the hill underneath the pines\nYeah, move like the river flows feel the kick drum down deep in your toes\nAll I wanna do is get to holdin' you and get to knowin' you\nAnd get to showin' you and get to lovin' you\n'Fore the night is through baby, you know what to do\n\n  Chorus\n",
+    "key": "E"
+  },
+  "Cumbersome.7M3": {
+    "name": "Cumbersome",
+    "artist": "7M3",
+    "id": "Cumbersome.7M3",
+    "lyrics": "She calls me Goliath and I wear the David mask\nI guess the stones are comin' too fast for her now\nYou know I'd like to believe this nervousness will pass\nAll the stones that are thrown are building up a wall\n\n  I have become cumbersome to this world\n  I have become cumbersome to my girl\n\nI'd like to believe we could reconcile the past\nResurrect those bridges with an ancient glance\nBut my old stone face can't seem to break her down\nShe remembers bridges, burns 'em to the ground\n\n  Chorus\n\nToo heavy, too light, too black or too white, too wrong or too right\nToday or tonight, cumbersome\nToo rich or too poor, she's wanting me less and I'm wanting her more\nThe bitter taste is cumbersome\nNo, yeah, no-no, no No-no, no, yeah\n\n    There is a balance between two worlds\n    One with an arrow and a cross\n    Regardless of the balance life has become cumbersome\n\nToo heavy, too light..\n\nNo, yeah, no, no, no\nNo-no, no, yeah\nNo-no, no, no, yeah\nYour life has become cumbersome",
+    "key": "F#"
+  },
+  "DOA.Foo_Fighters": {
+    "name": "DOA",
+    "artist": "Foo Fighters",
+    "id": "DOA.Foo_Fighters",
+    "lyrics": "Oh, you know I did it\nIt's over and I feel fine\nNothing you can say is gonna change my mind\nWaited, and I waited the longest night\nNothing like the taste of sweet decline\n\nI went down, I fell, I fell so fast\nDropping like the grains in an hourglass\nNever say forever, 'cause nothing lasts\nDancing with the bones of my buried past\n\n  Nevermind, there's nothing I can do\n  Bet your life there's something killing you\n\nIt's a shame, we have to die, my dear\nNo one's getting out of here alive\nThis time\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nI'm finished, I'm getting you off my chest\nMade you come clean in a dirty dress\nA promise is a promise, you're kept in check\nHard to cross a heart that beats its best\n\nTake a good hard look for the very last time\nThe very last one in a very long line\nOnly took a second to say goodbye\nBeen a pleasure, but the pleasure's been mine, all mine\n\n  Nevermind, there's nothing I can do (nevermind, there's nothing I can do)\n  Bet your life there's something killing you\n\nIt's a shame, we have to die, my dear\nNo one's getting out of here alive\nThis time\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nAin't no way, D.O.A.\nAin't no way, D.O.A.\n\nTake a good hard look for the very last time\nThe very last one in a very long line\nOnly took a second to say goodbye\nBeen a pleasure, but the pleasure's been mine, all mine\n\n  Nevermind, there's nothing I can do (nevermind, there's nothing I can do)\n  Bet your life there's something killing you\n\nIt's a shame we have to die, my dear\nNo one's getting out of here alive\nThis time\n\nWhat a way to go, but have no fear\nNo one's getting out of here alive\nThis time\n\nIt's a shame we have to disappear\nNo one's getting out of here alive\nThis time, this time, this time\n",
+    "key": "D"
+  },
+  "Dance_The_Night_Away.Van_Halen": {
+    "name": "Dance The Night Away",
+    "artist": "Van Halen",
+    "id": "Dance_The_Night_Away.Van_Halen",
+    "lyrics": "Have you seen her? So fine and pretty fooled me with her style and ease\nAnd I feel her from across the room, yes it's love in the third degree\n\n  Ooh baby baby won't cha turn your head my way\n  Ooh baby baby ah come on!\n  [ Take a chance / don't skip romance ] you're old enough to dance the night away\n  Whoah, come on girl, dance the night away\n\nA live wire, barely a beginner but just watch that lady go\nShe's on fire cause dancin gets her higher than anything else she knows\n\n  Chorus\n  Solo\n  Chorus\n",
+    "key": "E"
+  },
+  "Dancing_Days.Led_Zeppelin": {
+    "name": "Dancing Days",
+    "artist": "Led Zeppelin",
+    "id": "Dancing_Days.Led_Zeppelin",
+    "lyrics": "V: (C C# C) C Bb A S: C C# Eb.. F\n\nRiff\n\nDancing days are here again, summer evenings grow.\nI got my flower I got my power, I got a woman who knows.\nI said it's alright, you know it's alright, I guess it's all in my heart.\nYou'll be my only, my one and only, is that the way it should start?\n\nCrazy ways are evident, in the way you wearin your clothes.\nSippin booze is precedent, as the evening starts to glow.\nI said it's alright...\n\nRiff\n\nYou told your mama I'd get you home, but you didn't say that I had no car.\nI saw a lion he was standin' alone, with a tadpole in a jar.\nI said it's alright...\n\nSo dancing days are here again, as the summer evenings grow.\nYou are my flower, you are my power, you are my woman who knows.\nI said it's alright...\n\n!Riff / Solo / Riff",
+    "key": "C"
+  },
+  "Dear_Mr_Fantasy.Traffic": {
+    "name": "Dear Mr Fantasy",
+    "artist": "Traffic",
+    "id": "Dear_Mr_Fantasy.Traffic",
+    "lyrics": "E D A E, (C#m E) D B7\n\nDear Mister Fantasy play us a tune\nSomething to make us all happy\nDo anything take us out of this gloom\nSing a song, play guitar, make it snappy\n\nYou are the one who can make us all laugh\nbut doing that you break out in tears\nPlease don't be sad if it was a straight mind you had\nWe wouldn't have known you all these years",
+    "key": "E"
+  },
+  "Don_t_Do_It.The_Band": {
+    "name": "Don't Do It",
+    "artist": "The Band",
+    "id": "Don_t_Do_It.The_Band",
+    "lyrics": "  Baby don't you do it, don't do it\n  Don't you break my heart\n  Please don't do it, don't you break my heart\n\nA sacrifice would make you happy if nothing for myself\nNow you wanna leave me for the love of someone else\nMy pride is all gone whether I'm right or wrong\nI need you baby to keep on keepin' on\n\n  You know I'm trying to do my best\n  Oh, I'm trying to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart\n\nMy biggest mistake was loving you too much and letting you know\nNow you got me where you want me and you won't let me go\nIf my heart was made of glass, well, then you'd surely see\nHow much heartache and misery, girl, you've been causing me\n\n  Well, I've been trying to do my best\n  Well, I've tried to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart\n\nI go down to the river and there I be\nI'm gonna jump in girl, but you don't care 'bout me\nOpen up your eyes\nCan't ya see I love ya?\nOpen up you heart, girl\nCan't ya see I need ya?\n\n  Oh, baby don't do it, do it, do it\n  Don't you break my heart\n  Please don't do it, don't you break my heart (oh, no)\n\nMy biggest mistake was loving you too much and letting you know\nNow you got me where you want me and you won't let me go\nIf my heart was made of glass, well then you'd surely see\nHow much heartache and misery, girl, you've been causing me\n\n  Well, I've been trying to do my best\n  You know I've tried to do my best\n  Don't do it, don't you break my heart\n  Please don't do it, don't you break my heart (no)\n",
+    "key": "C"
+  },
+  "Dream_Brother.Jeff_Buckley": {
+    "name": "Dream Brother",
+    "artist": "Jeff Buckley",
+    "id": "Dream_Brother.Jeff_Buckley",
+    "lyrics": "E|------3-----1----------------------1----|\nB|----4-----3-----3--1----1--0--1--3------|\nG|--0-----0-----0------0---------------0--|\nD|-(3)------------------------------------|\nA|----------------------------------------|\nE|-------(3)------------------------------|\n\nE|-3-5-2-3-- -1-3-\nB|-3-4-3-3-- -1-3-\nG|-0-5-2-3-- -0-0-\nD|-0-0-0-1-- -3-0-\nA|-1-3------ -3-x-\nE|---------- -1-3-\n\nE|-3-5-1-3- -7--5--1--3-\nB|-4-6-1-3- -8--6--1--3-\nG|-3-5-0-0- -9--5--0--0-\nD|-5-7-3-0- -10-7--3--0-\nA|-3-8-3-x- -x--8--3--x-\nE|-----1-3- -8-----1--3-\n\nE|-6-8---8--6- -1-3-\nB|-8-10--7--8- -1-3-\nG|-7-8---7--7- -0-0-\nD|-8-10--0--8- -3-0-\nA|-x-x---x--6- -3-x-\nE|-6-8-------- -1-3-\n\nThere is a child sleeping near his twin the pictures go wild in a rush of wind\nThe dark angel he is smuggling in watching over them with his black feather wings unfurled...\nThe love you lost with the skin so fair is free with the wind in her butterscotch hair\nHer green eyes blew goodbyes with her head in her hands\nAnd your kiss on the lips of another...\nDream brother with your tears scattered round the world...\n\nDon't be like the one who made me so old\nAnd don't be like the one who left behind his name\nCos he's waiting for you\nLike I waited for mine\nAnd nobody ever came...\n\nI feel afraid and I call your name I love your voice and your dance insane\nI hear your words and I know your pain your head in your hands and her kiss on the lips of another\nYour eyes to the ground and the world spinning round forever\nAsleep in the sand with the ocean washing over...",
+    "key": "Dm"
+  },
+  "Dreaming.Blondie": {
+    "name": "Dreaming",
+    "artist": "Blondie",
+    "id": "Dreaming.Blondie",
+    "lyrics": "I: D G\nV: (D G) D A Em G A\nC: (D G)\nB: (G D A)\n\nWhen I met you in the restaurant,\nyou could tell I was no debutante.\nYou asked me what's my pleasure, \"A movie or a measure?\"\nI'll have a cup of tea and tell you of my...\n\n  Dreaming, dreaming is free.\n\nI don't want to live on charity.\nPleasure's real or is it fantasy?\nReel to reel is living rarity, people stop and stare at me,\nWe just walk on by, we just keep on dreaming.\n\n    Beat feet, walking a two-mile,\n    Meet me, meet me at the turnstile.\n    I never met him, I'll never forget him.\n    Dream, dream, even for a little while,\n    Dream, dream, filling up an idle hour,\n    Fade away, woo, radiate.\n\nI sit by and watch the river flow.\nI sit by and watch the traffic go.\nImagine something of your very own; something you can have and hold,\nI'd build a road in gold just to have some...\n\n  Dreaming, dreaming is free.",
+    "key": "D"
+  },
+  "Fight_For_Your_Right.Beastie_Boys": {
+    "name": "Fight For Your Right",
+    "artist": "Beastie Boys",
+    "id": "Fight_For_Your_Right.Beastie_Boys",
+    "lyrics": "You wake up late for school, man, you don't wanna go\nYou ask your mom, \"Please?\", but she still says, \"No!\"\nYou missed two classes and no homework\nBut your teacher preaches class like you're some kind of *jerk*\n\n  You gotta fight for your right to party\n\nYour pop's caught you smokin', man, he says, \"No way!\"\nThat hypocrite smokes two packs a day\nMan, livin' at home is such a drag\nNow your mom threw away your best porno mag (Busted)\n\n  You gotta fight for your right to party\n  You gotta fight\n\n    Solo\n\nDon't step out of this house if that's the clothes you're gonna wear\nI'll kick you out of my home if you don't cut that hair\nYour mom busted in and said, \"What's that noise?\"\nAw, Mom, you're just jealous, it's the Beastie Boys\n\n  You gotta fight for your right\n  To party",
+    "key": "A"
+  },
+  "Eyes_Without_A_Face.Billy_Idol": {
+    "name": "Eyes Without A Face",
+    "artist": "Billy Idol",
+    "id": "Eyes_Without_A_Face.Billy_Idol",
+    "lyrics": "I: Emaj7\nV: Emaj7 C#m7 G#m7 B\nC: (A B) F#m7 G#m7\nB: E D\n\nI'm all out of hope one more bad dream could bring a fall\nWhen I'm far from home don't call me on the phone yo tell me you're alone\nIt's easy to deceive it's easy to tease but hard to get release\n\n  Les yeux sans visage - eyes without a face x 3\n  Got no human grace your eyes without a face.\n\nI spend all my time believing all the lies to keep the dream alive\nNow it makes me sad it makes me mad at truth for loving what was you\n\n  Chorus\n\nWhen you hear the music you make a dip\nInto someone else's pocket then make a slip.\nSteal a car and go to Las Vegas oh, the gigolo pool.\nHanging out by the state line, turning holy water into wine\nDrinkin it down, oh\nI'm on a bus on a psychedelic trip reading murder books tryin to stay hip.\nI'm thinkin of you you're out there so say your prayers.\n\n  Solo\n\nNow I close my eyes and I wonder why I don't despise\nNow all I can do is love what was once so alive and new\nBut it's gone from your eyes I'd better realize\n\n  Chorus",
+    "key": "E"
+  },
+  "Fall_On_Me.REM": {
+    "name": "Fall On Me",
+    "artist": "REM",
+    "id": "Fall_On_Me.REM",
+    "lyrics": "E|----3-0---5-3-------3-0--5-3------3-0-----|\nB|--------------0--------------0--------3-5-|\nG|-4-5----5-------4-5----5-------4-5--------|\n\nV: (Dm Am) (Dm G C F) Dm G7\nC: (C Dm F G) F\nB: Am F Am G Am F Dm G\n\nThere's a problem feathers iron bargain buildings weights and pulleys\nFeathers hit the ground before the weight can leave the air\n\n  Buy the sky and sell the sky and tell the sky and tell the sky\n  Don't fall on me - what is it up in the air for\n  Fall on me - if it's there for long\n  Fall on me - it's over it's over me\n\nThere's the progress we have found a way to talk around the problem\nBuilding towered foresight isn't anything at all\n\n  Chorus\n\nWell I would keep it above but then it wouldn't be sky anymore\nSo if I send it to you you've got to promise to keep it home\n\nBuy the sky and sell the sky and lift your arms up to the sky\nand ask the sky and ask the sky",
+    "key": "Dm"
+  },
+  "Far_Behind.Candlebox": {
+    "name": "Far Behind",
+    "artist": "Candlebox",
+    "id": "Far_Behind.Candlebox",
+    "lyrics": "G Em D C\n\nNow maybe I didn't mean to treat you bad but I did it anyway\nAnd then maybe some would say your life was sad but you lived it anyway\nAnd so maybe your friends they stand around they watch you crumble as you falter down to the ground\nAnd then someday your friends they stand beside as you were flying oh you were flying oh so high\nBut then someday people look at you for what they call their own they watch you suffer yeah they hear you calling home\nAnd then some day we could take our time to brush the leaves aside so you can reach us But you left me far behind\n\n  Now maybe I didn't mean to treat you oh so bad but I did it anyway\n  Now maybe some would say you're left with what you had but you couldn't share the pain\n\nNo, no, no couldn't share the pain, they watch you suffer\nNow maybe I could have made my own mistakes but I live with what I've known\nAnd then maybe we might share in something rare but won't you look at where we've grown won't you look at where we've gone\nBut then someday comes tomorrow holds a sense of what I feel for you in my mind as you trip the final line\nAnd that cold day when you lost control shame you left my life so soon you should have told me but you left me far behind\n\n  Chorus / Solo\n\nI said times have changed your friends they come and watch you crumble to the ground they watch you suffer\nYeah, they hold you down gold you down now maybe oh oh, maybe I didn't mean to treat you bad but you left me far behind",
+    "key": "G"
+  },
+  "Fast_Car.Tracy_Chapman": {
+    "name": "Fast Car",
+    "artist": "Tracy Chapman",
+    "id": "Fast_Car.Tracy_Chapman",
+    "lyrics": "V: D A F#m E\nC: D A F#m E - (D F#m E) D E\n\nYou got a fast car I want a ticket to anywhere\nMaybe we make a deal, maybe together we can get somewhere\nAny place is better, starting from zero, got nothing to lose\nMaybe we'll make something, me, myself, I got nothing to prove\n\nYou got a fast car I got a plan to get us outta here\nI been working at the convenience store managed to save just a little bit of money\nWon't have to drive too far, just across the border and into the city\nYou and I can both get jobs, finally see what it means to be living\n\nSee, my old man's got a problem, he lives with a bottle, that's the way it is\nHe says his body's too old for workin, his body's too young to look like his\nWhen mama went off and left him she wanted more from life than he could give\nI said, \"Somebody's gotta take care of him\", I quit school and that's what I did\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n\n  So I remember when we were drivin', drivin' in your car\n  Speed so fast, I felt like I was drunk\n  City lights lay out before us and your arm felt nice wrapped round my shoulder\n  And I had a feeling that I belonged\n  I had a feeling I could be someone be someone\n\nYou got a fast car we go cruisin', entertain ourselves\nYou still ain't got a job and I work in a market as a checkout girl\nI know things will get better you'll find work and I'll get promoted\nAnd we'll move out of the shelter, buy a bigger house and live in the suburbs\n\n  Chorus\n\nYou got a fast car I got a job that pays all our bills\nYou stay out drinkin late at the bar see more of your friends than you do of your kids\nI'd always hoped for better thought maybe together, you and me'd find it\nI got no plans, I ain't going nowhere so take your fast car and keep on drivin\n\nYou got a fast car is it fast enough so you can fly away?\nYou gotta make a decision leave tonight or live and die this way\n",
+    "key": "D"
+  },
+  "Fastest_Girl_In_Town.Miranda_Lambert": {
+    "name": "Fastest Girl In Town",
+    "artist": "Miranda Lambert",
+    "id": "Fastest_Girl_In_Town.Miranda_Lambert",
+    "lyrics": "V: (F# E B)   145bpm\nC: A E F# - A E B - (F# E B)\n\nYou've got the bullets I've got the gun\nI've got a hankering for getting into something\nI hit the bottle, you hit the gas\nI heard your 65 can really haul some ass (+ 2/4)\n\n#I'm feeling frisky, you're feeling good\nI guess the whiskey is doing what it should\n#I got the cigarettes you've got a lighter\nAnd when the sun goes down we'll start a little fire\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town\n  Ain't you baby? I like 'em crazy\n\n#My reputation follows me around\nJust makes me wanna give them more to talk about\n#Let's go to town for a little while\nI'll be wearing nothing but a tattoo and a smile\n\n  Chorus\n\n    Solo\n\nI see the blue lights, we better run\nThrow out the bottle and I'll hide the gun\nIf he pulls us over, I'll turn on the charm\nYou'll be in the slammer and I'll be on his arm\n\n  Ain't no use in trying to slow me down\n  Cause you're running with the fastest girl in town (XTRA measure)\n  Ain't you baby?\n  Well, I told you I was crazy\n  No, I ain't nobody's baby... Hey!\n\nHe's got the bullets, he's got a gun\nI got the hankering for getting into something",
+    "key": "F#"
+  },
+  "Fly_Like_an_Eagle.Steve_Miller_Band": {
+    "name": "Fly Like an Eagle",
+    "artist": "Steve Miller Band",
+    "id": "Fly_Like_an_Eagle.Steve_Miller_Band",
+    "lyrics": "V: Am\nC: Am D F Am\n\nTick, tock, tick, do do doo-doo x 2\nTime keeps on slippin.. into the future x 2\n\n  I wanna fly like an eagle to the sea.\n  Fly like an eagle, let my spirit carry me\n  I want to fly like an eagle, 'til I'm free.\n  Fly right through the revolution.\n\nFeed the babies, who don't have enough to eat,\nshoe the children, with no shoes on their feet.\nHouse the people, livin in the streets.\nOh there's a solution.\n\n  Chorus / V1 / Chorus\n\nTick, tock, tick, do- do- doo-doo",
+    "key": "Am"
+  },
+  "Friend_Of_The_Devil.The_Grateful_Dead": {
+    "name": "Friend Of The Devil",
+    "artist": "The Grateful Dead",
+    "id": "Friend_Of_The_Devil.The_Grateful_Dead",
+    "lyrics": "V: (G C) (D Am) D\nC: D C D Am C D\n\nI lit out from Reno I was trailed by twenty hounds\nDidn't get to sleep last night till the morning came around\n\n  Set out runnin but I take my time a friend of the devil is a friend of mine\n  If I get home before daylight I just might get some sleep tonight\n\nRan into the devil, babe, he loaned me twenty bills\nI spent the night in Utah in a cave up in the hills\n\nI ran down to the levee but the devil caught me there\nHe took my twenty dollar bill and vanished in the air\n\n    Got two reasons why I cry away each lonely night\n    The first one's named Sweet Anne Marie and she's my hearts delight\n    The second one is prison, babe the sheriff's on my trail\n    And if he catches up with me I'll spend my life in jail\n\nGot a wife in Chino, babe, and one in Cherokee\nThe first one says she's got my child but it don't look like me\n\n    Got two reasons...\n\nGot a wife...",
+    "key": "G"
+  },
+  "Hot_Love_&_The_Lazy_Poet.Goose": {
+    "name": "Hot Love & The Lazy Poet",
+    "artist": "Goose",
+    "id": "Hot_Love_&_The_Lazy_Poet.Goose",
+    "lyrics": "I: Bb Bb Eb Bb F\nV: Gm Cm Eb Bb Cm Eb Bb\nV: Bb Gm C Eb Ab Eb Bb Gb F\nB: Gbm Gm Ab A Bb\nC: (Bb Eb Bb Eb F F G Bb G Bb F Eb)\nS: F C F Bb Eb Bb\nS: 2-octave climb: F F# G Ab A Bb B, then B up to Bb\nO: Ab Eb Bb\n\nThis is the story of a poet I know\nHe takes it easy and he talks real slow\nThey call him lazy but when push comes to shove\nLazy goes crazy for a real hard luck\nDirty jeans and a whiskey robe he whispers\nQuote the raven nevermore\nThe poet sat back with his whiskey pouring\n\n  [Bridge]\n  and he says\n  he says\n\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n\n  Solo\n\nI love sweet nectar above she's either\nQueen of the mean or she's as sweet as a dove\nBe careful to choose the words you say\nYou'll be getting hotter every single way\nLazy knew what he had to do\nBut all the other poets were covered in tape\nThe poet sat back with his whiskey pouring\n\n  Bridge\n\n  Chorus\n\n  Solo 2\n\n  2-octave climb\n\n  Chorus\n\n  Outro\n",
+    "key": "Bb"
   }
 }
