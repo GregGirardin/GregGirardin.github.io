@@ -4380,13 +4380,6 @@
     "lyrics": "V: E B C#m A\nC: (A E) B\n\nI'll never be your beast of burden\nMy back is broad, but it's a-hurting\nAll I want for you to make love to me\nI'll never be your beast of burden\nI've walked for miles my feet are hurting\nAll I want is for you to make love to me\n\n  Am I hard enough? Am I rough enough?\n  Am I rich enough? I'm not too blind to see\n\nI'll never be your beast of burden\nSo let's go home and draw the curtains\nMusic on the radio\nCome on, baby, make sweet love to me\n\n  Chorus\n\n    Oh, little sister\n    Pretty, pretty, pretty, pretty girls girl\n    Come on, baby, please, please, please\n\nI'll tell you, you can put me out on the street\nPut me out with no shoes on my feet\nBut put me out, put me out put me out of misery, yeah\nAll your sickness, I can suck it up\nThrow it all at me I can shrug it off\nThere's one thing, baby, I don't understand\nYou keep on telling me I ain't your kind of man\n\nAin't I rough enough? Ooh, honey\nAin't I tough enough?\nAin't I rich enough In love enough? Ooh, please\n\nI'll never be your beast of burden\nI'll never be your beast of burden\nNever, never never be\n\nI'll never be your beast of burden\nI've walked for miles, my feet are hurting\nAll I want is you to make love to me, yeah\nI don't need no beast of burden\nI need no fussing, I need no nursing\nNever, never, never, never, never, never, never be",
     "key": "C#m"
   },
-  "Champagne_Supernova.Oasis": {
-    "name": "Champagne Supernova",
-    "artist": "Oasis",
-    "id": "Champagne_Supernova.Oasis",
-    "lyrics": "How many special people change?\nHow many lives are living strange?\nWhere were you while we were gettin' high?\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Someday you will find me caught beneath the landslide\n  In a champagne supernova in the sky x 2\n\nWake up the dawn and ask her why\nA dreamer dreams she never dies\nWipe that tear away now from your eye\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Chorus\n\n   'Cause people believe that they're gonna get away for the summer\n    But you and , we live and die the world's still spinnin round, we don't know why\n\n  Solo\n\nV1\n\n  Chorus\n\n    Bridge\n\n  Na, na, na ",
-    "key": "A"
-  },
   "Live_Wire.AC/DC": {
     "name": "Live Wire",
     "artist": "AC/DC",
@@ -4995,5 +4988,12 @@
     "id": "China_Grove.Doobie_Brothers",
     "lyrics": "V: (E  D C#5 A E) C#m7 B A   Bb7 B7 C7\nB: (C#m7 F#m7 C#m7 [F# - A (C D E)]\n\nWhen the sun comes up on a sleepy little town down around San Antone\nAnd the folks are risin for another day roundabout their homes\nThe people of the town are strange and they're proud of where they came\n\n  Well you're talkin bout China Grove\n  Oh-oh-oh China Grove, oh-oh-oh\n\nWell the preacher and the teacher Lord they're a caution they are the talk of the town\nWhen the gossip gets to flyin and they ain't lyin when the sun goes fallin down\nThey say that the father's insane and dear Mrs Perkins a game\n\n  Chorus\n\n    Every day there's a new thing comin the ways of an Oriental view\n    The sheriff and his buddies with their samurai swords\n    You can even hear the music at night\n    And though it's a part of the Lone Star State people don't seem to care\n    They just keep on lookin to the East\n\n  Riff / Solo\n\n  Chorus",
     "key": "E"
+  },
+  "Champagne_Supernova.Oasis": {
+    "name": "Champagne Supernova",
+    "artist": "Oasis",
+    "id": "Champagne_Supernova.Oasis",
+    "lyrics": "V: A /G /F# /E\nB: G A - G D E\nS: (A /G /F# /F /G) (F G)\n\nHow many special people change?\nHow many lives are living strange?\nWhere were you while we were gettin high?\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin high?\n\n  Someday you will find me caught beneath the landslide\n  In a champagne supernova in the sky x 2\n\nWake up the dawn and ask her why\nA dreamer dreams she never dies\nWipe that tear away now from your eye\nSlowly walking down the hall faster than a cannonball\nWhere were you while we were gettin' high?\n\n  Chorus\n\n    Cause people believe that they're gonna get away for the summer\n    But you and I we live and die the world's still spinnin round, we don't know why\n\n  Solo\n\nV1\n\n  Chorus\n\n    Bridge\n\n  Solo (w F)\n\n  Na, na, na ",
+    "key": "A"
   }
 }
