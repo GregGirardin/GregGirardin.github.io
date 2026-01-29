@@ -4961,13 +4961,6 @@
     "lyrics": "I: Bb Bb Eb Bb F\nV: Gm Cm Eb Bb Cm Eb Bb\nV: Bb Gm C Eb Ab Eb Bb Gb F\nB: Gbm Gm Ab A Bb\nC: (Bb Eb Bb Eb F F G Bb G Bb F Eb)\nS: F C F Bb Eb Bb\nS: 2-octave climb: F F# G Ab A Bb B, then B up to Bb\nO: Ab Eb Bb\n\nThis is the story of a poet I know\nHe takes it easy and he talks real slow\nThey call him lazy but when push comes to shove\nLazy goes crazy for a real hard luck\nDirty jeans and a whiskey robe he whispers\nQuote the raven nevermore\nThe poet sat back with his whiskey pouring\n\n  [Bridge]\n  and he says\n  he says\n\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n  Please don't groove in the middle of my love connection\n  I've been waiting all night\n  Just to move and stand in my direction\n\n  Solo\n\nI love sweet nectar above she's either\nQueen of the mean or she's as sweet as a dove\nBe careful to choose the words you say\nYou'll be getting hotter every single way\nLazy knew what he had to do\nBut all the other poets were covered in tape\nThe poet sat back with his whiskey pouring\n\n  Bridge\n\n  Chorus\n\n  Solo 2\n\n  2-octave climb\n\n  Chorus\n\n  Outro\n",
     "key": "Bb"
   },
-  "December.Collective_Soul": {
-    "name": "December",
-    "artist": "Collective Soul",
-    "id": "December.Collective_Soul",
-    "lyrics": "(G F C Bb)\n\nWhy drink the water from my hand?\nContagious as you think I am\nJust tilt my sun towards your domain\nYour cup runneth over again\n\n  Don't scream about, don't think aloud\n  Turn your head now baby just spit me out\n  Don't worry about, don't speak of doubt\n  Turn your head now baby just spit me out\n\n(G F C Bb) x 2\nIntro\n\nWhy follow me to higher ground?\nLost as you swear I am\nDon't throw away your basic needs\nAmbiance and vanity\n\n  Chorus x 2\n\n(G F C Bb) x 2\n\nBreak / Intro\n\nDecember promise you gave unto me\nDecember whispers of treachery\nDecember clouds are now covering me\nDecember songs no longer I sing  (Repeat)\n\n  Chorus x 2\n\nIntro",
-    "key": "G"
-  },
   "Movin_Out.Billy_Joel": {
     "name": "Movin Out",
     "artist": "Billy Joel",
@@ -5002,5 +4995,12 @@
     "id": "Funk_#49.James_Gang",
     "lyrics": "B|-5----7--5----7h8-7---7--5----|\nG|-5h6--7--5h6--7---7---7--5h6--|\nD|-5----7--5----7h9-7---7--5----|\nA|-0-------0---------------0----|\n\nV: (A - D) A Pent riff - B Pent riff E7#9\n\n  [Instrumental intro]\n\nI sleep all day, out all night, I know where you're goin'\nI don't think that's a-actin' right, you don't think it's showin'\n\n  [Instrumental break]\n\nA-jumpin' up, fallin' down, don't misunderstand me\nYou don't think that I know your plan, what you tryin' to hand me?\n\n  [Instrumental break]\n\n  [Solo]\n\nOut all night, sleep all day, I know what you're doin'\nIf you're gonna act that way, I think there's trouble brewin'\n\n  [Instrumental outro]\n",
     "key": "D"
+  },
+  "December.Collective_Soul": {
+    "name": "December",
+    "artist": "Collective Soul",
+    "id": "December.Collective_Soul",
+    "lyrics": "(G F C Bb)\n\nWhy drink the water from my hand?\nContagious as you think I am\nJust tilt my sun towards your domain\nYour cup runneth over again\n\n  Don't scream about, don't think aloud\n  Turn your head now baby just spit me out\n  Don't worry about, don't speak of doubt\n  Turn your head now baby just spit me out\n\n(G F C Bb) x 2\nIntro\n\nWhy follow me to higher ground?\nLost as you swear I am\nDon't throw away your basic needs\nAmbiance and vanity\n\n  Chorus x 2\n\n(G F C Bb) x 2\n\nBreak / Intro\n\nDecember promise you gave unto me\nDecember whispers of treachery\nDecember clouds are now covering me\nDecember songs no longer I sing  (Repeat)\n\n  Chorus x 2\n\nE|--------3---------3---------3--------------|\nB|----3--3-3----3--3-3----3--3-3----3--------|\nG|---0-0----0--0-0----0--0-0----0--0-0--0--0-|\nD|-------------------------------------------|\nA|----------------------3---------1----1--2--|\nE|-3----------1------------------------------|\n \nE|-3-3-3-5-3---1-1-1-3-----------------------3-3-5-3---1-1-3-1-1-----------|\nB|-3-3-3-3-3-0-1-1-1-1-1-5-5-5-5----3-3-3-3--3-3-3-3-3-1-1-1-1-1-5-5-5-5---|\nG|-----------------------5-5-7-5-5--3-3-3-5-3--------------------5-5-7-5-5-|\n \nE|-------------|\nB|-3-3-3-3-----|\nG|-3-3-3-5-3-0-|\n",
+    "key": "G"
   }
 }
