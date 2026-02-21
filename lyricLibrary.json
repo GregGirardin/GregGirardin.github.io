@@ -4464,13 +4464,6 @@
     "lyrics": "V: G D Em C\nS: A E F#m D\n\nLooking around the house hidden behind the window and the door\nSearching for signs of life but there's nobody home\nWell, maybe I'm just too sure\nOr maybe I'm just too frightened by the sound of it\nPieces of note fall down, but the letter said 'aha'\n\n  It was good, living with you, aha\n\nSitting around the house watching the sun trace shadows on the floor\nSearching for signs of life, but there's nobody home\nNow maybe I'll call, or write you a letter\nNow maybe we'll see on the Fourth of July\nBut I'm not too sure, and I'm not too proud\nWell I'm not too sure, and I'm not too proud to say 'aha'\n\n  Chorus\n\nSo good...\n\n Solo\n\n  Chorus\n\nYeah, you were so good\nYeah, you were so good\n(Yeah, that's right...)\n",
     "key": "G"
   },
-  "Trick_of_the_Light.The_Who": {
-    "name": "Trick of the Light",
-    "artist": "The Who",
-    "id": "Trick_of_the_Light.The_Who",
-    "lyrics": "V: D5/A (F G D5 F C D5)\nC: (G C F) D5/A\n\nWide awake in the middle of the night I wonder how she's feeling\nIs it just a trick of the light or is her ceiling peeling?\nShe's sitting up in bed, shaking her head at a copy of \"True Confessions\"\nOh it must seem like a fairy tale to a woman of her profession\n\n  But was I all right? (Was I all right?)\n  Did I take you to the height of ecstasy?\n  Was I all right? (Was I all right?)\n  Did a shadow of emotion cross your face\n  Or was it just another trick of the light?\n\n    Solo\n\n  Chorus\n\n    What's a nice girl like you doing in a place like this?\n    They don't make girls like you no more\n    And I'd like to get to know you on closer terms than this\n    But I guess you've heard it all before\n\n  Break\n\nLady of the night won't you steal away with me?\nLady of the night won't you steal away with me?\nThe money's lying on the floor she looks at me shakes her head and sighs\nOut of time out the door red light shining in my eyes\n\n  Chorus",
-    "key": "D"
-  },
   "Rockin_In_The_Free_World.Neil_Young": {
     "name": "Rockin In The Free World",
     "artist": "Neil Young",
@@ -4526,13 +4519,6 @@
     "id": "Knockin_on_Heaven_s_Door.Guns_n_Roses",
     "lyrics": "Mama, take this badge off of me\nI can't use it anymore\nIt's gettin dark, too dark to see\nI feel I'm knockin on heaven's door\n\n  Knock, knock, knockin on heaven's door\n\nMama, put my guns in the ground\nI can't shoot them anymore\nThat long black cloud is comin' down\nI feel I'm knockin' on heaven's door\n\nKnock, knock, knockin on heaven's door",
     "key": "G"
-  },
-  "Long_Way_Down.Goo_Goo_Dolls": {
-    "name": "Long Way Down",
-    "artist": "Goo Goo Dolls",
-    "id": "Long_Way_Down.Goo_Goo_Dolls",
-    "lyrics": "Oh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus",
-    "key": "Bm"
   },
   "All_these_things_I_ve_done.The_Killers": {
     "name": "All these things I've done",
@@ -5016,5 +5002,19 @@
     "id": "Change_Of_Heart.Tom_Petty_&_The_Heartbreakers",
     "lyrics": "Well I fought for you\nI fought too hard\nTo do it all again, babe\nIt's gone too far\nYou never needed me\nYou only wanted me around\nIt gets me down\n\n   There's been a change\n   Yeah there's been a change of heart\n   Said there's been a change\n   You pushed just a little too far\n   You made it just a little too hard\n   There's been a change of heart\n\nI'll get over you\nIt won't take long\nI've stood in your gallery\nSeen what's hanging from the walls\nYou were the moon and sun\nYou're just a loaded gun now\nIt gets me down\n\n   Chorus\n\n   [Bridge]\n   What we've had\n   All along\n   Looks like we finally reached the turning point\n   Oh me\n   Oh my\n   Looks like it's time for me to kiss it goodbye\n   Kiss it goodbye\n\n   Chorus\n",
     "key": "C"
+  },
+  "Trick_of_the_Light.The_Who": {
+    "name": "Trick of the Light",
+    "artist": "The Who",
+    "id": "Trick_of_the_Light.The_Who",
+    "lyrics": "V: D5/A (F G D5 F C D5)\nC: (G C F) D5/A\nB: F C D5, Bb F C, D5 Bb G Bb G C\n\nWide awake in the middle of the night I wonder how she's feeling\nIs it just a trick of the light or is her ceiling peeling?\nShe's sitting up in bed, shaking her head at a copy of \"True Confessions\"\nOh it must seem like a fairy tale to a woman of her profession\n\n  But was I all right? (Was I all right?)\n  Did I take you to the height of ecstasy?\n  Was I all right? (Was I all right?)\n  Did a shadow of emotion cross your face\n  Or was it just another trick of the light?\n\n    Solo\n\n  Chorus\n\n    What's a nice girl like you doing in a place like this?\n    They don't make girls like you no more\n    And I'd like to get to know you on closer terms than this\n    But I guess you've heard it all before\n\n  Break\n\nLady of the night won't you steal away with me?\nLady of the night won't you steal away with me?\nThe money's lying on the floor she looks at me shakes her head and sighs\nOut of time out the door red light shining in my eyes\n\n  Chorus",
+    "key": "D"
+  },
+  "Long_Way_Down.Goo_Goo_Dolls": {
+    "name": "Long Way Down",
+    "artist": "Goo Goo Dolls",
+    "id": "Long_Way_Down.Goo_Goo_Dolls",
+    "lyrics": "I: Bm G A\nV: Bm A G A\nC: Bm D G A\n\nOh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus",
+    "key": "Bm"
   }
 }
