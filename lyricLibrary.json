@@ -4296,13 +4296,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Blitzkrieg_Bop.The_Ramones": {
-    "name": "Blitzkrieg Bop",
-    "artist": "The Ramones",
-    "id": "Blitzkrieg_Bop.The_Ramones",
-    "lyrics": "",
-    "key": ""
-  },
   "Low.Cracker": {
     "name": "Low",
     "artist": "Cracker",
@@ -5003,13 +4996,6 @@
     "lyrics": "I: Bm G A\nV: Bm A G A\nC: Bm D G A\n\nOh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus",
     "key": "Bm"
   },
-  "Blitzkreig_Bop.The_Ramones": {
-    "name": "Blitzkreig Bop",
-    "artist": "The Ramones",
-    "id": "Blitzkreig_Bop.The_Ramones",
-    "lyrics": "V: G C D\nC: (C G) Am C D\n\nHey ho, lets go hey ho, lets go hey ho, lets go hey ho, lets go\nThey're forming in straight line \nthey're going through a tight wind\nThe kids are losing their minds blitzkrieg bop\n \nThey're piling in the back seat \nthey're generating steam heat\nPulsating to the back beat blitzkrieg bop\n\n  Hey ho, lets go shootem in the back now\n  what they want, I dont know\n  They're all reved up and ready to go\n \nTheyre forming in straight line \ntheyre going through a tight wind\nThe kids are losing their minds blitzkrieg bop\n \nTheyre piling in the back seat \ntheyre generating steam heat\nPulsating to the back beat blitzkrieg bop\n \n  Chorus\n \nV1\n \nHey ho, lets go hey ho, lets go\n",
-    "key": "G"
-  },
   "Blow_Up_The_Outside_World.Soundgarden": {
     "name": "Blow Up The Outside World",
     "artist": "Soundgarden",
@@ -5051,5 +5037,19 @@
     "id": "Found_Out_About_You.Gin_Blossoms",
     "lyrics": "G|------4---2--0---0--0----2-4-2-0--|\nD|--2-2---0--0---2------0-----------|\n\nAll last summer in case you don't recall\nI was yours and you were mine forget it all\nIs there a line that I could write\nThat's sad enough to make you cry?\nAnd all the lines you wrote to me were lies\n\nMonths roll past the love that you struck dead\nDid you love me only in my head?\nThe things you said and did to me they seem to come so easily\nThe love I thought I'd won you give for free\n\n  Whispers at the bus stop\n  Well I've heard about nights out in the school yard\n  I found out about you, I found out about you\n\nRumors follow everywhere you go\nLike when you left and I was last to know\nWell you're famous now and there's no doubt in all the places you hang out\nThey know your name and they know what you're about\n\n  Chorus\n\n  Solo\n\nStreet lights blink on through the car window\nI get the time too often on AM Radio\nWell you know it's all I think about I write your name, drive past your house\nYour boyfriend's over I watch your lights go out\n\n  Chorus x 2\n  I found out about you x 3",
     "key": "C"
+  },
+  "Blitzkrieg_Bop.The_Ramones": {
+    "name": "Blitzkrieg Bop",
+    "artist": "The Ramones",
+    "id": "Blitzkrieg_Bop.The_Ramones",
+    "lyrics": "",
+    "key": "undefined"
+  },
+  "Blitzkreig_Bop.The_Ramones": {
+    "name": "Blitzkreig Bop",
+    "artist": "The Ramones",
+    "id": "Blitzkreig_Bop.The_Ramones",
+    "lyrics": "V: A D E\nC: (D A) B D E\n\nHey ho, lets go hey ho, lets go hey ho, lets go hey ho, lets go\nThey're forming in straight line \nthey're going through a tight wind\nThe kids are losing their minds blitzkrieg bop\n \nThey're piling in the back seat \nthey're generating steam heat\nPulsating to the back beat blitzkrieg bop\n\n  Hey ho, lets go shootem in the back now\n  what they want, I dont know\n  They're all reved up and ready to go\n \nTheyre forming in straight line \ntheyre going through a tight wind\nThe kids are losing their minds blitzkrieg bop\n \nTheyre piling in the back seat \ntheyre generating steam heat\nPulsating to the back beat blitzkrieg bop\n \n  Chorus\n \nV1\n \nHey ho, lets go hey ho, lets go\n",
+    "key": "G"
   }
 }
