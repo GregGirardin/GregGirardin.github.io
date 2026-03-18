@@ -2461,14 +2461,6 @@
     "key": "Em",
     "tempo": "undefined"
   },
-  "I_Alone.Live": {
-    "name": "I Alone",
-    "artist": "Live",
-    "id": "I_Alone.Live",
-    "lyrics": "V: (G D C CM7) B\nC: E B G\nB: B - G\n\nIt's easier not to be wise, measure these things by your brains\nI sank into Eden with you alone in the church by and by\nI'll read to you love save your eyes you'll need them your boat is at sea\nYour anchor is up, you've been swept away\nAnd the greatest of teachers won't hesitate\nTo leave you there by yourself chained to fate\n \n  I alone love you, I alone tempt you, I alone love you\n  Fear is not the end of this\n  I alone love you, I alone tempt you, I alone love you\n \nIt's easier not to be great and measure these things by your eyes\nWe long to be here by his resolve alone in the church by and by\nTo cradle the baby in space\nAnd leave you there by yourself chained to fate\n \n  Chorus\n \n    Oh now we took it back too far only love can save us now\n    All these riddles that you burn all come running back to you\n    All these rhythms that you hide only love can save us now\n    All these riddles that you burn\n    yeah yeah yeah\n \n  Chorus",
-    "key": "G",
-    "tempo": "Tempo"
-  },
   "I_Wanna_Be_Sedated.The_Ramones": {
     "name": "I Wanna Be Sedated",
     "artist": "The Ramones",
@@ -5079,5 +5071,12 @@
     "id": "Touch_of_Grey.Grateful_Dead",
     "lyrics": "It must be getting early\nClocks are running late\nPaint by numbers morning sky\nLooks so phony\n\nDawn is breaking everywhere\nLight a candle, curse the glare\nDraw the curtains, I don't care\n'Cause it's alright\n\n   [Chorus]\n   I will get by\n   I will get by\n   I will get by\n   I will survive\n\nI see you got your list out\nSay your piece and get out (note 1)\nYes I got the gist of it\nBut it's alright\n\nSorry that you feel that way\nThe only thing there is to say\nEvery silver lining's got a\nTouch of grey\n\nIt's a lesson to me\nThe Ables and the Bakers and the C's\nThe A B C's\nWe all must face\nAnd try to keep a little grace\n\nI know the rent is in arrears\nThe dog has not been fed in years\nIt's even worse than it appears\nBut it's alright\n\nCows are giving kerosene\nThe kid can't read at seventeen\nThe words he knows are all obscene\nBut it's alright\n\n   [Chorus]\n\nIt's a lesson to me\nThe Deltas and the East and the Freeze\nThe A B C's\nWe all think of\nAnd try to keep a little love\n\nThe shoe is on the hand it fits\nThere's really nothing much to it\nWhistle through your teeth and split\n'Cause it's alright\n\nOh well a touch of grey\nKind of suits you anyway\nThat was all I had to say\nAnd it's alright\n\n   [Chorus]\n\nWe will get by\nWe will get by\nWe will get by\nWe will survive\n",
     "key": "B"
+  },
+  "I_Alone.Live": {
+    "name": "I Alone",
+    "artist": "Live",
+    "id": "I_Alone.Live",
+    "lyrics": "V: (G D C CM7) B\nC: E B G\nB: B - G\n\nIt's easier not to be wise, measure these things by your brains\nI sank into Eden with you alone in the church by and by\nI'll read to you love save your eyes you'll need them your boat is at sea\nYour anchor is up, you've been swept away\nAnd the greatest of teachers won't hesitate\nTo leave you there by yourself chained to fate\n \n  I alone love you, I alone tempt you, I alone love you\n  Fear is not the end of this\n  I alone love you, I alone tempt you, I alone love you\n \nIt's easier not to be great and measure these things by your eyes\nWe long to be here by his resolve alone in the church by and by\nTo cradle the baby in space\nAnd leave you there by yourself chained to fate\n \n  Chorus +\n\n  (I alone love you, I alone tempt you, I alone love you)\n \n    Oh now we took it back too far only love can save us now\n    All these riddles that you burn all come running back to you\n    All these rhythms that you hide only love can save us now\n    All these riddles that you burn\n    yeah yeah yeah\n \n  Chorus +\n  (I alone love you, I alone tempt you, I alone love you) hooo\n  (I alone love you, I alone tempt you, I alone love you) hooo",
+    "key": "G"
   }
 }
