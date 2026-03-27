@@ -1,0 +1,2715 @@
+<!--
+{
+  "name": "GBI",
+  "sets": [
+    {
+      "name": "Set 1",
+      "songs": [
+        {
+          "name": "Lucky Man",
+          "artist": "ELP",
+          "id": "Lucky_Man.ELP",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "No Woman No Cry",
+          "artist": "Bob Marley",
+          "id": "No_Woman_No_Cry.Bob_Marley",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "We Can Work It Out",
+          "artist": "The Beatles",
+          "id": "We_Can_Work_It_Out.The_Beatles",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Dreams",
+          "artist": "Fleetwood Mac",
+          "id": "Dreams.Fleetwood_Mac",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "What You Won't Do",
+          "artist": "Bobby Caldwell",
+          "id": "What_You_Won_t_Do.Bobby_Caldwell",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Stuck in the middle with you",
+          "artist": "Steelers Wheel",
+          "id": "Stuck_in_the_middle_with_you.Steelers_Wheel",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Water of Love",
+          "artist": "Dire Straits",
+          "id": "Water_of_Love.Dire_Straits",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "For the Summer",
+          "artist": "Ray Lamontangue",
+          "id": "For_the_Summer.Ray_Lamontangue",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "All things all at once",
+          "artist": "Tired Pony",
+          "id": "All_things_all_at_once.Tired_Pony",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Texarkana",
+          "artist": "REM",
+          "id": "Texarkana.REM",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Do It Again",
+          "artist": "Steely Dan",
+          "id": "Do_It_Again.Steely_Dan",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Lean On Me",
+          "artist": "Bill Withers",
+          "id": "Lean_On_Me.Bill_Withers",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Horse with no Name",
+          "artist": "America",
+          "id": "Horse_with_no_Name.America",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Spooky",
+          "artist": "Classic IV",
+          "id": "Spooky.Classic_IV",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Fragile",
+          "artist": "Sting",
+          "id": "Fragile.Sting",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "It's Probably Me",
+          "artist": "Sting",
+          "id": "It_s_Probably_Me.Sting",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Holding back the years",
+          "artist": "Simply Red",
+          "id": "Holding_back_the_years.Simply_Red",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Summer Wind",
+          "artist": "Frank Sinatra",
+          "id": "Summer_Wind.Frank_Sinatra",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Set 2",
+      "songs": [
+        {
+          "name": "What I got",
+          "artist": "Sublime",
+          "id": "What_I_got.Sublime",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Hand in my pocket",
+          "artist": "Alanis Morisette",
+          "id": "Hand_in_my_pocket.Alanis_Morisette",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "The Gambler",
+          "artist": "Kenny Rodgers",
+          "id": "The_Gambler.Kenny_Rodgers",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Kashmir",
+          "artist": "Led Zeppelin",
+          "id": "Kashmir.Led_Zeppelin",
+          "css_highlight": false,
+          "medley": true
+        },
+        {
+          "name": "Norwegian Wood",
+          "artist": "The Beatles",
+          "id": "Norwegian_Wood.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Country Roads",
+          "artist": "John Denver",
+          "id": "Country_Roads.John_Denver",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Chasing Cars",
+          "artist": "Snow Patrol",
+          "id": "Chasing_Cars.Snow_Patrol",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Break Down",
+          "artist": "Tom Petty",
+          "id": "Break_Down.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Lucy in the sky with Diamonds",
+          "artist": "The Beatles",
+          "id": "Lucy_in_the_sky_with_Diamonds.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Don't Let Me Down",
+          "artist": "The Beatles",
+          "id": "Don_t_Let_Me_Down.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Drive",
+          "artist": "The Cars",
+          "id": "Drive.The_Cars",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Baby Blue",
+          "artist": "Badfinger",
+          "id": "Baby_Blue.Badfinger",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Badfish",
+          "artist": "Sublime",
+          "id": "Badfish.Sublime",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Fire On The Mountain",
+          "artist": "The Grateful Dead",
+          "id": "Fire_On_The_Mountain.The_Grateful_Dead",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "A Face In The Crowd",
+          "artist": "Tom Petty",
+          "id": "A_Face_In_The_Crowd.Tom_Petty",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "All That Heaven Will Allow",
+          "artist": "Bruce Springsteen",
+          "id": "All_That_Heaven_Will_Allow.Bruce_Springsteen",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Friend Of The Devil",
+          "artist": "The Grateful Dead",
+          "id": "Friend_Of_The_Devil.The_Grateful_Dead",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Ripple",
+          "artist": "The Grateful Dead",
+          "id": "Ripple.The_Grateful_Dead",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Shanty",
+          "artist": "Jonathan Edwards",
+          "id": "Shanty.Jonathan_Edwards",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Set 3",
+      "songs": [
+        {
+          "name": "Beginnings",
+          "artist": "Chicago",
+          "id": "Beginnings.Chicago",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Babylon",
+          "artist": "David Gray",
+          "id": "Babylon.David_Gray",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Tea In The Sahara",
+          "artist": "The Police",
+          "id": "Tea_In_The_Sahara.The_Police",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Wrapped Around Your Finger",
+          "artist": "The Police",
+          "id": "Wrapped_Around_Your_Finger.The_Police",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Wichita Lineman",
+          "artist": "Glen Campbell",
+          "id": "Wichita_Lineman.Glen_Campbell",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Amie",
+          "artist": "Pure Prarie",
+          "id": "Amie.Pure_Prarie",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "And I Love Her",
+          "artist": "The Beatles",
+          "id": "And_I_Love_Her.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Harvest Moon",
+          "artist": "Neil Young",
+          "id": "Harvest_Moon.Neil_Young",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Drivin My Life Away",
+          "artist": "Eddie Rabbit",
+          "id": "Drivin_My_Life_Away.Eddie_Rabbit",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Trouble",
+          "artist": "Ray Lamontangue",
+          "id": "Trouble.Ray_Lamontangue",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Sunshine",
+          "artist": "Jonathan Edwards",
+          "id": "Sunshine.Jonathan_Edwards",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Wish You Were Here",
+          "artist": "Pink Floyd",
+          "id": "Wish_You_Were_Here.Pink_Floyd",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Stand by me",
+          "artist": "Ben E. King",
+          "id": "Stand_by_me.Ben_E._King",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Misc",
+      "songs": [
+        {
+          "name": "A Day in the Life",
+          "artist": "The Beatles",
+          "id": "A_Day_in_the_Life.The_Beatles",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "All This Time",
+          "artist": "Sting",
+          "id": "All_This_Time.Sting",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Ain't No Sunshine",
+          "artist": "Bill Withers",
+          "id": "Ain_t_No_Sunshine.Bill_Withers",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Cool Change",
+          "artist": "Little River Band",
+          "id": "Cool_Change.Little_River_Band",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Crazy",
+          "artist": "Gnarles Barkley",
+          "id": "Crazy.Gnarles_Barkley",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Drift Away",
+          "artist": "Dobie Gray",
+          "id": "Drift_Away.Dobie_Gray",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Eye in the Sky",
+          "artist": "Alan Parsons",
+          "id": "Eye_in_the_Sky.Alan_Parsons",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Helplessly Hoping",
+          "artist": "CSN",
+          "id": "Helplessly_Hoping.CSN",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Just Remember I Love You",
+          "artist": "Firefall",
+          "id": "Just_Remember_I_Love_You.Firefall",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Love Song",
+          "artist": "The Cure",
+          "id": "Love_Song.The_Cure",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Man of constant sorrow",
+          "artist": "Traditional",
+          "id": "Man_of_constant_sorrow.Traditional",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Never Tear Us Apart",
+          "artist": "INXS",
+          "id": "Never_Tear_Us_Apart.INXS",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Purple Rain",
+          "artist": "Prince",
+          "id": "Purple_Rain.Prince",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Riders On The Storm",
+          "artist": "The Doors",
+          "id": "Riders_On_The_Storm.The_Doors",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Tin Man",
+          "artist": "America",
+          "id": "Tin_Man.America",
+          "css_highlight": false,
+          "medley": false
+        },
+        {
+          "name": "Ventura Highway",
+          "artist": "America",
+          "id": "Ventura_Highway.America",
+          "css_highlight": false,
+          "medley": false
+        }
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "songs": []
+    }
+  ]
+}
+-->
+<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>GBI</title>
+
+<style type="text/css">
+.accordion
+{
+  border: 2px solid white;
+  background-color: #def;
+  color: #444;
+  padding: 6px;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.fixedFont
+{
+  font-family: monospace;
+}
+
+.panel
+{
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  font-size: 20px;
+  background-color: #fee;
+  text-align: left;
+}
+
+.css_medleyStart
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 90% 0, 100% 50%, 90% 100%, 0% 100%, 5% 50% );
+}
+
+.css_medleyCont
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0 15%, 95% 15%, 95% 85%, 0% 85% );
+}
+
+.css_medleyEnd
+{
+  position:relative;
+  overflow:hidden;
+  background: #ddf;
+  clip-path: polygon( 0% 0%, 95% 0%, 85% 50%, 95% 100%, 0% 100% );
+}
+
+.css_highlight
+{
+  color: #d33;
+}
+
+.css_topButtons
+{
+  background-color: #fdd;
+  padding: 10px;
+  font-size: 16px;
+}
+
+</style>
+</head>
+
+<body align="center">
+<button class="css_topButtons" id="fontButtonFixed" onclick="fontFixed();">Fixed</button>
+<button class="css_topButtons" id="fontButton+" onclick="fontPlus();">Font +</button>
+<button class="css_topButtons" id="fontButton-" onclick="fontMinus();">Font -</button>
+<button id="fontSizeButton">Size</button>
+<button class="css_topButtons" id="verticalButton+" onclick="displayPlus();">Expand</button>
+<button class="css_topButtons" id="verticalButton-" onclick="displayMinus();">Shrink</button>
+<hr><div class='setname'>Set 1</div>
+<button class='accordion'>1. Lucky Man</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: G D&nbsp;&nbsp;&nbsp;C: Am Em D<br>
+</font>
+<br>
+Harmonica: Am<br>
+<br>
+He had white horses and ladies by the score<br>
+All dressed in satin and waiting by the door<br>
+<br>
+&nbsp;&nbsp;Ooh, what a lucky man he was<br>
+<br>
+White lace and feathers they made up his bed<br>
+A gold covered mattress on which he was laid<br>
+<br>
+He went to fight wars for his country and his king<br>
+Of his honor and his glory the people would sing<br>
+<br>
+A bullet had found him his blood ran as he cried<br>
+No money could save him so he laid down and he died<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>2. No Woman No Cry</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: C C/B Am F - C F C<br>
+</font>
+<br>
+&nbsp;&nbsp;No, woman, no cry...<br>
+<br>
+Cause, I remember when we used to sit in the government yard in Trenchtown<br>
+Observing the hypocrites mingle with the good people we meet<br>
+Good friends we have, oh, good friends we've lost along the way<br>
+In this great future, you can't forget your past so dry your tears, I say<br>
+<br>
+&nbsp;&nbsp;No, woman, no cry. Little darlin', don't shed no tears<br>
+<br>
+Said, I remember when we used to sit in the government yard in Trenchtown.<br>
+And then Georgie would make the fire light log wood burnin through the night<br>
+Then we would cook cornmeal porridge of which I'll share with you<br>
+My feet is my only carriage so I've got to push on through, but while I'm gone<br>
+<br>
+&nbsp;&nbsp;Everything's gonna be all right<br>
+<br>
+Chorus / V1<br>
+</div>
+
+<button class='accordion css_medleyCont'>3. We Can Work It Out</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (C Bb C) F C F G<br>
+B: Am /G /F E4<br>
+</font>
+<br>
+Try to see it my way. Do I have to keep on talking till I can't go on<br>
+While you see it your way, run the risk of knowing that our love may soon be gone<br>
+We can work it out<br>
+<br>
+Think of what you're saying. You can get it wrong and still you think that it's alright<br>
+Think of what I'm saying. We can work it out and get it straight or say goodnight<br>
+We can work it out<br>
+<br>
+&nbsp;&nbsp;Life is very short and there's no time for fussing and fighting my friend<br>
+&nbsp;&nbsp;I have always thought that it's a crime so I will ask you once again<br>
+<br>
+Try to see it my way only time will tell if I am right or I am wrong<br>
+While you see it your way there's a chance that we might fall apart before too long<br>
+We can work it out<br>
+<br>
+&nbsp;&nbsp;Life is very short...<br>
+<br>
+Verse<br>
+</div>
+
+<button class='accordion css_medleyEnd'>4. Dreams</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (F G)&nbsp;&nbsp;&nbsp;&nbsp;or (C D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;120bpm<br>
+B: (Am G F)&nbsp;&nbsp;&nbsp;&nbsp;(Em D C)<br>
+</font>
+<br>
+Now here you go again you say you want your freedom well who am I to keep you down?<br>
+It's only right that you should play the way you feel it<br>
+But listen carefully to the sound<br>
+Of your loneliness, like a heartbeat drives you mad<br>
+In the stillness of remembering what you had<br>
+And what you lost, and what you had, and what you lost<br>
+<br>
+&nbsp;&nbsp;Oh thunder only happens when it's raining<br>
+&nbsp;&nbsp;Players only love you when they're playing<br>
+&nbsp;&nbsp;Women they will come and they will go<br>
+&nbsp;&nbsp;When the rain washes you clean you'll know, you'll know<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Break<br>
+<br>
+Now here I go again I see your crystal visions, I keep my visions to myself<br>
+It's only me who wants to wrap around you dreams and<br>
+Have you any dreams you'd like to sell<br>
+Dreams of loneliness like a heartbeat drives you mad<br>
+In the stillness of remembering what you had<br>
+And what you lost, and what you had, ooh what you lost<br>
+<br>
+&nbsp;&nbsp;Chorus x 2<br>
+</div>
+
+<button class='accordion'>5. What You Won't Do</button>
+<div class='panel'>
+CM7 B7 Em A7 (CM F7 Em A7)<br>
+<br>
+I guess you wonder where I've been I searched to find the love within<br>
+I came back to let you know got a thing for you and I can't let it go<br>
+<br>
+My friends wonder what is wrong with me, well I'm in a daze from your love you see<br>
+I came back to let you know got a thing for you and I can't let it go<br>
+<br>
+Some people go around the world for love<br>
+And they may never find what they dream of<br>
+<br>
+&nbsp;&nbsp;What you won't do, you do for love<br>
+&nbsp;&nbsp;you tried everything but you don't give up<br>
+&nbsp;&nbsp;In my world only you<br>
+&nbsp;&nbsp;made me do for love what I would not do<br>
+<br>
+V2<br>
+<br>
+You know I only want the best it's true<br>
+I can't believe the things I do for you<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion css_medleyStart'>6. Stuck in the middle with you</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: D G D - A C G - D&nbsp;&nbsp;&nbsp;B:(G7 D) A7<br>
+</font>
+<br>
+Well I don't know why I came here tonight I got the feeling that something ain't right<br>
+I'm so scared in case I fall off my chair and I'm wondering how I'll get down the stairs<br>
+&nbsp;&nbsp;Clowns to the left of me, jokers to the right, here I am stuck in the middle with you.<br>
+<br>
+Yes I'm stuck in the middle with you and I'm wondering what it is I should do<br>
+It's so hard to keep this smile from my face losing control, yeah, I'm all over the place..<br>
+&nbsp;&nbsp;Clowns to the left..<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Well you started out with nothing and you're proud that you're a self made man<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And your friends they all come crawlin slap you on the back and say please, please<br>
+<br>
+Trying to make some sense of it all but I can see that it makes no sense at all<br>
+Is it cool to go to sleep on the floor cause I don't think that I can take anymore.<br>
+Clowns to the left..<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Well you started out with nothing..<br>
+<br>
+V1<br>
+</div>
+
+<button class='accordion css_medleyEnd'>7. Water of Love</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: D C G Am C - D C G D<br>
+V: D D Am D<br>
+C: (Am G D)<br>
+</font>
+<br>
+High and dry in the long hot day. Lost and lonely in every way.<br>
+Got the flats all around, sky up above. Yes I need a little water of love.<br>
+<br>
+I've been too long lonely and my heart feels pain. Crying out for some soothing rain.<br>
+I believe I've taken enough. Yes I need a little water of love.<br>
+<br>
+&nbsp;&nbsp;Water of love deep in the ground<br>
+&nbsp;&nbsp;But there ain't no water here to be found.<br>
+&nbsp;&nbsp;Some day baby when the river runs free<br>
+&nbsp;&nbsp;It's gonna carry that water of love to me.<br>
+<br>
+Intro<br>
+<br>
+There's a bird up in a tree sitting up high. Just awaitin for me to die.<br>
+If I don't get some water soon I'll be dead and gone in the afternoon.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Intro<br>
+<br>
+Once I had a woman I could call my own. Once I had a woman now my woman she gone.<br>
+Once there was a river, now there's a stone. You know it's evil when you're living alone.<br>
+<br>
+&nbsp;&nbsp;Chorus x 2<br>
+</div>
+
+<button class='accordion'>8. For the Summer</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: B F#m A<br>
+V: B F#m A E<br>
+C: (A E) B F#m E D<br>
+O: (B F#m) E D B<br>
+</font>
+<br>
+Harmonica: E<br>
+<br>
+Rollin' through these hills I've known I'd be coming<br>
+There ain't a man alive that likes to be alone<br>
+It's been a while since I seen my lady smile<br>
+Have I been have I been away so long<br>
+<br>
+&nbsp;&nbsp;I'm tired..<br>
+&nbsp;&nbsp;Can I come home for the summer I could slow down for a little while<br>
+&nbsp;&nbsp;Get back to lovin each other leave all those long and lonesome miles behind<br>
+<br>
+Through the years I have learned some things worth the tellin<br>
+And you'd be right in guessin that each and every lesson they were hard won<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+You'll follow her, wherever she goes<br>
+You love her, and you just want her to know<br>
+That you'll follow her, you'll find a way<br>
+Cause you love her and you just want her to know<br>
+<br>
+</div>
+
+<button class='accordion'>9. All things all at once</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Em Bm C)&nbsp;&nbsp;&nbsp;C: (D C Em Bm) - (Em D C Am)<br>
+</font>
+<br>
+In those days we were lions. In those days we were kings.<br>
+It's not one thing or the other. It's all things all at once.<br>
+<br>
+&nbsp;&nbsp;Oh I'll love you better than him x 4 + (3 Measures)<br>
+&nbsp;&nbsp;ohhh x 2<br>
+<br>
+These wings ain't for flying. These wings are just for show.<br>
+It's years since I've been flying. I am down to the earth.<br>
+<br>
+&nbsp;&nbsp;Oh I'll love you better than him x 4<br>
+&nbsp;&nbsp;ohhh x 4<br>
+<br>
+In those days we were lions. In those days we were kings.<br>
+</div>
+
+<button class='accordion'>10. Texarkana</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Em G Bm&nbsp;&nbsp;Em A G<br>
+C: C9 D Bm&nbsp;&nbsp;C9 Am (Em D)<br>
+B: (A2 G) D G D E<br>
+</font>
+<br>
+Twenty thousand miles to an oasis. Twenty thousand years will I burn<br>
+Twenty thousand chances I wasted. Waiting for the moment to turn<br>
+<br>
+&nbsp;&nbsp;I would give my life to find it I would give it all. Catch me if I fall<br>
+<br>
+Walking through the woods I have faced. It looking for something to learn<br>
+Thirty thousand thoughts have replaced it. Never in my time to return<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;All alone, waiting to fall<br>
+<br>
+Forty thousand stars in the evening. Look at them fall from the sky<br>
+Forty thousand reasons for living. Forty thousand tears in your eye<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>11. Do It Again</button>
+<div class='panel'>
+Em (C D Em D)<br>
+<br>
+In the mornin you go gunnin for the man who stole your water<br>
+And you fire till he is done in but they catch you at the border<br>
+And the mourners are all singin as they drag you by your feet<br>
+But the hangman isn't hangin and they put you on the street<br>
+<br>
+&nbsp;&nbsp;You go back Jack do it again, wheel turnin round and round<br>
+<br>
+When you know she's no high climber then you find your only friend<br>
+In a room with your two timer and you're sure you're near the end<br>
+Then you love a little wild one and she brings you only sorrow<br>
+All the time you know she's smilin you'll be on your knees tomorrow<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Solo<br>
+<br>
+Now you swear and kick and beg us that you're not a gambling man<br>
+Then you find you're back in Vegas with a handle in your hand<br>
+Your black cards can make you money so you hide them when you're able<br>
+In the land of milk and honey you must put them on the table<br>
+</div>
+
+<button class='accordion'>12. Lean On Me</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: C F C Em G - C F C G C<br>
+B: C G C<br>
+</font>
+<br>
+Sometimes in our lives we all have pain we all have sorrow<br>
+But if we are wise we know that there's always tomorrow<br>
+<br>
+&nbsp;&nbsp;Lean on me, when you're not strong and I'll be your friend I'll help you carry on<br>
+&nbsp;&nbsp;For it won't be long til I'm gonna need somebody to lean on<br>
+<br>
+Please swallow your pride if I have things you need to borrow<br>
+For no one can fill those of your needs that you won't let show<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;So just call on me brother, when you need a hand<br>
+&nbsp;&nbsp;&nbsp;&nbsp;We all need somebody to lean on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I just might have a problem that you'd understand<br>
+&nbsp;&nbsp;&nbsp;&nbsp;We all need somebody to lean on<br>
+<br>
+Lean on me, when you're not strong and I'll be your friend I'll help you carry on<br>
+For it won't be long til I'm gonna need somebody to lean on<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;So just call on me brother, when you need a hand...<br>
+<br>
+If there is a load you have to bear that you can't carry<br>
+I'm right up the road, I'll share your load if you just call me<br>
+call me...<br>
+</div>
+
+<button class='accordion'>13. Horse with no Name</button>
+<div class='panel'>
+Em - D6<br>
+<br>
+On the first part of the journey I was lookin at all the life<br>
+There were plants and birds and rocks and things there were sand and hills and rings<br>
+The first thing I met was a fly with a buzz and the sky with no clouds<br>
+The heat was hot and the ground was dry but the air was full of sound<br>
+<br>
+&nbsp;&nbsp;I've been through the desert on a horse with no name<br>
+&nbsp;&nbsp;it felt good to be out of the rain<br>
+&nbsp;&nbsp;in the desert you can remember your name<br>
+&nbsp;&nbsp;'cause there ain't no one for to give you no pain La la<br>
+<br>
+After two days in the desert sun my skin began to turn red<br>
+After three days in the desert fun I was looking at a river bed<br>
+And the story it told of a river that flowed made me sad to think it was dead<br>
+<br>
+After nine days I let the horse run free cause the desert had turned to sea<br>
+There were plants and birds and rocks and things there were sand and hills and rings<br>
+The ocean is a desert with it's life underground and the perfect disguise above<br>
+Under the cities lies a heart made of ground but the humans will give no love<br>
+</div>
+
+<button class='accordion'>14. Spooky</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Em7 A7) Em7 A7 Bb-dim, Em7 A7 Em7 -- B7<br>
+</font>
+<br>
+Harmonica: D, 3rd position<br>
+<br>
+In the cool of the evening, when everything is getting kind of groovy,<br>
+I call you up, and ask you if you'd like to go with me and see a movie,<br>
+First you say no, you've got some plans for the night,<br>
+Then you stop, and say... alright,<br>
+Love is kinda crazy with a spooky little girl like you!<br>
+<br>
+You always keep me guessing, I never seem to know what you are thinking,<br>
+And if a feller looks at you, it's for sure your little eye will be awinking,<br>
+I get confused, cause I don't know where I stand,<br>
+And then you smile, and hold my hand,<br>
+Love is kinda crazy..<br>
+<br>
+Harmonica<br>
+<br>
+If you decide, someday, to stop this little game that you are playing,<br>
+I'm gonna tell you the only thing my heart is dying to be saying,<br>
+Just like a ghost, you've been haunting my dreams,<br>
+So I'll propose... on Halloween,<br>
+Love is kinda crazy...<br>
+<br>
+</div>
+
+<button class='accordion'>15. Fragile</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Em Am B7<br>
+C: Am B7 Em<br>
+</font>
+<br>
+If blood will flow when flesh and steel are one<br>
+Drying in the color of the evening sun<br>
+Tomorrow's rain will wash the stains away<br>
+But something in our minds will always stay<br>
+<br>
+Perhaps this final act was meant to clinch a lifetime's argument<br>
+That nothing comes from violence and nothing ever could<br>
+For all those born beneath an angry star<br>
+Lest we forget how fragile we are<br>
+<br>
+&nbsp;&nbsp;On and on the rain will fall like tears from a star<br>
+&nbsp;&nbsp;On and on the rain will say how fragile we are<br>
+<br>
+</div>
+
+<button class='accordion'>16. It's Probably Me</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Em9 EmM7) Am Bm Em - Am Bm Em C#dim CM B7 Em<br>
+B: Am D G - Em D/f# G Bm - Am D G<br>
+</font>
+<br>
+If the night turned cold and the stars looked down<br>
+And you hug yourself on the cold cold ground<br>
+you wake the morning in a stranger's coat no one would you see<br>
+You ask yourself, who'd watch for me my only friend, who could it be<br>
+It's hard to say it I hate to say it, but it's probably me<br>
+<br>
+When your belly's empty and the hunger's so real<br>
+and you're too proud to beg and too dumb to steal<br>
+you search the city for your only friend no one would you see<br>
+Ask yourself, who'd watch for me a solitary voice to speak out and set me free...<br>
+<br>
+&nbsp;&nbsp;You're not the easiest person I ever got to know<br>
+&nbsp;&nbsp;And it's hard for us both to let our feelings show<br>
+&nbsp;&nbsp;Some would say I should let you go your way you'll only make me cry<br>
+&nbsp;&nbsp;But if there's one guy, just one guy who'd lay down his life for you and die...<br>
+<br>
+When the world's gone crazy and it makes no sense<br>
+There's only one voice that comes to your defense<br>
+And the jury's out and your eyes search the room and one friendly face is all you need to see<br>
+If there's one guy, just one guy who'd lay down his life for you and die...<br>
+</div>
+
+<button class='accordion'>17. Holding back the years</button>
+<div class='panel'>
+Bm9 E13<br>
+<br>
+Harmonica: A, 3rd position<br>
+<br>
+Holding back the years thinking of the fear I've had so long<br>
+When somebody hears listen to the fear that's gone<br>
+Strangled by the wishes of pater hoping for the arms of mater<br>
+Get to me the sooner or later<br>
+<br>
+&nbsp;&nbsp;I'll keep holding on<br>
+<br>
+Holding back the years chance for me to escape from all I've known<br>
+Holding back the tears cause nothing here has grown<br>
+I've wasted all my tears wasted all those years<br>
+And nothing had the chance to be good nothing ever could yeah<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+I've wasted..<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>18. Summer Wind</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: F C<br>
+V: C Dm - Dm C - C C7 F Dm - C Dm G C<br>
+</font>
+<br>
+The summer wind, came blowin' in from across the sea<br>
+It lingered there to touch your hair and walk with me<br>
+All summer long we sang a song and then we strolled that golden sand<br>
+Two sweethearts and the summer wind<br>
+<br>
+Like painted kites, those days and nights, they went flyin' by<br>
+The world was new beneath a blue umbrella sky<br>
+Then softer than a piper man one day it called to you<br>
+I lost you, I lost you to the summer wind<br>
+<br>
+&nbsp;&nbsp;Intro<br>
+<br>
+The autumn wind and the winter winds, they have come and gone<br>
+And still the days, those lonely days, they go on and on<br>
+And guess who sighs his lullabies through nights that never end<br>
+My fickle friend, the summer wind<br>
+<br>
+The summer wind<br>
+Warm summer wind<br>
+Mmm, the summer wind<br>
+</div>
+
+<hr><div class='setname'>Set 2</div>
+<button class='accordion css_medleyStart'>1. What I got</button>
+<div class='panel'>
+D G - 95bpm<br>
+<br>
+Early in the morning, risin' to the street. Light me up that cigarette and I strap shoes on my feet.<br>
+Got to find a reason, a reason things went wrong. Got to find a reason why my money's all gone.<br>
+I got a dalmatian, and I can still get high. I can play the guitar like a motherfucking riot.<br>
+<br>
+Life is too short so love the one you got. Cause you might get run over or you might get shot.<br>
+Never start no static I just get it off my chest. Never had to battle with no bulletproof vest.<br>
+Take a small example, take a tip from me. Take all of your money give it all to charity.<br>
+Love is what I got, it's within my reach, and the Sublime style's still straight from Long Beach.<br>
+It all comes back to you you'll finally get what you deserve try and test that you're bound to get served<br>
+Love's what I got don't start a riot you'll feel it when the dance gets hot<br>
+<br>
+Lovin', is what I got, I said remember that<br>
+<br>
+Why I don't cry when my dog runs away. I don't get angry at the bills I have to pay.<br>
+I don't get angry when my mom smokes pot. Hits the bottle and goes right to the rock.<br>
+Fuckin' and fightin it's all the same. Livin with Louie dog's the only way to stay sane.<br>
+Let the lovin' come back to me<br>
+<br>
+Chorus<br>
+</div>
+
+<button class='accordion css_medleyEnd'>2. Hand in my pocket</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: E - D A E&nbsp;&nbsp;&nbsp;&nbsp;V: D - C G D&nbsp;&nbsp;Harmonica: D<br>
+</font>
+<br>
+I'm broke but I'm happy, I'm sore but I'm kind. I'm short but I'm healthy, yeah<br>
+I'm high but I'm grounded, I'm sane but I'm overwhelmed, I'm lost but I'm hopeful, baby<br>
+<br>
+&nbsp;&nbsp;And what it all comes down to, is that everything's gonna be fine<br>
+&nbsp;&nbsp;Cause I've got one hand in my pocket and the other one is givin a high five<br>
+<br>
+I feel drunk but I'm sober I'm young and I'm underpaid. I'm tired but I'm workin yeah<br>
+I care but I'm restless I'm here but I'm really gone. I'm wrong and I'm sorry baby<br>
+<br>
+&nbsp;&nbsp;. is that everything's gonna be quite alright<br>
+&nbsp;&nbsp;. and the other one's flickin a cigarette<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+&nbsp;&nbsp;. is that I haven't got it figured out just yet<br>
+&nbsp;&nbsp;. and the other one's givin a peace sign<br>
+<br>
+I'm free but I'm focused, I'm green but I'm wise. I'm hard but I'm friendly, baby<br>
+I'm sad but I'm laughin, I'm brave but I'm chickenshit. I'm sick but I'm pretty, baby<br>
+<br>
+&nbsp;&nbsp;And what it all boils down to, is that no one's really got it figured out just yet<br>
+&nbsp;&nbsp;. and the other one is playin a piano<br>
+&nbsp;&nbsp;And what it all comes down to my friends, is that everything is just fine fine fine<br>
+&nbsp;&nbsp;. and the other one's hailing a taxi cab<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+</div>
+
+<button class='accordion css_medleyStart'>3. The Gambler</button>
+<div class='panel'>
+D (G D) [G A / A D]<br>
+<br>
+On a warm summer's evenin' on a train bound for nowhere,<br>
+I met up with the gambler; we were both too tired to sleep.<br>
+So we took turns a starin' out the window at the darkness<br>
+'til boredom overtook us, and he began to speak.<br>
+<br>
+He said, "Son, I've made a life out of readin' people's faces,<br>
+and knowin' what their cards were by the way they held their eyes.<br>
+And if you don't mind my sayin', I can see you're out of aces.<br>
+For a taste of your whiskey I'll give you some advice."<br>
+<br>
+So I handed him my bottle and he drank down my last swallow.<br>
+Then he bummed a cigarette and asked me for a light.<br>
+And the night got deathly quiet, and his face lost all expression.<br>
+Said, "If you're gonna play the game, boy, ya gotta learn to play it right.<br>
+<br>
+&nbsp;&nbsp;You got to know when to hold 'em, know when to fold 'em,<br>
+&nbsp;&nbsp;know when to walk away and know when to run.<br>
+&nbsp;&nbsp;You never count your money when you're sittin' at the table.<br>
+&nbsp;&nbsp;There'll be time enough for countin when the dealin's done.<br>
+<br>
+Ev'ry gambler knows that the secret to survivin<br>
+is knowin what to throw away and knowing what to keep.<br>
+cause every hand's a winner and every hand's a loser,<br>
+and the best that you can hope for is to die in your sleep.<br>
+<br>
+And when he'd finished speakin', he turned back towards the window,<br>
+crushed out his cigarette and faded off to sleep.<br>
+And somewhere in the darkness the gambler, he broke even.<br>
+But in his final words I found an ace that I could keep.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion css_medleyCont'>4. Kashmir</button>
+<div class='panel'>
+Oh let the sun beat down upon my face, stars to fill my dream<br>
+I am a traveler of both time and space, to be where I have been<br>
+To sit with elders of the gentle race, this world has seldom seen<br>
+They talk of days for which they sit and wait, and all will be revealed<br>
+<br>
+&nbsp;&nbsp;Riff B x 2<br>
+<br>
+Talk and song from tongues of lilting grace, sounds caress my ear<br>
+Not a word I heard could I relate, the story was quite clear<br>
+Whoah..<br>
+<br>
+&nbsp;&nbsp;Riff B x 2<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Gm - A<br>
+&nbsp;&nbsp;&nbsp;&nbsp;All I see turns to brown, as the sun burns the ground<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And my eyes, fill with sand, as I scan this wasted land<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Trying to find, trying to find where I've been<br>
+<br>
+</div>
+
+<button class='accordion css_medleyEnd'>5. Norwegian Wood</button>
+<div class='panel'>
+D C D - Dm G Dm Em A A7<br>
+<br>
+I once had a girl, or should I say she once had me<br>
+She showed me her room, isn't it good Norwegian wood<br>
+<br>
+&nbsp;&nbsp;She asked my to stay and told me to sit anywhere<br>
+&nbsp;&nbsp;So I looked around and I noticed there wasn't a chair<br>
+<br>
+I sat on a rug, biding my time, drinking her wine<br>
+We talked until two, and then she said, it's time for bed<br>
+<br>
+&nbsp;&nbsp;She told me she worked in the morning and started to laugh<br>
+&nbsp;&nbsp;I told her I didn't, and crawled off to sleep in the bath<br>
+<br>
+And when I awoke, I was alone, this bird has flown<br>
+So I lit a fire, isn't it good Norwegian wood<br>
+</div>
+
+<button class='accordion'>6. Country Roads</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: A<br>
+V: A F#m E D A<br>
+C: A E F#m D - A E D A<br>
+B: F#m E A - D A E - F#m G D A E<br>
+O: E A<br>
+</font>
+<br>
+Almost heaven, West Virginia, Blue Ridge Mountains, Shenandoah River.<br>
+Life is old there, older than the trees, younger than the mountains, blowin like a breeze.<br>
+<br>
+&nbsp;&nbsp;Country roads, take me home, to the place I belong<br>
+&nbsp;&nbsp;West Virginia, mountain mama, take me home, country roads.<br>
+<br>
+All my memories gather round her, miner's lady, stranger to blue water.<br>
+Dark and dusty, painted on the sky, misty taste of moonshine, teardrop in my eye.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;I hear her voice, in the mornin' hour she calls me.<br>
+&nbsp;&nbsp;&nbsp;The radio reminds me of my home far away.<br>
+&nbsp;&nbsp;&nbsp;And driving down the road I get a feeling<br>
+&nbsp;&nbsp;&nbsp;that I should have been home yesterday, yesterday.<br>
+<br>
+&nbsp;&nbsp;Chorus x 2<br>
+<br>
+Take me home, down country roads.<br>
+<br>
+</div>
+
+<button class='accordion'>7. Chasing Cars</button>
+<div class='panel'>
+A E D A<br>
+<br>
+We'll do it all, everything, on our own.<br>
+We don't need anything, or anyone.<br>
+<br>
+&nbsp;&nbsp;If I lay here, if I just lay here,<br>
+&nbsp;&nbsp;Would you lie with me, and just forget the world.<br>
+<br>
+I don't quite know how to say how I feel<br>
+Those three words, I said too much, but not enough.<br>
+<br>
+&nbsp;&nbsp;If I lay here..<br>
+&nbsp;&nbsp;Forget what we're told, before we get too old<br>
+&nbsp;&nbsp;Show me a garden that's bursting into life.<br>
+<br>
+Let's waste time, chasing cars, around our heads<br>
+<br>
+&nbsp;&nbsp;If I lay here...<br>
+&nbsp;&nbsp;All that I am, all that I ever was<br>
+&nbsp;&nbsp;Is here in your perfect eyes, they're all I can see<br>
+&nbsp;&nbsp;I don't know where, confused about how as well<br>
+&nbsp;&nbsp;just know that these things will never change for us at all.<br>
+<br>
+&nbsp;&nbsp;If I lay here..<br>
+</div>
+
+<button class='accordion'>8. Break Down</button>
+<div class='panel'>
+It's alright if you love me<br>
+It's alright if you don't<br>
+I'm not afraid of you runnin' away honey I get the feeling you won't<br>
+<br>
+Say there ain't no sense in pretending<br>
+Your eyes give you away<br>
+Something inside you is feeling like I do we said all there is to say<br>
+<br>
+&nbsp;&nbsp;Baby<br>
+&nbsp;&nbsp;Breakdown, go ahead and give it to me<br>
+&nbsp;&nbsp;Breakdown, honey, take me through the night<br>
+&nbsp;&nbsp;(Take me, baby, breakdown, ooh)<br>
+&nbsp;&nbsp;Breakdown, now I'm standin' here, can't you see?<br>
+&nbsp;&nbsp;Breakdown, it's alright<br>
+&nbsp;&nbsp;It's alright, it's alright<br>
+<br>
+Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>9. Lucy in the sky with Diamonds</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|---0-0---0------:|&nbsp;&nbsp;E|----12---12------12--10-9---:|-8--|-9--10-<br>
+B|-----------3p2--:|&nbsp;&nbsp;B|--10-------10--10--------10-:|-10-|-10-10-<br>
+G|--2-0-2-2-----2-:|&nbsp;&nbsp;G|-9-----12----11----10-------:|-10-|-11-10-<br>
+D|-2-----4--3-----:|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+V: -- FM7 Dm7&nbsp;&nbsp;&nbsp;P: Bb C F Bb&nbsp;&nbsp;C G D&nbsp;&nbsp;&nbsp;C: (G C D) A<br>
+</font>
+<br>
+Picture yourself in a boat on a river with tangerine trees and marmalade skies<br>
+Somebody calls you you answer quite slowly a girl with kaleidoscope eyes<br>
+Cellophane flowers of yellow and green towering over your head<br>
+Look for the girl with the sun in her eyes and she's gone<br>
+<br>
+&nbsp;&nbsp;Lucy in the sky with diamonds<br>
+<br>
+Follow her down to a bridge by a fountain where rocking horse people eat marshmallow pies<br>
+Everyone smiles as you drift past the flowers that grow so incredibly high<br>
+Newspaper taxis appear on the shore waiting to take you away<br>
+Climb in the back with your head in the clouds and you're gone<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Picture yourself on a train in a station with plasticine porters with looking glass ties<br>
+Suddenly someone is there at the turnstile the girl with the kaleidoscope eyes<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>10. Don't Let Me Down</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: F#m7 E<br>
+B: E B B7 E A E<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+G|-------------------------|-------2---1-------------|<br>
+D|-2-2-1-2---2---2---2---2-|---4-1---4---2-4-1-2---1-|<br>
+A|---------4---2-----------|-2-------------------4---|<br>
+E|-----------------4---2---|-------------------------|<br>
+</font>
+<br>
+&nbsp;&nbsp;Don't let me down<br>
+<br>
+Nobody ever loved me like she does Ooh she does yeah she does<br>
+And if somebody loved me like she'd do me oooh she'd do me yeah she does<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm in love for the first time don't you know it's gonna last<br>
+&nbsp;&nbsp;&nbsp;&nbsp;It's a love that lasts forever it's a love that has no past<br>
+<br>
+And from the first time that she really done me Ooh she done me she done me good<br>
+I guess nobody ever really done me Ooh she done me she done me good<br>
+<br>
+</div>
+
+<button class='accordion'>11. Drive</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: A AM7 A<br>
+C: F#m B<br>
+</font>
+<br>
+Who's gonna tell you when it's too late<br>
+Who's gonna tell you things aren't so great<br>
+<br>
+&nbsp;&nbsp;You can't go on thinking nothing's wrong<br>
+&nbsp;&nbsp;Who's gonna drive you home tonight<br>
+<br>
+Who's gonna pick you up when you fall<br>
+Who's gonna hang it up when you call<br>
+Who's gonna pay attention to your dreams<br>
+And who's gonna plug your ears when you scream<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Who's gonna hold you down, when you shake<br>
+Who's gonna come around, when you break<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>12. Baby Blue</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+G|-----------------|-----2----------2----| (Orig key B)<br>
+D|-------2-0-------|---4----------2------|<br>
+A|-0-2-4-----4-2-0-|-5------5---4-----4--|<br>
+E|-----------------|---------------------|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+I: A A4<br>
+V: (E D - G D A) E Bm D<br>
+B: C#m F#m F#mM7 Bm Bm7&nbsp;&nbsp;G D A<br>
+S: (C G D A)<br>
+</font>
+<br>
+Guess I got what I deserve kept you waiting there too long my love<br>
+All that time without a word did't know you'd think that I'd forget<br>
+Or I'd regret, the special love I have for you my baby blue<br>
+<br>
+All the days became so long did you really think I'd do you wrong?<br>
+Dixie when I let you go thought you'd realized I would know<br>
+I would show, the special love I have for you my baby blue<br>
+<br>
+&nbsp;&nbsp;What can I do what can I say except I want you by my side<br>
+&nbsp;&nbsp;How can I show you show me a way<br>
+&nbsp;&nbsp;Don't you know the times I've tried<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Solo<br>
+<br>
+Guess that's all I have to say except the feeling just grows stronger every day<br>
+Just one thing before I go take good care baby let me know<br>
+Let it flow, the special love you've had for me my dixie dear<br>
+<br>
+</div>
+
+<button class='accordion'>13. Badfish</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (A Bm G) A D G<br>
+C: (D A) D E<br>
+</font>
+<br>
+When you grab a hold of me, tell me I will never be set free<br>
+But I'm a parasite creep and crawl I step into the night<br>
+Two pints of booze tell me are you a bad fish too?<br>
+<br>
+&nbsp;&nbsp;Ain't got no money to spend, I know the night will never end.<br>
+&nbsp;&nbsp;Lord knows I'm weak, won't somebody get me off this reef?<br>
+<br>
+Baby you're a big blue whale, grab the reef when all duck diving fails<br>
+I swim, but I wish I never learned the water's too polluted with germs<br>
+I dive deep when it's ten feet over head grab the reef from underneath my bed.<br>
+<br>
+&nbsp;&nbsp;Ain't got not quarrels with God, ain't got no time to grow old.<br>
+&nbsp;&nbsp;Lord knows I'm weak, won't some body get me off this reef?<br>
+<br>
+Intro<br>
+<br>
+&nbsp;&nbsp;Ain't got not quarrels...<br>
+</div>
+
+<button class='accordion'>14. Fire On The Mountain</button>
+<div class='panel'>
+A - G<br>
+<br>
+Long distance runner, what you standin' there for?<br>
+Get up, get out, get out of the door<br>
+Your playin' cold music on the barroom floor<br>
+Drowned in your laughter and dead to the core.<br>
+There's a dragon with matches that's loose on the town<br>
+Takes a whole pail of water just to cool him down.<br>
+<br>
+&nbsp;&nbsp;Fire! Fire on the mountain!<br>
+<br>
+Almost ablaze still you don't feel the heat<br>
+It takes all you got just to stay on the beat.<br>
+You say it's a livin', we all gotta eat<br>
+But you're here alone, there's no one to compete.<br>
+If Mercy's a bus'ness, I wish it for you<br>
+More than just ashes when your dreams come true.<br>
+<br>
+&nbsp;&nbsp;Fire! Fire on the mountain!<br>
+<br>
+Long distance runner, what you holdin' out for?<br>
+Caught in slow motion in a dash for the door.<br>
+The flame from your stage has now spread to the floor<br>
+You gave all you had. Why you wanna give more?<br>
+The more that you give, the more it will take<br>
+To the thin line beyond which you really can't fake.<br>
+<br>
+&nbsp;&nbsp;Fire! Fire on the mountain!<br>
+</div>
+
+<button class='accordion'>15. A Face In The Crowd</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V:(Em C) (D Am) Bm Am Em<br>
+B: Em C (D C)<br>
+</font>
+<br>
+Before all of this ever went down<br>
+In another place, another town<br>
+You were just a face in the crowd<br>
+You were just a face in the crowd<br>
+Out in the street, walking around<br>
+A face in the crowd<br>
+<br>
+Out of a dream, out of the sky<br>
+Into my heart, into my life<br>
+And you were just a face in the crowd<br>
+You were just a face in the crowd<br>
+Out in the street, thinking out loud<br>
+A face in the crowd<br>
+<br>
+&nbsp;&nbsp;Bridge<br>
+<br>
+Out of a dream, out of the sky<br>
+Into my heart, into my life<br>
+And you were just a face in the crowd<br>
+You were just a face in the crowd<br>
+Out in the street, walking around<br>
+A face in the crowd<br>
+</div>
+
+<button class='accordion'>16. All That Heaven Will Allow</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: C G/b D<br>
+V: G C G D - G C D - C G - C D G D<br>
+C: (C Em - C D G)<br>
+O: C G/b Am7 C G/b G<br>
+</font>
+<br>
+I got a dollar in my pocket there ain't a cloud up above.<br>
+I got a picture in a locket that says baby I love you.<br>
+Well if you didn't look then boys then fellas don't go lookin now.<br>
+Well here she comes a-walkin, all that heaven will allow.<br>
+<br>
+Say hey there mister bouncer, now all I wanna dance.<br>
+But I swear I left my wallet back home in my workin pants.<br>
+C'mon Slim slip me in man. I'll make it up to you somehow.<br>
+I can't be late I got a date with all that heaven will allow.<br>
+<br>
+&nbsp;&nbsp;Rain and storm and dark skies, well now they don't mean a thing.<br>
+&nbsp;&nbsp;If you got a girl that loves you and who wants to wear your ring.<br>
+&nbsp;&nbsp;So c'mon mister trouble we'll make it through you somehow.<br>
+&nbsp;&nbsp;We'll fill this house with all the love all that heaven will allow.<br>
+<br>
+Now some may wanna die young man, young and gloriously.<br>
+Get it straight now mister hey buddy that ain't me.<br>
+Cause I got something on my mind that sets me straight and walking proud.<br>
+And I want all the time all that heaven will allow.<br>
+Yeah, I want all the time all that heaven will allow.<br>
+</div>
+
+<button class='accordion'>17. Friend Of The Devil</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (G C) (D Am) D<br>
+C: D C D Am C D<br>
+</font>
+<br>
+I lit out from Reno I was trailed by twenty hounds<br>
+Didn't get to sleep last night till the morning came around<br>
+<br>
+&nbsp;&nbsp;Set out runnin but I take my time a friend of the devil is a friend of mine<br>
+&nbsp;&nbsp;If I get home before daylight I just might get some sleep tonight<br>
+<br>
+Ran into the devil, babe, he loaned me twenty bills<br>
+I spent the night in Utah in a cave up in the hills<br>
+<br>
+I ran down to the levee but the devil caught me there<br>
+He took my twenty dollar bill and vanished in the air<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Got two reasons why I cry away each lonely night<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The first one's named Sweet Anne Marie and she's my hearts delight<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The second one is prison, babe the sheriff's on my trail<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And if he catches up with me I'll spend my life in jail<br>
+<br>
+Got a wife in Chino, babe, and one in Cherokee<br>
+The first one says she's got my child but it don't look like me<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Got two reasons...<br>
+<br>
+Got a wife...<br>
+</div>
+
+<button class='accordion'>18. Ripple</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (G C) G D C G<br>
+C: Am D G C A D<br>
+</font>
+<br>
+If my words did glow with the gold of sunshine and my tunes were played on the harp unstrung.<br>
+Would you hear my voice come through the music would you hold it near as it were your own.<br>
+It's a hand-me-down, the thoughts are broken perhaps they're better left unsung.<br>
+I don't know, don't really care let there be songs to fill the air.<br>
+<br>
+&nbsp;&nbsp;Ripple in still water when there is no pebble tossed nor wind to blow<br>
+<br>
+Reach out your hand if your cup be empty if your cup is full may it be again.<br>
+Let it be known there is a fountain that was not made by the hands of men.<br>
+There is a road, no simple highway between the dawn and the dark of night.<br>
+And if you go no one may follow that path is for your steps alone.<br>
+<br>
+&nbsp;&nbsp;Ripple in still water...<br>
+<br>
+You who choose to lead must follow but if you fall you fall alone.<br>
+If you should stand then who's to guide you if I knew the way I would take you home.<br>
+La la<br>
+</div>
+
+<button class='accordion'>19. Shanty</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: G G7 C Cm - G E7 A7 D - G C G D [ B7 E7 - A7 D ]<br>
+</font>
+<br>
+Harmonica: C<br>
+<br>
+Gonna sit down in the kitchen and fix me something good to eat<br>
+Make my head a little high and make the whole day complete<br>
+Cuz we gonna lay around the shanty mama and put a good buzz on<br>
+<br>
+Well pass it to me baby, well pass it to me slow<br>
+We'll take time out to smile a little before we let it go<br>
+<br>
+Well there ain't nothin to do and there's always room for more<br>
+Fill it, light it, shut up and close the door...<br>
+<br>
+We gonna sit around the kitchen fix us somethin good to eat<br>
+Make ourselves a little high and make the whole day complete<br>
+Cuz we gonna lay around the shanty mama and put a good buzz on<br>
+Every night and day if I can help it<br>
+<br>
+</div>
+
+<hr><div class='setname'>Set 3</div>
+<button class='accordion'>1. Beginnings</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: Amaj7 x-0-14-13-14-0 E9sus4/A x-0-12-11-12-0<br>
+V: (AM7 DM7) CM7 (GM7 CM7) (AM7 DM7) (AM7 Em7)<br>
+O: A G F G<br>
+</font>
+<br>
+When I'm with you, it doesn't matter where we are<br>
+Or what we're doin', I'm with you that's all that matters<br>
+Time passes much too quickly when we're together laughing<br>
+I wish I could sing it to you, woh oh...<br>
+&nbsp;&nbsp;Oh wo...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mostly I'm silent, silent, never think of bad words to say<br>
+<br>
+When I kiss you, I feel a thousand different feelings<br>
+The color of chills, all over my body<br>
+And when I feel them I quickly try to decide which one<br>
+I should try to put into words, oh try to put into words<br>
+&nbsp;&nbsp;Oh wo ..<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mostly I'm silent.. silent<br>
+<br>
+Only the beginning of what I want to feel forever<br>
+Only the beginning, only just the start.<br>
+Got to get you into my life.<br>
+<br>
+</div>
+
+<button class='accordion'>2. Babylon</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (DM9/F# G6)<br>
+C: (D A Em [F# | G | A | A])<br>
+</font>
+<br>
+Friday night I'm going nowhere all the lights are changing green to red<br>
+Turning over TV stations situations running through my head<br>
+Looking back through time you know it's clear that I've been blind, I've been a fool<br>
+To open up my heart to all that jealousy, that bitterness, that ridicule<br>
+<br>
+Saturday I'm running wild and all the lights are changing red to green<br>
+Moving through the crowds I'm pushing chemicals are rushing in my bloodstream<br>
+Only wish that you were here, you know I'm seeing it so clear I've been afraid<br>
+To show you how I really feel admit to some of those bad mistakes I've made<br>
+<br>
+&nbsp;&nbsp;And if you want it, come and get it, crying out loud<br>
+&nbsp;&nbsp;The love that I was giving you was, never in doubt<br>
+&nbsp;&nbsp;Let go your heart, let go your head, and feel it now<br>
+&nbsp;&nbsp;Let go your heart, let go your head, and feel it now<br>
+&nbsp;&nbsp;Babylon<br>
+<br>
+Sunday, all the lights of London shining, sky is fading red to blue<br>
+Kicking through the autumn leaves and wondering where it is you might be going to<br>
+Turning back for home, you know I'm feeling so alone I can't believe<br>
+Climbing on the stair, I turn around to see you smiling there In front of me<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>3. Tea In The Sahara</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: C#m&nbsp; V: F#m A&nbsp; &nbsp;C: E A B<br><br>My sisters and I have one wish before we die<br>And it may sound strange as if our minds are deranged<br>Please don't ask us why beneath the sheltering sky<br>We have this strange obsession, you have the means in your possession<br><br>&nbsp; Tea in the Sahara with you<br><br>The young man agreed he would satisfy their need<br>So they danced for his pleasure with a joy you could not measure<br>They wait for him here the same place every year<br>Beneath the sheltering sky across the desert he would fly<br><br>&nbsp; Tea in the Sahara with you<div><br></div><div>&nbsp; &nbsp; Intro<br><br><div>The sky turned to black, would he ever come back?</div>They would climb a high dune they would pray to the moon<br>But he'd never return so the sisters would burn<br>As their eyes searched the land with their cups still full of sand<br><br>&nbsp; Tea in the Sahara with you<br></div><br>
+</font>
+</div>
+
+<button class='accordion'>4. Wrapped Around Your Finger</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Am - Em<br>
+C: (G FM7) Em Dm7<br>
+</font>
+<br>
+You consider me the young apprentice caught between the Scylla and Charibdes<br>
+Hypnotized by you if I should linger staring at the ring around your finger<br>
+I have only come here seeking knowledge things they would not teach me of in college<br>
+I can see the destiny you sold turned into a shining band of gold<br>
+<br>
+&nbsp;&nbsp;I'll be wrapped around your finger<br>
+<br>
+Mephistopheles is not your name but I know what you're up to just the same<br>
+I will listen hard to your tuition and you will see it come to it's fruition<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Devil and the deep blue sea behind me banish in the air you'll never find me<br>
+I will turn your face to alabaster then you'll find your servant is your master<br>
+<br>
+&nbsp;&nbsp;And you'll be..<br>
+</div>
+
+<button class='accordion'>5. Wichita Lineman</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+G|-3-2-------|<br>
+D|-----3-0---|<br>
+A|---------3-|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+G|-------3-2---2-5-|-------3-2-----|-5~-7-4-------|<br>
+D|---2-5-----5-----|---2-5-----3---|--------7-5-7-|<br>
+A|-3---------------|-3-----------3-|--------------|<br>
+E|-----------------|---------------|--------------|<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+I: Bb C2<br>
+V: BbM7 FM7/A Gm - Dm7 Am7 G D - C9 G/B Gm/Bb - D A4/A BbM7 C2<br>
+</font>
+<br>
+I am a lineman for the county and I drive the main road<br>
+Searching in the sun for another overload<br>
+I hear you singing in the wires, I can hear you through the whine<br>
+And the Wichita lineman.. is still on the line<br>
+<br>
+I know I need a small vacation but it don't look like rain<br>
+And, if it snows, that stretch down south won't ever stand the strain<br>
+And I need you more than want you, and I want you for all time<br>
+And the Wichita lineman...<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+And I need you more than want you..<br>
+</div>
+
+<button class='accordion'>6. Amie</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (A G D) (D C) E<br>
+C: (A G D) Bm E<br>
+O: A D FMaj7 A<br>
+</font>
+<br>
+I can see why you think you belong to me.<br>
+I never tried to make you think or let you see one thing for yourself.<br>
+But now you're off with someone else and I'm alone.<br>
+You see I thought that I could keep you for my own.<br>
+<br>
+&nbsp;&nbsp;Amie, what you wanna do?<br>
+&nbsp;&nbsp;I think that I could stay with you, for a while maybe longer if I do<br>
+<br>
+Don't you think the time is right for us to find.<br>
+All the things we thought weren't proper could be right in time and can you see<br>
+Which way we should turn together or alone?<br>
+I can never see what's right or what is wrong<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Now it's come to what you want, you've had your way.<br>
+And all the things you're fighting for just faded into gray and can you see,<br>
+that I don't know if it's you or if it's me?<br>
+If it's one of us, I'm sure we both will see<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+I keep, fallin in and out of love with you... fallin..<br>
+Don't know what I'm gonna do, I keep, fallin in and out of love with you.<br>
+<br>
+</div>
+
+<button class='accordion'>7. And I Love Her</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Em Bm) G A D<br>
+C: (Bm F#m) A<br>
+</font>
+<br>
+I give her all my love that's all I do<br>
+And if you saw my love you'd love her too, I love her<br>
+<br>
+She gives me everything and tenderly<br>
+The kiss my lover brings she brings to me, and I love her<br>
+<br>
+&nbsp;&nbsp;A love like ours could never die<br>
+&nbsp;&nbsp;As long as I have you near me<br>
+<br>
+Bright are the stars that shine dark is the sky<br>
+I know this love of mine will never die, and I love her<br>
+<br>
+&nbsp;&nbsp;Solo<br>
+<br>
+Bright are the stars..<br>
+</div>
+
+<button class='accordion'>8. Harvest Moon</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|----------9--<br>
+B|-10-12-10-10-<br>
+G|-11-11-11-11-<br>
+D|-0--0--0--0--<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+V: (Em D) (G D)<br>
+C: (A7sus4 A7)<br>
+</font>
+<br>
+Come a little bit closer hear what I have to say<br>
+Just like children sleeping we could dream this night away<br>
+But there's a full moon rising let's go dancing in the light<br>
+We know where the music's playing let's go out and feel the night.<br>
+<br>
+&nbsp;&nbsp;Because I'm still in love with you, I want to see you dance again<br>
+&nbsp;&nbsp;Because I'm still in love with you, on this harvest moon.<br>
+<br>
+When we were strangers I watched you from afar<br>
+When we were lovers I loved you with all my heart.<br>
+But now its gettin late and the moon is climbing high<br>
+I want to celebrate see it shining in your eye.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Harmonica<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>9. Drivin My Life Away</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: D G<br>
+C: (D C G D) Bm G D7<br>
+</font>
+<br>
+Well the midnight headlight find you on a rainy night<br>
+steep grade up ahead slow me down makin no time, gotta keep rollin<br>
+Those windshield wipers slappin out a tempo<br>
+keepin perfect rhythm with the song on the radio, gotta keep rolling<br>
+<br>
+&nbsp;&nbsp;Ooh I'm driving my life away, looking for a better way, for me<br>
+&nbsp;&nbsp;Ooh I'm driving my life away, looking for a sunny day<br>
+<br>
+Well the truck stop cutie comin' on to me<br>
+tried to talk me into a ride said I wouldn't be sorry, but she was just a baby<br>
+Waitress pour me another cup of coffee<br>
+pop me down jack me up shoot me out headin down the highway, lookin for the morning<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+V1<br>
+</div>
+
+<button class='accordion'>10. Trouble</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: G D G C G D&nbsp;&nbsp;C G D<br>
+C: (G C F C) (Am D)<br>
+O: (C Bm Am G) (G C)<br>
+</font>
+<br>
+Trouble.. been wronging my soul since the day I was born<br>
+Worry.. just will not seem to leave my mind alone<br>
+<br>
+&nbsp;&nbsp;I've been saved by a woman... she won't let me go<br>
+<br>
+Trouble.. feels like every time I get back on my feet<br>
+&nbsp;&nbsp;she come around and knock me down again<br>
+Worry.. sometimes I swear it feels like<br>
+&nbsp;&nbsp;this worry is my only friend<br>
+<br>
+Chorus<br>
+<br>
+Harmonica G<br>
+<br>
+Whoa... She good to me now. She give me love and affection.<br>
+She good to me<br>
+<br>
+</div>
+
+<button class='accordion'>11. Sunshine</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: A E, A D<br>
+C: (D A) G E7<br>
+O: D A E&nbsp;&nbsp;D A E&nbsp;&nbsp;A<br>
+</font>
+<br>
+Sunshine go away today, I don't feel much like dancin'.<br>
+Some man's gone, he's tried to run my life, I don't what he's askin'.<br>
+He tells me I'd better get in line, can't hear what he's saying<br>
+When I grow up I'm going to make it mine, but these ain't dues I been paying<br>
+<br>
+&nbsp;&nbsp;How much does it cost? (I'll buy it)<br>
+&nbsp;&nbsp;The time is all we've lost (I'll try it)<br>
+&nbsp;&nbsp;He can't even run his own life,<br>
+&nbsp;&nbsp;I'll be damned if he'll run mine, Sunshine.<br>
+<br>
+Sunshine go away today, I don't feel much like dancin'.<br>
+Some man's gone, he's tried to run my life, don't believe what he's askin'.<br>
+Working starts to make me wonder where the fruits of what I do are going<br>
+He says in love and war all is fair, He's got cards he ain't showin'.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+Sunshine come on back another day, I promise you I'll be singin'.<br>
+This old world, she's gonna turn around, brand new bells'll be ringin'.<br>
+</div>
+
+<button class='accordion'>12. Wish You Were Here</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: (Em7 G) A7sus4 Em7 A7sus4 G<br>
+V: C D Am G&nbsp;&nbsp;D C Am G<br>
+</font>
+<br>
+So, so you think you can tell, heaven from hell, blue skies from pain<br>
+Can you tell a green field from a cold steel rail, a smile from a veil<br>
+Do you think you can tell?<br>
+<br>
+Did they get you to trade, your heroes for ghosts hot ashes for trees<br>
+Hot air for a cool breeze, cold comfort for change<br>
+And did you exchange a walk on part in the war for a lead role in a cage<br>
+<br>
+How I wish, how I wish you were here<br>
+We're just two lost souls swimming in a fish bowl, year after year<br>
+Running over the same old ground what have we found<br>
+the same old fears. Wish you were here<br>
+</div>
+
+<button class='accordion'>13. Stand by me</button>
+<div class='panel'>
+A F#m D E<br>
+<br>
+When the night has come and the land is dark<br>
+And the moon is the only light we'll see<br>
+No, I won't be afraid&nbsp;&nbsp;I won't be afraid<br>
+Just as long as you stand stand by me<br>
+<br>
+&nbsp;&nbsp;So darlin darlin stand by me...<br>
+<br>
+If the sky that we look upon should tumble and fall<br>
+Or the mountain should crumble to the sea<br>
+I won't cry, I won't cry no, I won't shed a tear<br>
+Just as long as you stand stand by me<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<hr><div class='setname'>Misc</div>
+<button class='accordion'>1. A Day in the Life</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: G Bm Em Em7 CM7<br>
+V: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7<br>
+B: E D (E B7sus4)<br>
+A: C G D A - E C G D A - E D C D<br>
+</font>
+<br>
+I read the news today, oh boy about a lucky man who made the grade<br>
+And though the news was rather sad well, I just had to laugh<br>
+I saw the photograph<br>
+<br>
+He blew his mind out in a car, he didn't notice that the lights had changed<br>
+A crowd of people stood and stared they'd seen his face before<br>
+Nobody was really sure if he was from the House of Lords<br>
+<br>
+I saw a film today oh boy, the English Army had just won the war<br>
+A crowd of people turned away but I just had to look<br>
+Having read the book.. I'd love to turn you on<br>
+<br>
+&nbsp;&nbsp;Woke up, fell out of bed, dragged a comb across my head<br>
+&nbsp;&nbsp;Found my way downstairs and drank a cup and looking up,<br>
+&nbsp;&nbsp;I noticed I was late<br>
+&nbsp;&nbsp;Found my coat and grabbed my hat, made the bus in seconds flat<br>
+&nbsp;&nbsp;Found my way upstairs and had a smoke<br>
+&nbsp;&nbsp;and somebody spoke and I went into a dream<br>
+<br>
+&nbsp;&nbsp;Ahhh..<br>
+<br>
+I read the news today oh boy, four thousand holes in Blackburn, Lancashire<br>
+And though the holes were rather small they had to count them all<br>
+Now they know how many holes it takes to fill the Albert Hall<br>
+I'd love to turn you on<br>
+</div>
+
+<button class='accordion'>2. All This Time</button>
+<div class='panel'>
+<div>V: (G Em9 D4 C) D4 G/B Dsus4</div><div>C: Em&nbsp; A7 C9 D4 G Em9 G C</div><div><br></div><div>I looked out across the river today,</div><div>I saw a city in the fog and an old church tower where the seagulls play,</div><div>I saw the sad shire horses walking home in the sodium light</div><div>I saw two priests on the ferry October geese on a cold winter's night</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly, to the sea.</div><div><br></div><div>Two priests came round our house tonight</div><div>One young, one old, to offer prayers for the dying to serve the final rites,</div><div>One to learn, one to teach, which way the cold wind blows</div><div>Fussing and flapping in priestly black like a murder of crows</div><div><br></div><div>&nbsp; And all this time, the river flowed, endlessly to the sea.</div><div>&nbsp; If i had my way, take a boat from the river</div><div>&nbsp; And i'd bury the old man, I'd bury him at sea</div><div><br></div><div>Blessed are the poor, for they shall inherit the earth</div><div>Better to be poor than a fat man in the eye of the needle</div><div>And as these words were spoken I swear I hear he old man laughing,</div><div>"What good is a used up world, and how could it be worth having"</div><div><br></div><div>&nbsp; And all this time the river flowed endlessly like a silent tear</div><div>&nbsp; And all this time the river flowed Father, if Jesus exists,</div><div>&nbsp; Then how come he never lived here.</div><div><br></div><div>&nbsp; &nbsp;(Modulate up a step)</div><div><br></div><div>The teachers told us, the Romans built this place</div><div>They built a wall and a temple, and an edge of the empire garrison town,</div><div>They lived and they died, they prayed to their gods</div><div>But the stone gods did not make a sound</div><div>And their empire crumbled, 'til all that was left were the stones the workmen found</div><div><br></div><div>&nbsp; And all this time the river flowed in the falling light of northern sun</div><div>&nbsp; If I had my way I'd take a boat from the river</div><div>&nbsp; Men go crazy in congregations but they only get better one by one</div><div><br></div><div>One by one.</div><div>I looked out across</div><br>
+</div>
+
+<button class='accordion'>3. Ain't No Sunshine</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (Am Em G Am) Em Ebm7 Dm Am<br>
+</font>
+<br>
+Ain't no sunshine when she's gone. it's not warm when she's away.<br>
+Ain't no sunshine when she's gone, and she's always gone too long,<br>
+Anytime she goes away.<br>
+<br>
+Wonder this time where she's gone, wonder if she's gone to stay<br>
+Ain't no sunshine when she's gone, and this house just ain't no home,<br>
+Anytime she goes away.<br>
+<br>
+&nbsp;&nbsp;And I know, I know...<br>
+&nbsp;&nbsp;Hey, I ought to leave the young thing alone<br>
+&nbsp;&nbsp;But ain't no sunshine when she's gone<br>
+<br>
+But ain't no sunshine when she's gone, only darkness everyday.<br>
+Ain't no sunshine when she's gone, and this house just ain't no home<br>
+Anytime she goes away.<br>
+</div>
+
+<button class='accordion'>4. Cool Change</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (A G D)<br>
+C: (D A) E A<br>
+B: C A C E A<br>
+</font>
+<br>
+If there's one thing in my life that's missing it's the time that I spend alone<br>
+Sailing on the cool and bright clear water<br>
+There's lots of those friendly people they're showing me ways to go<br>
+But I never want to lose their inspiration<br>
+<br>
+&nbsp;&nbsp;Time for cool change, I know that it's time for a cool change<br>
+&nbsp;&nbsp;And now that my life is so prearranged..<br>
+<br>
+Well I was born in the sign of water and it's there that I feel my best<br>
+The albatross and the whales they are my brothers<br>
+It's kind of a special feeling when you're out on the sea alone<br>
+Staring at the full moon like a lover<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;I've never been romantic and sometimes I don't care<br>
+&nbsp;&nbsp;&nbsp;I know it may sound selfish but let me breathe the air<br>
+<br>
+V3 = V1a + V2b<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>5. Crazy</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Em G C Bm B : E C G B4 B / V2, V3<br>
+X: Am C F Em E : A F C E4 E<br>
+</font>
+<br>
+I remember when, I remember when I lost my mind<br>
+There was something so pleasant about that place<br>
+even your emotions had an echo in so much space<br>
+And when you're out there, without care, I was out of touch<br>
+But it wasn't because I didn't know enough I just knew too much<br>
+<br>
+&nbsp;&nbsp;Does that make me crazy? Probably<br>
+<br>
+And I hope that you are having the time of your life<br>
+But think twice, that's my only advice.<br>
+Come on now, who do you think you are?<br>
+Bless your soul. You really think you're in control?<br>
+<br>
+&nbsp;&nbsp;Well, I think you're crazy! Just like me.<br>
+<br>
+My heroes had the heart to lose their lives out on a limb<br>
+And all I remember is thinking I want to be like them<br>
+Ever since I was little it looked like fun<br>
+And it's no coincidence I've come and I can die when I'm done<br>
+</div>
+
+<button class='accordion'>6. Drift Away</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: B - E arp<br>
+V: E B&nbsp;&nbsp;E F# B&nbsp;&nbsp;E B&nbsp;&nbsp;C#m E<br>
+C: B F# E<br>
+B: C#m E B&nbsp;&nbsp;C#m E F#<br>
+</font>
+<br>
+Day after day I'm more confused<br>
+So I look for the light in the pouring rain<br>
+You know that's a game that I hate to lose<br>
+I'm feelin the strain, ain't it a shame<br>
+<br>
+&nbsp;&nbsp;Give me the beat, boys, and free my soul<br>
+&nbsp;&nbsp;I wanna get lost in your rock and roll and drift away<br>
+<br>
+Beginning to think that I'm wastin time<br>
+I don't understand the things I do<br>
+The world outside looks so unkind<br>
+I'm counting on you to carry me through<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And when my mind is free you know a melody can move me<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And when I'm feelin blue the guitar's comin through to soothe me<br>
+<br>
+Thanks for the joy that you've given me<br>
+I want you to know I believe in your song<br>
+Rhythm and rhyme and harmony<br>
+You help me along makin me strong<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+</div>
+
+<button class='accordion'>7. Eye in the Sky</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+I: (Bm G)<br>
+V: (D Bm) G Gm Bm E7 - D G D<br>
+C: (D F#m) G Gm (Bm G)<br>
+</font>
+<br>
+Don't think sorry's easily said<br>
+Don't try turning tables instead<br>
+You've taken lots of chances before<br>
+But I ain't gonna give any more don't ask me<br>
+That's how it goes cause part of me knows what you're thinking...<br>
+<br>
+Don't say words you're gonna regret<br>
+Don't let the fire rush to your head<br>
+I've heard the accusation before<br>
+And I ain't gonna take any more believe me<br>
+The sun in your eyes made some of the lies worth believing<br>
+<br>
+&nbsp;&nbsp;I am the eye in the sky looking at you I can read your mind<br>
+&nbsp;&nbsp;I am the maker of rules dealing with fools I can cheat you blind<br>
+&nbsp;&nbsp;And I don't need to see any more to know that<br>
+&nbsp;&nbsp;I can read your mind...<br>
+<br>
+Don't leave false illusions behind<br>
+Don't cry 'cause I ain't changing my mind<br>
+So find another fool like before<br>
+Cause I ain't gonna live anymore believing<br>
+Some of the lies while all of the signs are deceiving<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>8. Helplessly Hoping</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Am7 C G D<br>
+C: G G4 Dm/F C G<br>
+</font>
+<br>
+Helplessly hoping, her harlequin hovers nearby awaiting a word<br>
+Gasping at glimpses of gentle true spirit, he runs, wishing he could fly<br>
+Only to trip at the sound of goodbye.<br>
+<br>
+Wordlessly watching he waits by the window and wonders, at the empty place inside.<br>
+Heartlessly helping himself to her bad dreams, he worries did he hear a goodbye<br>
+or even hello?<br>
+<br>
+&nbsp;&nbsp;They are one person, they are two alone.<br>
+&nbsp;&nbsp;They are three together, they are four for each other.<br>
+<br>
+Stand by the stairway, you'll see something certain to tell you, confusion has its cost.<br>
+Love isn't lying it's loose in a lady who lingers, saying she is lost<br>
+and choking on hello.<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>9. Just Remember I Love You</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|-0-0---0-0----0-0---0-0-<br>
+B|-0-1---0-1----0-3---0-3-<br>
+G|-2-2---2-2----4-4---4-4-<br>
+D|-3-3---3-3----5-5---5-5-<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+V: (F G) Em F G<br>
+C: (C G F) Am G F G<br>
+</font>
+<br>
+When it all goes crazy and the thrill is gone<br>
+Your days get rainy and your nights get long<br>
+And you get that feeling you were born to lose<br>
+Starin at your ceiling dreamin of your blues<br>
+<br>
+When there's so much trouble that you wanna cry<br>
+The world has crumbled and you don't know why<br>
+When your hopes are fading and they can't be found<br>
+Dreams have left you waiting, friends have let you down<br>
+<br>
+&nbsp;&nbsp;Just remember I love you and it'll be alright<br>
+&nbsp;&nbsp;Just remember I love more than I can say<br>
+&nbsp;&nbsp;Just remember I love you and it'll be alright<br>
+&nbsp;&nbsp;Maybe then your blues will fade away<br>
+<br>
+When you need a lover and you're down so low<br>
+Start to wonder, but you never know<br>
+When it feels like sorrow is your only friend<br>
+Knowing that tomorrow you'll feel this way again<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+<br>
+When the blues come callin' at the break of dawn<br>
+Rain keeps fallin', but the rainbow's gone<br>
+When you feel like crying but the tears won't come<br>
+When your dreams are dyin', when you're on the run<br>
+<br>
+&nbsp;&nbsp;Chorus<br>
+</div>
+
+<button class='accordion'>10. Love Song</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Am G F Em C: F G Am C<br>
+</font>
+<br>
+Whenever I'm alone with you you make me feel like I am _ again<br>
+[home, whole] [young, fun]<br>
+<br>
+&nbsp;&nbsp;However far away I will always love you<br>
+&nbsp;&nbsp;However long I stay...<br>
+&nbsp;&nbsp;Whatever words I say..<br>
+&nbsp;&nbsp;I will always love you<br>
+<br>
+Solo<br>
+<br>
+&nbsp;&nbsp;[free, clean]<br>
+<br>
+Chorus<br>
+</div>
+
+<button class='accordion'>11. Man of constant sorrow</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: (I IV V) V I<br>
+</font>
+<br>
+I am a man of constant sorrow I've seen trouble all my days<br>
+I bid farewell to old Kentucky the place where I was born and raised<br>
+&nbsp;&nbsp;The place where he was born and raised<br>
+<br>
+For six long years I've been in trouble no pleasure here on Earth I found<br>
+For in this world I'm bound to ramble I have no friends to help me now<br>
+&nbsp;&nbsp;He has no friends to help him now<br>
+<br>
+It's fare-thee-well my old true lover I never expect to see you again<br>
+For I'm bound to ride that northern railroad perhaps I'll die upon this train<br>
+&nbsp;&nbsp;Perhaps he'll die upon this train<br>
+<br>
+You can bury me in some deep valley for many years where I may lay<br>
+And you may learn to love another while I am sleeping in my grave<br>
+&nbsp;&nbsp;While he is sleeping in his grave<br>
+<br>
+Maybe your friends think I'm just a stranger my face you never will see no more<br>
+But there is one promise that is given I'll meet you on God's golden shore<br>
+&nbsp;&nbsp;He'll meet you on God's golden shore<br>
+</div>
+
+<button class='accordion'>12. Never Tear Us Apart</button>
+<div class='panel'>
+Am F Dm F - (C F) G<br>
+<br>
+Don't ask me, what you know is true<br>
+Don't have to tell you, I love your precious heart<br>
+<br>
+&nbsp;&nbsp;I was standing you were there<br>
+&nbsp;&nbsp;Two worlds collided and they could never tear us apart<br>
+<br>
+We could live for a thousand years<br>
+But if I hurt you I'd make wine from your tears<br>
+I told you that we could fly<br>
+Cause we all have wings but some of us don't know why<br>
+<br>
+&nbsp;&nbsp;Chorus / Solo / Chorus<br>
+</div>
+
+<button class='accordion'>13. Purple Rain</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: A2 F#m E [D | A]&nbsp;&nbsp;&nbsp;C: D A2 F#m E - A<br>
+</font>
+<br>
+I never meant to cause you any sorrow<br>
+I never meant to cause you any pain<br>
+I only wanted to one time to see you laughing<br>
+I only wanted to see you laughing in the purple rain<br>
+<br>
+&nbsp;&nbsp;Purple rain, purple rain<br>
+&nbsp;&nbsp;I only wanted to see you bathing in the purple rain<br>
+<br>
+I never wanted to be your weekend lover<br>
+I only wanted to be some kind of friend<br>
+Baby, I could never steal you from another<br>
+It's such a shame our friendship had to end<br>
+<br>
+Honey I know times are changing<br>
+It's time we all reach out for something new, that means you too<br>
+You say you want a leader but you can't seem to make up your mind<br>
+I think you better close it and let me guide you to the purple rain<br>
+</div>
+
+<button class='accordion'>14. Riders On The Storm</button>
+<div class='panel'>
+Em Am Em D C Em<br>
+<br>
+<font style='font-family:monospace;'>
+A|---2---2-----4---|<br>
+E|-0---3---0-5---5-|<br>
+</font>
+<br>
+Riders on the storm..<br>
+Into this house we're born into this world we're thrown<br>
+Like a dog without a bone an actor out on loan<br>
+Riders on the storm<br>
+<br>
+There's a killer on the road his brain is squirmin' like a toad<br>
+Take a long holiday let your children play<br>
+If you give this man a ride sweet family will die<br>
+Killer on the road, yeah<br>
+<br>
+Girl, you gotta love your man..<br>
+Take him by the hand make him understand<br>
+The world on you depends our life will never end<br>
+Gotta love your man, yeah<br>
+<br>
+V1<br>
+<br>
+Riders on the storm<br>
+</div>
+
+<button class='accordion'>15. Tin Man</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+V: Dsus4 D5 (GM7 CM7)<br>
+C: Em7 GM7<br>
+</font>
+<br>
+Sometimes late when things are real and people share the<br>
+gift of gab between themselves<br>
+Some are quick to take the bait and catch the perfect<br>
+prize that waits among the shells<br>
+<br>
+But Oz never did give nothing to the tin man<br>
+That he didn't already have<br>
+And cause never was the reason for the evening<br>
+Or the tropic of Sir Galahad<br>
+So please believe in me<br>
+<br>
+When I say I'm spinning round, round<br>
+Smoke glass stain'd bright colors<br>
+Image going down down soapsud green like bubbles<br>
+Oooh...<br>
+<br>
+Chorus<br>
+<br>
+v2<br>
+</div>
+
+<button class='accordion'>16. Ventura Highway</button>
+<div class='panel'>
+<font style='font-family:monospace;'>
+E|-5-7-5-------------------<br>
+B|-------7--5-7-5--------7-<br>
+G|----------------6--6-7---<br>
+</font>
+<br>
+<font style='font-family:monospace;'>
+V: GM7 DM7<br>
+C: (GM7 DM7) F#m (Em F#m) G (DM7 GM7)<br>
+</font>
+<br>
+Chewing on a piece of grass, walking down the road<br>
+Tell me, how long you gonna stay here, Joe?<br>
+Some people say, this town don't look good in snow<br>
+You don't care, I know<br>
+<br>
+&nbsp;&nbsp;Ventura Highway, in the sunshine<br>
+&nbsp;&nbsp;Where the days are longer the nights are stronger than moonshine<br>
+&nbsp;&nbsp;You're gonna go, I know<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Cause the free wind is blowing through your hair<br>
+&nbsp;&nbsp;&nbsp;&nbsp;and the days surround your daylight there<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Seasons crying, no despair<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Alligator lizards in the air, in the air.. Doo..<br>
+<br>
+Wishing on a falling star, waiting for the early train<br>
+Sorry, boy, but I've been hit by purple rain<br>
+Aww, come on, Joe, you can always change your name<br>
+Thanks a lot, son, just the same<br>
+</div>
+
+
+<script>
+const minFont = 14
+const maxFont = 24;
+var fontSize = 16;
+
+var fixed = false;
+
+function fontFixed()
+{
+  fixed = !fixed;
+
+  var panels = document.getElementsByClassName( "panel" );
+
+  for( var i = 0;i < panels.length;i++ )
+    if( fixed )
+      panels[ i ].classList.add( "fixedFont" );
+    else
+      panels[ i ].classList.remove( "fixedFont" );
+}
+
+function fontPlus()
+{
+  fontSize += 2;
+  if( fontSize > maxFont )
+    fontSize = maxFont;
+
+  setFontProperty( fontSize );
+}
+
+function fontMinus()
+{
+  fontSize -= 2;
+  if( fontSize < minFont )
+    fontSize = minFont;
+
+  setFontProperty( fontSize );
+}
+
+function setFontProperty()
+{
+  var fontSizeStr = fontSize.toString() + "px";
+  var elem = document.getElementById( "fontSizeButton" );
+  elem.style.fontSize = fontSizeStr;
+  elem.innerHTML = fontSizeStr;
+
+  for( var i = 0;i < acc.length;i++ )
+    acc[ i ].nextElementSibling.style.fontSize = fontSizeStr;
+}
+
+const DISPLAY_MIN = 0;
+const DISPLAY_MED1 = 1;
+const DISPLAY_MED2 = 2;
+const DISPLAY_LARGE = 3;
+
+var displayFormat = DISPLAY_LARGE;
+
+function displayPlus()
+{
+  if( displayFormat < DISPLAY_LARGE )
+  {
+    displayFormat++;
+    displaySet( displayFormat );
+  }
+}
+
+function displayMinus()
+{
+  if( displayFormat > DISPLAY_MIN )
+  {
+    displayFormat--;
+    displaySet( displayFormat );
+  }
+}
+
+function closeAll()
+{
+  // Close all accordions
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].nextElementSibling.style.display = "none"; 
+    acc[ i ].classList.remove( "active" );
+  }
+}
+
+function displaySet( disFormat )
+{
+  var minWProp;
+  var fSize = "16px"; // Font size of song names in accordions
+  var slFontSize; // set list font size
+
+  closeAll();
+
+  var clipPath;
+
+  switch( disFormat )
+  {
+    case DISPLAY_MIN:
+      minWProp = "3%";
+      fSize = "20px";
+      clipPath = "polygon( 0% 0%, 60% 0, 100% 50%, 60% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED1:
+      minWProp = "9%";
+      fSize = "10px";
+      clipPath = "polygon( 0% 0%, 70% 0, 100% 50%, 70% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_MED2:
+      minWProp = "24%";
+      slFontSize = "100%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+
+    case DISPLAY_LARGE:
+      minWProp = "50%";
+      slFontSize = "150%";
+      clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+      break;
+  }
+
+  var sets = document.getElementsByClassName( "setname" );
+  for( var i = 0;i < sets.length;i++ )
+    if( slFontSize )
+    {
+      sets[ i ].style.fontSize = slFontSize;
+      sets[ i ].style.display = "block";
+    }
+    else
+      sets[ i ].style.display = "none";
+
+  for( var i = 0;i < acc.length;i++ )
+  {
+    acc[ i ].style.minWidth = minWProp;
+
+    var strName;
+    var prune = songNames[ i ][ 1 ] == '.' ? 0 : 1;
+    if( disFormat == DISPLAY_MIN )
+      strName = songNames[ i ].substr( 0, 1 + prune );
+    else if( disFormat == DISPLAY_MED1 )
+      strName = songNames[ i ].substr( 2 + prune, 10 + prune );
+    else if( disFormat == DISPLAY_MED2 )
+      strName = songNames[ i ].substr( 0, 20 );
+    else
+      strName = songNames[ i ];
+
+    acc[ i ].innerHTML = strName;
+    acc[ i ].style.fontSize = fSize;
+    if( acc[ i ].classList.contains( "css_medleyStart" ) )
+      acc[ i ].style.clipPath = clipPath;
+  }
+}
+
+var scrollToElem; 
+
+function expandSongNameByIndex( i )
+{
+  acc[ i ].innerHTML = songNames[ i ];
+  acc[ i ].style.minWidth = "96%";
+  acc[ i ].style.fontSize = "16px";
+  if( acc[ i ].classList.contains( "css_medleyStart" ) )
+    acc[ i ].style.clipPath = "polygon( 0% 0%, 85% 0, 95% 50%, 85% 100%, 0% 100% )";
+}
+
+var currentSong = 0;
+
+function accordionClick( elem, keepOpen=false )
+{
+  currentSong = elem.accIndex;
+
+  var wasOpen = elem.classList.contains( "active" );
+
+  if( wasOpen && ( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) ) )
+  {
+    elem.scrollIntoView();
+    return;
+  }
+
+  closeAll();
+  displaySet( displayFormat ); 
+
+  if( !wasOpen || keepOpen )
+  {
+    scrollToElem = elem;
+
+    // Go to head of medley so we can open the whole thing.
+    while( elem.classList.contains( "css_medleyCont" ) || elem.classList.contains( "css_medleyEnd" ) )
+      elem = acc[ elem.accIndex - 1 ];
+
+    // Open this one if it was closed before.
+    inMedley = elem.classList.contains( "css_medleyStart" );
+
+    while( elem )
+    {
+      elem.classList.add( "active" );
+
+      // Make the song name visible in the compressed modes. Need to clear this when minimizing in displaySet() above
+      expandSongNameByIndex( elem.accIndex );
+      if( elem.accIndex < acc.length - 1 )
+        expandSongNameByIndex( elem.accIndex + 1 );
+
+      var panel = elem.nextElementSibling;
+      setFontProperty(); // w/o this changing the font only applies to the open song. Possibly desirable.
+      panel.style.display = "block";
+  
+      if( inMedley )
+      {
+        elem = acc[ elem.accIndex + 1 ];
+        if( elem.classList.contains( "css_medleyEnd" ) )
+          inMedley = false;
+      }
+      else
+        elem = undefined;
+    }
+    scrollToElem.scrollIntoView();
+  }
+}
+
+function changeSong( delta )
+{
+  if( ( ( currentSong == 0 ) && ( delta < 0 ) ) ||
+      ( ( currentSong == acc.length ) && ( delta > 0 ) ) )
+    return;
+
+  currentSong += delta;
+
+  accordionClick( acc[ currentSong ], true );
+}
+
+var acc = document.getElementsByClassName( "accordion" );
+
+songNames = [];
+
+for( var i = 0;i < acc.length;i++ )
+{
+  songNames[ i ] = acc[ i ].innerHTML;
+  acc[ i ].addEventListener( "click", function() { accordionClick( this ); } );
+  acc[ i ].nextElementSibling.addEventListener( "click", function() { this.previousElementSibling.scrollIntoView(); } );
+  acc[ i ].accIndex = i;
+}
+
+displaySet( DISPLAY_LARGE );
+
+// Footswitch stuff for page up/down Font +/-
+
+class FootSwitchButton
+{
+  constructor( identifier )
+  {
+    this.buttonID = identifier;
+    this.buttonState = false;
+    this.holdTimerExpired = false;
+  }
+
+  setState( newState )
+  {
+    if( newState != this.buttonState )
+    {
+      this.buttonState = newState;
+
+      if( newState ) // true = 'down'
+      {
+        this.holdTimerExpired = false;
+        this.holdTimer = setTimeout( holdTimerCB, 500, this.buttonID );
+      }
+      else // released. (up)
+      {
+        if( this.holdTimerExpired )
+          this.holdTimerExpired = false;
+        else
+        {
+          clearTimeout( this.holdTimer );
+          //this.buttonID == 0 ? console.log( "Song Up" ) : console.log( "Song Down" );
+          changeSong( this.buttonID == 0 ? -1 : 1 ); // tap action
+        }
+      }
+    }
+  }
+
+  holdTimerCB()
+  {
+    this.holdTimerExpired = true;
+    //this.buttonID == 0 ? console.log( "Font -" ) : console.log( "Font +" );
+    this.buttonID == 0 ? fontMinus() : fontPlus();
+  }
+}
+
+function holdTimerCB( ButtonID )
+{
+  footSwitchButtons[ ButtonID ].holdTimerCB();
+}
+
+var footSwitchButtons = [];
+footSwitchButtons[ 0 ] = new FootSwitchButton( 0 );
+footSwitchButtons[ 1 ] = new FootSwitchButton( 1 );
+
+function keyHandler( e, state )
+{
+  var ix;
+
+  switch( e.code )
+  {
+    case 'ArrowUp':
+      ix = 0; break;
+    case 'ArrowDown':
+      ix = 1; break;
+
+    default:
+      return;
+  } 
+
+  footSwitchButtons[ ix ].setState( state );
+}
+
+document.addEventListener( 'keydown', keyPressedHandler );
+document.addEventListener( 'keyup',   keyRelHandler );
+
+function keyPressedHandler( e ) { e.preventDefault();keyHandler( e, true ); } // down / pressed
+function keyRelHandler( e ) { e.preventDefault();keyHandler( e, false ); } // up / released
+
+</script> </body> </html>
