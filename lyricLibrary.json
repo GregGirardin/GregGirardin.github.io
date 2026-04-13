@@ -2533,14 +2533,6 @@
     "key": "Dm",
     "tempo": "undefined"
   },
-  "New_Sensation.INXS": {
-    "name": "New Sensation",
-    "artist": "INXS",
-    "id": "New_Sensation.INXS",
-    "lyrics": "Live baby live, now that the day is over\nI got a new sensation in perfect moments\nThat's impossible to refuse\n\nSleep baby sleep, now that the night is over\nAnd the sun comes like a God into our room\nAll perfect light and promises\n\n  Got a hold on you, a new sensation..\n  Right now, it's gonna take you over\n  A new sensation, a new sensation\n\nDream baby dream, of all that's come and going\nAnd you will find out in the end there really is\nThere really is no difference\n\nCry baby cry, when you got to get it out\nI'll be your shoulder you can tell me all\nDon't keep it in ya well, that's the reason why I'm here\n\n  Hey hey, are you ready for a new sensation, a new sensation\n  Right now? gonna take you on a new sensation, a new sensation\n\n    Trumpet! (New sensation)\n\nHate, baby, hate when there's nothing left for you\nYou're only human, what can you do? It'll soon be over\nDon't let your pain take over you\nLove, baby, love it's written all over your face\nThere's nothing better we could do than live forever\nWell, that's all we've got to do\n\n  Hey now I'm gonna take a new sensation, new sensation\n  Right now got a hold on you\n  A new sensation..",
-    "key": "E",
-    "tempo": "Tempo"
-  },
   "No_Excuses.Alice_In_Chains": {
     "name": "No Excuses",
     "artist": "Alice In Chains",
@@ -5113,5 +5105,12 @@
     "id": "Tennessee_Whiskey.Chris_Stapleton",
     "lyrics": "A|-----0-2/4--|-4\\2-0-2/4\\2--|-2h4-2h4-4\\2--|-2/4\\2-0------|-0\nE|-0-2--------|--------------|--------------|---------4/5--|-0\n\nA Bm\n\nUsed to spend my nights out in a barroom\nLiquor was the only love I'd known\nBut you rescued me from reaching for the bottom\nAnd brought me back from being too far gone\n\n  You're as smooth as Tennessee whiskey\n  You're as sweet as strawberry wine\n  You're as warm as a glass of brandy\n  And honey, I stay stoned on your love all the time\n\nI've looked for love in all the same old places\nFound the bottom of the bottle's always dry\nBut when you poured out your heart I didn't waste it\nCause there's nothing like your love to get me high\n\n  Chorus\n\n    Solo\n\n  Chorus",
     "key": "A"
+  },
+  "New_Sensation.INXS": {
+    "name": "New Sensation",
+    "artist": "INXS",
+    "id": "New_Sensation.INXS",
+    "lyrics": "E|-10-7- -------------- -2--------------- -------\nB|-10-8- -------------- -3--------------- -a764--\nG|-7--7- -------------- -2--------------- -------\nD|------ -------------- -0--------------- -7542--\nA|------ -003035-35535- -0---0305---0305- -------\nE|------ -------------- -0--5----045----- -------\n\nLive baby live, now that the day is over\nI got a new sensation in perfect moments\nThat's impossible to refuse\n\nSleep baby sleep, now that the night is over\nAnd the sun comes like a God into our room\nAll perfect light and promises\n\n  Got a hold on you, a new sensation..\n  Right now, it's gonna take you over\n  A new sensation, a new sensation\n\nDream baby dream, of all that's come and going\nAnd you will find out in the end there really is\nThere really is no difference\n\nCry baby cry, when you got to get it out\nI'll be your shoulder you can tell me all\nDon't keep it in ya well, that's the reason why I'm here\n\n  Hey hey, are you ready for a new sensation, a new sensation\n  Right now? gonna take you on a new sensation, a new sensation\n\n    Trumpet! (New sensation)\n\nHate, baby, hate when there's nothing left for you\nYou're only human, what can you do? It'll soon be over\nDon't let your pain take over you\nLove, baby, love it's written all over your face\nThere's nothing better we could do than live forever\nWell, that's all we've got to do\n\n  Hey now I'm gonna take a new sensation, new sensation\n  Right now got a hold on you\n  A new sensation..",
+    "key": "E"
   }
 }
