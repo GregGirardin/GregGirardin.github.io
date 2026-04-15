@@ -4636,13 +4636,6 @@
     "lyrics": "V: Am Dm F Em\n\nI feel so unsure as I take your hand and lead you to the dance floor\nAs the music dies, something in your eyes\nCalls to mind a silver screen and all its sad goodbyes\n\n  I'm never gonna dance again, guilty feet have got no rhythm\n  Though it's easy to pretend I know your not a fool\n  Should've known better than to cheat a friend and waste the chance that I've been given\n  So I'm never gonna dance again the way I danced with you\n\nTime can never mend the careless whispers of a good friend\nTo the heart and mind ignorance is kind\nThere's no comfort in the truth pain is all you'll find\n\nTonight the music seems so loud I wish that we could lose this crowd\nMaybe it's better this way we'd hurt each other with the things we'd want to say\nWe could have been so good together we could have lived this dance forever\nBut no one's gonna dance with me, please stay\n\nNow that you're gone",
     "key": "Am"
   },
-  "Carry_That_Weight.The_Beatles": {
-    "name": "Carry That Weight",
-    "artist": "The Beatles",
-    "id": "Carry_That_Weight.The_Beatles",
-    "lyrics": "Am7 D7sus4 Dm7 G7 Csus4 C Fmaj7 Bm7b5 E7 Am7 | G C G\nC G\nG C G/B | A | C G/B | A\nA G  F Dm G C | D/C | Eb/C F/C | C\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\nBoy, you're gonna carry that weight\nCarry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
-    "key": "Am"
-  },
   "Celebrity_Skin.Hole": {
     "name": "Celebrity Skin",
     "artist": "Hole",
@@ -5132,5 +5125,12 @@
     "id": "Do_You_Right.311",
     "lyrics": "Passin' the kind buds kickin back in the sand in the sun\nTo be alive is lovin, where the shore meets the sea\nMan I'm hummin, I'm hummin\n\n  I'm free as I stare at the sea and I'm not comin down\n  The world is yours once you have found the good is to share\n  Which is elsewhere\n\nThe beauty of green is where light is now broken by what it touches\nRemembering what you once had told me hit home\nAnd hasn't it always been so?\n\n  PC + Intro riff\n\n    Like I said before, I'll say it once more\n    Knew you would make me feel so good wanna do you right\n    Can't get enough, this is the stuff\n    Life's about and it trips me out\n    Gonna do you right I'm a do you right\n\n  Riff\n\nBright mornings, days when I want so much \nI want nothing, just this life and no more\nI'll come within this world there's only one for me\nShe's waiting I'll soon come\n\n  PC + Intro riff + Chorus\n\n  Free from the burn, the burnin' of spite and\n  Free from the burn, now baby dib your price\n  No buzz hack, no buzz hack, no buzz hack, no buzz hack\n  Swing the thing you bring and check it out\n  How could you be so good to me? How could you be so good to me?\n  I want to worth, want to be worth\n  Buzz, hack, hack, hack, buzz\n  Yes swing to the thing you bring and check it out\n\n  Chorus\n\nIntro riff slow",
     "key": "E"
+  },
+  "Carry_That_Weight.The_Beatles": {
+    "name": "Carry That Weight",
+    "artist": "The Beatles",
+    "id": "Carry_That_Weight.The_Beatles",
+    "lyrics": "V: Am7 D7sus4 Dm7 G7 Csus4 C Fmaj7 Bm7b5 E7 Am7 | G C G\nC: (C G) G C G/B | A | C G/B | A\nO: A G  F Dm G C | D/C | Eb/C F/C | C\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\n  Boy, you're gonna carry that weight\n  Carry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
+    "key": "Am"
   }
 }
