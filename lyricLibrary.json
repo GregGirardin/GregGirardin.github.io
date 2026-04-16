@@ -2461,14 +2461,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "I_Want_a_New_Drug.Huey_Lewis_&_The_News": {
-    "name": "I Want a New Drug",
-    "artist": "Huey Lewis & The News",
-    "id": "I_Want_a_New_Drug.Huey_Lewis_&_The_News",
-    "lyrics": "Yeah-eah!\n\nI want a new drug one that won't make me sick \nOne that won't make me crash my car or make me feel three feet thick\nI want a new drug one that won't hurt my head \nOne that won't make my mouth too dry or make my eyes too red\n\n  One that won't make me nervous wondering what to do \n  One that makes me feel like I feel when I'm with you \n  When I'm alone with you\n\nI want a new drug one that won't spill \nOne that don't cost too much or come in a pill\nI want a new drug one that won't go away \nOne that won't keep me up all night one that won't make me sleep all day\n\n  One that won't make me nervous..\n\n  Solo\n\nI want a new drug one that does what it should \nOne that won't make me feel too bad one that won't make me feel too good\nI want a new drug one with no doubt \nOne that won't make me talk too much or make my face break out\n\n  One that won't make me nervous..\n",
-    "key": "A",
-    "tempo": "110bpm"
-  },
   "I_ll_Stick_Around.Foo_Fighters": {
     "name": "I'll Stick Around",
     "artist": "Foo Fighters",
@@ -2492,14 +2484,6 @@
     "lyrics": "(Gm F EbM) (Bb Dm Gm EbM)\n\nMy my, hey hey\nRock and roll is here to stay\nIt's better to burn out than to fade away\nMy My, hey hey\n\nIt's out of the blue and into the black\nThey give you this but you pay for that\nAnd once you're gone you can never come back\nWhen you're out of the blue and into the black\n\n  Solo\n\nThe king is gone but he's not forgotten\nThis is the story of a Johnny Rotten\nIt's better to burn out, than it is to rust\nThe king is gone but he's not forgotten\n\nHey hey, my my\nRock and roll can never die\nThere's more to the picture than meets the eye\nHey Hey, my my\n",
     "key": "Gm",
     "tempo": "Tempo"
-  },
-  "Mysterious_Ways.U2": {
-    "name": "Mysterious Ways",
-    "artist": "U2",
-    "id": "Mysterious_Ways.U2",
-    "lyrics": "I: A V: (A D A E) A\nC: (A D) (A D C G)\nB: Am D Am G - A D A C G\n\nJohnny take a walk with your sister the moon\nLet her pale light in to fill up your room\nYou've been living underground eating from a can\nYou've been running away from what you don't understand, love\n\n  She's slippy you're sliding down she'll be there when you hit the ground\n  It's alright.. she moves in mysterious ways\n\nJohnny take a dive with your sister in the rain\nLet her talk about the things you can't explain\nTo touch is to heal to hurt is to steal\nIf you want to kiss the sky better learn how to kneel, on your knees boy!\n\n  She's the wave she turns the tide she sees the man inside the child...\n  Lift my days, light up my nights, oh\n\nSolo\n\n    One day you'll look back and you'll see where you were held low\n    By this love while you could stand there\n    You could move on this moment follow this feeling\n\nChorus / Solo",
-    "key": "A",
-    "tempo": "undefined"
   },
   "Need_You_Tonight.INXS": {
     "name": "Need You Tonight",
@@ -5132,5 +5116,19 @@
     "id": "Carry_That_Weight.The_Beatles",
     "lyrics": "I: Down a fifth\nI: Em7 A7sus4-Am7 D7 Gsus4-G Cmaj7 F#m7b5 B7 Em7 D\nC: (G D) D (G D/F# E)\nO: E D - C Am D - G A/G Bb/G C/G G\n\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations I break down\n\n  Boy, you're gonna carry that weight\n  Carry that weight a long time. x 2\n\nAnd in the end the love you take  \nIs equal to the love ... you make ",
     "key": "Em"
+  },
+  "I_Want_a_New_Drug.Huey_Lewis_&_The_News": {
+    "name": "I Want a New Drug",
+    "artist": "Huey Lewis & The News",
+    "id": "I_Want_a_New_Drug.Huey_Lewis_&_The_News",
+    "lyrics": "V: (A G D) (D C G)\nC: E   C F C F D\n\nI want a new drug one that won't make me sick \nOne that won't make me crash my car or make me feel three feet thick\nI want a new drug one that won't hurt my head \nOne that won't make my mouth too dry or make my eyes too red\n\n  One that won't make me nervous wondering what to do \n  One that makes me feel like I feel when I'm with you \n  When I'm alone with you\n\nI want a new drug one that won't spill \nOne that don't cost too much or come in a pill\nI want a new drug one that won't go away \nOne that won't keep me up all night one that won't make me sleep all day\n\n  One that won't make me nervous..\n\n  Solo\n\nI want a new drug one that does what it should \nOne that won't make me feel too bad one that won't make me feel too good\nI want a new drug one with no doubt \nOne that won't make me talk too much or make my face break out\n\n  One that won't make me nervous..\n",
+    "key": "A"
+  },
+  "Mysterious_Ways.U2": {
+    "name": "Mysterious Ways",
+    "artist": "U2",
+    "id": "Mysterious_Ways.U2",
+    "lyrics": "I: A\nV: (A D A E) A\nC: (A D) (A D C G)\nS: E\nB: Am D Am G - A D A C G\nO: Solo over (A D C G)\n\nJohnny take a walk with your sister the moon\nLet her pale light in to fill up your room\nYou've been living underground eating from a can\nYou've been running away from what you don't understand, love\n\n  She's slippy you're sliding down she'll be there when you hit the ground\n  It's alright.. she moves in mysterious ways\n\nJohnny take a dive with your sister in the rain\nLet her talk about the things you can't explain\nTo touch is to heal to hurt is to steal\nIf you want to kiss the sky better learn how to kneel, on your knees boy!\n\n  She's the wave she turns the tide she sees the man inside the child...\n  Lift my days, light up my nights, oh\n\nSolo\n\n    One day you'll look back and you'll see where you were held low\n    By this love while you could stand there\n    You could move on this moment follow this feeling\n\nChorus\n\nOutro Solo",
+    "key": "A"
   }
 }
