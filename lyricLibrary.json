@@ -4389,13 +4389,6 @@
     "lyrics": "There’s colors on the street red, white, and blue\nPeople shuffling their feet people sleeping in their shoes\nThere’s a warning sign on the road ahead\nThere’s a lot of people saying we’d be better off dead\nDon’t feel like Satan, but I am to them\nSo I try to forget it any way I can\n\n  Keep on rockin' in the free world x 4\n\nI see a woman in the night with a baby in her hand\nThere's an old street light near a garbage can\nNow she put the kid away and she’s gone to get a hit\nShe hates her life and what she’s done to it\nThere’s one more kid that’ll never go to school\nNever get to fall in love, never get to be cool\n\n  Keep on rockin' in the free world x 4\n\n  Solo\n\nWe got a thousand points of light for the homeless man\nWe got a kinder, gentler machine gun hand\nWe've got department stores and toilet paper\nGot styrofoam boxes for the ozone layer\nGot a man of the people says keep hope alive\nGot fuel to burn, got roads to drive\n\n  Keep on rockin' in the free world",
     "key": "Em"
   },
-  "Hold_The_Line.Toto": {
-    "name": "Hold The Line",
-    "artist": "Toto",
-    "id": "Hold_The_Line.Toto",
-    "lyrics": "Keyboards, then drums, then guitar chorus riff\n\nV: (Bm C#m F#m  C#m Cm Bm) (Bm C#m DM7 E  C#m Cm Bm)\nC: F#m C#m D E \n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\n\n  It's not in the way you look or the things that you say that you'll do\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\n\n  PC + C\n\n   Solo\n\nV2\n\n  PC + C",
-    "key": "Bm"
-  },
   "Shakedown_Street.The_Grateful_Dead": {
     "name": "Shakedown Street",
     "artist": "The Grateful Dead",
@@ -5130,5 +5123,12 @@
     "id": "Mysterious_Ways.U2",
     "lyrics": "I: A - (A D C G)\nV: (A D A E) A\nC: (A D) (A D C G)\nS: E\nB: Am D Am G - A D A C G\nO: Solo over (A D C G)\n\n  It's alright.. she moves in mysterious ways x 2\n\nJohnny take a walk with your sister the moon\nLet her pale light in to fill up your room\nYou've been living underground eating from a can\nYou've been running away from what you don't understand, love\n\n  She's slippy you're sliding down she'll be there when you hit the ground\n  It's alright.. she moves in mysterious ways x 2\n\nJohnny take a dive with your sister in the rain\nLet her talk about the things you can't explain\nTo touch is to heal to hurt is to steal\nIf you want to kiss the sky better learn how to kneel, on your knees boy\n\n  She's the wave she turns the tide she sees the man inside the child\n  It's alright.. she moves in mysterious ways.. x 2\n  Lift my days, light up my nights, oh\n\nSolo\n\n    One day you'll look back and you'll see where you were held now\n    By this love while you could stand there\n    You could move on this moment follow this feeling\n\n  Chorus\n\nOutro Solo",
     "key": "A"
+  },
+  "Hold_The_Line.Toto": {
+    "name": "Hold The Line",
+    "artist": "Toto",
+    "id": "Hold_The_Line.Toto",
+    "lyrics": "Keyboards, then drums, then guitar chorus riff\n\nV: (Bm C#m F#m  C#m Cm Bm) (Bm C#m DM7 E  C#m Cm Bm)\nC: F#m C#m D E \n\nIt's not in the way that you hold me\nIt's not in the way you say you care\nIt's not in the way you've been treatin' my friends\nIt's not in the way that you stayed 'til the end\nIt's not in the way you look or the things that you say that you'll do\n\n  Hold the line love isn't always on time, oh x 2\n\nIt's not in the words that you told me, yeah\nIt's not in the way you say you're mine, ooh\nIt's not in the way that you came back to me\nIt's not in the way that your love set me free\nIt's not in the way you look or the things that you say that you'll do\n\n  PC + C\n\n   Solo\n\nV2\n\n Hold the line love isn't always on time * 4\n love isn't always on time * 3",
+    "key": "Bm"
   }
 }
