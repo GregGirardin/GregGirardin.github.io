@@ -5109,13 +5109,6 @@
     "lyrics": "",
     "key": ""
   },
-  "Say_Goodbye_To_Hollywood.Billy_Joel": {
-    "name": "Say Goodbye To Hollywood",
-    "artist": "Billy Joel",
-    "id": "Say_Goodbye_To_Hollywood.Billy_Joel",
-    "lyrics": "I: C\nV: C F\nC: (Dm G7 Am)\nB: C Am7 B7 Em C - G G7-D-Dsus-D7\n : C Am7 B7 Em C - G Dm G7\n\nBobby's driving through the city tonight\nThrough the lights in a hot new rent-a-car\nHe joins the lovers in his heavy machine\nIt's a scene down on Sunset Boulevard\n\n  Say goodbye to Hollywood say goodbye my baby\n\nJohnny's taking care of things for avwhile\nAnd his style is so right for troubadors\nThey got him sitting with his back to the door\nNow he won't be my fast gun anymore\n\n  Chorus\n    C              Am7        B7       Em             C     G       D\n    Moving on is a chance you take any time you try to stay together\n    C                 Am7          B7            Em                  C     G       Dm G\n    Say a word out of line and you find that the friends you had are gone, forever\n\nSo many faces in and out of my life\nSome will last, some will just be now and then\nLife is a series of hellos and goodbyes\nI'm afraid it's time for goodbye again\n\n  Bridge / V3 / Chorus",
-    "key": "C"
-  },
   "Don_t_Ask_Me_Why.Billy_Joel": {
     "name": "Don't Ask Me Why",
     "artist": "Billy Joel",
@@ -5143,5 +5136,12 @@
     "id": "1985.Bowling_For_Soup",
     "lyrics": "Ooh-ooh-ooh\nOoh-ooh-ooh\n\nDebbie just hit the wall, she never had it all\nOne Prozac a day, husband's a CPA\nHer dreams went out the door when she turned 24\nOnly been with one man, what happened to her plan?\n\nShe was gonna be an actress, she was gonna be a star\nShe was gonna shake her ass on the hood of Whitesnake's car\nHer yellow SUV is now the enemy\nLooks at her average life, and nothing has been alright\n\n  Since Bruce Springsteen, Madonna, way before Nirvana\n  There was U2 and Blondie, and music still on MTV\n  Her two kids in high school, they tell her that she's uncool\n  'Cause she's still preoccupied with 19, 19, 1985 (ooh-ooh-ooh)\n  1985 (ooh-ooh-ooh)\n\nShe's seen all the classics, she knows every line\nBreakfast Club, Pretty in Pink, even Saint Elmo's Fire\nShe rocked out to Wham!, not a big Limp Bizkit fan\nThought she'd get a hand on a member of Duran Duran\n\nWhere's the mini-skirt made of snake skin?\nAnd who's the other guy that's singing in Van Halen?\nWhen did reality become TV?\nWhatever happened to sitcoms, game shows (on the radio?)\n\n  Chorus\n\n  Solo\n\nShe hates time, make it stop\nWhen did Mötley Crüe become classic rock? (Classic rock)\nAnd when did Ozzy become an actor?\nPlease make this stop, stop, stop\n\n  And bring back\n  Chorus x 2\n",
     "key": "B"
+  },
+  "Say_Goodbye_To_Hollywood.Billy_Joel": {
+    "name": "Say Goodbye To Hollywood",
+    "artist": "Billy Joel",
+    "id": "Say_Goodbye_To_Hollywood.Billy_Joel",
+    "lyrics": "I: C\nV: C F\nC: (Dm G7 Am)\nB: C Am7 B7 Em C - G G7-D-Dsus-D7\n-: C Am7 B7 Em C - G Dm G7\n\nBobby's driving through the city tonight\nThrough the lights in a hot new rent-a-car\nHe joins the lovers in his heavy machine\nIt's a scene down on Sunset Boulevard\n\n  Say goodbye to Hollywood say goodbye my baby\n\nJohnny's taking care of things for avwhile\nAnd his style is so right for troubadors\nThey got him sitting with his back to the door\nNow he won't be my fast gun anymore\n\n  Chorus\n\n|  C              Am7        B7       Em              C    G       D\n|  Moving on is a chance you take any time you try to stay together\n|  C                 Am7          B7            Em                  C     G       Dm G\n|  Say a word out of line and you find that the friends you had are gone, forever\n\nSo many faces in and out of my life\nSome will last, some will just be now and then\nLife is a series of hellos and goodbyes\nI'm afraid it's time for goodbye again\n\n  Bridge / V3 / Chorus",
+    "key": "C"
   }
 }
