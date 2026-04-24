@@ -1487,14 +1487,6 @@
     "key": "E",
     "tempo": "77"
   },
-  "Billie_Jean.Michael_Jackson": {
-    "name": "Billie Jean",
-    "artist": "Michael Jackson",
-    "id": "Billie_Jean.Michael_Jackson",
-    "lyrics": "I: F#m\nV: (F#m Bm)\nP: (D F#m) D C#7\n\nShe was more like a beauty queen from a movie scene\nI said don't mind but what do you mean, I am the one\nWho will dance on the floor in the round\nShe said I am the one, who will dance on the floor in the round?\n\nShe told me her name was Billie Jean as she caused a scene.\nThen ev'ry head turned with eyes that dreamed of being the one,\nWho will dance on the floor in the round\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  And mother always told me, be careful who you love,\n  And be careful what you do, cause the lie becomes the truth, hey\n\n    Billie Jean is not my lover\n    She's just a girl who claims that I am the one\n    But the kid is not my son\n    She says I am the one, but the kid is not my son\n\nFor forty days and forty nights, law was on her side\nBut who can stand when she's in demand, her schemes and plans\nCause we danced on the floor in the round.\nSo take my strong advice: Just remember to always think twice\n\nShe told my baby we danced till three, and she looked at me\nThen showed a photo. My baby cried. His eyes were like mine.\nCan we dance on the floor in the round?\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  But you came and stood right by me, just a smell of sweet perfume.\n  This happened much too soon. She called me to her room, hey\n\n    Chorus",
-    "key": "F#m",
-    "tempo": "117"
-  },
   "Big_Balls.AC/DC": {
     "name": "Big Balls",
     "artist": "AC/DC",
@@ -5150,5 +5142,12 @@
     "id": "The_Power_of_Love.Huey_Lewis",
     "lyrics": "I: E B - B E, (B /Eb E F#)\nV: Bm7 A E\nC: - A E F#\n\nThe power of love is a curious thing\nMake a one man weep, make another man sing\nChange a heart to a little white dove\nMore than a feeling, that's the power of love\n\nTougher than diamonds, rich like cream\nStronger and harder than a bad girls dream\nMake a bad one good, mmm make a wrong right\nPower of love will keep you home at night\n\n  Don't need money, don't take fame\n  Don't need no credit card to ride this train\n  It's strong and it's sudden and it's cruel sometimes\n  But it might just save your life\n  That's the power of love\n\nFirst time you feel it might make you sad\nNext time you feel it might make you mad\nBut you'll be glad baby when you've found\nThat's the power that makes the world go round\n\n  Chorus\n\n | D             F#7            Bm7            E7\n | They say that all in love is fair yeah, but you don't care\n | G            D/F#\n | But you know what to do\n | Emin7         D\n | When it gets hold of you\n | G                 F#\n | And with a little help from above\n\n  That's the power of love\n  That's the power of love\n  Can you feel it?!\n\n    Solo\n\n  Don't take money, don't take fame\n  Don't need no credit card to ride this train\n  Tougher than diamonds and stronger than steel\n  You won't feel nothin till you feel\n  You feel the power, feel the power of love\n  That's the power, that's the power of love\n  You feel the power of love\n",
     "key": "Bm"
+  },
+  "Billie_Jean.Michael_Jackson": {
+    "name": "Billie Jean",
+    "artist": "Michael Jackson",
+    "id": "Billie_Jean.Michael_Jackson",
+    "lyrics": "I: F#m              Em\nV: (F#m Bm)         Em Am\nP: (D F#m) D C#7    (C Em) C B7\n\nShe was more like a beauty queen from a movie scene\nI said don't mind but what do you mean, I am the one\nWho will dance on the floor in the round\nShe said I am the one, who will dance on the floor in the round?\n\nShe told me her name was Billie Jean as she caused a scene.\nThen ev'ry head turned with eyes that dreamed of being the one,\nWho will dance on the floor in the round\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  And mother always told me, be careful who you love,\n  And be careful what you do, cause the lie becomes the truth, hey\n\n    Billie Jean is not my lover\n    She's just a girl who claims that I am the one\n    But the kid is not my son\n    She says I am the one, but the kid is not my son\n\nFor forty days and forty nights, law was on her side\nBut who can stand when she's in demand, her schemes and plans\nCause we danced on the floor in the round.\nSo take my strong advice: Just remember to always think twice\n\nShe told my baby we danced till three, and she looked at me\nThen showed a photo. My baby cried. His eyes were like mine.\nCan we dance on the floor in the round?\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  But you came and stood right by me, just a smell of sweet perfume.\n  This happened much too soon. She called me to her room, hey\n\n    Chorus",
+    "key": "F#m"
   }
 }
