@@ -2365,14 +2365,6 @@
     "key": "E",
     "tempo": "Tempo"
   },
-  "Head_Over_Heels.Tears_For_Fears": {
-    "name": "Head Over Heels",
-    "artist": "Tears For Fears",
-    "id": "Head_Over_Heels.Tears_For_Fears",
-    "lyrics": "I: C D\nV: A2 A - CM7 C\nC: (G Em) Am/D\nB: C D\n\nI wanted to be with you alone and talk about the weather\nBut traditions I can trace against the child in your face won't escape my attention\nYou keep your distance with a system of touch and gentle persuasion\nI'm lost in admiration could I need you this much?\nOh you're wasting my time, you're just, just, just wasting time\n\n  Something happens and I'm head over heels\n  I never find out 'til I'm head over heels\n  Something happens and I'm head over heels\n  Ah, don't take my heart, don't break my heart\n  Don't, don't, don't throw it away\n \nI made a fire, I'm watching it burn Yeah! Thought of your future\nWith one foot in the past, now just how long will it last No, have you no ambition\nMy mother and my brothers used to breathing clean air and dreaming I'm a doctor\nIt's hard to be a man when there's a gun in your hand Oh, I feel so\n\n  What's the matter with my\n  Nothing ever changes when you're acting your age \n  Nothing gets done when you feel like a baby\n  Nothing ever changes when you're acting your age\n\n  Chorus\n\nThis is my four leaf clover, I'm on the line, one open mind, this is my four leaf clover\n\nLa la.. In my minds's eye One little boy, one little man, funny how time flies\n",
-    "key": "C",
-    "tempo": "Tempo"
-  },
   "Heavy.Collective_Soul": {
     "name": "Heavy",
     "artist": "Collective Soul",
@@ -5149,5 +5141,12 @@
     "id": "Billie_Jean.Michael_Jackson",
     "lyrics": "I: F#m              Em\nV: (F#m Bm)         Em Am\nP: (D F#m) D C#7    (C Em) C B7\n\nShe was more like a beauty queen from a movie scene\nI said don't mind but what do you mean, I am the one\nWho will dance on the floor in the round\nShe said I am the one, who will dance on the floor in the round?\n\nShe told me her name was Billie Jean as she caused a scene.\nThen ev'ry head turned with eyes that dreamed of being the one,\nWho will dance on the floor in the round\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  And mother always told me, be careful who you love,\n  And be careful what you do, cause the lie becomes the truth, hey\n\n    Billie Jean is not my lover\n    She's just a girl who claims that I am the one\n    But the kid is not my son\n    She says I am the one, but the kid is not my son\n\nFor forty days and forty nights, law was on her side\nBut who can stand when she's in demand, her schemes and plans\nCause we danced on the floor in the round.\nSo take my strong advice: Just remember to always think twice\n\nShe told my baby we danced till three, and she looked at me\nThen showed a photo. My baby cried. His eyes were like mine.\nCan we dance on the floor in the round?\n\n  People always told me, be careful what you do.\n  And don't go around breaking young girls' hearts\n  But you came and stood right by me, just a smell of sweet perfume.\n  This happened much too soon. She called me to her room, hey\n\n    Chorus",
     "key": "F#m"
+  },
+  "Head_Over_Heels.Tears_For_Fears": {
+    "name": "Head Over Heels",
+    "artist": "Tears For Fears",
+    "id": "Head_Over_Heels.Tears_For_Fears",
+    "lyrics": "I: C D\nV: A2 A - CM7 C\nC: (G Em) Am/D\nB: C D\nO: Dm Am (part of Broken)\n\nI wanted to be with you alone and talk about the weather\nBut traditions I can trace against the child in your face won't escape my attention\nYou keep your distance with a system of touch and gentle persuasion\nI'm lost in admiration could I need you this much?\nOh you're wasting my time, you're just, just, just wasting time\n\n  Something happens and I'm head over heels\n  I never find out 'til I'm head over heels\n  Something happens and I'm head over heels\n  Ah, don't take my heart, don't break my heart\n  Don't, don't, don't throw it away\n \nI made a fire and watching it burn thought of your future\nWith one foot in the past now just how long will it last, now have you no ambition\nMy mother and my brothers used to breathing clean air and dreaming I'm a doctor\n - Nothing ever changes when you’re acting your age\nIt's hard to be a man when there's a gun in your hand Oh, I feel so\n - Nothing gets done when you feel like a baby\n\n  What's the matter with my\n  Nothing ever changes when you're acting your age \n  Nothing gets done when you feel like a baby\n  Nothing ever changes when you're acting your age\n\n  Chorus\n\nThis is my four leaf clover\nI'm on the line one open mind, this is my four leaf clover\n\nLa la..\nIn my minds's eye, one little boy one little man\nFunny how time flies\n",
+    "key": "C"
   }
 }
