@@ -280,14 +280,6 @@
     "key": "Am",
     "tempo": "undefined"
   },
-  "She_Sells_Sanctuary.The_Cult": {
-    "name": "She Sells Sanctuary",
-    "artist": "The Cult",
-    "id": "She_Sells_Sanctuary.The_Cult",
-    "lyrics": "R1 R2\nV: D C G\n\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\nR3\n\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\nThe world and the world turns around\nThe world and the world, yeah the world drags me down\n\nR2 - V1 - R2\n\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\nAnd the world, the world turns around\nAnd the world and the world, the world drags me down\nAnd the world and the world and the world, the world turns around\nAnd the world and the world and the world and the world\nAnd the world drags me down\n\nBreak R1\n\nSolo\n\nAh, hey yeah, hey yeah\nAnd the world (hey yeah, hey), and the world turn\n\nR2\n",
-    "key": "D",
-    "tempo": "Tempo"
-  },
   "Take_Me_Out.Franz_Ferdinand": {
     "name": "Take Me Out",
     "artist": "Franz Ferdinand",
@@ -5154,5 +5146,12 @@
     "id": "Long_Way_Down.Goo_Goo_Dolls",
     "lyrics": "I:(Bm G A) x 3\nV: Bm - Bm A G A Bm\nC: Bm D G A\nO:(G A) x 4 - Bm A Bm G\n\nOh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus\n",
     "key": "Bm"
+  },
+  "She_Sells_Sanctuary.The_Cult": {
+    "name": "She Sells Sanctuary",
+    "artist": "The Cult",
+    "id": "She_Sells_Sanctuary.The_Cult",
+    "lyrics": "#Riff 1 Slowly, open D rings throughout\nG|-14---12---11---7---5-7-5-|-7-5---7---2-|\n\nB|----------------------|----------15-|\nG|-14-12-16-14-12-14-12-|-14-12-14----|\n\n#Riff 2\nG|-14-12-11-12-11-7-|-5-7-5-12-11-7-|\n\n#Riff 3\nG|-12-14--16-14---12-11-|\n\n#Riff 4\nG|-14-12-11-|\n\n-------------------------------\n#Intro, just guitar Riff 1\n\n#Band enters w/ R2\n\n#Verse 1 (G D C)\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\n#R3\n\n#Verse 2\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\nThe world and the world turns around\nThe world and the world, yeah the world drags me down\n\n#R2 -> Verse 1 -> R3\n\n#Verse 3\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\nAnd the world, the world turns around\nAnd the world and the world, the world drags me down\nAnd the world and the world and the world, the world turns around\nAnd the world and the world and the world and the world\nAnd the world drags me down\n\n#Break, Riff 1\n\n#Riff 4\n\nAh, hey yeah, hey yeah\nAnd the world (hey yeah, hey), and the world turn\n\n#R1\n",
+    "key": "D"
   }
 }
