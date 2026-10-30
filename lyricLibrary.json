@@ -4798,6 +4798,13 @@
     "lyrics": "V: (Em D) C G F Em\nC: A C (Em D)\nS: (Em D C B7) (Em C)(Am B)\nEm D C (Em D)\n\nNights in white satin never reaching the end\nLetters I've written never meaning to send\nBeauty I've always missed with these eyes before\nJust what the truth is I can't say any more\n\n  Cause I love you, yes I love you, oh, how I love you\n\nGazing at people some hand in hand\nJust what I'm going through they can't understand\nSome try to tell me thoughts they cannot defend\nJust what you want to be you'll be in the end\n\n  Chorus / Solo / V1 / Chorus",
     "key": "Em"
   },
+  "Midnight_Rider.Allman_Brothers": {
+    "name": "Midnight Rider",
+    "artist": "Allman Brothers",
+    "id": "Midnight_Rider.Allman_Brothers",
+    "lyrics": "V: D\nC: Gm7 C D\nS: Dx4 C Bb C Bb C Bbx4\n \nI got to run to keep from hiding\nAnd I'm bound to keep on riding\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n \nI don't own the clothes I'm wearing\nAnd the road goes on forever\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n\n  Solo\n \nI've gone past the point of caring\nSome old bed I'll soon be sharing\nAnd I've got one more silver dollar\n \n  Chorus",
+    "key": "D"
+  },
   "Love_Shack.The_B-52_s": {
     "name": "Love Shack",
     "artist": "The B-52's",
@@ -4896,11 +4903,11 @@
     "lyrics": "Bm pad\n\nriff x 4\nriff x 4 w/kick\nband: Bm G Em Bm\nKeyboard lead over prog x 2\n\nGuitar solo over prog\n\nProg again, end on Bm",
     "key": "Bm"
   },
-  "Midnight_Rider.Allman_Brothers": {
-    "name": "Midnight Rider",
-    "artist": "Allman Brothers",
-    "id": "Midnight_Rider.Allman_Brothers",
-    "lyrics": "V: D\nC: Gm7 C D\nS: Dx4 C Bb C Bb C Bbx4\n \nI got to run to keep from hiding\nAnd I'm bound to keep on riding\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n \nI don't own the clothes I'm wearing\nAnd the road goes on forever\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n\n  Solo\n \nI've gone past the point of caring\nSome old bed I'll soon be sharing\nAnd I've got one more silver dollar\n \n  Chorus",
-    "key": "D"
+  "Little_Too_Late.Pat_Benatar": {
+    "name": "Little Too Late",
+    "artist": "Pat Benatar",
+    "id": "Little_Too_Late.Pat_Benatar",
+    "lyrics": "  [Intro]\n\nI hear you had a good offer down on Third Avenue\nYou tell me that was the reason\nFor whatcha' put me through, yeah\nAnd now you come collapsin' back\nI feel the heat of your attack\nWant me to take you back\nI'm givin' you the sack\nSo don't waste your time\n\n  It's a little too little\n  It's a little too late\n  I'm a little too hurt\n  And there's nothin' left that I've gotta say\n  You can cry to me baby\n  But there's only so much I can take\n  Ah, it's a little too little\n  It's a little too late\n\nYou say you had a good time\nBut did ya' think it was for free - yeah\nAnd how much did it get ya', all their flattery\nAnd now you come back, runnin' for protection\nYou've been bitten by love and stung by rejection\nYou can't connect\nWhat did you expect?\nI'm still gettin' over you\n\n  [Chorus x2]\n\n  Solo\n\n  [Chorus x2]\n\n  It's a little too little\n  It's a little too late\n  I'm a little too hurt\n  And there's nothin' left that I've gotta say\n  You can cry to me baby\n  But there's only so much I can take\n  Ah, it's a little too little\n  Ah, it's a little too little\n  Ah, it's a little too little\n  It's a little too late",
+    "key": "E"
   }
 }
