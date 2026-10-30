@@ -4889,18 +4889,18 @@
     "lyrics": "V: E E4 B A - E E4 A B\nC: B C#m\nB: B A\n\nHave you seen her? So fine and pretty fooled me with her style and ease\nAnd I feel her from across the room, yes it's love in the third degree\n\n  Ooh baby baby won't cha turn your head my way\n  Ooh baby baby ah come on!\n  [ Take a chance / don't skip romance ] you're old enough to\n  Dance the night away\n\nA live wire, barely a beginner but just watch that lady go\nShe's on fire cause dancin gets her higher than anything else she knows\n\n  Chorus\n  Bridge / Solo\n  Chorus\n",
     "key": "E"
   },
-  "Midnight_Rider.Allman_Brothers": {
-    "name": "Midnight Rider",
-    "artist": "Allman Brothers",
-    "id": "Midnight_Rider.Allman_Brothers",
-    "lyrics": "V: D\nC: Gm7 C D\nS: C Bb C Bb C Bb x 4m\n \nI got to run to keep from hiding\nAnd I'm bound to keep on riding\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n \nI don't own the clothes I'm wearing\nAnd the road goes on forever\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n\n  Solo\n \nI've gone past the point of caring\nSome old bed I'll soon be sharing\nAnd I've got one more silver dollar\n \n  Chorus",
-    "key": "D"
-  },
   "Sirius.Alan_Parsons": {
     "name": "Sirius",
     "artist": "Alan Parsons",
     "id": "Sirius.Alan_Parsons",
     "lyrics": "Bm pad\n\nriff x 4\nriff x 4 w/kick\nband: Bm G Em Bm\nKeyboard lead over prog x 2\n\nGuitar solo over prog\n\nProg again, end on Bm",
     "key": "Bm"
+  },
+  "Midnight_Rider.Allman_Brothers": {
+    "name": "Midnight Rider",
+    "artist": "Allman Brothers",
+    "id": "Midnight_Rider.Allman_Brothers",
+    "lyrics": "V: D\nC: Gm7 C D\nS: Dx4 C Bb C Bb C Bbx4\n \nI got to run to keep from hiding\nAnd I'm bound to keep on riding\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n \nI don't own the clothes I'm wearing\nAnd the road goes on forever\nAnd I've got one more silver dollar\n\n  But I'm not gonna let 'em catch me, no\n  Not gonna let 'em catch the midnight rider\n\n  Solo\n \nI've gone past the point of caring\nSome old bed I'll soon be sharing\nAnd I've got one more silver dollar\n \n  Chorus",
+    "key": "D"
   }
 }
