@@ -3921,13 +3921,6 @@
     "lyrics": "I:(Bm G A) x 3\nV: Bm - Bm A G A Bm\nC: Bm D G A\nO:(G A) x 4 - Bm A Bm G\n\nOh, here you are there's nothing left to say\nYou're not supposed to be that way\nDid they push you out, did they throw you away?\nTouch me now and I don't care\nWhen you take me I'm not there\nAlmost human, but I'll never be the same\n\n  Long way down I don't think I'll make it on my own\n  Long way down I don't want to live in here alone\n  Long way down I don't think I'll make it on my own\n\nI never put you down I never pushed you away\nYou're not supposed to be that way\nAnd anything you want there's nothing I could say\nIs there anything to feel?\nIs it pain that makes you real?\nCut me off before it kills me\n\n  Chorus\n\n    Solo\n\nI never put you down I never pushed you away\nTake another piece of me give my mind a new disease\nAnd the black and white world never fades to gray\n\n  Chorus\n",
     "key": "Bm"
   },
-  "She_Sells_Sanctuary.The_Cult": {
-    "name": "She Sells Sanctuary",
-    "artist": "The Cult",
-    "id": "She_Sells_Sanctuary.The_Cult",
-    "lyrics": "#Intro Riff (slowly)\nG|-14--12--11--7---5-7-5-|-7-5---7---2-|\nD|--0--- throughout\n\nB|----------------------|----------15-|\nG|-14-12-16-14-12-14-12-|-14-12-14----|\nD|--0--\n\n#Main riff (to tempo)\nG|-14-12-11-12-11-7-|-5-7-5-12-11-7-|\nD|--0-----\n\n#Middle Riff\nG|-12-14--16-14---12-11-|\nD|--0---\n\n#Solo\nG|-(14-12-11)-\nD|---0--\n\n-------------------------------\n#Intro\n\n#Main (Band enters)\n\n#V1 (D C G)\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\n#Middle Riff\n\n#V2\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\n\n  The world and the world turns around\n  The world and the world, yeah the world drags me down\n\n#Main Riff\n\n#Repeat V1\n\n#Middle Riff\n\n#V4\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\n  And the world, the world turns around / drags me down x 4\n\n#Break, Intro\n\n#Solo\nAh.. hey yeah, hey yeah\n\n  And the world... x 4\n\n#Intro\n",
-    "key": "D"
-  },
   "Dreams.Fleetwood_Mac": {
     "name": "Dreams",
     "artist": "Fleetwood Mac",
@@ -4907,5 +4900,12 @@
     "id": "Wagon_Wheel.Darius_Rucker",
     "lyrics": "!(A E F#m D) A E D - 148bpm\n\nHeading down south to the land of the pines\nI'm thumbing my way into North Carolina\nStaring up the road and pray to God I see headlights\nI made it down the coast in seventeen hours\nPicking me a bouquet of dogwood flowers\nAnd I'm a-hopin for Raleigh, I can see my baby tonight\n\n  So rock me momma like a wagon wheel rock me momma any way you feel\n  Hey momma rock me\n  Rock me momma like the wind and the rain rock me momma like a south bound train\n  Hey momma rock me\n\nRunning from the cold up in New England\nI was born to be a fiddler in an old time string band\nMy baby plays a guitar, I pick a banjo now\nOh, north country winters keep a-getting me down\nLost my money playing poker so I had to leave town\nBut I ain't turning back to living that old life no more\n\n  Chorus\n\n    Solo\n\nWalkin' to the south out of Roanoke\nI caught a trucker out of Philly had a nice long toke\n#But he's a-heading west from the Cumberland gap to Johnson City, Tennessee\nI gotta get a move on before the sun\nI hear my baby calling my name and I know that she's the only one\nAnd if I die in Raleigh at least I will die free\n\n  Chorus x 2",
     "key": "A"
+  },
+  "She_Sells_Sanctuary.The_Cult": {
+    "name": "She Sells Sanctuary",
+    "artist": "The Cult",
+    "id": "She_Sells_Sanctuary.The_Cult",
+    "lyrics": "#Intro\n#Main riff\n\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\n\n  The world and the world turns around\n  The world and the world, yeah the world drags me down\n\n#Main riff\n\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\n  And the world, the world turns around / drags me down x 4\n\n#Repeat intro riff\n#Solo\nAh.. hey yeah, hey yeah\n\n  And the world... x 4\n\n#End with intro riff\n\n-------------------------------\n#Intro Riff (slowly)\nG|-14--12--11--7---5-7-5-|-7-5---7---2-|\nD|--0---\n\nB|----------------------|----------15-|\nG|-14-12-16-14-12-14-12-|-14-12-14----|\nD|--0--\n\n#Main riff \nG|-14-12-11-12-11-7-|-5-7-5-12-11-7-|\nD|--0-----\n\n#Middle Riff between V1+V2, V3+V4\nG|-12-14--16-14---12-11-|\nD|--0---\n\n#Solo\nG|-(14-12-11)-\nD|---0--",
+    "key": "D"
   }
 }
