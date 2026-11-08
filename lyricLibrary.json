@@ -2537,14 +2537,6 @@
     "key": "Em",
     "tempo": "Tempo"
   },
-  "Slither.Velvet_Revolver": {
-    "name": "Slither",
-    "artist": "Velvet Revolver",
-    "id": "Slither.Velvet_Revolver",
-    "lyrics": "Hey\nHey\nHey\n\nWhen you look you see right through me\nCut the rope, fell to my knees\nBorn and broken every single time\nAlways keep me under finger\nThat's the spot where you run to me\nMight see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n\nHey\nHey\nHey\n\nWhen you seek me, you destroy me\nRape my mind and smell the poppies\nBorn and bloodied every single time\nAlways keep me under finger\nThat's the spot where you might linger\nBut I see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n  Like holy water\n  It only burns you faster than you'll ever dry\n  This time, with me\n\nWhen you look you see right through me\nCut the rope, fell to my knees\nBorn and Bloodied\nEvery single time\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I\n  This time, you see\n  Like holy water\n  It only burns you faster than you'll ever dry\n  This time, with me\n\nHey\nHey\nHey\n",
-    "key": "G",
-    "tempo": "141bpm"
-  },
   "Run_Like_Hell.Pink_Floyd": {
     "name": "Run Like Hell",
     "artist": "Pink Floyd",
@@ -4075,13 +4067,6 @@
     "lyrics": "I: (Em7 Am7)\nV: E G D A E Am7\nC: Am7 Bm7 Am7 G\nB: (Em7 Am7) (Am7 D6) Amaj7/B A6/B\n\nSee the curtains hanging in the window\nin the evening on a Friday night\nA little light shining in the window\nlet's me know everything's all right\n\n  Summer breeze makes me feel fine\n  Vlowin' through the jasmine in my mind\n\nSee the paper laying on the sidewalk\nA little music from the house next door\nSo I walk on up to the doorstep\nthrough the screen and across the floor\n\n  Chorus\n\n    Sweet days of summer, the jasmine's in bloom\n    July is dressed up and playing her tune\n    And I come home, from a hard days work\n    And your waiting there, not a care, in the world\n\nSee the smile awaiting in the kitchen\nFood cooking and the plates for two\nSee the arms that reach out to hold me\nIn the evening when the day is through\n\n  Chorus\n",
     "key": "Em"
   },
-  "Take_Me_Down.The_Pretty_Reckless": {
-    "name": "Take Me Down",
-    "artist": "The Pretty Reckless",
-    "id": "Take_Me_Down.The_Pretty_Reckless",
-    "lyrics": "Been waiting at these crossroads forever and a day\nAnd no guy to buy my soul\nI've spent all night and day\nHow much harder can I play?\nYou know I gave my life to rock 'n roll\nHere I go\n\nMama, begged me, please\nYes, she got down on her knees\nSaid you'd burn in that Mississippi sun\nBut I'm the only one that's standing here\nSo, mama don't you have no fear\nI'm either last or I've already won\nHere I go\n\n  Take me down, take me down\n  Take me down, won't you take me down?\n\nStanding at the crossroads, would draw a pen in hand\nThe conversation went like this\n\"Tell me your desire, why you pulled me from the fire\nAnd we'll seal the deal with a kiss\"\n\nDon't wanna waste the dead\nFind a note that I can shred on my walls\nI scroll my Gods\nDon't care what happens when I die as long as I'm alive\nAll in wanna do is rock, rock, rock\n\n  Take me down, take me down\n  Take me down, won't you take me down?\n\nOoh, signed with the Devil\nSigned with the Devil\nSigned with the Devil\nOh\n\nSigned with the Devil\nSigned with the Devil\nSigned with the Devil\nOh\n\nSigned with the Devil\nSigned with the Devil\nSigned with the Devil\nOh\n\nSigned with the Devil\nSigned with the Devil\nSigned with the Devil\nOh\n\n  Take me down, take me down\n  Take me down, won't you take me down?\n  Take me down, (signed with the Devil) take me down (signed with the Devil)\n  Take me down (signed with the Devil) won't you (signed with the Devil)\n  Take me down, down?",
-    "key": "D"
-  },
   "Name.undefined": {
     "name": "Name",
     "artist": "undefined",
@@ -4900,6 +4885,20 @@
     "id": "Wagon_Wheel.Darius_Rucker",
     "lyrics": "!(A E F#m D) A E D - 148bpm\n\nHeading down south to the land of the pines\nI'm thumbing my way into North Carolina\nStaring up the road and pray to God I see headlights\nI made it down the coast in seventeen hours\nPicking me a bouquet of dogwood flowers\nAnd I'm a-hopin for Raleigh, I can see my baby tonight\n\n  So rock me momma like a wagon wheel rock me momma any way you feel\n  Hey momma rock me\n  Rock me momma like the wind and the rain rock me momma like a south bound train\n  Hey momma rock me\n\nRunning from the cold up in New England\nI was born to be a fiddler in an old time string band\nMy baby plays a guitar, I pick a banjo now\nOh, north country winters keep a-getting me down\nLost my money playing poker so I had to leave town\nBut I ain't turning back to living that old life no more\n\n  Chorus\n\n    Solo\n\nWalkin' to the south out of Roanoke\nI caught a trucker out of Philly had a nice long toke\n#But he's a-heading west from the Cumberland gap to Johnson City, Tennessee\nI gotta get a move on before the sun\nI hear my baby calling my name and I know that she's the only one\nAnd if I die in Raleigh at least I will die free\n\n  Chorus x 2",
     "key": "A"
+  },
+  "Take_Me_Down.The_Pretty_Reckless": {
+    "name": "Take Me Down",
+    "artist": "The Pretty Reckless",
+    "id": "Take_Me_Down.The_Pretty_Reckless",
+    "lyrics": "Been waiting at these crossroads forever and a day\nAnd no guy to buy my soul\nI've spent all night and day how much harder can I play?\nYou know I gave my life to rock 'n roll, here I go\n\nMama, begged me, please yes, she got down on her knees\nSaid you'd burn in that Mississippi sun\nBut I'm the only one that's standing here So mama don't you have no fear\nI'm either last or I've already won, here I go\n\n  Take me down... won't you take me down?\n\nStanding at the crossroads, would draw a pen in hand\nThe conversation went like this\n\"Tell me your desire, why you pulled me from the fire\nAnd we'll seal the deal with a kiss\"\n\nDon't wanna waste the dead find a note that I can shred on my walls\nI scroll my Gods\nDon't care what happens when I die as long as I'm alive\nAll in wanna do is rock, rock, rock\n\n  Take me down... won't you take me down?\n\n  Solo\n\nOoh signed with the Devil... oh x 4\n\n  Take me down... won't you take me down?\n  Take me down... won't you take me down?(signed with the Devil)",
+    "key": "D"
+  },
+  "Slither.Velvet_Revolver": {
+    "name": "Slither",
+    "artist": "Velvet Revolver",
+    "id": "Slither.Velvet_Revolver",
+    "lyrics": "Hey.. hey.. hey\n\nWhen you look you see right through me cut the rope, fell to my knees\nBorn and broken every single time\nAlways keep me under finger that's the spot where you run to me\nMight see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I this time, you see\n\nHey.. Hey.. Hey\n\nWhen you seek me you destroy me, rape my mind and smell the poppies\nBorn and bloodied every single time\nAlways keep me under finger that's the spot where you might linger\nBut I see some type of pleasure in my mind\n\n  Yeah, here comes the water\n  It comes to wash away the sins of you and I this time, you see\n  Like holy water\n  It only burns you faster than you'll ever dry this time with me\n\n Solo\n\nWhen you look you see right through me cut the rope, fell to my knees\nBorn and Bloodied every single time\n\n  Chorus 2\n\nHey...\n",
+    "key": "G"
   },
   "She_Sells_Sanctuary.The_Cult": {
     "name": "She Sells Sanctuary",
